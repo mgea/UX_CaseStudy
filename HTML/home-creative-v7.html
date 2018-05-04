@@ -54,6 +54,8 @@
                                             </li> 
                                         </ul>
                                     </li>
+                                    <li><a href="#">Iniciar sesion</a></li>
+                                    <li><a href="#">Registrarse</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -175,14 +177,41 @@
                         </div>
                     </div>
                     <div class="col-md-3">
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h3 class="panel-title">Linea del tiempo</h3>
+                        <div id="tabs-05" class="tabs border">
+                            <h3>Linea del tiempo</h3>
+                            <ul class="tabs-navigation">
+                                <li class="active"><a href="#eventos_por_dia"><i class="fa fa-home"></i>Eventos por dias</a> </li>
+                                <li class=""><a href="#Services5"><i class="fa fa-home"></i>Eventos por mes</a> </li>
+                            </ul>
+                            <div class="tabs-content">
+                                <div class="tab-pane active" id="eventos_por_dia">
+                                    <h4>Eventos de hoy</h4>
+                                    <p>Conciertos Patrón Facultad de Bellas Artes
+                                    <br><button type="button" class="btn btn-xs">Mas info</button>
+                                    <br>Exposición Sierra Nevada
+                                    <br><button type="button" class="btn btn-xs">Mas info</button>
+                                    </p>
+                                    <p><button id="mas_eventos_diarios" type="button" class="btn btn-xs">Mas eventos</button></p>
+                                </div>
+                                <div class="tab-pane" id="Services5">
+                                    <h4>Eventos por mes</h4>
+                                    <p>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Enero</button>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Febrero</button>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Marzo</button>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Abril</button>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Mayo</button>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Junio</button>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Julio</button>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Agosto</button>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Septiembre</button>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Octubre</button>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Noviembre</button>
+                                        <button type="button" class="btn btn-xs">Ver eventos de Diciembre</button>
+                                    </p>
+                                </div>
                             </div>
-                            <div class="panel-body">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum
-                            </div>
-				        </div>
+                        </div>
                     </div>
                 </div>
                 <div class="row" id="row_eventos" style="margin-top: 30px; display: none;">
@@ -227,6 +256,27 @@
                     </div>
                 </div>
             </div>
+            <div class="modal fade" id="modal" tabindex="-1" role="modal" aria-labelledby="modal-label" aria-hidden="true" style="display: none;">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                                    <h4 class="modal-title" id="modal-label">Medium Modal</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <div class="row">
+                                        <div class="col-sm-12">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium atque architecto quae ullam rem labore veritatis temporibus asperiores, ad eaque odit commodi inventore dolore perspiciatis, nam dicta est eos id quod excepturi.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-b" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-b">Save Changes</button>
+                                </div>
+                            </div>
+                        </div>
+                </div>
         </section>
 
 
