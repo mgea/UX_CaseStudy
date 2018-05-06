@@ -21,5 +21,5 @@ Pasos:
 * Utilizar herramientas de desarrollo Web. Utilizaremos el entorno Bootstrap
 * Publicar en GitHub haciendo un FORK de este proyecto. 
 
-Enlace al repositorio ==> https://angelrobp.github.io
+Enlace a la web (Visionar en versión móvil preferiblemente >400px ancho) ==> https://angelrobp.github.io
 
