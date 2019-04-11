@@ -1,5 +1,5 @@
-# DIU18
-Prácticas Diseño Interfaces de Usuario 2017-18 (Agenda cultural)
+# DIU19
+Prácticas Diseño Interfaces de Usuario 2017-18 y 2018-19 (Agenda cultural/ocio UGR)
 
 En esta práctica vamos a analizar el uso de herramientas para el diseño del IU en Web. 
 Para ello usaremos los bocetos de la práctica anterior. Vamos a considerar los siguientes aspectos: 
