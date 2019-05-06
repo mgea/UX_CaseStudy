@@ -1,6 +1,8 @@
 # DIU19
 Prácticas Diseño Interfaces de Usuario 2018-19 (Agenda cultural/ocio UGR) incluye enlaces a 2017/18
 
+Enlace a la web (Visionar en versión móvil preferiblemente >400px ancho) ==> https://angelrobp.github.io
+
 En esta práctica vamos a analizar el uso de herramientas para el diseño del IU en Web. 
 Para ello usaremos los bocetos de la práctica anterior. Vamos a considerar los siguientes aspectos: 
 
@@ -20,5 +22,6 @@ Pasos:
 * Uso de patrones de diseño para componentes. 
 * Utilizar herramientas de desarrollo Web. Utilizaremos el entorno Bootstrap
 * Publicar en GitHub haciendo un FORK de este proyecto. 
+
 
 
