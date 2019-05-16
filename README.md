@@ -25,4 +25,6 @@ Pasos:
 
 Proyectos;
 
-https://github.com/januszewskimar/januszewskimar.github.io) -> (https://januszewskimar.github.io/
+A2 (https://github.com/januszewskimar/januszewskimar.github.io) -> (https://januszewskimar.github.io/
+A2 - https://jomaenfe.github.io/DIU/la_madraza/default/
+
