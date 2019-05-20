@@ -22,6 +22,10 @@ Pasos:
 * Publicar en GitHub haciendo un FORK de este proyecto. 
 
 
+> Proyectos 2019
+
+https://qnolose.github.io
+
 ## Lista de ASIGNACIONES: 
 **[Asignaciones A/B Testing a 20/05/2019](https://github.com/mgea/DIU19/blob/master/DIU_1819_ABTesting.pdf)**
 
