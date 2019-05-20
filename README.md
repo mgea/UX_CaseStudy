@@ -34,7 +34,10 @@ A3 [Laplaza](https://davidbaug.github.io/laplaza/)
 
 A1 Isotopos	[CanalugrWeb] (https://saytes.github.io/DIU2019/P3/index.html) / [Repositorio](https://github.com/Saytes/DIU2019/tree/master/P3)
 
- 
+A1 (https://github.com/diujygdisenadores/diujygdisenadores.github.io) -> (https://diujygdisenadores.github.io)
+
+A3 [G&J Diseñadores](https://diujygdisenadores.github.io)
+
 
 > Previos 2018
 
