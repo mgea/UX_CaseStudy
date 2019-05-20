@@ -39,8 +39,16 @@ A1 (https://github.com/diujygdisenadores/diujygdisenadores.github.io) -> (https:
 A3 [G&J Diseñadores](https://diujygdisenadores.github.io)
 
 
+Lista de ASIGNACIONES: 
+**[Asignaciones A/B Testing a 20/05/2019](https://github.com/mgea/DIU19/blob/master/DIU_1819_ABTesting.pdf) 
 
-[Asignaciones A/B Testing a 20/05/2019](https://github.com/mgea/DIU19/blob/master/DIU_1819_ABTesting.pdf) 
+
+
+
+
+
+
+
 
 > Previos 2018
 
