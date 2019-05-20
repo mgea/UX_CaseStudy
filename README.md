@@ -32,6 +32,9 @@ A2 (https://github.com/jomaenfe/DIU)https://jomaenfe.github.io/DIU/la_madraza/de
 
 A3 [Laplaza](https://davidbaug.github.io/laplaza/)
 
+A1 Isotopos	[CanalugrWeb] (https://saytes.github.io/DIU2019/P3/index.html) / [Repositorio](https://github.com/Saytes/DIU2019/tree/master/P3)
+
+ 
 
 > Previos 2018
 
