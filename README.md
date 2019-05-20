@@ -30,7 +30,7 @@ A2 (https://github.com/januszewskimar/januszewskimar.github.io) -> (https://janu
 
 A2 (https://github.com/jomaenfe/DIU)https://jomaenfe.github.io/DIU/la_madraza/default/
 
-
+A3 [Laplaza](https://davidbaug.github.io/laplaza/)
 
 
 > Previos 2018
