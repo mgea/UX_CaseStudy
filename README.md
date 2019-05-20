@@ -22,25 +22,8 @@ Pasos:
 * Publicar en GitHub haciendo un FORK de este proyecto. 
 
 
-
-> Proyectos 2019
-
-
-A2 (https://github.com/januszewskimar/januszewskimar.github.io) -> (https://januszewskimar.github.io/
-
-A2 (https://github.com/jomaenfe/DIU)https://jomaenfe.github.io/DIU/la_madraza/default/
-
-A3 [Laplaza](https://davidbaug.github.io/laplaza/)
-
-A1 Isotopos	[CanalugrWeb] (https://saytes.github.io/DIU2019/P3/index.html) / [Repositorio](https://github.com/Saytes/DIU2019/tree/master/P3)
-
-A1 (https://github.com/diujygdisenadores/diujygdisenadores.github.io) -> (https://diujygdisenadores.github.io)
-
-A3 [G&J Diseñadores](https://diujygdisenadores.github.io)
-
-
-Lista de ASIGNACIONES: 
-**[Asignaciones A/B Testing a 20/05/2019](https://github.com/mgea/DIU19/blob/master/DIU_1819_ABTesting.pdf) 
+## Lista de ASIGNACIONES: 
+**[Asignaciones A/B Testing a 20/05/2019](https://github.com/mgea/DIU19/blob/master/DIU_1819_ABTesting.pdf)**
 
 
 
