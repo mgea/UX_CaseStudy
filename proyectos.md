@@ -21,6 +21,7 @@
 
 * A2-01 AdriCelia	https://github.com/adritec96/diu2019	B=	https://jomaenfe.github.io/DIU/la_madraza/default/
 * A2-02 Quelonios	https://siulex.github.io/Eventalia/index.html	B=	https://turismogranada.siwin.tk/
+* A2-03	https://diegoch1998.github.io/		B=	https://jumacasni.github.io
 * A2-05 GRANADAMOVE	https://januszewskimar.github.io	B=	https://qnolose.github.io
 * A2-10 MOHANA	https://monicordovilla.github.io/DIU19/	B=	https://javilecrin.github.io/DIU19-AgendaUGR.github.io/
 * A2-11X1	https://km-b.github.io/DIU19/	B=	https://victorperalta93.github.io/DIU19/
