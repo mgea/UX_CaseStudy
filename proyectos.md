@@ -2,6 +2,8 @@
 # Proyectos Agenda DIU - 2018/2019
 
 
+* A1-01 https://qnolose.github.io		A3	https://chankyn.github.io/DIU-UGR/Práctica3/
+* A1-02	http://pableqe98.github.io		A3	https://github.com/fernanv24/NullPointer_P3 
 
 
 * [A3-01_DIUSMIO]	https://davidbaug.github.io/laplaza/	-B- https://github.com/adritec96/diu2019
