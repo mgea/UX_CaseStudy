@@ -23,10 +23,9 @@ Pasos:
 
 
 ## Lista de ASIGNACIONES: 
-**[Asignaciones A/B Testing a 20/05/2019](https://github.com/mgea/DIU19/blob/master/DIU_1819_ABTesting.pdf)**
 
 
-
+### LISTA ACTUALIZADA https://github.com/mgea/DIU19/blob/master/proyectos.md 
 
 
 
