@@ -4,13 +4,15 @@
 
 * A1-01_JacobYJoseM	https://qnolose.github.io		B=	https://chankyn.github.io/DIU-UGR/Práctica3/
 * A1-02	http://pableqe98.github.io		B=	https://github.com/fernanv24/NullPointer_P3 
-* A1-04X1	https://javilecrin.github.io/DIU19-AgendaUGR.github.io/
+* A1-04X1	https://javilecrin.github.io/DIU19-AgendaUGR.github.io/			
+* A1-05	miguelugr.github.io/diu/mi_web/agenda.html		B=	https://adri-sanchez.github.io 
 * A1-07x1	https://jumacasni.github.io		B=	https://pedro-flores.github.io/
 * A1-08x1	https://exmorphis.github.io/DIU_Practica3_Prototipado/		B=	http://alopezj97.github.io
-* A1-11 Triangle	http://doskoy.github.io/OcioPlanning_UGR 		A3	https://juanalberto58.github.io/DIU/  
-* A1-12 Isotopos	https://saytes.github.io/DIU2019/P3/index.html	40	A3	https://davidbaug.github.io/laplaza/
-* A1-13 Ismalex			    B=	https://nananoizy.github.io/AgendaCultural
-* A1-14X1 (DOWNLOAD)	https://github.com/josemcuevas/PR3CUEVAS		-B- 	https://llff2.github.io/Diseno-de-Interfaces-de-Usuario-2019/
+* A1-09X1	https://darkmanice.github.io/DIU/			
+* A1-11 Triangle	http://doskoy.github.io/OcioPlanning_UGR 		B=	https://juanalberto58.github.io/DIU/  
+* A1-12 Isotopos	https://saytes.github.io/DIU2019/P3/index.html		B=	https://davidbaug.github.io/laplaza/
+* A1-13 Ismalex	TERMINANDO		B=	https://nananoizy.github.io/AgendaCultural
+* A1-14X1 (DOWNLOAD)	https://github.com/josemcuevas/PR3CUEVAS		B=	https://llff2.github.io/Diseno-de-Interfaces-de-Usuario-2019/
 
 * [A3-01_DIUSMIO]	https://davidbaug.github.io/laplaza/	-B- https://github.com/adritec96/diu2019
 * [A3-02_XFORCE]	https://legendario122.github.io/practica3/	-B-	https://adri-sanchez.github.io 
