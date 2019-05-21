@@ -24,8 +24,11 @@ Pasos:
 
 ## Lista de ASIGNACIONES: 
 
+## CUESTIONARIO SUS 
+* Formato EXCEL https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU%20.xlsx
+* Formato PDF  https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU%20.pdf
 
-### LISTA ACTUALIZADA https://github.com/mgea/DIU19/blob/master/proyectos.md 
+## LISTA ACTUALIZADA https://github.com/mgea/DIU19/blob/master/proyectos.md 
 
 
 
