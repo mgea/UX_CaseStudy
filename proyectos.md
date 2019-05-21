@@ -2,10 +2,10 @@
 # Proyectos Agenda DIU - 2018/2019
 
 
-* A1-01_JacobYJoseM	https://qnolose.github.io		A3	https://chankyn.github.io/DIU-UGR/Práctica3/
-* A1-02	http://pableqe98.github.io		A3	https://github.com/fernanv24/NullPointer_P3 
-* A1-08x1	https://exmorphis.github.io/DIU_Practica3_Prototipado/		A3	http://alopezj97.github.io
-
+* A1-01_JacobYJoseM	https://qnolose.github.io		B=	https://chankyn.github.io/DIU-UGR/Práctica3/
+* A1-02	http://pableqe98.github.io		B=	https://github.com/fernanv24/NullPointer_P3 
+* A1-08x1	https://exmorphis.github.io/DIU_Practica3_Prototipado/		B=	http://alopezj97.github.io
+* A1-07x1	https://jumacasni.github.io		B=	https://pedro-flores.github.io/
 
 
 * [A3-01_DIUSMIO]	https://davidbaug.github.io/laplaza/	-B- https://github.com/adritec96/diu2019
