@@ -32,6 +32,7 @@
 * A2-11X1	https://km-b.github.io/DIU19/	B=	https://victorperalta93.github.io/DIU19/
 * A2-12	https://jomaenfe.github.io/DIU/la_madraza/default/	B=	https://diujygdisenadores.github.io
 * A2-12	https://jomaenfe.github.io/DIU/la_madraza/default/	41	A3	https://diujygdisenadores.github.io
+* A2-14 (cg)	https://rubcv.github.io	   B=		https://fernanv24.github.io/NullPointer_P3/
 ------
 
 * [A3-01_DIUSMIO]	https://davidbaug.github.io/laplaza/	-B- https://github.com/adritec96/diu2019
