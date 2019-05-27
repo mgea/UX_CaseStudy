@@ -37,6 +37,7 @@
 
 * [A3-01_DIUSMIO]	https://davidbaug.github.io/laplaza/	-B- https://github.com/adritec96/diu2019
 * [A3-02_XFORCE]	https://legendario122.github.io/practica3/	-B-	https://adri-sanchez.github.io 
+* [A3-03_VETERANOS]	https://pctmoreno.github.io/index.html		-B=	https://belindagh.github.io/proyectoDIU
 * [A3-04 SANTOXA]	https://adri-sanchez.github.io 	-B-	https://legendario122.github.io/practica3/
 * [A3-05X1]	https://victorperalta93.github.io/DIU19/	-B-	https://januszewskimar.github.io
 
