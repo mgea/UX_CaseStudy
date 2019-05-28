@@ -14,7 +14,7 @@
 * A1-11 Triangle	http://doskoy.github.io/OcioPlanning_UGR 		B=	https://juanalberto58.github.io/DIU/  
 * A1-12 Isotopos	https://saytes.github.io/DIU2019/P3/index.html		B=	https://davidbaug.github.io/laplaza/
 
-* A1-13 Ismalex	TERMINANDO		B=	https://nananoizy.github.io/AgendaCultural
+* A1-13 Ismalex	TERMINANDO		B=	https://nananoizy.github.io/AgendaCulturalDIU19/
 * A1-14X1 (DOWNLOAD)	https://github.com/josemcuevas/PR3CUEVAS		B=	https://llff2.github.io/Diseno-de-Interfaces-de-Usuario-2019/
 
 ------
@@ -51,7 +51,7 @@
 * [A3-13X1]	https://llff2.github.io/Diseno-de-Interfaces-de-Usuario-2019/		-B-	https://jomaenfe.github.io/DIU/la_madraza/default/
 * [A3-14 NullPointer]	https://github.com/fernanv24/NullPointer_P3 		-B-	https://monicordovilla.github.io/DIU19/
 * [A3-15 J&G] Diseñadores	https://diujygdisenadores.github.io	-B-	https://siulex.github.io/Eventalia/index.html
-* [A3-16 ALT-F4]	https://nananoizy.github.io/AgendaCultural	-B-	https://omgitsxupi.github.io/
+* [A3-16 ALT-F4]	https://nananoizy.github.io/AgendaCulturalDIU19/	-B-	https://omgitsxupi.github.io/
 
 
 * [A4-01Extra]	https://juanalberto58.github.io/DIU/   -B= https://github.com/josemcuevas/PR3CUEVAS			
