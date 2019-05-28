@@ -27,6 +27,8 @@ Pasos:
 ## CUESTIONARIO SUS 
 * Formato EXCEL https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU%20.xlsx
 * Formato PDF  https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU%20%20-%20Sheet1.pdf
+* Report de Usabilidad (para B) https://github.com/mgea/DIU19/blob/master/DIU_report-template-usability-testOK.docx
+
 
 ## LISTA ACTUALIZADA https://github.com/mgea/DIU19/blob/master/proyectos.md 
 
