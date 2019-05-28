@@ -10,7 +10,7 @@
 * A1-07x1	https://jumacasni.github.io		B=	https://pedro-flores.github.io/
 * A1-08x1	https://exmorphis.github.io/DIU_Practica3_Prototipado/		B=	http://alopezj97.github.io
 * A1-09X1	https://darkmanice.github.io/DIU/			B= https://github.com/adritec96/diu2019
-
+* A1-10	https://joaquinb25.github.io/diu/    B=			https://selutario.github.io/AgendaUGR
 * A1-11 Triangle	http://doskoy.github.io/OcioPlanning_UGR 		B=	https://juanalberto58.github.io/DIU/  
 * A1-12 Isotopos	https://saytes.github.io/DIU2019/P3/index.html		B=	https://davidbaug.github.io/laplaza/
 
