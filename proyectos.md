@@ -26,7 +26,7 @@
 
 * A2-05 GRANADAMOVE	https://januszewskimar.github.io	B=	https://qnolose.github.io
 * A2-06	http://karimsliman.github.io/DIU19		B=	https://darkmanice.github.io/DIU/
-* A2-08X1	https://juanjomrt.github.io/OcioPlanning/index.html		B=	https://pctmoreno.github.io/index.html
+* A2-08X1	https://juanjomrt.github.io/OcioPlanning/index.html		B=	https://diujygdisenadores.github.io 
 * A2-09BX1	https://selutario.github.io/AgendaUGR			https://exmorphis.github.io/DIU_Practica3_Prototipado/
 * A2-09X1	https://belindagh.github.io/proyectoDIU			https://saytes.github.io/DIU2019/P3/index.html
 * A2-10 MOHANA	https://monicordovilla.github.io/DIU19/	B=	https://javilecrin.github.io/DIU19-AgendaUGR.github.io/
