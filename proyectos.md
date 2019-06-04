@@ -11,15 +11,19 @@
 * A1-05	[Web](https://miguelugr.github.io/diu/mi_web/agenda.html)	
 * A1-07x1	[Web](https://jumacasni.github.io)	
 * A1-08x1	[Web](https://exmorphis.github.io/DIU_Practica3_Prototipado/)		
-* A1-09X1	https://darkmanice.github.io/DIU/			
-* A1-10	https://joaquinb25.github.io/diu/    
-* A1-11 Triangle	http://doskoy.github.io/OcioPlanning_UGR 		
-* A1-12 Isotopos	https://saytes.github.io/DIU2019/P3/index.html	
+* A1-09X1	[Web](https://darkmanice.github.io/DIU/)			
+* A1-10	[Web](https://joaquinb25.github.io/diu/)    
+* A1-11 Triangle	[Web](http://doskoy.github.io/OcioPlanning_UGR)		
+* A1-12 Isotopos	[Web](https://saytes.github.io/DIU2019/P3/index.html)	
 
-* A1-13 Ismalex	TERMINANDO		
+
+----------
+
+
+* A1-13 Ismalex			
 * A1-14X1 (DOWNLOAD)	https://github.com/josemcuevas/PR3CUEVAS		
 
-------
+----------
 
 * A2-01 AdriCelia	[Web](https://github.com/adritec96/diu2019) 	
 * A2-02 Quelonios	[Web](https://siulex.github.io/Eventalia/index.html)
