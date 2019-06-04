@@ -5,13 +5,12 @@
 (incluyendo su revisión de usabilidad) 
 
 
-* A1-01_JacobYJoseM	https://qnolose.github.io		
-* A1-02	http://pableqe98.github.io		
-* A1-04X1	https://javilecrin.github.io/DIU19-AgendaUGR.github.io/		
-* A1-05	miguelugr.github.io/diu/mi_web/agenda.html	
-
-* A1-07x1	https://jumacasni.github.io		
-* A1-08x1	https://exmorphis.github.io/DIU_Practica3_Prototipado/		
+* A1-01_JacobYJoseM	[Web](https://qnolose.github.io)
+* A1-02	[Web](http://pableqe98.github.io)		
+* A1-04X1	[Web](https://javilecrin.github.io/DIU19-AgendaUGR.github.io/)	
+* A1-05	[Web](miguelugr.github.io/diu/mi_web/agenda.html)	
+* A1-07x1	[Web](https://jumacasni.github.io)	
+* A1-08x1	[Web](https://exmorphis.github.io/DIU_Practica3_Prototipado/)		
 * A1-09X1	https://darkmanice.github.io/DIU/			
 * A1-10	https://joaquinb25.github.io/diu/    
 * A1-11 Triangle	http://doskoy.github.io/OcioPlanning_UGR 		
