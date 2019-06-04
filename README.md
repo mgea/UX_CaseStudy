@@ -30,7 +30,10 @@ Pasos:
 * Report de Usabilidad (para B) https://github.com/mgea/DIU19/blob/master/DIU_report-template-usability-testOK.docx
 
 
-## LISTA ACTUALIZADA https://github.com/mgea/DIU19/blob/master/proyectos.md 
+## Resultados 
+
+* A/B testing - Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+* Listado de Proyectos con su revisión de usabilidad - https://github.com/mgea/DIU19/blob/master/proyectos.md 
 
 
 
