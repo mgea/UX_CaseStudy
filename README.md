@@ -25,9 +25,7 @@ Pasos:
 
 ## Design Process 
 
-1. Analysis 
-
- ### Plantilla de Persona ![persona](img/Persona.png)
+![Think](img/1-1Think.png)
 
 
 ![JourneyMap](img/JourneyMap.png)
