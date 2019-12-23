@@ -53,6 +53,24 @@ A continuación realizaremos una revisión de Usabilidad (teniendo en cuenta la 
 
 
 
+![Feedback Capture Grid](img/2a_Feeback.png)
+
+
+
+![Sitemap](img/2b_sitemap.png)
+
+
+![Task Labelling](img/2c_Labelling.png)
+
+
+
+
+![Wireframing](img/2d_Wireframes.png)
+
+
+
+
+
 
 ## Paso 3. Make (Prototyping) 
 
@@ -61,7 +79,25 @@ A continuación realizaremos una revisión de Usabilidad (teniendo en cuenta la 
 
 ## Paso 4. UX Check (Usability Testing) 
 
+![A/B Testing](img/4a_ABTest.png)
 
+Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+
+Práctica A: 
+
+
+
+![User Testing](img/4b_userTesting.png)
+
+
+Usuarios para evaluar prácticas 
+
+
+Usuarios | Practica A. | Práctica B
+------------ | -------------
+Content cell 1 | Content cell 2 | 
+------------ | -------------
+Content column 1 | Content column 2 | 
 
 
 ## Lista de ASIGNACIONES: 
