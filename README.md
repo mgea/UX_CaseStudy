@@ -25,26 +25,18 @@ Pasos:
 
 ## Design Process 
 
-![Think](img/1-1Think.png)
+### Paso 1. 1. UX Desk Research & Analisis 
 
-Project Overview
-Although many people are interested in getting a tattoo, they often struggle to find out what design they want and where to get it. This is a decision that they have to make very carefully as it is going to stay on their skin for life.
-
-
-
-![Think](img/1-2Think.png)
+![Competitive Analysis](img/1a_Competitive.png)
+ 
+ 
+![Persona](img/1b_Persona.png)
 
 
-Based on the user interviews and its results, two user personas and their journey maps were created to help me have a clearer image of target users.
+![Journey Map](img/1c_JourneyMap.png)
 
 
-
-![Think](img/1-3Think.png)
-
-
-Los mapas de experiencia de usuario son 
-
-![Think](img/1-4Think.png)
+![Usability Review](img/1d_UsabilityReview.png)
 
 
 
