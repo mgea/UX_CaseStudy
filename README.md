@@ -33,7 +33,14 @@ Pasos:
 ![Persona](img/1b_Persona.png)
 
 
+
+![Persona](img/persona1.png) ![Persona](img/persona1.png)
+
+
+
 ![Journey Map](img/1c_JourneyMap.png)
+
+![Persona](img/journeymap1.png) ![Persona](img/journeymap1.png)
 
 
 ![Usability Review](img/1d_UsabilityReview.png)
