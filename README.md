@@ -1,4 +1,4 @@
-# DIU19
+# DIU20
 Prácticas Diseño Interfaces de Usuario 2018-19 (Agenda cultural/ocio UGR) incluye enlaces a 2017/18
 
 En esta práctica vamos a analizar el uso de herramientas para el diseño del IU en Web. 
@@ -103,18 +103,30 @@ Usuarios para evaluar prácticas
 
 ![User Testing](img/4c_SUS.png)
 
-Usaremos el Cuestionario normalizado SUS para valorar la satisfacción de cada usuario con el diseño. Para ello usaremos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU%20.xlsx) para calcularresultados
+Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
+Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+
+Los resultados obtenidos son los siguientes (adjuntar una captura de imagen) 
 
 
-## CUESTIONARIO SUS 
-* Formato EXCEL https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU%20.xlsx
-* Formato PDF  https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU%20%20-%20Sheet1.pdf
+**Conclusiones:** Lorem ipsum Lorem ipsum 
+
+
+![Usability Report](img/4d_UsabilityReport.png)
+
+
+
+
 * Report de Usabilidad (para B) https://github.com/mgea/DIU19/blob/master/DIU_report-template-usability-testOK.docx
 
 
-## Resultados 
+## Valoración de las prácticas
 
-* A/B testing - Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+
+
+Referencias:
+
 * Listado de Proyectos con su revisión de usabilidad - https://github.com/mgea/DIU19/blob/master/proyectos.md 
 
 
