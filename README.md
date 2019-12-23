@@ -27,10 +27,24 @@ Pasos:
 
 ![Think](img/1-1Think.png)
 
+Project Overview
+Although many people are interested in getting a tattoo, they often struggle to find out what design they want and where to get it. This is a decision that they have to make very carefully as it is going to stay on their skin for life.
 
-![JourneyMap](img/JourneyMap.png)
 
-![Usability Review](img/usabilityReview.png) 
+
+![Think](img/1-2Think.png)
+
+
+Based on the user interviews and its results, two user personas and their journey maps were created to help me have a clearer image of target users.
+
+
+
+![Think](img/1-3Think.png)
+
+
+Los mapas de experiencia de usuario son 
+
+![Think](img/1-4Think.png)
 
 
 
