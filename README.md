@@ -92,14 +92,19 @@ Práctica A:
 
 Usuarios para evaluar prácticas 
 
-| ------------ | ------------- | ------------- |
-| Usuarios      | Practica A.  | Práctica B |
-| ------------ | ------------- | ------------- |
-| Content cell 1 | Content cell 2 | Content cell 2 | 
+
+| Usuarios | Sexo/Edad | Ocupación |  ExperienciaTIC | Plataforma | TestAB
+| ------------- | ------------- | ----------- | ----------- | ----------- | ------------- |
+| User1's name  | H / 18   | Estudiante   | Media | Web | A 
+| User2's name  | H / 18   | Estudiante   | Media | Web | A 
+| User3's name  | M / 35   | Abogado   | Baja | móvil | B 
+| User4's name  | H / 18   | Estudiante   | Media | Web | B 
 
 
+![User Testing](img/4c_SUS.png)
 
-## Lista de ASIGNACIONES: 
+Usaremos el Cuestionario normalizado SUS para valorar la satisfacción de cada usuario con el diseño. Para ello usaremos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU%20.xlsx) para calcularresultados
+
 
 ## CUESTIONARIO SUS 
 * Formato EXCEL https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU%20.xlsx
