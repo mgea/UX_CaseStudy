@@ -22,6 +22,21 @@ Pasos:
 * Publicar en GitHub haciendo un FORK de este proyecto. 
 
 
+
+## Design Process 
+
+1. Analysis 
+
+ ### Plantilla de Persona ![persona](img/Persona.png)
+
+
+![JourneyMap](img/JourneyMap.png)
+
+![Usability Review](img/usabilityReview.png) 
+
+
+
+
 ## Lista de ASIGNACIONES: 
 
 ## CUESTIONARIO SUS 
