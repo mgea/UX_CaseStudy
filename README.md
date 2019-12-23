@@ -23,9 +23,9 @@ Pasos:
 
 
 
-## Design Process 
+# Design Process 
 
-### Paso 1. 1. UX Desk Research & Analisis 
+## Paso 1. UX Desk Research & Analisis 
 
 ![Competitive Analysis](img/1a_Competitive.png)
  
@@ -33,6 +33,7 @@ Pasos:
 ![Persona](img/1b_Persona.png)
 
 
+Proponemos dos personas ficticias. (http://www.uxforthemasses.com/personas/) que puedan ser usuarios interesados en las actividades que se ofertan en esa ciudad. Información acerca de cómo construir Personas Ficticias: http://www.ux-lady.com/diy-user-personas/
 
 ![Persona](img/persona1.png) ![Persona](img/persona1.png)
 
@@ -44,6 +45,21 @@ Pasos:
 
 
 ![Usability Review](img/1d_UsabilityReview.png)
+
+A continuación realizaremos una revisión de Usabilidad (teniendo en cuenta la experiencia de usuario de las dos personas ficticias), en la que actuaremos como expertos de usabilidad usando los siguiente recursos [Excel](http://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.xls) [PDF](https://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.pdf). Fuente [A guide to carrying out usability reviews](http://www.uxforthemasses.com/usability-reviews/)
+
+
+## Paso 2. UX Design  
+
+
+
+
+## Paso 3. Make (Prototyping) 
+
+
+
+
+## Paso 4. UX Check (Usability Testing) 
 
 
 
