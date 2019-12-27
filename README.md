@@ -46,7 +46,7 @@ Proponemos dos personas ficticias. (http://www.uxforthemasses.com/personas/) que
 
 ![Usability Review](img/1d_UsabilityReview.png)
 
-A continuación realizaremos una revisión de Usabilidad (teniendo en cuenta la experiencia de usuario de las dos personas ficticias), en la que actuaremos como expertos de usabilidad usando los siguiente recursos [Excel](http://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.xls) [PDF](https://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.pdf) [Excel en Español](https://github.com/mgea/DIU19/blob/DIU20/Usability-review-template.xlsx). Fuente [A guide to carrying out usability reviews](http://www.uxforthemasses.com/usability-reviews/)
+A continuación realizaremos una revisión de Usabilidad (teniendo en cuenta la experiencia de usuario de las dos personas ficticias), en la que actuaremos como expertos de usabilidad usando los siguiente recursos [Excel](http://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.xls) /[PDF](https://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.pdf) /[Excel en Español](https://github.com/mgea/DIU19/blob/DIU20/Usability-review-template.xlsx). Fuente [A guide to carrying out usability reviews](http://www.uxforthemasses.com/usability-reviews/)
 
 
 
