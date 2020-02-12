@@ -30,13 +30,6 @@ Proponemos dos personas ficticias. (http://www.uxforthemasses.com/personas/) que
 
 ![Persona](img/persona1.png) ![Persona](img/persona1.png)
 
-La personalidad está basado en la teoría de los tipos de personalidad de Jung & Myers-Briggs, así como el test para conocer tu personalidad basado en 4 parámetros (https://hdsdesarrollomexico.files.wordpress.com/2016/02/tabla_preferencias_mbti.jpg)
-que da lugar a 16 posibles estilos (https://hdsdesarrollomexico.files.wordpress.com/2016/02/tabla_tipos_mbti_2.jpg). Se puede hacer un test online para comprobar tu personalidad: https://www.16personalities.com/es 
-
-![Journey Map](img/1c_JourneyMap.png)
-
-![Persona](img/journeymap1.png) ![Persona](img/journeymap1.png)
-
 
 
 
