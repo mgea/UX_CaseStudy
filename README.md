@@ -1,35 +1,28 @@
 # DIU20
-Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) incluye enlaces a 2017/18
+Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-En esta práctica vamos a analizar el uso de herramientas para el diseño del IU en Web. 
-Para ello usaremos los bocetos de la práctica anterior. Vamos a considerar los siguientes aspectos: 
+Grupo: DIU1_01AABB.  Curso: 2019/20 
 
-Diseño y organización del layout siguiendo estilos basados en un sistema de rejilla responsivo. 
-Utilización de guía de estilos  (colores, iconos, tipografía) adecuada para el proyecto. 
-Uso de patrones de diseño para componentes. 
-Utilizar herramientas de desarrollo Web. Utilizaremos el entorno Bootstrap como herramienta soporte al diseño (snippet, editores)
-Se deberán diseñar todos los bocetos del website (parte del cliente) sin funcionalidad (se podrían simular datos) y 
-publicar en GITHUB (para su evaluación en siguiente práctica) 
+Miembros
+ * :bust_in_silhouette:   AA     :octocat:     
+ * :bust_in_silhouette:  BB     :octocat:
 
+----- 
 
-Pasos: 
-
-* Partiendo de los bocetos...
-* Diseño y organización del layout siguiendo estilos basados en un sistema de rejilla responsivo. 
-* Utilización de guía de estilos  (colores, iconos, tipografía) adecuada para el proyecto. 
-* Uso de patrones de diseño para componentes. 
-* Utilizar herramientas de desarrollo Web. Utilizaremos el entorno Bootstrap
-* Publicar en GitHub haciendo un FORK de este proyecto. 
+En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
 
+Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
-# Design Process 
+# Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
 
+
 ![Competitive Analysis](img/1a_Competitive.png)
  
- 
+>>> Describe brevemente caractesíticas de las aplicaciones 
+
 ![Persona](img/1b_Persona.png)
 
 
