@@ -1,5 +1,5 @@
 # DIU20
-Prácticas Diseño Interfaces de Usuario 2018-19 (Agenda cultural/ocio UGR) incluye enlaces a 2017/18
+Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) incluye enlaces a 2017/18
 
 En esta práctica vamos a analizar el uso de herramientas para el diseño del IU en Web. 
 Para ello usaremos los bocetos de la práctica anterior. Vamos a considerar los siguientes aspectos: 
