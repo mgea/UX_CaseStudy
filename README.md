@@ -115,27 +115,39 @@ Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario c
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
-Los resultados obtenidos son los siguientes (adjuntar una captura de imagen) 
+>>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
-**Conclusiones:** Lorem ipsum Lorem ipsum 
 
 
 ![Usability Report](img/4d_UsabilityReport.png)
 
+>> Añadir report de usabilidad para práctica B 
 
 
 
-* Report de Usabilidad (para B) https://github.com/mgea/DIU19/blob/master/DIU_report-template-usability-testOK.docx
 
+
+
+## Paso 3. Evaluación de Accesibilidad  
+
+
+![Usability Report](img/5q_evaluation.png)
+
+>>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
 
 ## Valoración de las prácticas
 
 
 
-Referencias:
+>>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
 
-* Listado de Proyectos con su revisión de usabilidad - https://github.com/mgea/DIU19/blob/master/proyectos.md 
+
+## Conclusión 
+
+>>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+
+
 
 
 
