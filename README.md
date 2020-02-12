@@ -27,7 +27,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha 
 
-![User Journey Map](img/1c_JourneyMap.png.png)
+![User Journey Map](img/1c_JourneyMap.png)
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
 
@@ -46,20 +46,38 @@ Revisión de usabilidad:
 ![Feedback Capture Grid](img/2a_Feeback.png)
 
 
+>>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+
+
+ Interesante | Críticas     
+| ------------- | -------
+  Preguntas | Nuevas ideas
+  
+  
+  
+>>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
+>>> Problema e hipótesis
+>>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
+>>> (150-200 caracteres)
 
 ![Sitemap](img/2b_sitemap.png)
+
+>>> Definir "User Map" y "Task Flow" ... 
+
 
 
 ![Task Labelling](img/2c_Labelling.png)
 
+>>> Identificar términos para diálogo con usuario  
 
+Término | Significado     
+| ------------- | -------
+  Login¿?  | acceder a plataforma
 
 
 ![Wireframing](img/2d_Wireframes.png)
 
-
-
-
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
 ## Paso 3. Make (Prototyping) 
