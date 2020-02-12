@@ -25,19 +25,15 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Persona](img/1b_Persona.png)
 
-
-Proponemos dos personas ficticias. (http://www.uxforthemasses.com/personas/) que puedan ser usuarios interesados en las actividades que se ofertan en esa ciudad. Información acerca de cómo construir Personas Ficticias: http://www.ux-lady.com/diy-user-personas/
-
-![Persona](img/persona1.png) ![Persona](img/persona1.png)
-
-
-
+>>> Comementa brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha 
 
 
 ![Usability Review](img/1d_UsabilityReview.png)
 
-A continuación realizaremos una revisión de Usabilidad (teniendo en cuenta la experiencia de usuario de las dos personas ficticias), en la que actuaremos como expertos de usabilidad usando los siguiente recursos [Excel](http://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.xls) /[PDF](https://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.pdf) /[Excel en Español](https://github.com/mgea/DIU19/blob/DIU20/Usability-review-template.xlsx). Fuente [A guide to carrying out usability reviews](http://www.uxforthemasses.com/usability-reviews/)
-
+Revisión de usabilidad: 
+ * Enlace al documento:  (sube a github el xls/pdf) 
+ * Valoración final (numérica): 
+ * Comentario sobre la valoración: 
 
 
 ## Paso 2. UX Design  
