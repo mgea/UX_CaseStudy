@@ -21,26 +21,25 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Competitive Analysis](img/1a_Competitive.png)
  
->>> Describe brevemente caractesíticas de las aplicaciones 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
 ![Persona](img/1b_Persona.png)
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha 
+>>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![User Journey Map](img/1c_JourneyMap.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Usability Review](img/1d_UsabilityReview.png)
 
-Revisión de usabilidad: 
+Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad 
  * Enlace al documento:  (sube a github el xls/pdf) 
  * Valoración final (numérica): 
- * Comentario sobre la valoración: 
+ * Comentario sobre la valoración:  (60-120 caracteres)
 
 
 ## Paso 2. UX Design  
-
 
 
 ![Feedback Capture Grid](img/2a_Feeback.png)
@@ -63,7 +62,6 @@ Revisión de usabilidad:
 ![Sitemap](img/2b_sitemap.png)
 
 >>> Definir "User Map" y "Task Flow" ... 
-
 
 
 ![Task Labelling](img/2c_Labelling.png)
