@@ -86,11 +86,18 @@ Término | Significado
 
 ## Paso 3. Make (Prototyping) 
 
+
+
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+
+![Landing Page](img/landing-page.png)
 
 >>> Plantear Landing Page 
 
+![Guidelines](img/guidelines.png)
 >>> Estudio de Guidelines y Patrones IU a usar 
+
+![Mockup](img/mockup.png)
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
