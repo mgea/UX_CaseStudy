@@ -86,7 +86,7 @@ Término | Significado
 
 ## Paso 3. Make (Prototyping) 
 
-
+![moodBoard](img/moodboard.png)
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 
