@@ -3,6 +3,12 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_01AABB.  Curso: 2019/20 
 
+Proyecto: 
+
+Descripción: 
+
+Logotipo: 
+
 Miembros
  * :bust_in_silhouette:   AA     :octocat:     
  * :bust_in_silhouette:  BB     :octocat:
@@ -80,7 +86,13 @@ Término | Significado
 
 ## Paso 3. Make (Prototyping) 
 
+>>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 
+>>> Plantear Landing Page 
+
+>>> Estudio de Guidelines y Patrones IU a usar 
+
+>>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
 ## Paso 4. UX Check (Usability Testing) 
@@ -90,7 +102,6 @@ Término | Significado
 Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
 
 Práctica A: 
-
 
 
 ![User Testing](img/4b_userTesting.png)
