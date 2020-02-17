@@ -24,22 +24,25 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ## Paso 1. UX Desk Research & Analisis 
 
+![Competitive Analysis](img/Competitive.png) 1.a Competitive Analysis
+-----
 
-![Competitive Analysis](img/1a_Competitive.png)
- 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
-![Persona](img/1b_Persona.png)
+![Persona](img/Persona.png) 1.b Persona
+-----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-![User Journey Map](img/1c_JourneyMap.png)
+![User Journey Map](img/JourneyMap.png) 1.c User Journey Map
+----
+
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
-![Usability Review](img/1d_UsabilityReview.png)
-
-Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad 
+![Usability Review](img/UsabilityReview.png) 1.d Usability Review
+----
+>>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad 
  * Enlace al documento:  (sube a github el xls/pdf) 
  * Valoración final (numérica): 
  * Comentario sobre la valoración:  (60-120 caracteres)
@@ -86,7 +89,9 @@ Término | Significado
 
 ## Paso 3. Make (Prototyping) 
 
-![moodBoard](img/moodboard.png)
+![moodBoard](img/moodboard.png) Moodboard
+-----
+
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 
