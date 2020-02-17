@@ -121,7 +121,7 @@ Término | Significado
 ## Paso 4. UX Check (Usability Testing) 
 
 
-![Método UX](img/4a_ABTest.png) 4.a A/B Testing
+![Método UX](img/ABTesting.png) 4.a A/B Testing
 ----
 
 
@@ -130,7 +130,7 @@ Término | Significado
 >>>> Práctica A: 
 
 
-![Método UX](img/4b_userTesting.png) 4.b User Testing
+![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Usuarios para evaluar prácticas 
@@ -144,7 +144,7 @@ Término | Significado
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-![Método UX](img/4c_SUS.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
@@ -154,7 +154,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
-![Método UX](img/4d_UsabilityReport.png) 4.c Usability Report
+![Método UX](img/usability-report.png) 4.c Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B 
@@ -164,7 +164,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Paso 5. Evaluación de Accesibilidad  
 
 
-![Método UX](img/5q_evaluation.png).  5.a Usability Report
+![Método UX](img/Accesibility.png).  5.a Usability Report
 ----
 
 >>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
