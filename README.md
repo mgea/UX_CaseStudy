@@ -94,37 +94,46 @@ Término | Significado
 
 ## Paso 3. Make (Prototyping) 
 
-![moodBoard](img/moodboard.png) Moodboard
+
+![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 
-![Landing Page](img/landing-page.png)
+![Método UX](img/landing-page.png)  3.b Landing Page
+----
+
 
 >>> Plantear Landing Page 
 
-![Guidelines](img/guidelines.png)
+![Método UX](img/guidelines.png) 3.c Guidelines
+----
+
 >>> Estudio de Guidelines y Patrones IU a usar 
 
-![Mockup](img/mockup.png)
+![Método UX](img/mockup.png)  3.d Mockup
+----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
 ## Paso 4. UX Check (Usability Testing) 
 
-![A/B Testing](img/4a_ABTest.png)
 
-Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
-
-Práctica A: 
+![Método UX](img/4a_ABTest.png) 4.a A/B Testing
+----
 
 
-![User Testing](img/4b_userTesting.png)
+>>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+
+>>>> Práctica A: 
 
 
-Usuarios para evaluar prácticas 
+![Método UX](img/4b_userTesting.png) 4.b User Testing
+----
+
+>>> Usuarios para evaluar prácticas 
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
@@ -135,41 +144,37 @@ Usuarios para evaluar prácticas
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-![User Testing](img/4c_SUS.png)
+![Método UX](img/4c_SUS.png). 4.c Cuestionario SUS
+----
 
-Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+>>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
-
-
-![Usability Report](img/4d_UsabilityReport.png)
+![Método UX](img/4d_UsabilityReport.png) 4.c Usability Report
+----
 
 >> Añadir report de usabilidad para práctica B 
 
 
 
+## Paso 5. Evaluación de Accesibilidad  
 
 
-
-## Paso 3. Evaluación de Accesibilidad  
-
-
-![Usability Report](img/5q_evaluation.png)
+![Método UX](img/5q_evaluation.png).  5.a Usability Report
+----
 
 >>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
-## Valoración de las prácticas
-
-
 
 >>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
 
 
-## Conclusión 
+
+## Conclusión / Valoración de las prácticas
+
 
 >>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
