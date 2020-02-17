@@ -24,23 +24,23 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Competitive Analysis](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
-![Persona](img/Persona.png) 1.b Persona
+![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-![User Journey Map](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
-![Usability Review](img/UsabilityReview.png) 1.d Usability Review
+![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad 
  * Enlace al documento:  (sube a github el xls/pdf) 
@@ -51,7 +51,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ## Paso 2. UX Design  
 
 
-![Feedback Capture Grid](img/2a_Feeback.png)
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+----
 
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
@@ -68,12 +69,15 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
-![Sitemap](img/2b_sitemap.png)
+![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+-----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-![Task Labelling](img/2c_Labelling.png)
+![Método UX](img/labelling.png) 2.c Labelling 
+----
+
 
 >>> Identificar términos para diálogo con usuario  
 
@@ -82,7 +86,8 @@ Término | Significado
   Login¿?  | acceder a plataforma
 
 
-![Wireframing](img/2d_Wireframes.png)
+![Método UX](img/Wireframes.png) 2.d Wireframes
+-----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
