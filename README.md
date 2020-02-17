@@ -45,10 +45,11 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad 
- * Enlace al documento:  (sube a github el xls/pdf) 
- * Valoración final (numérica): 
- * Comentario sobre la valoración:  (60-120 caracteres)
+>>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
+>>>> SE deben incluir claramente los siguientes elementos
+>>> - Enlace al documento:  (sube a github el xls/pdf) 
+>>> - Valoración final (numérica): 
+>>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 
 ## Paso 2. UX Design  
