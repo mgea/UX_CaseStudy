@@ -121,7 +121,7 @@ Término | Significado
 ## Paso 4. UX Check (Usability Testing) 
 
 
-![Método UX](img/ABTesting.png) 4.a A/B Testing
+![Método UX](img/ABtesting.png) 4.a A/B Testing
 ----
 
 
@@ -164,7 +164,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Paso 5. Evaluación de Accesibilidad  
 
 
-![Método UX](img/Accesibility.png).  5.a Usability Report
+![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
 ----
 
 >>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
