@@ -10,8 +10,7 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   Naroa Alonso     :octocat:
-
+ * :bust_in_silhouette:   Naroa Alonso
 ----- 
 
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
