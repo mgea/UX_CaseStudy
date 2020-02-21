@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   Ismael Moyano Romero     :octocat:     
- * :bust_in_silhouette:  Manuel Ariza Ortiz     :octocat:
+ * :bust_in_silhouette:   [Ismael Moyano Romero](https://github.com/Leamsy)     :octocat:     
+ * :bust_in_silhouette:  [Manuel Ariza Ortiz](https://github.com/manuuarizaa)     :octocat:
 
 ----- 
 
