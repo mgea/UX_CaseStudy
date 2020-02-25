@@ -1,0 +1,329 @@
+* {
+	font-family: 'Indie Flower', cursive;
+}
+
+body {
+	margin: 5px;
+}
+
+h1 {
+    font-family: 'lato';
+	display: block;
+	margin-bottom: .5em;
+	text-align: center;
+    font-size: 1.3rem;
+}
+
+h2 {
+    font-family: 'lato';
+    font-size: 1.2rem;
+	text-align: center;
+    text-decoration: underline;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	max-height: 250px;
+}
+
+ul {
+	padding-left: 1.2em;
+}
+
+.text-center {
+    
+	text-align: center;
+}
+
+.container {
+	display: flex;
+}
+
+.col {
+	display: flex;
+	flex-direction: column;
+	overflow: auto;
+	width: 33%;
+}
+
+.top-right {
+	position: absolute;
+	right: 20px;
+	top: 20px;
+    
+}
+
+
+.top-izda {
+    
+    position: absolute;
+	top: 5px;
+	left: 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+}
+.row {
+	 flex-grow: 1; 
+    /* height: 150px; */
+	margin: 5px;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+
+
+.fotoPersona {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+}
+
+
+
+.sliderFeat {
+    width: 80%; 
+    
+
+}
+
+
+/*******  GRID Journey Map   ****/
+/*** https://www.w3schools.com/cssref/tryit.asp?filename=trycss_grid-row **/
+.grid-container {
+  display: grid;
+  grid-template-columns: 10% 15% 15% 15% 15% 15% 15%;
+  grid-gap: 5px;
+  background-color: #2196F3;
+  padding: 5px;
+  width: 100%;
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 15px 0;
+  /* font-size: 30px; */
+  font-size: 0.9 rem;
+}
+
+
+.item {
+  grid-row: 1;
+}
+
+.goal {
+  background-color: #ffff00;
+ color: darkred;
+
+}
+
+
+.feel {
+    font-size: 30px;
+    background-color: #c69cf4;
+    
+}
+
+
+
+.imag {
+    /*** redondeada */
+  color: black;
+   width: 100%;
+    height: 100%;
+    object-fit: cover; 
+     border-radius: 50%;
+    
+}
+
+
+.imag_name {
+    /*** redondeada */
+font-family: 'lato';
+  float: left; 
+  color: blue;
+  font-size: 15px;
+    
+}
+
+
+
+.imagSquare {
+   /* en grid */
+    color: black;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5%;
+}
+
+
+
+.btn {
+  /* padding-left: 32px; */
+  position: relative;
+}
+
+.btn:after {
+   position: absolute;
+  font-family: 'FontAwesome';
+  top: 0;
+  left: 10px;
+   opacity: 0.4;
+  content: "\f005";
+}
+
+
+/*********** FONDOS CON IMAGEN FONT AWESOME  **********/
+/*********** https://fontawesome.com/v4.7.0/icons/ ****/
+
+.fondo_star {
+  /* padding-left: 32px; */
+  position: relative;
+}
+
+.fondo_star:before {
+   position: absolute;
+  font-family: 'FontAwesome';
+  top: 0;
+  left: 0px;
+    height: 100%;
+    width : 100%;
+    font-size: 60px;
+    opacity: 0.3;
+  content: "\f005";
+}
+
+
+.fondo_right_arrow {
+  position: relative;
+     font-weight: bold;
+    font-family: 'lato'; 
+    text-align: left;
+  color: darkblue;
+  font-size: 15px;
+}
+
+.fondo_right_arrow:before {
+   position: absolute;
+  font-family: 'FontAwesome';
+  top: 0;
+  left: 0px;
+    height: 100%;
+    font-size: 50px;
+    opacity: 0.3;
+  content: "\f138";
+}
+
+
+
+.titulos {
+  font-family: 'lato'; 
+  text-align: left;
+  color: darkblue;
+  font-size: 15px; 
+    
+}
+
+.titulos_laptop {
+  /* padding-left: 32px; */
+    font-family: 'lato'; 
+  text-align: left;
+  color: darkblue;
+  font-size: 15px; 
+  position: relative;
+}
+
+.titulos_laptop:before {
+   position: absolute;
+  font-family: 'FontAwesome';
+  top: 0;
+  left: 0px;
+    height: 100%;
+    width : 100%;
+    font-size: 60px;
+    opacity: 0.3;
+  content: "\f109";
+}
+
+
+.titulos_emocion {
+  /* padding-left: 32px; */
+    font-family: 'lato'; 
+  text-align: left;
+  color: darkblue;
+  font-size: 15px; 
+  position: relative;
+  background-image: url("./photos/sm_mini.png");
+  background-repeat: no-repeat; 
+}
+
+.
+
+.fondo_movil {
+  /* padding-left: 32px; */
+  position: relative;
+}
+
+.fondo_movil:before {
+   position: absolute;
+  font-family: 'FontAwesome';
+  top: 0;
+  left: 0px;
+    height: 100%;
+    width : 100%;
+    font-size: 60px;
+    opacity: 0.3;
+  content: "\f10b";
+}
+
+
+/*****************************/
+
+#problems { background-color: #c69cf4; }
+#motives { background-color: #9cf4a7; }
+#personalities { background-color: #9cf4d9; }
+#fears { background-color: #fc6011; }
+#metas { background-color: #f4b69c; }
+#users { background-color: #f4f19c; }
+#bio { background-color: #ccffa0; }
+#problems { background-color: #e3c0ac; }
+#competitive-advantages { background-color: #ffddff; }
+#contextsit { background-color: #f4f8fc; }
+#solutions { background-color: #9cf4df; }
+
+#goals { background-color: #ddddff; }
+
+
+
+#emotions { background-color: #c69cf4; }
+
+
+
+
+
+/***** SCALE EMOJI ***/
+
+.rate {
+	text-align: center;
+	width: 150px;
+	height: 150px;
+	
+}
+.emoji {
+	font-size: 100px;
+	height: 100px;
+	line-height: 170px;
+}
+
+input {
+	cursor: ew-resize;
+}
+
+
+
+/**** EMOTIONS  https://getemoji.com ******/
