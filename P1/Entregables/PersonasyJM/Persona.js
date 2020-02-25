@@ -93,7 +93,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 2 }
 
 				],
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Sus madres tienen trabajo estable pero le gustaría poder aportar algo de dinero al hogar para no sentir que vive de balde. Se dedica a buscar trabajos temporales y ampliar su currículum como asesor de imagen en redes sociales. Le gusta salir a dar largos paseos por toda la ciudad." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 3 },
 					{ Name: "Online & Social Media", Value: 5 },
