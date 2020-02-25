@@ -21,6 +21,7 @@ angular.module("angular", [])
 		$scope.Personas = [
 			{
 
+                
                 /*************************************/
                 /*******    PRIMERA PERSONA    *******/
                 /********        AMPARO       ********/
@@ -38,13 +39,13 @@ angular.module("angular", [])
 				Character: "Siempre tiene muchas cosas en la cabeza sobre quehaceres en casa. Difícilmente sabe disfrutar de su tiempo y le gustaría cambiar su vida.",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 7 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 9 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 1 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 5 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 8 }
 				],
-				Goals: ["Sacar adelante la familia", "Encontrar algo que le llene"],
-				Frustrations: ["le encanta la gastronomía, pero pocas veces sale por ahí a probar algo nuevo o le hacen de comer", "Le gustaría salir del pueblo más veces y encontrar personas con las que pueda comentar las novelas que le gustan"],
-				Bio: "Es de un pueblo de Sevilla y durante unas vacaciones conoció a Jose Antonio, natural de Armilla. Se casaron muy jóvenes y al principio empezó a trabajar de costurera y cajera en varios establecimientos, pero cuando se quedó embarazada tuvo que dejar de trabajar para dedicarse a sus hijos. No obstante, siempre ha mantenido una alegría muy viva y peculiar",
+				Goals: ["Sacar adelante la familia", "Encontrar algo que le llene", "volver a trabajar y conseguir independencia, quizá en algún sitio donde pueda ayudar a otras personas"],
+				Frustrations: ["le encanta la gastronomía, pero pocas veces sale por ahí a probar algo nuevo o le hacen de comer","Hace muchos años que no trabaja y, aunque quiere volver a hacerlo, tiene miedo de no poder conseguir un trabajo o de no hacerlo adecuadamente", "Le gustaría salir del pueblo más veces y encontrar personas con las que pueda comentar las novelas que le gustan"],
+				Bio: "Es de un pueblo de Sevilla y durante unas vacaciones conoció a Jose Antonio, natural de Armilla. Se casaron muy jóvenes y al principio empezó a trabajar de costurera y cajera en varios establecimientos, pero cuando se quedó embarazada tuvo que dejar de trabajar para dedicarse a sus hijos. No obstante, siempre ha mantenido una alegría muy viva y peculiar. Ahora quiere volver al mundo laboral y sentirse realizada desde otro plano. Le gustarçia quizá estudiar algo nuevo que le permita ayudar a otras personas.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
 					{ Name: "Movil", Value: 2 },
