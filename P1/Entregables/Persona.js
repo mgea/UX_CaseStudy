@@ -60,39 +60,39 @@ angular.module("angular", [])
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			},
-			{
-
+			{	
+                
                 /*************************************/
                 /**** SEGUNDA PERSONA          *******/
                 /*** Cambiar datos             *******/
                 /*************************************/
-
-
+                
+                
 				Id: 1,
 				Name: "Eduardo Benítez",
 				Photo: "Eduardo.jpg",
 				Quote: "El éxito no llega a tu vida solo, a veces tienes que salir a buscarlo",
 				Age: 25,
 				Occupation: "Community Manager de una empresa de toldos, Pérgolas S.L.. Estudia Fotografía.",
-				Family: "Dos madres y una hermana menor.",
+				Family: "Dos madres,María y Eva,de 52 y 55 años, y una hermana menor,Paula, de 15 años.",
 				Location: "Torrepacheco, Murcia",
 				Character: "Seguro de sí mismo, extrovertido, Impaciente.",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 5 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
-				],
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
+				], 
 				Goals: ["Ser una celebridad en redes sociales.","Ser contratado como asesor de Redes Sociales en grandes empresas","tener 3 gatos"],
 				Frustrations: ["No poder costearse un apartamento para independizarse de su familia."," No alcanzar los requisitos exigidos por las empresas de redes sociales para publicitar mejor su empresa"],
-				Bio: " Eduardo se dedica a varios trabajos parciales para poder costearse su curso de Fotografía Profesional. Uno de ellos es dirigir las redes sociales de una famosa empresa de toldos en Murcia, la cual ha aumentado sus ventas desde que Eduardo se encarga de programar su publicidad",
+				Bio: " Eduardo se dedica a varios trabajos parciales para poder costearse su curso de Fotografía Profesional. Uno de ellos es dirigir las redes sociales de una famosa empresa de toldos en Murcia, la cual ha aumentado sus ventas desde que Eduardo se encarga de programar su publicidad. Ha trabajado de camarero, fotógrafo amateur, asistente de modelos... Le encanta realizar actividades sociales, contar anécdotas de sus trabajos.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 3 },
 					{ Name: "Mobile", Value: 5 },
 					{ Name: "RRSS", Value: 5 },
 					{ Name: "Software", Value: 2 }
-
-				],
+					
+				], 
                 Contextos:   "The goals this user hopes to achieve." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 3 },
