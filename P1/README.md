@@ -21,7 +21,8 @@
 
 >>> Enlace a la persona 1: Amparo González https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
 
-(Entregables/AmparoGonzalez.png)
+![Método UX](Entregables/AmparoGonzalez.png)
+----
 
 
 
