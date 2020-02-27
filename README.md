@@ -38,7 +38,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extendido en la sociedad y realmente no suele ser el mercado al que van dirigidas este tipo de aplicaciones.
 
->>> Más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P1
+>>> Más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -47,7 +47,7 @@ Enlace al Journey Map de Amparo (pdf): https://github.com/NaroaAlonso/DIU20/blob
 
 Creemos que este mapa representa una situación habitual: cada vez son más las personas que tienen una mediana edad y comienzan a utilizar este tipo de aplicaciones para salir de su zona de comfort o para encontrar personas con sus gustos similares. No obstante, muchos de ellos dejan de intentarlo porque generalmente suelen ser sitios de citas y no es exactamente lo que buscan.
 
-
+Se puede encontrar también en el readme da la P1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -57,7 +57,7 @@ Creemos que este mapa representa una situación habitual: cada vez son más las 
 >>> - Valoración final (numérica): 75 - Buena
 >>> - Comentario sobre la valoración:  Realmente la plataforma elegida es funcional e implementa correctamente la mayoria de las tareas que podemos pensar que una persona va a realizar, pero falla en algunos elementos relacionados con la accesibilidad y con la navegabilidad del sitio.
 
->>> - Informe más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P1
+>>> - Informe más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
 
 
 ## Paso 2. UX Design  
