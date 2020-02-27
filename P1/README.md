@@ -35,7 +35,12 @@ Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extend
 
 ## Journey Maps
 
-### Journey Map 1:
+### Journey Map 1: Amparo busca actividades de ocio
+
+Creemos que este mapa representa una situación real: cada vez son más las personas que tienen una mediana edad y comienzan a utilizar este tipo de aplicaciones para salir de su zona de comfort o para encontrar personas con sus gustos similares. No obstante, muchos de ellos dejan de intentarlo porque generalmente suelen ser sitios de citas y no es exactamente lo que buscan
+
+![Método UX](Entregables/JourneyMapAmparo.png)
+----
 
 
 
