@@ -43,8 +43,11 @@ Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extend
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+Enlace al Journey Map de Amparo (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapAmparo.pdf
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Creemos que este mapa representa una situación habitual: cada vez son más las personas que tienen una mediana edad y comienzan a utilizar este tipo de aplicaciones para salir de su zona de comfort o para encontrar personas con sus gustos similares. No obstante, muchos de ellos dejan de intentarlo porque generalmente suelen ser sitios de citas y no es exactamente lo que buscan.
+
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
