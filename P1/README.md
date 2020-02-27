@@ -19,7 +19,9 @@
 
 ### Persona 1: Amparo
 
+>>> Enlace a la persona 1: Amparo González https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
 
+Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extendido en la sociedad y realmente no suele ser el mercado al que van dirigidas este tipo de aplicaciones.
 
 
 ### Persona 2: 
