@@ -34,7 +34,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente por qué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Enlace a la ficha de la persona 1: Amparo González https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
+
+Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extendido en la sociedad y realmente no suele ser el mercado al que van dirigidas este tipo de aplicaciones.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
