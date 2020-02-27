@@ -19,7 +19,7 @@
 
 ### Persona 1: Amparo
 
->>> Enlace a la persona 1: Amparo González https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
+>>> Enlace a la persona 1 (pdf): Amparo González https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
 
 ![Método UX](Entregables/AmparoGonzalez.png)
 ----
@@ -37,7 +37,9 @@ Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extend
 
 ### Journey Map 1: Amparo busca actividades de ocio
 
-Creemos que este mapa representa una situación real: cada vez son más las personas que tienen una mediana edad y comienzan a utilizar este tipo de aplicaciones para salir de su zona de comfort o para encontrar personas con sus gustos similares. No obstante, muchos de ellos dejan de intentarlo porque generalmente suelen ser sitios de citas y no es exactamente lo que buscan
+Enlace al Journey Map (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapAmparo.pdf
+
+Creemos que este mapa representa una situación real: cada vez son más las personas que tienen una mediana edad y comienzan a utilizar este tipo de aplicaciones para salir de su zona de comfort o para encontrar personas con sus gustos similares. No obstante, muchos de ellos dejan de intentarlo porque generalmente suelen ser sitios de citas y no es exactamente lo que buscan.
 
 ![Método UX](Entregables/JourneyMapAmparo.png)
 ----
