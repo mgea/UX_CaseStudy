@@ -50,7 +50,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 >>> - Valoración final (numérica): 75 - Buena
 >>> - Comentario sobre la valoración:  Realmente la plataforma elegida es funcional e implementa correctamente la mayoria de las tareas que podemos pensar que una persona va a realizar, pero falla en algunos elementos relacionados con la accesibilidad y con la navegabilidad del sitio.
 
->>> - Información más detallada en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P1
+>>> - Informe más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P1
 
 
 ## Paso 2. UX Design  
