@@ -39,8 +39,10 @@ Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extend
 
 
 ### Persona 2: 
+>>> Enlace a la persona 1 (pdf): Eduardo Benítez https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/EduardoBenitez.pdf
 
-
+![Método UX](Entregables/EduardoBenitez.png)
+----
 
 ## Journey Maps
 
