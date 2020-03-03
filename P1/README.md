@@ -50,6 +50,12 @@ Enlace al Journey Map (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1
 
 Creemos que este mapa representa una situación real: cada vez son más las personas que tienen una mediana edad y comienzan a utilizar este tipo de aplicaciones para salir de su zona de comfort o para encontrar personas con sus gustos similares. No obstante, muchos de ellos dejan de intentarlo porque generalmente suelen ser sitios de citas y no es exactamente lo que buscan.
 
+#### Cambios clave en el diseño que deben ser implementados para solucionar este problema:
+
+> Proposición de actividades gratuitas: en muchas ocasiones muchos usuarios se encontrarán con que no hay actividades gratuitas o no concuerdan con lo que tenían pensado hacer. Amparo no sabe muy bien lo que hacer hasta que (supuestamente) encuentra esta opción y propone ella.
+
+> Verificación de usuarios más allá del correo electrónico. Aunque no se publiquen ofertas "flash" y, por lo tanto, el anfitrión pueda validar o rechazar a las personas que se apunten a las actividades; nunca se sabe realmente quién está al otro lado del perfil creado, puede ser un impostor o una persona inventada. Por ello, sería conveniente aumentar la seguridad para que personas como Amparo puedan sentirse más seguras, implementando igual la verificación por número de teléfono y cosas así. Para no importunar al que no quiera usar el servicio y sólo esté probando, sólo se pediría esta verificación cuando se vaya a asistir a una actividad.
+
 ![Método UX](Entregables/JourneyMapAmparo.png)
 ----
 
