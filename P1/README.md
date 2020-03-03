@@ -34,7 +34,6 @@ Detalles como ver la cantidad de gente que conforma un grupo, consultar menús q
 ----
 
 
-
 Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extendido en la sociedad y realmente no suele ser el mercado al que van dirigidas este tipo de aplicaciones.
 
 
@@ -62,19 +61,21 @@ Creemos que este mapa representa una situación real: cada vez son más las pers
 ----
 
 
+### Journey Map 2: Eduardo busca ampliar su currículum
 
+Enlace al Journey Map (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapEduardo.pdf
 
+Una manera un poco distinta de usar las aplicaciones de experiencia de uso: Cada vez es más común que los trabajadores busquen empresas donde puedan mantener un ambiente positivo de trabajo y por ello buscan aficiones comunes entre ellos, pero la sede de empresas que lo promueven suelen encontrarse en los núcleos de alta población.
 
-### Journey Map 2:
+#### Cambios clave en el diseño que deben ser implementados para solucionar este problema:
 
+> Posibilidad de buscar usuarios no sólo por localidades concretas,sino también por sus posibles hobbies y ocupaciones reales de trabajo. Esto abriría una nueva perspectiva al mercado laboral y ayudaría a forjar vínculos entre compañeros de trabajo más allá que de la simple rutina.
 
+> Intercambio de servicios. Estos eventos pueden incluir espectáculos y servicios extra para una experiencia aún más entretenida, y una forma de participar en la diversión podría ser que los mismos huéspedes realizasen estas actividades. Podría ayudar a reducir costes de desplazamiento o del mismo precio de contratación del servicio.
 
-
-
-
+![Método UX](Entregables/JourneyMapEduardo.png)
+----
 ## Usability Review: 
-
-
 
 Enlace al documento: https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Usability%20Review%20Eatwith.pdf
 
