@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<!--------    USER JOURNEY MAP  (indexJ.html)           -------------------> 
+<!--------    [DIU] UX Toolkit  (6/12/2019)                         -------> 
+<!--------  Crear Mapa de experiencia de usuario en 6 pasos (máximo)  ----->
+<!-------- Version 1.1 CC by M.Gea, R. Montes basado en @oliverCaine  ----->
+<!--- Usado para asignatura de Diseño de Interfaces de Usuario        ------> 
+<!---- ETSI Informática y Telecomunicación, Universidad de Granada    ------>
+<!--- http://utopolis.ugr.es/diu  https://github.com/mgea/UX-DIU-Toolkit --->  
+<!--- v1.1.incluidos datos de grupo en plantilas .js + enlace github   ----->
+<!---                                                                   ----->
+
+
+<!--- HOW TO. Se debe editar Journey.js con los datos de los usuarios ----->
+<!--- Pendiente: Read&Write Json / Fichas editables                   ----->
+
+<!--- Nota: modificar los campos que están etiquetados con TEMPLATE   ------>        
+
+
+
+<html ng-app="angular">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="Miguel Gea, Rosana Montes, 2019">
+		<title>User Journey Map</title>
+        
+		<link rel="stylesheet" href="styles.css">
+		<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+        <!-- https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.2/css/all.css --->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+
+    </head>
+    <!-------  CUERPO / CONTENEDOR DE FICHAS -------------------->
+	<body ng-controller="controller">
+   
+    <!------- Mostrar todos los Usuarios disponibles / selector de fichas  ------->
+    <select class="top-right" ng-model="model" ng-options="persona.Name for persona in Journeys track by persona.Id"></select>
+   
+        
+    <!------- Datos de Persona  (foto/nombre) ------------------->
+    <div class="top-izda"><span> 
+        <img alt="Imagen" ng-src="./photos/{{model.Photo}}" class="imag">
+          <a href="indexP.html" class="imag_name">{{model.Name}} </a></span>
+    </div>
+   <!------- Cabecera de la ficha             ------------------->  
+        <h1>User Journey Map  </h1>
+
+   <!------- TEMPLATE: INtroducir nombre del grupo y fecha creación ------->
+        <h2> <b> CCBY </b> {{Grupo_ID}}     _{{Curso}} <i class="fa fa-github"></i> <a href={{Github_ID}}>  <b> {{Github_ID}}</b></a> </h2>
+
+  <p class="text-center"></p>
+        <p>&nbsp;&nbsp;</p>
+  <div class="container">
+  <div class="grid-container">
+          
+  <!---- Contenedor en grid con 7 etapas como máximo  --->
+      
+  <!---- FILA 1: PASOS --->
+  <div class="item">PASOS</div>
+  <div class="item fondo_right_arrow">1 INSPIRACION</div>
+  <div class="item fondo_right_arrow">2 DECIDE </div>  
+  <div class="item fondo_right_arrow">3 ACTUA</div>
+  <div class="item fondo_right_arrow">4 OBSERVA</div>
+  <div class="item fondo_right_arrow">5 ANALIZA</div>
+  <div class="item fondo_right_arrow">6 CONCLUSION</div>
+    
+  <!---- FILA 2 : User goals --->
+  <div class="titulos">Objetivo</div>
+  <div class="goal" contenteditable="true">{{model.goal1}}</div>  
+  <div class="goal" contenteditable="true">{{model.goal2}}</div>    
+  <div class="goal" contenteditable="true">{{model.goal3}}</div>  
+  <div class="goal" contenteditable="true">{{model.goal4}}</div>
+  <div class="goal" contenteditable="true">{{model.goal5}}</div>
+  <div class="goal" contenteditable="true">{{model.goal6}}</div>
+    
+  <!---- FILA 3 : Touch Point --->
+  <div class="titulos_laptop" >Punto Contacto</div>
+  <div class="tp1" contenteditable="true">{{model.touch1}}</div> 
+  <div class="tp2" contenteditable="true">{{model.touch2}}</div>  
+  <div class="tp3" contenteditable="true">{{model.touch3}}</div>
+  <div class="tp4" contenteditable="true">{{model.touch4}}</div>
+  <div class="tp5" contenteditable="true">{{model.touch5}}</div>
+  <div class="tp6" contenteditable="true">{{model.touch6}}</div>
+      
+   <!---- FILA 4 : Emociones 😃 🙂 😐 ☹️ 😠  --->
+  <div class="titulos_emocion">Emoción</div>
+      
+    <div class="feel" ng-model="model.feel1"><img src= "./photos/sm{{model.feel1}}.png">
+        <!--- quitado el slider 
+         <input type="range" min="1" max="5" value="{{model.feel1}}" step= "1" class="slider">
+        --->
+    </div>   
+    
+    <div class="feel"><img src= "./photos/sm{{model.feel2}}.png"></div>   
+    <div class="feel"><img src= "./photos/sm{{model.feel3}}.png"></div>   
+    <div class="feel"><img src= "./photos/sm{{model.feel4}}.png"></div>   
+    <div class="feel"><img src= "./photos/sm{{model.feel5}}.png"></div>   
+    <div class="feel"><img src= "./photos/sm{{model.feel6}}.png"></div>   
+      
+      
+<!---- FILA 5 : Conflicts --->
+  <div class="titulos">Conflicto</div>
+  <div class="con1" contenteditable="true">{{model.con1}}</div>
+  <div class="con2" contenteditable="true">{{model.con2}}</div>  
+  <div class="con3" contenteditable="true">{{model.con3}}</div>
+  <div class="con4" contenteditable="true">{{model.con4}}</div>
+  <div class="con5" contenteditable="true">{{model.con5}}</div>
+  <div class="con6" contenteditable="true">{{model.con6}}</div>
+  
+      
+  <!---- FILA 5 : Imagen representativa de la etapa --->
+  <div class="titulos" >Imagen</div>
+  <div><img alt="Imagen" ng-src="photos/{{model.ima1}}" class="imagSquare" style="height:150px"></div>  
+  <div><img alt="Imagen" ng-src="photos/{{model.ima2}}" class="imagSquare" style="height:150px"></div>  
+  <div><img alt="Imagen" ng-src="photos/{{model.ima3}}" class="imagSquare" style="height:150px" ></div>  
+  <div><img alt="Imagen" ng-src="photos/{{model.ima4}}" class="imagSquare" style="height:150px" ></div>
+  <div><img alt="Imagen" ng-src="photos/{{model.ima5}}" class="imagSquare" style="height:150px" ></div>
+  <div><img alt="Imagen" ng-src="photos/{{model.ima6}}" class="imagSquare" style="height:150px" ></div>
+  
+</div>
+            
+</div>
+
+<!------- Footer  -------------------> 
+ <div> UX DIU Toolkit 2019 v1.1 - Basado en <a href="https://github.com/olivercaine/user-persona"> oliverCaine </a>   &nbsp;&nbsp; References: <a href="https://theuxreview.co.uk/user-journeys-beginners-guide/" target="_blank"> User Journeys–The Beginner’s Guide </a> &nbsp;&nbsp; Alternative Tools:<a href="https://help.uxpressia.com/customer-journey-map-tool/customer-journey-map-overview" target="_blank"> UXPressia</a>    Github: <a href="https://github.com/mgea/UX-DIU-Toolkit" target="_blank"> UX DIU Toolkit</a> <a href="https://lsi.ugr.es/lsi/node/969" target="_blank"> ETSIIT-Universidad de Granada </a></div>
+        
+		<script src="angular.js"></script>
+        <!---- TEMPLATE: modificar los datos del fichero journey.js --->
+		<script src="Journey.js"></script>
+	</body>
+</html>

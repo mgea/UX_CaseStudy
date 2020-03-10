@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<!--------         PERSONA UX  (indexP.html)             -------------------> 
+<!--------         [DIU] UX Toolkit  (6/12/2019)                     -------> 
+<!--------         Crear una persona ficticia                        ------->
+<!-------- Version 1.1 CC by M.Gea, R. Montes basado en @oliverCaine   ----->
+<!--- Usado para asignatura de Diseño de Interfaces de Usuario        ------> 
+<!---- ETSI Informática y Telecomunicación, Universidad de Granada    ------>
+<!--- http://utopolis.ugr.es/diu  https://github.com/mgea/UX-DIU-Toolkit --->        
+<!--- v1.1.incluidos datos de grupo en plantilas .js + enlace github   ----->
+<!---       modificado boton de journey map (ubicacion y apariencia)   ----->
+
+<!--- HOW TO. Se debe editar Persona.js con los datos de los usuarios ----->
+<!--- Pendiente: Read&Write Json / Fichas editables / vista para movil ---->
+
+<!--- Nota: modificar los campos que están etiquetados con TEMPLATE   ------>        
+
+<html ng-app="angular">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+         <meta name="author" content="Miguel Gea, @usalab, 2019">
+		<title>User Persona</title>
+		<link rel="stylesheet" href="styles.css">
+		<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+	</head>
+	<body ng-controller="controller">
+		<h1>User Persona Template </h1>
+		<select class="top-right" ng-model="model" ng-options="persona.Name for persona in Personas track by persona.Id">
+        </select>
+        <a href="indexJ.html" class= "top-right-button-journey">Journey MAP </a>
+        
+
+        <!--- TEMPLATE: 
+            Introduce nombre de grupo y FECHA 
+        ------>        
+
+        <h2> <b> CCBY </b> {{Grupo_ID}}  _{{Curso}} <i class="fa fa-github"></i> <a href={{Github_ID}}>  <b> {{Github_ID}}</b></a>  </h2>      
+		<div class="container">
+			<div class="col" >
+				<div class="row" id="motives">
+					<h2>{{model.Name}}</h2>
+					<img alt="Person" ng-src="photos/{{model.Photo}}" class="fotoPersona">
+					<p class="text-center">"{{model.Quote}}"</p>
+					<ul>
+                        <li>Edad: {{model.Age}}</li>
+						<li>Ocupación: {{model.Occupation}}</li>
+						<li>Familia: {{model.Family}}</li>
+						<li>Residencia: {{model.Location}}</li>
+						<li>Motivación: {{model.Character}}</li>
+					</ul>
+				</div>
+				<div class="row" id="personalities">
+					<h2>Personalidad</h2>
+					<ul>
+						<li ng-repeat="item in model.PersonalityTraits">
+							{{item.Name}}
+							<br> <input type="range" class="sliderFeat" min="1" max="5" ng-value="item.Value" >
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col">
+                <div class="row" id="bio">
+					<h2>Bio</h2>
+					<p>{{model.Bio}}</p>
+				</div>
+				<div class="row" id="goals">
+					<h2>Metas (Goals)</h2>
+					<ul>
+						<li ng-repeat="goal in model.Goals">{{goal}}</li>
+					</ul>
+				</div>
+				<div class="row" id="fears">
+					<h2>Frustraciones (Pain Points)</h2>
+					<ul>
+						<li ng-repeat="frustration in model.Frustrations">{{frustration}}</li>
+					</ul>
+				</div>
+				
+			</div>
+			<div class="col">
+				<div class="row" id="competitive-advantages">
+					<h2>Tecnología (skills)</h2>
+					<ul>
+						<li ng-repeat="item in model.Tech">
+							{{item.Name}}
+							<br><progress class="sliderFeat" ng-value="item.Value" max="5"></progress>
+						</li>
+					</ul>
+				</div>
+				<div class="row" id="contextsit">
+					<h2>Contexto  (Needs) </h2>
+                    <p>{{model.Contextos}}</p>
+                    
+				</div>
+				<div class="row" id="solutions">
+					<h2>Canales </h2>
+					<ul>
+						<li ng-repeat="item in model.PreferredChannels">
+							{{item.Name}}
+							<br>
+                            <progress class="sliderFeat" ng-value="item.Value" max="5"></progress>
+						</li>
+					</ul>
+				</div>
+			</div>
+            
+        <!------ FOOTER ---------->
+            
+      
+       
+            
+		</div>
+        <!------ FOOTER ---------->
+            
+         UX DIU Toolkit 2019 v1.1-  Basado en <a href="https://github.com/olivercaine/user-persona"> oliverCaine</a> &nbsp; References:
+        <a href="https://theuxreview.co.uk/personas-the-beginners-guide/" target="_blank">Personas – The Beginner’s Guide by Chris Mears, 2013</a>&nbsp; Alternative Tools: <a href="https://xtensio.com/how-to-create-a-persona/" target="_blank">Xtensio</a>    Github: <a href="https://github.com/mgea/UX-DIU-Toolkit" target="_blank"> UX DIU Toolkit</a> <a href="https://lsi.ugr.es/lsi/node/969" target="_blank"> ETSIIT-Universidad de Granada </a>
+       
+        
+		<script src="angular.js"></script>
+		<script src="Persona.js"></script>
+	</body>
+</html>
