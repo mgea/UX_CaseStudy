@@ -84,8 +84,25 @@ Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+###### Matriz de tareas
 
+Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Task%20Matrix%20Mayko.pdf
+
+Se ha decidido realizar una matriz de tareas debido a que se ha identificado un grupo numeroso de posibles usuarios que accedan al sitio. Entendemos los Grupos de Usuarios como colectivos de personas que comparten características clave, que son las que otorgan la definición de grupo.
+
+Grupos de usuarios:
+- GU1: Anfitriones (Personas que quieren organizar un evento)
+- GU2: Personas que quieren conocer otras personas a través de eventos gastronómicos
+- GU3: Personas en busca de nuevas experiencias
+- GU4: Personas que quieren organizar talleres para compartir sus conocimientos
+- GU5: Personas que quieren aprender a cocinar
+- GU6: Turistas gastronómicos (tanto locales como extranjeros)
+- GU7: Empresas de catering que utilizan el sitio como otra web donde anunciar sus servicios
+
+Las tareas y los perfiles críticos son aquellos que se encuentran sombreados en gris en la tabla.
+
+- GU1 y GU6 constituyen los grupos críticos porque consideramos que son las comunidades de personas que más usan esta web
+- Las tareas críticas serán la búsqueda de actividades (esta será, con diferencia, la más realizada; ya que consiste en la funcionalidad básica del sitio), postear y comprar una experiencia.
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
