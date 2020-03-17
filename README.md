@@ -65,9 +65,9 @@ Se puede encontrar también en el readme da la P1, en el siguiente enlace: https
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
+Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Mayko%20feedback%20capture%20grid.pdf
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>>> Los puntos más destacados de la malla receptora de información consideramos que son los referentes a la navegabilidad (no es completamente intuitiva la navegación por la página y es muy fácil perderse) y la correcta y completa funcionalidad de ciertos aspectos (como pueden ser la sección de ayuda de la página o los botones de inicio)
 
 
  Interesante | Críticas     
@@ -77,9 +77,9 @@ Se puede encontrar también en el readme da la P1, en el siguiente enlace: https
   
   
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+
+>>>> Planteamos la implementación de botones más intuitivos, un sistema de ayuda más eficiente (con soporte en varios idiomas), notificaciones por geolocalización en tiempo real, breadcrumbs...
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
