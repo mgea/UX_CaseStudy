@@ -23,7 +23,7 @@ Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/
 Se ha decidido realizar una matriz de tareas debido a que se ha identificado un grupo numeroso de posibles usuarios que accedan al sitio. Entendemos los Grupos de Usuarios como colectivos de personas que comparten características clave, que son las que otorgan la definición de grupo.
 
 
->>Grupos de usuarios:
+### Grupos de usuarios:
 
 - GU1: Anfitriones (Personas que quieren organizar un evento)
 - GU2: Personas que quieren conocer otras personas a través de eventos gastronómicos
@@ -34,11 +34,11 @@ Se ha decidido realizar una matriz de tareas debido a que se ha identificado un 
 - GU7: Empresas de catering que utilizan el sitio como otra web donde anunciar sus servicios
 
 
->>Leyenda de la matriz:
+### Leyenda de la matriz:
 
 Frecuencia de uso: B (Baja), M (Media), A (Alta)
 
->> Tareas y perfiles críticos
+### Tareas y perfiles críticos
 
 Las tareas y los perfiles críticos son aquellos que se encuentran sombreados en gris en la tabla.
 - GU1 y GU6 constituyen los grupos críticos porque consideramos que son las comunidades de personas que más usan esta web
