@@ -1,4 +1,4 @@
-##DIU - Practica2, entregables
+# DIU - Practica2, entregables
 
 Malla receptora de información 
 Sitemap & Task flow 
@@ -7,8 +7,8 @@ Wireframe & User flow
 
 
 
-Malla receptora de información
+## Malla receptora de información
 
-https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Mayko%20feedback%20capture%20grid.pdf
+Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Mayko%20feedback%20capture%20grid.pdf
 
 
