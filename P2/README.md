@@ -13,3 +13,4 @@ Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/
 
 
 ![Método UX](Entregables/Feedback Capture Grid Mayko.png)
+----
