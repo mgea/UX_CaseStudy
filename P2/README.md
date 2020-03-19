@@ -46,3 +46,7 @@ Las tareas y los perfiles críticos son aquellos que se encuentran sombreados en
 
 ![Método UX](Entregables/TaskMatrixMayko.png)
 ----
+
+
+![Método UX](Entregables/Arquit-Inform-Mayko.PNG)
+----
