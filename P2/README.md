@@ -46,7 +46,11 @@ Las tareas y los perfiles críticos son aquellos que se encuentran sombreados en
 
 ![Método UX](Entregables/TaskMatrixMayko.png)
 ----
+## Arquitectura de la Información y Labelling
 
+Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Arquit-Inform-Mayko.pdf
+
+A partir de la Matriz de Tareas creada anteriormente vamos a hacer una arquitectura para un diseño ideal creado por nuestro equipo para Eatwith. Al visitar su web pudimos comprobar que, para poder mantener un diseño interactivo con el usuario, está sacrificando mucha funcionalidad y tiende a la redundancia en sus enlaces (varias opciones de la página llevan al mismo punto y puede resultar laberíntico)
 
 ![Método UX](Entregables/Arquit-Inform-Mayko.PNG)
 ----
