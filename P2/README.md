@@ -54,3 +54,53 @@ A partir de la Matriz de Tareas creada anteriormente vamos a hacer una arquitect
 
 ![Método UX](Entregables/Arquit-Inform-Mayko.PNG)
 ----
+
+
+## Bocetos
+
+### Página de inicio
+
+![Método UX](Entregables/Eatwith-Inicio.png)
+
+### Amigos
+
+![Método UX](Entregables/Eatwith-Amigos.png)
+----
+
+### Ayuda
+
+![Método UX](Entregables/Eatwith-Ayuda.png)
+----
+
+### Mensajes
+
+![Método UX](Entregables/Eatwith-Mensajes.png)
+----
+
+### Perfil
+
+![Método UX](Entregables/Eatwith-Perfil.png)
+----
+
+### Publicar
+
+![Método UX](Entregables/Eatwith-Publicar.png)
+----
+
+### Reservas
+
+![Método UX](Entregables/Eatwith-Reservas.png)
+----
+
+### Selección
+
+![Método UX](Entregables/Eatwith-Selección.png)
+----
+
+### Social
+
+![Método UX](Entregables/Eatwith-Social.png)
+----
+
+
+----
