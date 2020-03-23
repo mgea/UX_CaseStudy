@@ -60,46 +60,46 @@ A partir de la Matriz de Tareas creada anteriormente vamos a hacer una arquitect
 
 ### Página de inicio
 
-![Método UX](Entregables/Eatwith-Inicio.png)
+![Método UX](Entregables/EatwithInicio.png)
 
 ### Amigos
 
-![Método UX](Entregables/Eatwith-Amigos.png)
+![Método UX](Entregables/EatwithAmigos.png)
 ----
 
 ### Ayuda
 
-![Método UX](Entregables/Eatwith-Ayuda.png)
+![Método UX](Entregables/EatwithAyuda.png)
 ----
 
 ### Mensajes
 
-![Método UX](Entregables/Eatwith-Mensajes.png)
+![Método UX](Entregables/EatwithMensajes.png)
 ----
 
 ### Perfil
 
-![Método UX](Entregables/Eatwith-Perfil.png)
+![Método UX](Entregables/EatwithPerfil.png)
 ----
 
 ### Publicar
 
-![Método UX](Entregables/Eatwith-Publicar.png)
+![Método UX](Entregables/EatwithPublicar.png)
 ----
 
 ### Reservas
 
-![Método UX](Entregables/Eatwith-Reservas.png)
+![Método UX](Entregables/EatwithReservas.png)
 ----
 
 ### Selección
 
-![Método UX](Entregables/Eatwith-Selección.png)
+![Método UX](Entregables/EatwithSelección.png)
 ----
 
 ### Social
 
-![Método UX](Entregables/Eatwith-Social.png)
+![Método UX](Entregables/EatwithSocial.png)
 ----
 
 
