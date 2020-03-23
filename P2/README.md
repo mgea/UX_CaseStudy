@@ -60,46 +60,46 @@ A partir de la Matriz de Tareas creada anteriormente vamos a hacer una arquitect
 
 ### Página de inicio
 
-![Método UX](Entregables/EatwithInicio.png)
+![Método UX](Entregables/bocetos/EatwithInicio.png)
 
 ### Amigos
 
-![Método UX](Entregables/EatwithAmigos.png)
+![Método UX](Entregables/bocetos/EatwithAmigos.png)
 ----
 
 ### Ayuda
 
-![Método UX](Entregables/EatwithAyuda.png)
+![Método UX](Entregables/bocetos/EatwithAyuda.png)
 ----
 
 ### Mensajes
 
-![Método UX](Entregables/EatwithMensajes.png)
+![Método UX](Entregables/bocetos/EatwithMensajes.png)
 ----
 
 ### Perfil
 
-![Método UX](Entregables/EatwithPerfil.png)
+![Método UX](Entregables/bocetos/EatwithPerfil.png)
 ----
 
 ### Publicar
 
-![Método UX](Entregables/EatwithPublicar.png)
+![Método UX](Entregables/bocetos/EatwithPublicar.png)
 ----
 
 ### Reservas
 
-![Método UX](Entregables/EatwithReservas.png)
+![Método UX](Entregables/bocetos/EatwithReservas.png)
 ----
 
 ### Selección
 
-![Método UX](Entregables/EatwithSelección.png)
+![Método UX](Entregables/bocetos/EatwithSelección.png)
 ----
 
 ### Social
 
-![Método UX](Entregables/EatwithSocial.png)
+![Método UX](Entregables/bocetos/EatwithSocial.png)
 ----
 
 
