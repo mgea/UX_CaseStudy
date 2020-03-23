@@ -58,49 +58,88 @@ A partir de la Matriz de Tareas creada anteriormente vamos a hacer una arquitect
 
 ## Bocetos
 
+Todos los bocetos se encuentran recogidos en la carpeta del siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P2/Entregables/bocetos
+
 ### Página de inicio
+
+En primer lugar, como habíamos determinado que la página de inicio era muy confusa y no se percibía muy bien para qué servían o no ciertos botones, hemos diseñado una página mucho más intuitiva donde la funcionalidad de la web quede clara, y donde buscar tareas para realizar sea instintivo y automático. Asimismo, hemos apartado el menú del resto de la página (un fondo distinto) ya que no era accesible, pues no se podían leer de forma correcta las letras blancas sobre un fondo en movimiento.
+
+Enlace a la imagen: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/bocetos/EatwithInicio.png
 
 ![Método UX](Entregables/bocetos/EatwithInicio.png)
 
+
+### Selección
+
+Esta página la hemos incluido totalmente nueva. Al buscar una experiencia, preguntamos al usuario qué tipo de experiencia le interesa del abanico de posibilidades del que disponemos en el sitio, para que sea más fácil la búsqueda de la misma y mejore la usabilidad de la web.
+
+Enlace a la imagen: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/bocetos/EatwithSeleccion.png
+
+![Método UX](Entregables/bocetos/EatwithSeleccion.png)
+----
+
 ### Amigos
+
+De la misma forma, es difícil acceder a una lista de amigos sencilla o de personas que hayan sido los huéspedes/anfitriones de alguien o que hayan asistido al mismo evento. De esta forma, añadiendo esta página se puede hacer un mejor seguimiento de la faceta social del sitio.
+
+Enlace a la imagen: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/bocetos/EatwithAmigos.png
 
 ![Método UX](Entregables/bocetos/EatwithAmigos.png)
 ----
 
 ### Ayuda
 
+La página de ayuda era uno de los grandes problemas que determinamos del sitio. Cuando presionamos el enlace a preguntas frecuentes que encontramos en el sitio original, nos abre una especie de cuadro de diálogo no funcional. Hemos decidido incluir la página de ayuda con un buscador y mostrar las preguntas más frecuentes (por orden de frecuencia) más abajo. 
+
+Además, mantendremos el botón flotante de ayuda que tiene el sitio original pero cambiando el icono que se ha usado por uno mucho más instintivo.
+
+Enlace a la imagen: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/bocetos/EatwithAyuda.png
+
 ![Método UX](Entregables/bocetos/EatwithAyuda.png)
 ----
 
 ### Mensajes
+
+Actualmente no se incluye un "Asunto" o una referencia a sobre lo que se trata el mensaje en el buzón de entrada, y no se puede ver claramente dónde debemos ir para acceder a la bandeja de entrada o de salida. Hemos realizado el boceto de manera que se puedan hacer todas estas cosas.
+
+Enlace a la imagen: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/bocetos/EatwithMensajes.png
 
 ![Método UX](Entregables/bocetos/EatwithMensajes.png)
 ----
 
 ### Perfil
 
+El perfil actual muestra una foto y una especie de autobiografía, acompañada de las ofertas del usuario y los comentarios de otras personas. La primera sensación actual de la página de perfil la disposición de demasiada información, lo que vuelve esta parte confusa y en muchas ocasiones probablemente haya sectores de personas que no hayan podido encontrar lo que buscaban al introducirse en el perfil propio. Es por ello que hemos decidido ordenar la información más relevante en columnas, de forma que sea más fácil acceder a la misma, sin que sea si quiera necesario hacer scroll en la página.
+
+Enlace a la imagen: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/bocetos/EatwithPerfil.png
+
 ![Método UX](Entregables/bocetos/EatwithPerfil.png)
 ----
 
 ### Publicar
+
+De nuevo, intentamos que cualquiera pueda realizar esta tarea de forma sencilla (incluso las personas menos familiarizadas con la tecnología). Además, esta es una tarea crítica por lo tanto es importante que sea clara y que contenga toda la información necesaria para que esté completa.
+
+Enlace a la imagen: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/bocetos/EatwithPublicar.png
 
 ![Método UX](Entregables/bocetos/EatwithPublicar.png)
 ----
 
 ### Reservas
 
+Esta página muestra de forma diáfana todas las reservas pendientes, para una vista panorámica de todas las tareas personales abiertas del sitio web.
+
+Enlace a la imagen: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/bocetos/EatwithReservas.png
+
 ![Método UX](Entregables/bocetos/EatwithReservas.png)
 ----
 
-### Selección
+### Social (Redes y Blog)
 
-![Método UX](Entregables/bocetos/EatwithSelección.png)
-----
+Aquí se despliega una lista en varias columnas de enlaces a las redes sociales y al blog del sitio, representados por iconos conocidos por la mayoría de usuarios de internet y con una distribución sencilla de leer.
 
-### Social
+Enlace a la imagen: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/bocetos/EatwithSocial.png
 
 ![Método UX](Entregables/bocetos/EatwithSocial.png)
 ----
 
-
-----
