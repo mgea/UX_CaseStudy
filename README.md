@@ -108,11 +108,8 @@ Las tareas y los perfiles críticos son aquellos que se encuentran sombreados en
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![Método UX](P2/Entregables/Arquit-Inform-Mayko.PNG)
+----
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
