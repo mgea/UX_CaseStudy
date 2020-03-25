@@ -22,6 +22,8 @@ Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/
 
 Se ha decidido realizar una matriz de tareas debido a que se ha identificado un grupo numeroso de posibles usuarios que accedan al sitio. Entendemos los Grupos de Usuarios como colectivos de personas que comparten características clave, que son las que otorgan la definición de grupo.
 
+No obstante, usuarios que tengan una interfaz distinta (como podrían ser profesores y alumnos en prado) sólo habrá dos grupos: anfitriones y consumidores, que constituyen los grupos críticos.
+
 
 ### Grupos de usuarios:
 
@@ -36,7 +38,7 @@ Se ha decidido realizar una matriz de tareas debido a que se ha identificado un 
 
 ### Leyenda de la matriz:
 
-Frecuencia de uso: B (Baja), M (Media), A (Alta)
+Frecuencia de uso: Se ha generado un ranking con los posibles valores de uso para cada grupo de las distintas tareas. Los valores pueden variar desde 0 (frecuencia de uso nula) hasta 4 (frecuencia de uso muy alta), pasando por 1 (frecuencia baja), 2 (frecuencia media) y 3 (frecuencia alta).
 
 ### Tareas y perfiles críticos
 
