@@ -101,8 +101,9 @@ Grupos de usuarios:
 
 Las tareas y los perfiles críticos son aquellos que se encuentran sombreados en gris en la tabla.
 
-- GU1 y GU6 constituyen los grupos críticos porque consideramos que son las comunidades de personas que más usan esta web
-- Las tareas críticas serán la búsqueda de actividades (esta será, con diferencia, la más realizada; ya que consiste en la funcionalidad básica del sitio), postear y comprar una experiencia.
+- GU1 y GU6 constituyen los grupos críticos porque consideramos que son las comunidades de personas que más usan esta web; y en los que se pueden resumir los demás grupos.
+
+- La tarea crítica será el inicio de sesión (esta será, con diferencia, la más realizada; ya que es necesaria para poder realizar la mayoría de tareas del sitio), seguida de pedir ayuda y enviar mensajes.
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
