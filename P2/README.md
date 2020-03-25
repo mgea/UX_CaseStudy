@@ -50,7 +50,7 @@ Las tareas y los perfiles críticos son aquellos que se encuentran sombreados en
 ----
 
 
-![Método UX](Entregables/Ranking.png)
+![Método UX](Entregables/RankingTM.png)
 ----
 
 
