@@ -63,7 +63,8 @@ A partir de la Matriz de Tareas creada anteriormente vamos a hacer una arquitect
 ![Método UX](Entregables/Arquit-Inform-Mayko.PNG)
 ----
 
-
+Procedemos a describir el etiquetado:
+-INICIO: Primera instancia de la aplicación donde podemos ver de un simple vistazo como se distribuyen el resto de funciones que ofrece nuestra aplicación (segundo nivel del esquema de la arquitectura de la información)
 ## Bocetos
 
 Todos los bocetos se encuentran recogidos en la carpeta del siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P2/Entregables/bocetos
