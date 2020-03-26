@@ -64,7 +64,18 @@ A partir de la Matriz de Tareas creada anteriormente vamos a hacer una arquitect
 ----
 
 Procedemos a describir el etiquetado:
--INICIO: Primera instancia de la aplicación donde podemos ver de un simple vistazo como se distribuyen el resto de funciones que ofrece nuestra aplicación (segundo nivel del esquema de la arquitectura de la información)
+
+  - INICIO: Primera instancia de la aplicación donde podemos ver de un simple vistazo como se distribuyen el resto de funciones que ofrece nuestra aplicación (segundo nivel del esquema de la arquitectura de la información).  
+  - PERFIL: Muestra la información general del usuario, asi como accesos a tus reservas, mensajes y lista de amigos.
+  - BUSCAR EXPERIENCIA: Recopila una lista de eventos a los que el usuario puede apuntarse. Puede seleccionar si desea un evento público, privado, o desea regalar una experiencia a alguien.
+  - RADAR: Muestra eventos cercanos a tu localización en tiempo real.
+  - PUBLICAR EXPERIENCIA: Ofrece una plantilla para publicar el evento que deseamos preparar.
+  - AYUDA: Abre la página de respuestas a dudas frecuentes que pueda tener el usuario y a un buscador de preguntas.
+  - SOCIAL: Muestra botones que redirigen a las redes sociales de nuestra aplicación y al blog donde publicamos novedades
+  - RESERVAS: Lista de eventos a los que han confirmado tu asistencia.
+  - MENSAJES: Bandeja de entrada de mensajes de otros usuarios y mensajes enviados por ti.
+  - AMIGOS: Lista de gente agregada en la aplicación donde puedes consultar sus perfiles. 
+
 ## Bocetos
 
 Todos los bocetos se encuentran recogidos en la carpeta del siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P2/Entregables/bocetos
