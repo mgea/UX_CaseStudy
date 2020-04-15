@@ -100,7 +100,7 @@ Planteamos como propuesta de valor para un nuevo diseño de aplicación para eco
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-###### Matriz de tareas
+#### Matriz de tareas
 
 Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Task%20Matrix%20Mayko.pdf
 
