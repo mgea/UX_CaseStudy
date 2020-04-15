@@ -31,7 +31,11 @@ Toda la documentación sobre este paso se encuentra explicada con mayor detalle 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+El catálogo de ofertas es un punto de esta web. Eatwith ofrece un rango tanto de experiencias como de precios muchísimo más extenso que el resto de aplicaciones y por ello llega a un público mayor que las otras aplicaciones, quizá con precios más asequibles o experiencias exclusivas. Aparte, su repertorio de experiencias es mucho más global que el resto de las webs analizadas(por ejemplo, Artery se encuentra muy limitada a Estados Unidos) y eso facilita que cualquier usuario de cualquier parte del mundo pueda encontrar un plan de quedar cerca de él.
+
+Detalles como ver la cantidad de gente que conforma un grupo, consultar menús que van a ser servidos, información hipoalergénica, gran cantidad de fechas disponibles para asistir al evento puede parecer no tener importancia para nosotros pero son de gran importancia para gente celíaca, alérgica, con poca disponibilidad....
+
+> El documento final se encuentra en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/CompetitiveAnalysis.png
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -39,6 +43,11 @@ Toda la documentación sobre este paso se encuentra explicada con mayor detalle 
 Enlace a la ficha de la persona 1: Amparo González https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
 
 Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extendido en la sociedad y realmente no suele ser el mercado al que van dirigidas este tipo de aplicaciones.
+
+Enlace a la ficha de la persona 2: Eduardo Benítez
+https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/EduardoBenitez.png
+
+Hemos creado este perfil porque es cada vez más recurrente entre el público joven-adulto actual: es el perfil estándar de una persona que tiene la tecnología muy integrada en su vida diaria.
 
 > El contenido más detallado de estas personas se encuentra en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
 
@@ -49,7 +58,13 @@ Enlace al Journey Map de Amparo (pdf): https://github.com/NaroaAlonso/DIU20/blob
 
 Creemos que este mapa representa una situación habitual: cada vez son más las personas que tienen una mediana edad y comienzan a utilizar este tipo de aplicaciones para salir de su zona de comfort o para encontrar personas con sus gustos similares. No obstante, muchos de ellos dejan de intentarlo porque generalmente suelen ser sitios de citas y no es exactamente lo que buscan.
 
+Enlace al Journey Map de Eduardo (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapEduardo.pdf
+
+Una manera un poco distinta de usar las aplicaciones de experiencia de uso: Cada vez es más común que los trabajadores busquen empresas donde puedan mantener un ambiente positivo de trabajo y por ello buscan aficiones comunes entre ellos, pero la sede de empresas que lo promueven suele encontrarse en los núcleos de alta población.
+
 Se puede encontrar también en el readme da la P1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
+
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
