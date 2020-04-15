@@ -34,11 +34,11 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Enlace a la ficha de la persona 1: Amparo González https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
+Enlace a la ficha de la persona 1: Amparo González https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
 
 Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extendido en la sociedad y realmente no suele ser el mercado al que van dirigidas este tipo de aplicaciones.
 
->>> Más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
+>>> El contenido más detallado de estas personas se encuentra en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -51,34 +51,31 @@ Se puede encontrar también en el readme da la P1, en el siguiente enlace: https
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 
->>> - Enlace al documento:  https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Usability%20Review%20Eatwith.pdf
->>> - Valoración final (numérica): 75 - Buena
->>> - Comentario sobre la valoración:  Realmente la plataforma elegida es funcional e implementa correctamente la mayoria de las tareas que podemos pensar que una persona va a realizar, pero falla en algunos elementos relacionados con la accesibilidad y con la navegabilidad del sitio.
+- Enlace al análisis del análisis de usabilidad de EatWith.es:  https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Usability%20Review%20Eatwith.pdf
+- Valoración final (numérica) obtenida del análisis: 75 - Buena
 
->>> - Informe más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
+- Conclusión:  Realmente la plataforma elegida es funcional e implementa correctamente la mayoria de las tareas que podemos pensar que una persona va a realizar, pero falla en algunos elementos relacionados con la accesibilidad y con la navegabilidad del sitio.
+
+>>> El contenido de este informe se encuentra más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
 
 
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid (Malla receptora de la información)
 ----
 Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Mayko%20feedback%20capture%20grid.pdf
 
->>> Los puntos más destacados de la malla receptora de información consideramos que son los referentes a la navegabilidad (no es completamente intuitiva la navegación por la página y es muy fácil perderse) y la correcta y completa funcionalidad de ciertos aspectos (como pueden ser la sección de ayuda de la página o los botones de inicio)
+Los puntos más destacados de la malla receptora de información consideramos que son los referentes a la navegabilidad (no es completamente intuitiva la navegación por la página y es muy fácil perderse) y la correcta y completa funcionalidad de ciertos aspectos (como pueden ser la sección de ayuda de la página o los botones de inicio)
 
 
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
   
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 
->>>> Planteamos la implementación de botones más intuitivos, un sistema de ayuda más eficiente (con soporte en varios idiomas), notificaciones por geolocalización en tiempo real, breadcrumbs...
+Planteamos como propuesta de valor para un nuevo diseño de aplicación para economía colaborativa la implementación de botones más intuitivos, un sistema de ayuda más eficiente (con soporte en varios idiomas), notificaciones por geolocalización en tiempo real, breadcrumbs...
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
