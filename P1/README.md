@@ -40,6 +40,8 @@ Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extend
 ### Persona 2: 
 >>> Enlace a la persona 1 (pdf): Eduardo Benítez https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/EduardoBenitez.pdf
 
+Hemos creado este perfil porque es cada vez más recurrente entre el público joven-adulto actual: es el perfil estándar de una persona que tiene la tecnología muy integrada en su vida diaria.
+
 ![Método UX](Entregables/EduardoBenitez.png)
 ----
 
