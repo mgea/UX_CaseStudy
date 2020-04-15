@@ -26,6 +26,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ## Paso 1. UX Desk Research & Analisis 
 
+Toda la documentación sobre este paso se encuentra explicada con mayor detalle en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
+
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
@@ -61,6 +63,8 @@ Se puede encontrar también en el readme da la P1, en el siguiente enlace: https
 
 
 ## Paso 2. UX Design  
+
+>Toda la documentación sobre este paso se encuentra explicada con mayor detalle en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P2/README.md
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid (Malla receptora de la información)
