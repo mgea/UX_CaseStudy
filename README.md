@@ -5,8 +5,11 @@ Grupo: DIU1_01AABB.  Curso: 2019/20
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
+
 Descripción: 
+
 >>> Describa la idea de su producto en la práctica 2 
+
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
