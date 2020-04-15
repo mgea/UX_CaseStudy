@@ -38,7 +38,7 @@ Enlace a la ficha de la persona 1: Amparo González https://github.com/NaroaAlon
 
 Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extendido en la sociedad y realmente no suele ser el mercado al que van dirigidas este tipo de aplicaciones.
 
->>> El contenido más detallado de estas personas se encuentra en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
+> El contenido más detallado de estas personas se encuentra en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -57,7 +57,7 @@ Se puede encontrar también en el readme da la P1, en el siguiente enlace: https
 
 - Conclusión:  Realmente la plataforma elegida es funcional e implementa correctamente la mayoria de las tareas que podemos pensar que una persona va a realizar, pero falla en algunos elementos relacionados con la accesibilidad y con la navegabilidad del sitio.
 
->>> El contenido de este informe se encuentra más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
+> El contenido de este informe se encuentra más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
 
 
 ## Paso 2. UX Design  
