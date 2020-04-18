@@ -82,12 +82,12 @@ de colores rojizos seleccionada para la aplicación por lo que se integra perfec
 ## SEGUIMIENTO DE PROGRESO (Progress Tracker)
 Los bocetos diseñados en la P2 no entraban en la suficiente profundidad como para necesitar diseñar una barra de progreso de pago para confirmar reserva de un evento. Dado a que estamos realizando el diseño de una aplicación debemos ajustarnos al espacio que ofrece la 
 pantalla de un teléfono o tablet, por tanto la propuesta que realizamos es la de crear una numeración en los pasos a seguir durante el pago de la siguiente forma:
-          1) Datos---------------------
-             -campos a rellenar-
-          2)Pago----------------------
-              -campos a rellenar-
-          3)Confirmación------------
-              -campos a rellenar-
+         > 1) Datos---------------------
+          >>   -campos a rellenar-
+         > 2)Pago----------------------
+          >>    -campos a rellenar-
+         > 3)Confirmación------------
+          >>    -campos a rellenar-
 
 ## MAPAS
 El principal atractivo de nuestra aplicación es disponer de un servicio de eventos ofrecidos según el sistema GPS detecta la zona en la que te encuentras. Es imprescindible, por tanto, que el plano GPS que ofrezca la aplicación sea sencillo e intuitivo, sin información que entorpezca la comprensión de las instrucciones. En una hipotética implementación del sistema crearíamos una pagina con un mapa y con una serie de instrucciones sencillas para ayudar al cliente a llegar a su destino.
