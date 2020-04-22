@@ -41,24 +41,30 @@ Detalles como ver la cantidad de gente que conforma un grupo, consultar menús q
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
+#### Persona 1: Amparo González
+
 > Enlace a la ficha de la persona 1: Amparo González https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
 
 Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extendido en la sociedad y realmente no suele ser el mercado al que van dirigidas este tipo de aplicaciones.
+
+#### Persona 2: Eduardo Benítez
 
 > Enlace a la ficha de la persona 2: Eduardo Benítez
 https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/EduardoBenitez.png
 
 Hemos creado este perfil porque es cada vez más recurrente entre el público joven-adulto actual: es el perfil estándar de una persona que tiene la tecnología muy integrada en su vida diaria.
 
-> El contenido más detallado de estas personas se encuentra en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
-
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+#### Journey Map de Amparo
+
 > Enlace al Journey Map de Amparo (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapAmparo.pdf
 
 Creemos que este mapa representa una situación habitual: cada vez son más las personas que tienen una mediana edad y comienzan a utilizar este tipo de aplicaciones para salir de su zona de comfort o para encontrar personas con sus gustos similares. No obstante, muchos de ellos dejan de intentarlo porque generalmente suelen ser sitios de citas y no es exactamente lo que buscan.
+
+#### Journet Map de Eduardo
 
 > Enlace al Journey Map de Eduardo (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapEduardo.pdf
 
@@ -68,9 +74,8 @@ Una manera un poco distinta de usar las aplicaciones de experiencia de uso: Cada
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
-> El contenido de este informe se encuentra más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
+> Enlace al análisis del análisis de usabilidad de EatWith.es (en formato pdf):  https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Usability%20Review%20Eatwith.pdf
 
-- Enlace al análisis del análisis de usabilidad de EatWith.es:  https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Usability%20Review%20Eatwith.pdf
 - Valoración final (numérica) obtenida del análisis: 75 - Buena
 
 - Conclusión:  Realmente la plataforma elegida es funcional e implementa correctamente la mayoria de las tareas que podemos pensar que una persona va a realizar, pero falla en algunos elementos relacionados con la accesibilidad y con la navegabilidad del sitio.
@@ -83,6 +88,7 @@ Una manera un poco distinta de usar las aplicaciones de experiencia de uso: Cada
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid (Malla receptora de la información)
 ----
+
 > Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Mayko%20feedback%20capture%20grid.pdf
 
 Los puntos más destacados de la malla receptora de información consideramos que son los referentes a la navegabilidad (no es completamente intuitiva la navegación por la página y es muy fácil perderse) y la correcta y completa funcionalidad de ciertos aspectos (como pueden ser la sección de ayuda de la página o los botones de inicio)
