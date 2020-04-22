@@ -136,21 +136,26 @@ Las tareas y los perfiles críticos son aquellos que se encuentran sombreados en
 ----
 Procedemos a describir el etiquetado:
 
- - INICIO: Primera instancia de la aplicación donde podemos ver de un simple vistazo como se distribuyen el resto de funciones que ofrece nuestra aplicación (segundo nivel del esquema de la arquitectura de la información).
- - PERFIL: Muestra la información general del usuario, asi como accesos a tus reservas, mensajes y lista de amigos.
- - BUSCAR EXPERIENCIA: Recopila una lista de eventos a los que el usuario puede apuntarse. Puede seleccionar si desea un evento público, privado, o desea regalar una experiencia a alguien.
- - RADAR: Muestra eventos cercanos a tu localización en tiempo real.
- - PUBLICAR EXPERIENCIA: Ofrece una plantilla para publicar el evento que deseamos preparar.
- - AYUDA: Abre la página de respuestas a dudas frecuentes que pueda tener el usuario y a un buscador de preguntas.
- - SOCIAL: Muestra botones que redirigen a las redes sociales de nuestra aplicación y al blog donde publicamos novedades
- - RESERVAS: Lista de eventos a los que han confirmado tu asistencia.
- - MENSAJES: Bandeja de entrada de mensajes de otros usuarios y mensajes enviados por ti.
- - AMIGOS: Lista de gente agregada en la aplicación donde puedes consultar sus perfiles.
+ - **Inicio**: Primera instancia de la aplicación donde podemos ver de un simple vistazo como se distribuyen el resto de funciones que ofrece nuestra aplicación (segundo nivel del esquema de la arquitectura de la información).
+ - **Perfil**: Muestra la información general del usuario, asi como accesos a tus reservas, mensajes y lista de amigos.
+ - **Buscar experiencia**: Recopila una lista de eventos a los que el usuario puede apuntarse. Puede seleccionar si desea un evento público, privado, o desea regalar una experiencia a alguien.
+ - **Radar**: Muestra eventos cercanos a tu localización en tiempo real.
+ - **Publicar experiencia**: Ofrece una plantilla para publicar el evento que deseamos preparar.
+ - **Ayuda**: Abre la página de respuestas a dudas frecuentes que pueda tener el usuario y a un buscador de preguntas.
+ - **Social**: Muestra botones que redirigen a las redes sociales de nuestra aplicación y al blog donde publicamos novedades
+ - **Reservas**: Lista de eventos a los que han confirmado tu asistencia.
+ - **Mensajes**: Bandeja de entrada de mensajes de otros usuarios y mensajes enviados por ti.
+ - **Amigos**: Lista de gente agregada en la aplicación donde puedes consultar sus perfiles.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
+![Método UX](P2/Entregables/Bocetos/resumen.jpg)
+----
+
 > Todos los bocetos se encuentran recogidos en la carpeta del siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P2/Entregables/bocetos
+
+
 
 #### Página de inicio
 
