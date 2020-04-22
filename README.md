@@ -187,30 +187,32 @@ Aquí se despliega una lista en varias columnas de enlaces a las redes sociales 
 
 ## Paso 3. Make (Prototyping) 
 
+> Toda la información se puede encontrar de forma más detallada en el Readme de la práctica 3, que se encuentra en el enlace siguiente: https://github.com/NaroaAlonso/DIU20/blob/master/P3/README.md
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+### 3.a Análisis de MuseMap
 -----
+Enlace al análisis completo:  
+
+#### Consideraciones generales
+
+La forma en la que está explicado todo este proceso mantiene en todo momento un lenguaje sencillo y estructurado, y la información se ofrece de forma concisa; acompañada de fotos, diagramas y diversos objetos envueltos en color y dispuestos de una forma muy atractiva visualmente; lo que hace este artículo entretenido de leer y muy atractivo. Asimismo, la mayor parte del tiempo (salvo, pensamos, en la arquitectura de la información, como hemos comentado anteriormente) se guarda una relación lógica entre el orden en el que se han llevado a cabo el desarrollo del diseño y en el que se han explicado las acciones tomadas, lo que también lo hace fácil de seguir. Seguimos pensando que hay ciertas incongruencias en algunos Key Findings en relación con las herramientas usadas para llegar a estas conclusiones, como se ha señalado con el mapa de experiencia de usuario; y nos hubiera parecido mucho más acertado ahondar en cierta medida en las personas creadas para obtener una visión más real de hasta dónde puede llegar esta aplicación y por qué medios. A rasgos generales, nos parece un buen trabajo.
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
-
-![Método UX](img/landing-page.png)  3.b Landing Page
-----
-
-
->>> Plantear Landing Page 
-
-![Método UX](img/guidelines.png) 3.c Guidelines
-----
+### 3.b Propuesta de elementos de diseño o patrones a usar
+-----
 
 A partir del estudio intensivo sobre patrones y guias proporcionado en la web https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/ haremos un análisis sobre las decisiones de diseño que hemos realizado para la creación de bocetos simples en la anterior práctica, y también apuntaremos aquellos que nos resulten llamativos o necesarios a la hora de realizar un hipotético rediseño de la Web. 
 
 Enlace al documento read.me explicativo: https://github.com/NaroaAlonso/DIU20/tree/master/P3#eatwith-patrones-y-gu%C3%ADas
 
-![Método UX](img/mockup.png)  3.d Mockup
+
+### 3.c Historia en Video del UX Case Study
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+
+### 3.d Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+----
+
 
 
 ## Paso 4. UX Check (Usability Testing) 
