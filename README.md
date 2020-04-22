@@ -26,7 +26,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ## Paso 1. UX Desk Research & Analisis 
 
-Toda la documentación sobre este paso se encuentra explicada con mayor detalle en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
+> Toda la documentación sobre este paso se encuentra explicada con mayor detalle en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
@@ -40,51 +40,49 @@ Detalles como ver la cantidad de gente que conforma un grupo, consultar menús q
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Enlace a la ficha de la persona 1: Amparo González https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
+> Enlace a la ficha de la persona 1: Amparo González https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
 
 Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extendido en la sociedad y realmente no suele ser el mercado al que van dirigidas este tipo de aplicaciones.
 
-Enlace a la ficha de la persona 2: Eduardo Benítez
+> Enlace a la ficha de la persona 2: Eduardo Benítez
 https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/EduardoBenitez.png
 
 Hemos creado este perfil porque es cada vez más recurrente entre el público joven-adulto actual: es el perfil estándar de una persona que tiene la tecnología muy integrada en su vida diaria.
 
 > El contenido más detallado de estas personas se encuentra en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
 
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Enlace al Journey Map de Amparo (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapAmparo.pdf
+> Enlace al Journey Map de Amparo (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapAmparo.pdf
 
 Creemos que este mapa representa una situación habitual: cada vez son más las personas que tienen una mediana edad y comienzan a utilizar este tipo de aplicaciones para salir de su zona de comfort o para encontrar personas con sus gustos similares. No obstante, muchos de ellos dejan de intentarlo porque generalmente suelen ser sitios de citas y no es exactamente lo que buscan.
 
-Enlace al Journey Map de Eduardo (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapEduardo.pdf
+> Enlace al Journey Map de Eduardo (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapEduardo.pdf
 
 Una manera un poco distinta de usar las aplicaciones de experiencia de uso: Cada vez es más común que los trabajadores busquen empresas donde puedan mantener un ambiente positivo de trabajo y por ello buscan aficiones comunes entre ellos, pero la sede de empresas que lo promueven suele encontrarse en los núcleos de alta población.
-
-Se puede encontrar también en el readme da la P1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
-
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
+
+> El contenido de este informe se encuentra más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
 
 - Enlace al análisis del análisis de usabilidad de EatWith.es:  https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Usability%20Review%20Eatwith.pdf
 - Valoración final (numérica) obtenida del análisis: 75 - Buena
 
 - Conclusión:  Realmente la plataforma elegida es funcional e implementa correctamente la mayoria de las tareas que podemos pensar que una persona va a realizar, pero falla en algunos elementos relacionados con la accesibilidad y con la navegabilidad del sitio.
 
-> El contenido de este informe se encuentra más detallado en el README de la práctica 1, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
-
 
 ## Paso 2. UX Design  
 
->Toda la documentación sobre este paso se encuentra explicada con mayor detalle en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P2/README.md
+> Toda la documentación sobre este paso se encuentra explicada con mayor detalle en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P2/README.md
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid (Malla receptora de la información)
 ----
-Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Mayko%20feedback%20capture%20grid.pdf
+> Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Mayko%20feedback%20capture%20grid.pdf
 
 Los puntos más destacados de la malla receptora de información consideramos que son los referentes a la navegabilidad (no es completamente intuitiva la navegación por la página y es muy fácil perderse) y la correcta y completa funcionalidad de ciertos aspectos (como pueden ser la sección de ayuda de la página o los botones de inicio)
 
@@ -102,7 +100,7 @@ Planteamos como propuesta de valor para un nuevo diseño de aplicación para eco
 
 #### Matriz de tareas
 
-Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Task%20Matrix%20Mayko.pdf
+> Enlace al documento en pdf: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Task%20Matrix%20Mayko.pdf
 
 Se ha decidido realizar una matriz de tareas debido a que se ha identificado un grupo numeroso de posibles usuarios que accedan al sitio. Entendemos los Grupos de Usuarios como colectivos de personas que comparten características clave, que son las que otorgan la definición de grupo.
 
@@ -124,6 +122,8 @@ Las tareas y los perfiles críticos son aquellos que se encuentran sombreados en
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
+> Enlace a la imagen: https://github.com/NaroaAlonso/DIU20/blob/master/P2/Entregables/Arquit-Inform-Mayko.PNG
+
 
 ![Método UX](P2/Entregables/Arquit-Inform-Mayko.PNG)
 ----
@@ -142,10 +142,48 @@ Procedemos a describir el etiquetado:
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-![Método UX](P2/Entregables/bocetos/Resumen.jpg)
------
 
-Todos los bocetos se encuentran recogidos en la carpeta del siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P2/Entregables/bocetos
+> Todos los bocetos se encuentran recogidos en la carpeta del siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P2/Entregables/bocetos
+
+#### Página de inicio
+
+En primer lugar, como habíamos determinado que la página de inicio era muy confusa y no se percibía muy bien para qué servían o no ciertos botones, hemos diseñado una página mucho más intuitiva donde la funcionalidad de la web quede clara, y donde buscar tareas para realizar sea instintivo y automático. Asimismo, hemos apartado el menú del resto de la página (un fondo distinto) ya que no era accesible, pues no se podían leer de forma correcta las letras blancas sobre un fondo en movimiento.
+
+
+#### Selección
+
+Esta página la hemos incluido totalmente nueva. Al buscar una experiencia, preguntamos al usuario qué tipo de experiencia le interesa del abanico de posibilidades del que disponemos en el sitio, para que sea más fácil la búsqueda de la misma y mejore la usabilidad de la web.
+
+#### Amigos
+
+De la misma forma, es difícil acceder a una lista de amigos sencilla o de personas que hayan sido los huéspedes/anfitriones de alguien o que hayan asistido al mismo evento. De esta forma, añadiendo esta página se puede hacer un mejor seguimiento de la faceta social del sitio.
+
+#### Ayuda
+
+La página de ayuda era uno de los grandes problemas que determinamos del sitio. Cuando presionamos el enlace a preguntas frecuentes que encontramos en el sitio original, nos abre una especie de cuadro de diálogo no funcional. Hemos decidido incluir la página de ayuda con un buscador y mostrar las preguntas más frecuentes (por orden de frecuencia) más abajo. 
+
+Además, mantendremos el botón flotante de ayuda que tiene el sitio original pero cambiando el icono que se ha usado por uno mucho más instintivo.
+
+#### Mensajes
+
+Actualmente no se incluye un "Asunto" o una referencia a sobre lo que se trata el mensaje en el buzón de entrada, y no se puede ver claramente dónde debemos ir para acceder a la bandeja de entrada o de salida. Hemos realizado el boceto de manera que se puedan hacer todas estas cosas.
+
+#### Perfil
+
+El perfil actual muestra una foto y una especie de autobiografía, acompañada de las ofertas del usuario y los comentarios de otras personas. La primera sensación actual de la página de perfil la disposición de demasiada información, lo que vuelve esta parte confusa y en muchas ocasiones probablemente haya sectores de personas que no hayan podido encontrar lo que buscaban al introducirse en el perfil propio. Es por ello que hemos decidido ordenar la información más relevante en columnas, de forma que sea más fácil acceder a la misma, sin que sea si quiera necesario hacer scroll en la página.
+
+#### Publicar
+
+De nuevo, intentamos que cualquiera pueda realizar esta tarea de forma sencilla (incluso las personas menos familiarizadas con la tecnología). Además, esta es una tarea crítica por lo tanto es importante que sea clara y que contenga toda la información necesaria para que esté completa.
+
+#### Reservas
+
+Esta página muestra de forma diáfana todas las reservas pendientes, para una vista panorámica de todas las tareas personales abiertas del sitio web.
+
+#### Social (Redes y Blog)
+
+Aquí se despliega una lista en varias columnas de enlaces a las redes sociales y al blog del sitio, representados por iconos conocidos por la mayoría de usuarios de internet y con una distribución sencilla de leer.
+
 
 ## Paso 3. Make (Prototyping) 
 
@@ -154,7 +192,7 @@ Todos los bocetos se encuentran recogidos en la carpeta del siguiente enlace: ht
 ### 3.a Análisis de MuseMap
 -----
 
-Enlace al análisis completo (en pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P3/Entregables/Analisis%20MuseMap%20Mayko.pdf 
+> Enlace al análisis completo (en pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P3/Entregables/Analisis%20MuseMap%20Mayko.pdf 
 
 #### Consideraciones generales
 
@@ -172,9 +210,10 @@ A rasgos generales, nos parece un buen trabajo.
 ### 3.b Propuesta de elementos de diseño o patrones a usar
 -----
 
+> Enlace al documento (en pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P3/Entregables/EatWith%20Guidelines%20Mayko.pdf
+
 A partir del estudio intensivo sobre patrones y guias proporcionado en la web https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/ haremos un análisis sobre las decisiones de diseño que hemos realizado para la creación de bocetos simples en la anterior práctica, y también apuntaremos aquellos que nos resulten llamativos o necesarios a la hora de realizar un hipotético rediseño de la Web. 
 
-Enlace al documento (en pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P3/Entregables/EatWith%20Guidelines%20Mayko.pdf
 
 
 ### 3.c Historia en Video del UX Case Study
