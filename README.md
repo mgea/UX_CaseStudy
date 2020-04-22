@@ -163,7 +163,7 @@ Procedemos a describir el etiquetado:
 > Toda la información se puede encontrar de forma más detallada en el Readme de la práctica 3, que se encuentra en el enlace siguiente: https://github.com/NaroaAlonso/DIU20/blob/master/P3/README.md
 
 ### 3.a Análisis de MuseMap
------
+
 
 > Enlace al análisis completo (en pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P3/Entregables/Analisis%20MuseMap%20Mayko.pdf 
 
@@ -181,7 +181,7 @@ A rasgos generales, nos parece un buen trabajo.
 
 
 ### 3.b Propuesta de elementos de diseño o patrones a usar
------
+
 
 > Enlace al documento (en pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P3/Entregables/EatWith%20Guidelines%20Mayko.pdf
 
@@ -190,11 +190,11 @@ A partir del estudio intensivo sobre patrones y guias proporcionado en la web ht
 
 
 ### 3.c Historia en Video del UX Case Study
-----
+
 
 
 ### 3.d Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
-----
+
 
 
 ## Paso 4. Evaluación
