@@ -3,14 +3,13 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: Mayko.  Curso: 2019/20 
 
-Proyecto: DIU3 - Experiencias de Compartir Ocio
-
-Descripción: Hemos decidido crear una aplicación para dispositivos móviles que nos ofrezca una nueva forma de disfrutar de la gastronomía y de compartir experiencias. Se trata de ***Recetup***, con la cuál podremos estar completamente informados de los eventos gastronómicos que ocurren a nuestro alrededor y buscar nuevas formas de vivir este arte culinario.
-
-Logotipo: 
+Proyecto: Recetup
 
 ![Método UX](img/RecetupLogo.png)
 -----
+
+Hemos decidido crear una aplicación para dispositivos móviles que nos ofrezca una nueva forma de disfrutar de la gastronomía y de compartir experiencias. Se trata de ***Recetup***, con la cuál podremos estar completamente informados de los eventos gastronómicos que ocurren a nuestro alrededor y buscar nuevas formas de vivir este arte culinario.
+
 
 Miembros
  * :bust_in_silhouette:   Naroa Alonso
