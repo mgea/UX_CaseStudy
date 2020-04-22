@@ -1,4 +1,5 @@
 # MuseMap: Análisis del proceso de diseño
+----
 
 ## Introducción de la aplicación y detalles técnicos
 
@@ -64,38 +65,41 @@ En el caso de MuseMap la han incluido justo al final, antes de determinar aspect
 La forma en la que está explicada todo este proceso mantiene en todo momento un lenguaje sencillo y estructurado, y la información se ofrece de forma concisa; acompañada de fotos, diagramas y diversos objetos envueltos en color y dispuestos de una forma muy atractiva visualmente; lo que hace este artículo entretenido de leer y muy atractivo. Asimismo, la mayor parte del tiempo (salvo, pensamos, en la arquitectura de la información, como hemos comentado anteriormente) se guarda una relación lógica entre el orden en el que se han llevado a cabo el desarrollo del diseño y en el que se han explicado las acciones tomadas, lo que también lo hace fácil de seguir. Seguimos pensando que hay ciertas incongruencias en algunos Key Findings en relación con las herramientas usadas para llegar a estas conclusiones, como se ha señalado con el mapa de experiencia de usuario; y nos hubiera parecido mucho más acertado ahondar en cierta medida en las personas creadas para obtener una visión más real de hasta dónde puede llegar esta aplicación y por qué medios.
 A rasgos generales, nos parece un buen trabajo.
 
-# EatWith: Patrones y Guías
+
+
+# EatWith: Propuesta de elementos de diseño o patrones a usar
+----
 
 Tomando como referencia la web proporcionada por la práctica de https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/ revisaremos buenas decisiones de diseño que realizamos para la creación de bocetos simples para Eatwith, y también apuntaremos aquellos que nos resulten llamativos o necesarios a la hora de realizar un hipotético rediseño de la Web. Al revisar este artículo hemos descubierto que hay muchas funcionalidades que quizá no habíamos contemplado, bien porque nuestros bocetos de la P2 eran demasiado esquemáticos o porque habíamos omitido la necesidad de incluirlos, así que en este apartado ofrecemos descripciones de diseños ideales que integraríamos en la app para mejorar la UX:
 
-## BOTONES DE LLAMADA DE ACCIÓN
+### Botones de llamada de acción
 En los bocetos simplificados dabamos muestras de un sistema de botones muy intuitivos y que el usuario reconocería a simple vista, como un icono de persona para acceder a nuestro perfil o el botón de unos cascos con micro para representar el acceso a la página de Ayuda. 
 Sin embargo, algunos botones como los de redes sociales pueden no ser tan intuitivos para usuarios que no estén acostumbrados a su uso, por tanto consideramos buena práctica incluir pequeñas descripciones acompañándolos.
 
-## BREADCRUMBS
+### Breadcrumbs
 En los bocetos presentados no dábamos indicación de incluir breadcrumbs ya que mostrábamos una Arquitectura de la información bastante simplificada. En caso de poseer más niveles de profundidad sería ideal incluir un sistema sencillo en la parte superior de la aplicación indicando la ruta que ha seguido el usuario (Inicio>Seleccionar>Evento>Categoría)
 
-## BARRAS DE BÚSQUEDA
+### Barras de búsqueda
 Hemos mantenido la barra de búsqueda siempre en el mismo lugar de la interfaz para que el usuario la tenga siempre localizada y no tenga que buscar dónde se encuentra en distintas páginas. Su diseño en la web es bastante simplificado, pero a la vez destacado entre la aleta
 de colores rojizos seleccionada para la aplicación por lo que se integra perfectamente.
 
-## SEGUIMIENTO DE PROGRESO (Progress Tracker)
+### Seguimiento de progreso (Progress Tracker)
 Los bocetos diseñados en la P2 no entraban en la suficiente profundidad como para necesitar diseñar una barra de progreso de pago para confirmar reserva de un evento. Dado a que estamos realizando el diseño de una aplicación debemos ajustarnos al espacio que ofrece la 
 pantalla de un teléfono o tablet, por tanto la propuesta que realizamos es la de crear una numeración en los pasos a seguir durante el pago.
 
-## MAPAS
+### Mapas
 El principal atractivo de nuestra aplicación es disponer de un servicio de eventos ofrecidos según el sistema GPS detecta la zona en la que te encuentras. Es imprescindible, por tanto, que el plano GPS que ofrezca la aplicación sea sencillo e intuitivo, sin información que entorpezca la comprensión de las instrucciones. En una hipotética implementación del sistema crearíamos una pagina con un mapa y con una serie de instrucciones sencillas para ayudar al cliente a llegar a su destino.
 
-## RESULTADOS DE LA BÚSQUEDA
+### Resultados de la búsqueda
 Dentro de nuestro buscador de eventos incluimos la opción de añadir campos para reducir la búsqueda, los cuales se indicarían justo debajo de la barra de búsqueda.
 
-## CALENDARIO
+### Calendario
 Como nuestra aplicación ofrece servicios de eventos es prioridad que el sistema de calendario sea exacto y conciso. Una buena decisión de implementación sería indicar al lado de cada reserva que tenemos realizada el día en el que se va a celebrar el evento. Aparte, a la
 hora de buscar eventos por fecha lo ideal es separarlos en grupos de experiencias celebradas en el mismo día, simplificando la tarea del usuario de estar comprobando continuamente dentro del mismo evento cúando se celebra.
 
-## “CONOCE AL EQUIPO”
+### “Conoce al equipo”
 En los bocetos de la app no tuvimos la idea de incluir este tipo de página, pero ahora consideramos que un apartado en el cual se presenta a la empresa trabajadora es una funcionalidad bastante interesante. Da una impresión de acercamiento entre empresa y 
 usuario, conocer a los trabajadores y sus motivaciones por los cuales decidieron emprender este proyecto. Incluso puede incluir enlaces a páginas de reclutamiento de trabajadores para personas que han descubierto la aplicación y les gustaría presentar un CV, por ejemplo.
 
-## PÁGINA DE MANTENIMIENTO
+### Página de mantenimiento
 Es posible que tengamos que interrumpir los servicios de la app para arreglar dificultades técnicas. Intentamos alejarnos lo máximo posible de la pantalla en blanco tan característica de Error 404 de Google y se presentaría una página que mantiene la estética en colores rojizos de la web, presentando un mensaje de mantenimiento y los motivos por los cuales no se encuentra en funcionamiento la página.
