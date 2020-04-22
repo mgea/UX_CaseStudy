@@ -191,11 +191,19 @@ Aquí se despliega una lista en varias columnas de enlaces a las redes sociales 
 
 ### 3.a Análisis de MuseMap
 -----
-Enlace al análisis completo:  
+Enlace al análisis completo (en pdf): https://github.com/NaroaAlonso/DIU20/tree/master/P3/Entregables  
 
 #### Consideraciones generales
 
-La forma en la que está explicado todo este proceso mantiene en todo momento un lenguaje sencillo y estructurado, y la información se ofrece de forma concisa; acompañada de fotos, diagramas y diversos objetos envueltos en color y dispuestos de una forma muy atractiva visualmente; lo que hace este artículo entretenido de leer y muy atractivo. Asimismo, la mayor parte del tiempo (salvo, pensamos, en la arquitectura de la información, como hemos comentado anteriormente) se guarda una relación lógica entre el orden en el que se han llevado a cabo el desarrollo del diseño y en el que se han explicado las acciones tomadas, lo que también lo hace fácil de seguir. Seguimos pensando que hay ciertas incongruencias en algunos Key Findings en relación con las herramientas usadas para llegar a estas conclusiones, como se ha señalado con el mapa de experiencia de usuario; y nos hubiera parecido mucho más acertado ahondar en cierta medida en las personas creadas para obtener una visión más real de hasta dónde puede llegar esta aplicación y por qué medios. A rasgos generales, nos parece un buen trabajo.
+- La forma en la que está explicado todo este proceso mantiene en todo momento un lenguaje sencillo y estructurado, y la información se ofrece de forma concisa; acompañada de fotos, diagramas y diversos objetos envueltos en color y dispuestos de una forma muy atractiva visualmente; lo que hace este artículo entretenido de leer.
+
+- Asimismo, la mayor parte del tiempo (salvo en pocas ocasiones) se guarda una relación lógica entre el orden en el que se han llevado a cabo el desarrollo del diseño y en el que se han explicado las acciones tomadas, lo que también lo hace fácil de seguir. 
+
+- Hay ciertas incongruencias en algunos Key Findings en relación con las herramientas usadas para llegar a estas conclusiones, como por ejemplo, con el mapa de experiencia de usuario, donde se obtienen unas conclusiones demasiado amplias y globales como para haberlas adquirido únicamente de este paso. 
+
+- Nos hubiera parecido mucho más acertado ahondar en cierta medida en las personas creadas para obtener una visión más real de hasta dónde puede llegar esta aplicación y por qué medios. 
+
+A rasgos generales, nos parece un buen trabajo.
 
 
 ### 3.b Propuesta de elementos de diseño o patrones a usar
