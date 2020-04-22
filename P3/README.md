@@ -105,11 +105,11 @@ usuario, conocer a los trabajadores y sus motivaciones por los cuales decidieron
 Es posible que tengamos que interrumpir los servicios de la app para arreglar dificultades técnicas. Intentamos alejarnos lo máximo posible de la pantalla en blanco tan característica de Error 404 de Google y se presentaría una página que mantiene la estética en colores rojizos de la web, presentando un mensaje de mantenimiento y los motivos por los cuales no se encuentra en funcionamiento la página.
 
 
-# Historia en Video del UX Case Study
+## Historia en Video del UX Case Study
 
 
 
 
-# Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+### Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
 Esta práctica ha sido muy interesante porque hemos podido evaluar al completo todo el proceso de desarrollo de diseño. El análisis de MuseMap ha resultado muy esclarecedor para mostrarnos el por qué de ciertas herramientas que habíamos incorporado al proyecto y que no sabíamos realmente para qué se utilizaban y hemos aprendido técnicas para disponer la información de forma más dinámica y atractiva. 
