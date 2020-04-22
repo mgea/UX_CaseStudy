@@ -201,6 +201,7 @@ A partir del estudio intensivo sobre patrones y guias proporcionado en la web ht
 
 ### 3.d Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
+Esta práctica ha sido muy interesante porque hemos podido evaluar al completo todo el proceso de desarrollo de diseño. El análisis de MuseMap ha resultado muy esclarecedor para mostrarnos el por qué de ciertas herramientas que habíamos incorporado al proyecto y que no sabíamos realmente para qué se utilizaban y hemos aprendido técnicas para disponer la información de forma más dinámica y atractiva.
 
 ----
 
