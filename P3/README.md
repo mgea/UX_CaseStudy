@@ -1,5 +1,5 @@
 # MuseMap: Análisis del proceso de diseño
-----
+
 
 ## Introducción de la aplicación y detalles técnicos
 
@@ -68,7 +68,7 @@ A rasgos generales, nos parece un buen trabajo.
 
 
 # EatWith: Propuesta de elementos de diseño o patrones a usar
-----
+
 
 Tomando como referencia la web proporcionada por la práctica de https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/ revisaremos buenas decisiones de diseño que realizamos para la creación de bocetos simples para Eatwith, y también apuntaremos aquellos que nos resulten llamativos o necesarios a la hora de realizar un hipotético rediseño de la Web. Al revisar este artículo hemos descubierto que hay muchas funcionalidades que quizá no habíamos contemplado, bien porque nuestros bocetos de la P2 eran demasiado esquemáticos o porque habíamos omitido la necesidad de incluirlos, así que en este apartado ofrecemos descripciones de diseños ideales que integraríamos en la app para mejorar la UX:
 
