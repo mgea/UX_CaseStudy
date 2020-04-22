@@ -31,11 +31,12 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
+> El documento final se encuentra en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/CompetitiveAnalysis.png
+
 El catálogo de ofertas es un punto de esta web. Eatwith ofrece un rango tanto de experiencias como de precios muchísimo más extenso que el resto de aplicaciones y por ello llega a un público mayor que las otras aplicaciones, quizá con precios más asequibles o experiencias exclusivas. Aparte, su repertorio de experiencias es mucho más global que el resto de las webs analizadas(por ejemplo, Artery se encuentra muy limitada a Estados Unidos) y eso facilita que cualquier usuario de cualquier parte del mundo pueda encontrar un plan de quedar cerca de él.
 
 Detalles como ver la cantidad de gente que conforma un grupo, consultar menús que van a ser servidos, información hipoalergénica, gran cantidad de fechas disponibles para asistir al evento puede parecer no tener importancia para nosotros pero son de gran importancia para gente celíaca, alérgica, con poca disponibilidad....
 
-> El documento final se encuentra en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/CompetitiveAnalysis.png
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
