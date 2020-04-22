@@ -26,6 +26,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 # Proceso de Diseño 
 
+----
+
 ## Paso 1. UX Desk Research & Analisis 
 
 > Toda la documentación sobre este paso se encuentra explicada con mayor detalle en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P1/README.md
@@ -82,6 +84,7 @@ Una manera un poco distinta de usar las aplicaciones de experiencia de uso: Cada
 
 - Conclusión:  Realmente la plataforma elegida es funcional e implementa correctamente la mayoria de las tareas que podemos pensar que una persona va a realizar, pero falla en algunos elementos relacionados con la accesibilidad y con la navegabilidad del sitio.
 
+----
 
 ## Paso 2. UX Design  
 
@@ -159,6 +162,7 @@ Procedemos a describir el etiquetado:
 ----
 
 
+----
 
 ## Paso 3. Make (Prototyping) 
 
@@ -198,6 +202,7 @@ A partir del estudio intensivo sobre patrones y guias proporcionado en la web ht
 ### 3.d Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
 
+----
 
 ## Paso 4. Evaluación
 
@@ -220,6 +225,7 @@ Valoración personal
 
 
 
+----
 
 ## Paso 5. Evaluación de Accesibilidad  
 
