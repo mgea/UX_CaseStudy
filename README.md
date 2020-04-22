@@ -7,7 +7,9 @@ Proyecto: DIU3 - Experiencias de Compartir Ocio
 
 Descripción: Hemos decidido crear una aplicación para dispositivos móviles que nos ofrezca una nueva forma de disfrutar de la gastronomía y de compartir experiencias. Se trata de ***Recetup***, con la cuál podremos estar completamente informados de los eventos gastronómicos que ocurren a nuestro alrededor y buscar nuevas formas de vivir este arte culinario.
 
-Logotipo: ![Método UX](img/RecetupLogo.png)
+Logotipo: 
+
+![Método UX](img/RecetupLogo.png)
 -----
 
 Miembros
