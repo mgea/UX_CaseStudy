@@ -150,7 +150,7 @@ Procedemos a describir el etiquetado:
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-![Método UX](P2/Entregables/bocetos/resumen.jpg)
+![Método UX](P2/Entregables/bocetos/Resumen.jpg)
 ----
 
 > Todos los bocetos se encuentran recogidos en la carpeta del siguiente enlace: https://github.com/NaroaAlonso/DIU20/tree/master/P2/Entregables/bocetos
