@@ -191,7 +191,8 @@ Aquí se despliega una lista en varias columnas de enlaces a las redes sociales 
 
 ### 3.a Análisis de MuseMap
 -----
-Enlace al análisis completo (en pdf): https://github.com/NaroaAlonso/DIU20/tree/master/P3/Entregables  
+
+Enlace al análisis completo (en pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P3/Entregables/Analisis%20MuseMap%20Mayko.pdf 
 
 #### Consideraciones generales
 
@@ -211,7 +212,7 @@ A rasgos generales, nos parece un buen trabajo.
 
 A partir del estudio intensivo sobre patrones y guias proporcionado en la web https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/ haremos un análisis sobre las decisiones de diseño que hemos realizado para la creación de bocetos simples en la anterior práctica, y también apuntaremos aquellos que nos resulten llamativos o necesarios a la hora de realizar un hipotético rediseño de la Web. 
 
-Enlace al documento read.me explicativo: https://github.com/NaroaAlonso/DIU20/tree/master/P3#eatwith-patrones-y-gu%C3%ADas
+Enlace al documento (en pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P3/Entregables/EatWith%20Guidelines%20Mayko.pdf
 
 
 ### 3.c Historia en Video del UX Case Study
