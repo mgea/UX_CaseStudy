@@ -205,11 +205,11 @@ A partir del estudio intensivo sobre patrones y guias proporcionado en la web ht
 Descripción de las asignaciones (3 UX Case Study) y enlace a sus repositorios.
 En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
 
-### 4.b User Testing
+### 4.b User Testing
 ----
 Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
 
-￼### 4.c Ranking
+### 4.c Ranking
 ----
 
 Concluya con un ranking de los casos evaluados
