@@ -72,7 +72,7 @@ aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
-
+![](P2/MRI.png)
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
@@ -90,7 +90,8 @@ aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
-
+![](P2/sitemap.png)
+![](P2/UTM.jpeg)
 >>> Definir "User Map" y "Task Flow" ... 
 
 
@@ -107,7 +108,7 @@ Término | Significado
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
+![](P2/bocetos_Lo-Fi.jpeg)
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
