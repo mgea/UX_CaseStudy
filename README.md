@@ -48,13 +48,13 @@ aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-![](img/Lizbeth_Rodriguez.png)
-![](img/Pat_Beck.png)
+![](P1/Lizbeth_Rodriguez.png)
+![](P1/Pat_Beck.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-![](img/Lizbeth_Rodriguez_JM.png)
-![](img/Pat_Beck_JM.png)
+![](P1/Lizbeth_Rodriguez_JM.png)
+![](P1/Pat_Beck_JM.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -63,6 +63,7 @@ aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+![](P1/Usability-review-template.pdf)
 
 
 ## Paso 2. UX Design  
