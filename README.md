@@ -50,11 +50,12 @@ aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 -----
 ![](img/Lizbeth_Rodriguez.png)
 
+![](img/Pat_Beck.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-![](img/Pat_Beck.png)
+
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
