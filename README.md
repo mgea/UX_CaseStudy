@@ -49,8 +49,6 @@ aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-
 ![](img/Pat_Beck.png)
 
 ![](img/Lizbeth_Rodriguez.png)
