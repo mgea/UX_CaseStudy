@@ -112,30 +112,30 @@ Término | Significado
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
-## Paso 3. Make (Prototyping) 
+## Paso 3. Mi equipo UX-Case Study
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Analizar lo aprendido de la experiencia MuseApp
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
 
->>> Plantear Landing Page 
+>>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
+>>> Tras documentarse, muestre las decisiones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
-![Método UX](img/mockup.png)  3.d Mockup
+![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. UX Check (Usability Testing) 
