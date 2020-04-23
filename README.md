@@ -58,12 +58,13 @@ aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
+![Usability Review](P1/Usability-review-template.pdf)
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
-![Usability Review](P1/Usability-review-template-2.pdf)
+
 
 
 ## Paso 2. UX Design  
