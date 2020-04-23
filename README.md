@@ -48,8 +48,8 @@ aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-(img/Pat Beck.png)
-(img/Lizbeth Rodriguez.png)
+(img/Pat_Beck.png)
+(img/Lizbeth_Rodriguez.png)
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
