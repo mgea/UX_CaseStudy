@@ -63,7 +63,7 @@ aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
-![](P1/Usability-review-template-2.pdf)
+![Usability Review](P1/Usability-review-template-2.pdf)
 
 
 ## Paso 2. UX Design  
