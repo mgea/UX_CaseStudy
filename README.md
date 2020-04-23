@@ -48,10 +48,9 @@ aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+![](img/Lizbeth_Rodriguez.png)
 
 ![](img/Pat_Beck.png)
-
-![](img/Lizbeth_Rodriguez.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
