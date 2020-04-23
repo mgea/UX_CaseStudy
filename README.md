@@ -31,6 +31,20 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Sobre la gran extensión de posibilidades dentro de plataformas
+que permiten elegir destino y buscar compañeros de viaje, el
+equipo Papaya ha decidido escoger Travello. Principalmente
+teníamos muchas dudas ya que nunca hemos investigado sobre
+estas plataformas y Travello nos llamó la atención, debido a que
+su página web era llamativa y tenia buenas animaciones. Además
+tenía pinta de ser muy internacional y usada, ya que ponían de
+ejemplo varias ciudades que suelen ser famosos destinos de viaje.
+Otra característica interesante es que tiene una timeline como
+Twitter o Instagram para subir fotos y videos de tu experiencia.
+Una vez elegimos Travello, descargamos la aplicación que nos
+gustó de primera vista porque inspiraba al usuario a viajar y
+conocer mundo. Tiene un video donde explica en que consiste la
+aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
