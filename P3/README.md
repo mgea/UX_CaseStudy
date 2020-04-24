@@ -107,9 +107,11 @@ Es posible que tengamos que interrumpir los servicios de la app para arreglar di
 
 ## Historia en Video del UX Case Study
 
+En el siguiente vídeo mostramos un ejemplo de presentación informal sobre el proyecto de prácticas que hemos realizado en la asignatura. Recetup, una aplicación creada para la búsqueda de experiencias culinarias en las que conocer nuevas amistades y que notifica eventos celebrados cerca de tí.
+
+Enlace al vídeo: https://drive.google.com/open?id=10OB28LKxXiYZCieDLNJCARNamZlLxHCo
 
 
-
-### Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
 Esta práctica ha sido muy interesante porque hemos podido evaluar al completo todo el proceso de desarrollo de diseño. El análisis de MuseMap ha resultado muy esclarecedor para mostrarnos el por qué de ciertas herramientas que habíamos incorporado al proyecto y que no sabíamos realmente para qué se utilizaban y hemos aprendido técnicas para disponer la información de forma más dinámica y atractiva. 
