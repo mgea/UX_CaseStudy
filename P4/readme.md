@@ -1,5 +1,8 @@
 # DIU - Practica 4, entregables
 
+Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
+
+
 ## Caso 1
 
 Descripcion y hoja de valoración.    
