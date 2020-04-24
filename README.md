@@ -197,7 +197,7 @@ A partir del estudio intensivo sobre patrones y guias proporcionado en la web ht
 
 ### 3.c Historia en Video del UX Case Study
 
-
+Enlace al vídeo aquí: https://drive.google.com/open?id=10OB28LKxXiYZCieDLNJCARNamZlLxHCo
 
 ### 3.d Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
