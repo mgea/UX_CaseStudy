@@ -1,5 +1,6 @@
 # MuseMap: Análisis del proceso de diseño
 
+> Este documento puede encontrarse en pdf en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P3/Entregables/Analisis%20MuseMap%20Mayko.pdf
 
 ## Introducción de la aplicación y detalles técnicos
 
@@ -69,6 +70,7 @@ A rasgos generales, nos parece un buen trabajo.
 
 # Recetup: Propuesta de elementos de diseño o patrones a usar
 
+> Este documento puede encontrarse en pdf en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P3/Entregables/EatWith%20Guidelines%20Mayko.pdf
 
 Tomando como referencia la web proporcionada por la práctica de https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/ revisaremos buenas decisiones de diseño que realizamos para la creación de bocetos simples para Recetup, y también apuntaremos aquellos que nos resulten llamativos o necesarios a la hora de realizar un hipotético rediseño de la Web. Al revisar este artículo hemos descubierto que hay muchas funcionalidades que quizá no habíamos contemplado, bien porque nuestros bocetos de la P2 eran demasiado esquemáticos o porque habíamos omitido la necesidad de incluirlos, así que en este apartado ofrecemos descripciones de diseños ideales que integraríamos en la app para mejorar la UX:
 
@@ -109,7 +111,7 @@ Es posible que tengamos que interrumpir los servicios de la app para arreglar di
 
 En el siguiente vídeo mostramos un ejemplo de presentación informal sobre el proyecto de prácticas que hemos realizado en la asignatura. Recetup, una aplicación creada para la búsqueda de experiencias culinarias en las que conocer nuevas amistades y que notifica eventos celebrados cerca de tí.
 
-Enlace al vídeo: https://drive.google.com/open?id=10OB28LKxXiYZCieDLNJCARNamZlLxHCo
+> Enlace al vídeo: https://drive.google.com/open?id=10OB28LKxXiYZCieDLNJCARNamZlLxHCo
 
 
 # Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
