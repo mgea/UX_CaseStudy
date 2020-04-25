@@ -171,28 +171,28 @@ Diseño de aplicación:
 Con respecto al diseño de la app he recogido ciertos puntos que serían necesarios implementar debido a que son cruciales para aportar sencillez, dinamismo y accesibilidad. 
 
    1. Incluso antes de registrarse aportar ciertas pinceladas de lo que es la aplicación, podría mostrarse la timeline de las publicaciones de los usuarios más famosos y de los lugares que visitaron. De esta forma invita al usuario a usar la aplicación desde el principio.
-    2. En el momentos del registro o en cierto momento donde el usuario tenga que hacer un conjunto de pasos , que los usuarios puedan dar un paso atrás. Es lo más intuitivo y de otra forma puede confundir al usuario.
-    3. En el caso que se llegue a desarrollar una página web del proyecto, que exista una sincronización app-página web.
-    4. Que la barra de búsqueda sea fácil de acceder y esté a simple vista
-    5. Utilizar la indexación a la hora de realizar las búsquedas
-    6. Proporcionar información de búsqueda anteriores, porque se suelen buscar las mismas cosas y así se ahorra tiempo.
-    7. Marcar una diferencia clara entre el inicio de sesión y registro.
-    8. Que el hecho de establecer una contraseña no sea una traba o dificultad para el usuario.
-    9. Igual que el punto anterior que la forma de registrarse sea sencilla.
-    10. En el momento de registrarse, en el caso de que haya un campo erróneo, que se muestre la información del error en tiempo real, no después de haber intentado registrase.
-    11. Que le teclado coincida con las entradas de texto requeridas.
-    12. Que se utilice un vocabulario sencillo para el usuario en la aplicación.
-    13. La existencia de etiquetas de texto debajo de los iconos, debido a que puedan crear confusión su funcionalidad.
-    14. Que se soliciten permisos  cuando vaya a usarse , por ejemplo, el GPS en nuestro caso.
+   2. En el momentos del registro o en cierto momento donde el usuario tenga que hacer un conjunto de pasos , que los usuarios puedan dar un paso atrás. Es lo más intuitivo y de otra forma puede confundir al usuario.
+   3. En el caso que se llegue a desarrollar una página web del proyecto, que exista una sincronización app-página web.
+   4. Que la barra de búsqueda sea fácil de acceder y esté a simple vista
+   5. Utilizar la indexación a la hora de realizar las búsquedas
+   6. Proporcionar información de búsqueda anteriores, porque se suelen buscar las mismas cosas y así se ahorra tiempo.
+   7. Marcar una diferencia clara entre el inicio de sesión y registro.
+   8. Que el hecho de establecer una contraseña no sea una traba o dificultad para el usuario.
+   9. Igual que el punto anterior que la forma de registrarse sea sencilla.
+   10. En el momento de registrarse, en el caso de que haya un campo erróneo, que se muestre la información del error en tiempo real, no después de haber intentado registrase.
+   11. Que le teclado coincida con las entradas de texto requeridas.
+   12. Que se utilice un vocabulario sencillo para el usuario en la aplicación.
+   13. La existencia de etiquetas de texto debajo de los iconos, debido a que puedan crear confusión su funcionalidad.
+   14. Que se soliciten permisos  cuando vaya a usarse , por ejemplo, el GPS en nuestro caso.
 
 
 Elementos de diseños Web:
 Esta sección esta hecha por si se llegase a desarrollar la página web , además me parecían muy importantes por lo que tenía que mencionarlos:
 
    1. Botones que llaman a la acción: Son simples botones que se ponen para apelar al usuario a realizar una acción. Por ejemplo, “Seguir leyendo”, “Saber más”
-    2. Diseño de las imágenes: Pueden ser de 2 tipos dependiendo del tipo de página web a desarrollar, un tipo es minimalista , sencillo y formal, mientras que el otro es colorido y llamativo
-    3. “Breadcrumbs”: Permiten hacer un seguimiento de los pasos realizados en un proceso, por ejemplo comprar un objeto o incluso un registro .
-    4. La barra de búsqueda: Al igual que en el diseño de la app , consiste en colocar la barra de búsqueda en un lugar llamativo, aunque en las páginas web suele ser una barra de búsqueda de Google.
+   2. Diseño de las imágenes: Pueden ser de 2 tipos dependiendo del tipo de página web a desarrollar, un tipo es minimalista , sencillo y formal, mientras que el otro es colorido y llamativo
+   3. “Breadcrumbs”: Permiten hacer un seguimiento de los pasos realizados en un proceso, por ejemplo comprar un objeto o incluso un registro .
+   4. La barra de búsqueda: Al igual que en el diseño de la app , consiste en colocar la barra de búsqueda en un lugar llamativo, aunque en las páginas web suele ser una barra de búsqueda de Google.
 
 
 >>> Tras documentarse, muestre las decisiones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
