@@ -90,14 +90,14 @@ Ahora simulamos como ambos puedan hacer uso de la aplicacion y que fallos o difi
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
-![](P2/MRI.png)
+Como conclusión de la práctica anterior realizamos este diagrama como feedback de lo realizado
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+![](P2/MRI.png)
 
 
  Interesante | Críticas     
 | ------------- | -------
-  Preguntas | Nuevas ideas
+  ¿Porque no estan traducidas ni la página web ni la app a mi idioma? | Nuevas ideas
   
   
   
@@ -105,6 +105,7 @@ Ahora simulamos como ambos puedan hacer uso de la aplicacion y que fallos o difi
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
+Una aplicación que permita la comunicación entre las personas que van a realizar el viajes y al mismo tiempo permita compartir con los demás las experiencias vividas en dicho viajes. Donde se pueda inmortalizar ese viaje mediante fotos y videos almacenados en tu perfil, así como facilitar y fomentar conocer otros lugares y el turismo. El principal problema es la fiabilidad, ya que se trata de un tema complicado hacer viajes con desconocidos , también se podría decir, el miedo del usuario. Sin embargo nuestra aplicación ayudará en todo lo posible para que el usuario se sienta cómodo y seguro.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
