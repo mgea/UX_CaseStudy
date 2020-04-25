@@ -97,7 +97,7 @@ Como conclusión de la práctica anterior realizamos este diagrama como feedback
 
  Interesante | Críticas     
 | ------------- | -------
-  ¿Porque no estan traducidas ni la página web ni la app a mi idioma? | Nuevas ideas
+  Preguntas | Nuevas ideas
   
   
   
@@ -105,13 +105,19 @@ Como conclusión de la práctica anterior realizamos este diagrama como feedback
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
+
 Una aplicación que permita la comunicación entre las personas que van a realizar el viajes y al mismo tiempo permita compartir con los demás las experiencias vividas en dicho viajes. Donde se pueda inmortalizar ese viaje mediante fotos y videos almacenados en tu perfil, así como facilitar y fomentar conocer otros lugares y el turismo. El principal problema es la fiabilidad, ya que se trata de un tema complicado hacer viajes con desconocidos , también se podría decir, el miedo del usuario. Sin embargo nuestra aplicación ayudará en todo lo posible para que el usuario se sienta cómodo y seguro.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
+Aqui se encuentra el diagrama que se puede seguir a la hora de entrar en la aplicación en forma de gráfica desde la pantalla principal. 
+
 ![](P2/sitemap.png)
+
+Por aqui mostramos una tabla con las posibles tareas que puedan utilizar los usuarios y la cantidad de veces que se hará, marcando H -> high , M -> medium , L -> low
+
 ![](P2/UTM.jpeg)
->>> Definir "User Map" y "Task Flow" ... 
+
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
@@ -119,14 +125,25 @@ Una aplicación que permita la comunicación entre las personas que van a realiz
 
 
 >>> Identificar términos para diálogo con usuario  
+En el etiquetado definiremos el vocabulario para que el usuario sea capaz de entenderlo si no está familiarizado con el tema
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Sing in  | Registrarse
+  Log in  | Iniciar Sesion
+  Profile  | Perfil
+  Search  | Búsqueda
+  Follower  | Seguidor
+  Travel  | Viaje
+  Share  | Compartir
+  
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+
+Una vez realizado el Labelling y lo demás , nos proponemos a comenzar con el boceto de la aplicación. Pero principalemnte es un prototipo de forma que no queda muy segura la forma que tendrá la aplicación. Se podría decir que está entre pinzas y es muy probable que se cambie o que se mejore. A medida que avance el desarrollo se seguirán haciendo bocetos con mejor calidad.
+
 ![](P2/bocetos_Lo-Fi.jpeg)
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
