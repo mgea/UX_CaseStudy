@@ -5,8 +5,7 @@ Grupo: DIU1_01AABB.  Curso: 2019/20
 
 Proyecto: TravelGram
 
-Descripción: Aplicación donde principalmente se publican imagenes y videos de los viajes de los usuarios a distintos lugares
-del mundo, pudiendo crearse chats para quedadas o viajes grupales.
+Descripción: Aplicación donde principalmente se publican imagenes y videos de los viajes de los usuarios a distintos lugares del mundo, pudiendo crearse chats para quedadas o viajes grupales.
 
 Logotipo: 
 
@@ -23,6 +22,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
+# Objetivo de la aplicación:
+Pensamos que no existe ninguna aplicación "famosa" para buscar viajes entre personas amantes de nuevas experiencias y dónde poder publicarla y mostrarle estas aventuras a sus amigos y familias. De forma que decidimos empezar a desarrollar una aplicación de este estilo:
 
 # Proceso de Diseño 
 
@@ -32,6 +33,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>>
+Principalmente buscamos aplicacines de este estilo , para ver donde fallan y aprender de estos errores. En nuestro caso encontramos una aplicación bastante buena llamada Travello y la analizamos:
+
+
 Sobre la gran extensión de posibilidades dentro de plataformas
 que permiten elegir destino y buscar compañeros de viaje, el
 equipo Papaya ha decidido escoger Travello. Principalmente
@@ -47,24 +51,36 @@ gustó de primera vista porque inspiraba al usuario a viajar y
 conocer mundo. Tiene un video donde explica en que consiste la
 aplicación y tiene una puntuación de 4,4 estrellas sobre 5.
 
+De esta aplicación sacamos que solo se encuentra en un idioma, que tiene muy buena tipologia y uso de colores ya que es muy llamativa para el usuario , sin embargo le falta que el usuario se sienta interesado por la propia aplicación y facilitar a todo tipo de personas a usarlo.
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+Nos encontramos en la necesidad de crear 2 usuarios para identificar que tipo de usuario se podrían decidir a usar la aplicación. Intentamos que ambas personas sean distintas y se puedan extender en la amplitud del espectro de tipos de personas.
+
+En nuestro primer caso tenemos a Lizbeth:
 ![](P1/Lizbeth_Rodriguez.png)
+Le interesa viajar a lugares específicos donde se encuentren clínicas de cirujía estética cercanas. De forma que tomaremos nota de que ciertos usuarios buscan un lugar de viaje por lo que se encuentre en ese lugar, a parte de los monumentos
+
+En nuestro segundo caso tenemos a Pat:
 ![](P1/Pat_Beck.png)
+Un hombre sencillo que busca llevar a su familia de vacaciones. Por lo que tenemos que facilitar el viajes a familias numerosas y que existan filtros dependiendo del coste del viaje. 
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+
+Ahora simulamos como ambos puedan hacer uso de la aplicacion y que fallos o dificultades pueden encontrar a la hora de hacer uso de ella, teniendo en cuenta que partimos de una aplicación basicamente igual a Travello.
 ![](P1/Lizbeth_Rodriguez_JM.png)
 ![](P1/Pat_Beck_JM.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-![Usability Review](P1/Usability-review-template.pdf)
+
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento: ![Usability Review](P1/Usability-review-template.pdf) (sube a github el xls/pdf) 
+>>> - Valoración final (numérica): 7,5
+>>> - Comentario sobre la valoración: La aplicación tiene muy buenas expectativas , sin embargo se queda un poco corta para lo que podría llegar a ser , además no es accesible para todo tipo de personas ya que su principal fallo es que solo se encuentra en inglés.
 
 
 
