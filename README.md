@@ -71,6 +71,7 @@ Un hombre sencillo que busca llevar a su familia de vacaciones. Por lo que tenem
 
 Ahora simulamos como ambos puedan hacer uso de la aplicacion y que fallos o dificultades pueden encontrar a la hora de hacer uso de ella, teniendo en cuenta que partimos de una aplicación basicamente igual a Travello.
 ![](P1/Lizbeth_Rodriguez_JM.png)
+
 ![](P1/Pat_Beck_JM.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
@@ -78,9 +79,9 @@ Ahora simulamos como ambos puedan hacer uso de la aplicacion y que fallos o difi
 
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: ![Usability Review](P1/Usability-review-template.pdf) (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 7,5
->>> - Comentario sobre la valoración: La aplicación tiene muy buenas expectativas , sin embargo se queda un poco corta para lo que podría llegar a ser , además no es accesible para todo tipo de personas ya que su principal fallo es que solo se encuentra en inglés.
+- Enlace al documento: ![Usability Review](P1/Usability-review-template.pdf) (sube a github el xls/pdf) 
+- Valoración final (numérica): 7,5
+- Comentario sobre la valoración: La aplicación tiene muy buenas expectativas , sin embargo se queda un poco corta para lo que podría llegar a ser , además no es accesible para todo tipo de personas ya que su principal fallo es que solo se encuentra en inglés.
 
 
 
