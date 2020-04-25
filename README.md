@@ -3,9 +3,10 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_01AABB.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: TravelGram
 
-Descripción: 
+Descripción: Aplicación donde principalmente se publican imagenes y videos de los viajes de los usuarios a distintos lugares
+del mundo, pudiendo crearse chats para quedadas o viajes grupales.
 
 Logotipo: 
 
