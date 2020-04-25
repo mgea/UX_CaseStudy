@@ -167,10 +167,10 @@ Finalmente con respecto el diseño del prototipo , es muy buena idea comenzar ha
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-    • Diseño de aplicación:
+Diseño de aplicación:
 Con respecto al diseño de la app he recogido ciertos puntos que serían necesarios implementar debido a que son cruciales para aportar sencillez, dinamismo y accesibilidad. 
 
-    1. Incluso antes de registrarse aportar ciertas pinceladas de lo que es la aplicación, podría mostrarse la timeline de las publicaciones de los usuarios más famosos y de los lugares que visitaron. De esta forma invita al usuario a usar la aplicación desde el principio.
+   1. Incluso antes de registrarse aportar ciertas pinceladas de lo que es la aplicación, podría mostrarse la timeline de las publicaciones de los usuarios más famosos y de los lugares que visitaron. De esta forma invita al usuario a usar la aplicación desde el principio.
     2. En el momentos del registro o en cierto momento donde el usuario tenga que hacer un conjunto de pasos , que los usuarios puedan dar un paso atrás. Es lo más intuitivo y de otra forma puede confundir al usuario.
     3. En el caso que se llegue a desarrollar una página web del proyecto, que exista una sincronización app-página web.
     4. Que la barra de búsqueda sea fácil de acceder y esté a simple vista
@@ -186,10 +186,10 @@ Con respecto al diseño de la app he recogido ciertos puntos que serían necesar
     14. Que se soliciten permisos  cuando vaya a usarse , por ejemplo, el GPS en nuestro caso.
 
 
-    • Elementos de diseños Web:
+Elementos de diseños Web:
 Esta sección esta hecha por si se llegase a desarrollar la página web , además me parecían muy importantes por lo que tenía que mencionarlos:
 
-    1. Botones que llaman a la acción: Son simples botones que se ponen para apelar al usuario a realizar una acción. Por ejemplo, “Seguir leyendo”, “Saber más”
+   1. Botones que llaman a la acción: Son simples botones que se ponen para apelar al usuario a realizar una acción. Por ejemplo, “Seguir leyendo”, “Saber más”
     2. Diseño de las imágenes: Pueden ser de 2 tipos dependiendo del tipo de página web a desarrollar, un tipo es minimalista , sencillo y formal, mientras que el otro es colorido y llamativo
     3. “Breadcrumbs”: Permiten hacer un seguimiento de los pasos realizados en un proceso, por ejemplo comprar un objeto o incluso un registro .
     4. La barra de búsqueda: Al igual que en el diseño de la app , consiste en colocar la barra de búsqueda en un lugar llamativo, aunque en las páginas web suele ser una barra de búsqueda de Google.
