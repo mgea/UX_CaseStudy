@@ -16,7 +16,16 @@ Descripcion y hoja de valoración.
 
 El grupo DIU3.BNET (enlace: https://github.com/alejandrobonet/DIU20) ha realizado la aplicación EventWORLD, para crear una comunidad donde los usuarios puedan encontrar actividades tanto para deshacerse de la rutina cerca de casa como para vivir aventuras en viajes.
 
-La hoja de valoración 
+La valoración se ha hecho sobre los siguientes componentes del desarrollo del producto:
+
+![Método UX](Entregables/BNETAnalisis1.png)
+-----
+
+![Método UX](Entregables/BNETAnalisis2.png)
+-----
+
+![Método UX](Entregables/BNETAnalisis3.png)
+-----
 
 ## User Testing
 
