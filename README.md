@@ -207,6 +207,8 @@ Esta práctica ha sido muy interesante porque hemos podido evaluar al completo t
 
 ## Paso 4. Evaluación
 
+> Toda la documentación detallada sobre este paso se puede encontrar en el README de la práctica 4, en el siguiente enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P4/readme.md
+
 
 ### 4.a Casos asignados
 
