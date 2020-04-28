@@ -68,7 +68,7 @@ Hemos creado este perfil porque es cada vez más recurrente entre el público jo
 
 Creemos que este mapa representa una situación habitual: cada vez son más las personas que tienen una mediana edad y comienzan a utilizar este tipo de aplicaciones para salir de su zona de comfort o para encontrar personas con sus gustos similares. No obstante, muchos de ellos dejan de intentarlo porque generalmente suelen ser sitios de citas y no es exactamente lo que buscan.
 
-#### Journet Map de Eduardo
+#### Journey Map de Eduardo
 
 > Enlace al Journey Map de Eduardo (pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapEduardo.pdf
 
