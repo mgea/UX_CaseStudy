@@ -16,7 +16,7 @@ Descripcion y hoja de valoración.
 
 > La hoja de valoración de este grupo se encuentra en el siguiente enlace (en formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P4/Entregables/DIU3%7BBNET%7DCaseStudy-review_Mayko.pdf
 
-El grupo DIU3.BNET (enlace: https://github.com/alejandrobonet/DIU20) ha realizado la aplicación EventWORLD, para crear una comunidad donde los usuarios puedan encontrar actividades tanto para deshacerse de la rutina cerca de casa como para vivir aventuras en viajes.
+El grupo DIU3.BNET ha realizado la aplicación EventWORLD, para crear una comunidad donde los usuarios puedan encontrar actividades tanto para deshacerse de la rutina cerca de casa como para vivir aventuras en viajes.
 
 La valoración se ha hecho sobre los siguientes componentes del desarrollo del producto:
 
