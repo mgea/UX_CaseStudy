@@ -252,13 +252,13 @@ Enlace a la persona ficticia, Amparo González (formato pdf): https://github.com
 
 > Esta información se encuentra más detallada en el Readme de la práctica 4 (enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P4/readme.md)
 
-_Alegrías que podría encontrarse:
+_Alegrías que podría encontrarse:_
 
 - Funcionalidad fácil en página de inicio.
 
 - Perfil perfectamente intuitivo y claro (incluida la página de modificar los datos).
 
-_Problemas que podría encontrarse
+_Problemas que podría encontrarse_
 
 - Página de ayuda: no está muy clara dónde encontrarla y no ofrece seguridad a la persona de que sus preguntas vayan a ser contestadas.
 
