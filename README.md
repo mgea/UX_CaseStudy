@@ -248,7 +248,7 @@ La puntuación total de este caso ha sido de 68, lo que da un resultado de "Just
 
 #### Experiencia de usuario en el caso 3: EventWORLD (persona: Amparo González)
 
-Enlace a la persona ficticia, Amparo González (formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
+> Enlace a la persona ficticia, Amparo González (formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
 
 > Esta información se encuentra más detallada en el Readme de la práctica 4 (enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P4/readme.md)
 
