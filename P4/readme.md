@@ -10,7 +10,9 @@ Descripcion y hoja de valoración.
 Descripcion y hoja de valoración.  
 
 
-## Caso 3
+## Caso 3: DIU3.BNET - EventWORLD
+
+> El enlace al repositorio del caso 3: https://github.com/alejandrobonet/DIU20
 
 > La hoja de valoración de este grupo se encuentra en el siguiente enlace (en formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P4/Entregables/DIU3%7BBNET%7DCaseStudy-review_Mayko.pdf
 
@@ -53,7 +55,9 @@ La puntuación total de este caso ha sido de 68, lo que da un resultado de "Just
 
 	Describe la experiencia 2
 
-	Describe la experiencia 3
+#### EventWORLD - Experiencia de usuario con Amparo González
+
+> Enlace a la persona ficticia, Amparo González (formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
 
 
 ## Conclusiones
