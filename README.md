@@ -246,7 +246,26 @@ La puntuación total de este caso ha sido de 68, lo que da un resultado de "Just
 
 ### 4.b User Testing
 
-Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+#### Experiencia de usuario en el caso 3: EventWORLD (persona: Amparo González)
+
+Enlace a la persona ficticia, Amparo González (formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
+
+> Esta información se encuentra más detallada en el Readme de la práctica 4 (enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P4/readme.md)
+
+_Alegrías que podría encontrarse:
+
+- Funcionalidad fácil en página de inicio.
+
+- Perfil perfectamente intuitivo y claro (incluida la página de modificar los datos).
+
+_Problemas que podría encontrarse
+
+- Página de ayuda: no está muy clara dónde encontrarla y no ofrece seguridad a la persona de que sus preguntas vayan a ser contestadas.
+
+- Valoraciones en diferentes páginas podrían llevar a la conclusión errónea de que el evento no tiene valoraciones disponibles.
+
+- Seguridad en los datos personales: ¿Cómo nos aseguramos de que nuestra información crítica como datos bancarios están protegidos?
+
 
 ### 4.c Ranking
 
