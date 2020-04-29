@@ -55,9 +55,32 @@ La puntuación total de este caso ha sido de 68, lo que da un resultado de "Just
 
 	Describe la experiencia 2
 
-#### EventWORLD - Experiencia de usuario con Amparo González
+### Experiencia 3: EventWORLD - Experiencia de usuario con Amparo González
 
 > Enlace a la persona ficticia, Amparo González (formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
+
+Amparo es una ama de casa que no tiene mucho manejo con la tecnología.
+Le gustaría empezar a hacer cosas nuevas y es por eso que se ha encontrado con esta aplicación y la ha descargado. En el proceso de abrir y usar la aplicación, se encontraría con varios problemas:
+
+
+##### Alegrías que podría encontrarse
+
+- Si Amparo accede a la aplicación sin saber muy bien que encontrarse, podrá usarla fácilmente para la funcionalidad que se espera, ya que en la pantalla de inicio hay un feed de eventos y posibles actividades (y una lista de los mejores valorados), sin necesidad de buscarlas en una pestaña especial o de usar el buscador. Para una persona que no navega muy bien por la tecnología, esto supone una alegría ya que hace el uso de la aplicación muy intuitivo.
+
+- La parte del perfil (incluída la parte de modificar los datos) es muy intuitiva y clara, por lo que, incluso para Amparo que no tiene muchas habilidades tecnológicas, sería fácil de usar. Por lo general las personas que siguen este perfil suelen agobiarse con el uso de nuevas aplicaciones porque no saben dónde se encuentran las funciones.
+
+
+
+##### Problemas que podría encontrarse
+
+- En los bocetos, uno de ellos muestra una especie de formulario de contacto para las personas "en caso de no estar registradas". Por lo tanto, ¿Cómo sería esa secuencia de pantallas hasta llegar ahí estando registrados si tenemos alguna pregunta? La sección de ayuda parece difícil de acceder o inexistente. Asimismo, Amparo no sabe usar bien los formularios ni el correo electrónico, por lo que es muy posible que piense que, si consigue acceder a esa pantalla, piense que su duda/pregunta/sugerencia no llegará a ningún lado. Sería interesante incluir algún chat o algún teléfono de contacto, si procediera.
+
+- A la hora de pinchar en un evento para ver su información más detallada, hay que hacer click en las valoraciones para acceder a una pantalla distinta. Es posible que fuera más funcional tener toda la información referente al evento en la misma pantalla para las personas que no saben navegar muy bien por la aplicación, como podría ser el caso de Amparo. En este caso, el botón de reserva podría situarse arriba del todo y que las notificaciones vayan apareciendo haciendo scroll hacia abajo, hasta que decidamos que hemos leído las suficientes para estar bien informados.
+
+- En la parte del perfil se puede observar un apartado de pago. Suponemos que esta parte está dedicada a incluir los datos de cuentas bancarias y demás de la persona que usa la aplicación. Una de las preocupaciones de Amparo es la seguridad de sus datos: ella no realiza compras por internet y no incluiría su información bancaria tan fácil. Sería útil poner un botón de ayuda o información de forma clara y breve explicando que sus datos están protegidos.
+
+
+
 
 
 ## Conclusiones
