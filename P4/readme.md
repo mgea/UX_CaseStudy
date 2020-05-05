@@ -27,7 +27,7 @@ Labelling. Las explicaciones de cada uno de los elementos de la malla de informa
 
 Los documentos incompletos son el principal punto negativo. La documentacion principal del readme no está completa y las practicas individuales tampoco tienen su explicación completa. Incluye PDFs con los documentos subidos al repositorio, pero carecen de explicaciones o de títulos descriptivos.
 
-## Caso 2
+## Caso 2: DIU2.ECHO - 
 
 Descripcion y hoja de valoración.  
 
