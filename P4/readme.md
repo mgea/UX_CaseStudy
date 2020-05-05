@@ -27,14 +27,51 @@ Labelling. Las explicaciones de cada uno de los elementos de la malla de informa
 
 Los documentos incompletos son el principal punto negativo. La documentacion principal del readme no está completa y las practicas individuales tampoco tienen su explicación completa. Incluye PDFs con los documentos subidos al repositorio, pero carecen de explicaciones o de títulos descriptivos.
 
-## Caso 2: DIU2.ECHO - 
+## Caso 2: DIU2.ECHO - FLATS&GO
 
-Descripcion y hoja de valoración.  
+> Enlace al repositorio del caso 2: https://github.com/DomingoLopez/DIU20
+
+(En un principio teníamos que hacer el análisis de DIU2.CIAMaria, pero el repositorio se encontraba vacío, por lo que elegimos el siguienten en la lista del mismo grupo DIU2)
+
+> La hoja de valoración de este grupo se encuentra en el siguiente enlace (en formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P4/Entregables/DIU3%7BBNET%7DCaseStudy-review_Mayko.pdf
+
+El grupo DIU2.ECHO ha realizado la aplicación FLATS&GO, para crear una aplicación de economía colaborativa de alquiler de viviendas y habitaciones.
+
+La valoración se ha hecho sobre los siguientes componentes del desarrollo del producto:
+
+![Método UX](Entregables/ECHOAnalisis1.png)
+-----
+
+![Método UX](Entregables/ECHOAnalisis2.png)
+-----
+
+![Método UX](Entregables/ECHOAnalisis3.png)
+-----
+
+La puntuación total de este caso ha sido 85, lo que se traduce como "Bueno". No obstante, la sensación que hemos tenido al analizar este repositorio ha sido excelente. Pensamos que el peso que se le ha dado a algunas preguntas y que ha bajado la puntuación quizás no debería ser tan significativo, pues realmente este grupo ha realizado un trabajo sobresaliente.
+
+#### Puntos fuertes
+
+- El punto más fuerte y llamativo es la organización del repositorio y la claridad y completitud con que se realizan las explicaciones del proceso de diseño. El README.md general contiene la información justa para conocer cada parte del desarrollo y está perfectamente referenciado a los diferentes Readme de las prácticas, donde encontramos todo explicado muy detalladamente y con enlaces a todos los documentos expuestos.
+
+- La continuidad y el orden lógico del proceso: se puede observar perfectamente por qué se ha seguido este orden en el proceso de diseño: todos los apartados concuerdan e incorporan lo que se ha estudiado, investigado o concluido en el apartado anterior, por lo que se nos presenta un proyecto de forma muy racional.
+
+- El video, aunque es cierto que el narrador habla bastante rápido (lo cuál consideramos normal dado el límite de tiempo) nos ha parecido muy profesional y una gran idea, además de estar muy bien ejecutado.
+
+
+#### Puntos débiles
+
+- Quizá hubiese sido más interesante realizar en un principio unos bocetos low fit en lugar de hacerlos con tal nivel de detalle; ya que se utiliza mucho tiempo en crearlos de forma tan exhaustiva y, sin realizar ninguna prueba de usabilidad previa al diseño final, es posible que nos encontremos en muchos procesos de diseño que tengamos que cambiarlos antes de continuar con el desarrollo, por lo que habría sido tiempo perdido.
+
+- Cuando se describe a las personas diseñadas, si bien son totalmente creíbles y están muy bien justificadas, se hace referencia a sus preferencias de viviendas y demás; lo que nos puede llegar a indicar que se han creado con perspectiva de usarlas en la aplicación a diseñar.
+
+- El journey map que se realiza sobre la segunda persona no muestra realmente problemas de usabilidad o navegabilidad en la web analizada. La persona únicamente se siente frustrada porque no encuentra lo que le gusta, pero eso no se debe al diseño del sitio web, si no al contenido del mismo; por lo que no nos revela nada que se pueda arreglar o incorporar para añadirle valor al producto que se está proyectando. 
+
 
 
 ## Caso 3: DIU3.BNET - EventWORLD
 
-> El enlace al repositorio del caso 3: https://github.com/alejandrobonet/DIU20
+> Enlace al repositorio del caso 3: https://github.com/alejandrobonet/DIU20
 
 > La hoja de valoración de este grupo se encuentra en el siguiente enlace (en formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P4/Entregables/DIU3%7BBNET%7DCaseStudy-review_Mayko.pdf
 
@@ -100,7 +137,6 @@ Le gustaría empezar a hacer cosas nuevas y es por eso que se ha encontrado con 
 - A la hora de pinchar en un evento para ver su información más detallada, hay que hacer click en las valoraciones para acceder a una pantalla distinta. Es posible que fuera más funcional tener toda la información referente al evento en la misma pantalla para las personas que no saben navegar muy bien por la aplicación, como podría ser el caso de Amparo. En este caso, el botón de reserva podría situarse arriba del todo y que las notificaciones vayan apareciendo haciendo scroll hacia abajo, hasta que decidamos que hemos leído las suficientes para estar bien informados.
 
 - En la parte del perfil se puede observar un apartado de pago. Suponemos que esta parte está dedicada a incluir los datos de cuentas bancarias y demás de la persona que usa la aplicación. Una de las preocupaciones de Amparo es la seguridad de sus datos: ella no realiza compras por internet y no incluiría su información bancaria tan fácil. Sería útil poner un botón de ayuda o información de forma clara y breve explicando que sus datos están protegidos.
-
 
 
 
