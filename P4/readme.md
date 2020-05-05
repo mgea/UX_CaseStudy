@@ -1,9 +1,30 @@
 # DIU - Practica 4, entregables
 
-## Caso 1
+## Caso 1: DIU1.Nomadizers - ?????
 
-Descripcion y hoja de valoración.    
+> El enlace al repositorio del caso 1: https://github.com/nicolasrhc/DIU20
+ 
+> La hoja de valoración de este grupo se encuentra en el siguiente enlace (en formato pdf): 
+https://github.com/NaroaAlonso/DIU20/blob/master/P4/Entregables/DIU1%7BNomadizers%7DCaseStudy-review_Mayko.pdf
 
+El grupo DIU1.Nomadizers tiene su repositorio incompleto, por lo que no ha presentado ninguna propuesta de aplicación y no podemos realizar un análisis totalmente exhaustivo.La valoración se ha hecho sobre los siguientes componentes del desarrollo del producto:
+
+![Método UX](EntregablesNomadizerAnalisis1.PNG)
+-----
+
+![Método UX](EntregablesNomadizerAnalisis2.PNG)
+-----
+La puntuación total ha sido de 40- Flojo. Los apartados relacionados a la práctica 3 no han sido evaluados por el motivo expuesto anteriormente, no están completos. 
+
+#### Puntos fuertes
+
+La malla de captación de ideas es bastante completa. Plantea cuestiones comunes entre el usuario promedio que visita una web de viajes y realiza propuestas interesantes para la mejora de la aplicación analizada.
+
+Labelling. Las explicaciones de cada uno de los elementos de la malla de información son muy aclarativos respecto a su función.
+
+#### Puntos débiles
+
+Los documentos incompletos son el principal punto negativo. La documentacion principal del readme no está completa y las practicas individuales tampoco tienen su explicación completa. Incluye PDFs con los documentos subidos al repositorio, pero carecen de explicaciones o de títulos descriptivos.
 
 ## Caso 2
 
