@@ -9,10 +9,10 @@ https://github.com/NaroaAlonso/DIU20/blob/master/P4/Entregables/DIU1%7BNomadizer
 
 El grupo DIU1.Nomadizers tiene su repositorio incompleto, por lo que no ha presentado ninguna propuesta de aplicación y no podemos realizar un análisis totalmente exhaustivo.La valoración se ha hecho sobre los siguientes componentes del desarrollo del producto:
 
-![Método UX](EntregablesNomadizerAnalisis1.PNG)
+![Método UX](Entregables/NomadizerAnalisis1.PNG)
 -----
 
-![Método UX](EntregablesNomadizerAnalisis2.PNG)
+![Método UX](Entregables/NomadizerAnalisis2.PNG)
 -----
 
 La puntuación total ha sido de 40- Flojo. Los apartados relacionados a la práctica 3 no han sido evaluados por el motivo expuesto anteriormente, no están completos. 
