@@ -14,6 +14,7 @@ El grupo DIU1.Nomadizers tiene su repositorio incompleto, por lo que no ha prese
 
 ![Método UX](EntregablesNomadizerAnalisis2.PNG)
 -----
+
 La puntuación total ha sido de 40- Flojo. Los apartados relacionados a la práctica 3 no han sido evaluados por el motivo expuesto anteriormente, no están completos. 
 
 #### Puntos fuertes
