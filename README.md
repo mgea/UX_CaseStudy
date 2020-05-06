@@ -54,7 +54,7 @@ Hemos creado a esta persona porque pensamos que pertenece a un perfil muy extend
 #### Persona 2: Eduardo Benítez
 
 > Enlace a la ficha de la persona 2: Eduardo Benítez
-https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/EduardoBenitez.png
+https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapEduardo.pdf
 
 Hemos creado este perfil porque es cada vez más recurrente entre el público joven-adulto actual: es el perfil estándar de una persona que tiene la tecnología muy integrada en su vida diaria.
 
