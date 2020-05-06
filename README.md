@@ -212,8 +212,14 @@ Esta práctica ha sido muy interesante porque hemos podido evaluar al completo t
 
 ### 4.a Casos asignados
 
-#### Caso 1
+#### Caso 1 DIU1.Nomadizers - ????
 
+> La hoja de valoración de este grupo se encuentra en el siguiente enlace (en formato pdf): 
+https://github.com/NaroaAlonso/DIU20/blob/master/P4/Entregables/DIU1%7BNomadizers%7DCaseStudy-review_Mayko.pdf
+
+El grupo DIU1.Nomadizers (enlace al repositorio del proyecto: https://github.com/nicolasrhc/DIU20) ha realizado una propuesta de aplicación Nomadizers, una aplicación de economía colaborativa de viajes.
+
+La puntuación total de este caso ha sido 40, lo que se traduce como "Flojillo". Hemos tenido que realizar un esfuerzo extra para encontrar todos los documentos y datos necesarios para el análisis por falta de archivos para las entregas. Por tanto, a falta de producto para el análisis creemos que este repositorio no genera interés de estudio, así que la experiencia de User Testing que correspondería a este grupo será realizada en la aplicación de otro de los grupos estudiados en este documento.
 
 #### Caso 2: DIU2.ECHO - FLATS&GO
 
@@ -271,6 +277,23 @@ La puntuación total de este caso ha sido de 68, lo que da un resultado de "Just
 
 ### 4.b User Testing
 
+#### Experiencia de usuario en el caso 1: EventWORLD (persona: Eduardo Benítez)
+
+Enlace a la ficha de la persona 2: Eduardo Benítez (formato pdf): 
+https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/EduardoBenitez.pdf
+
+> Esta información se encuentra más detallada en el Readme de la práctica 4 (enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P4/readme.md)
+
+_Alegrías que podría encontrarse:_
+
+ - Registro mediante redes sociales.
+ 
+ - Valoración de eventos por puntuación.
+
+_Problemas que podría encontrarse_
+
+ - Falta de lista de amigos.
+ 
 #### Experiencia de usuario en el caso 3: EventWORLD (persona: Amparo González)
 
 > Enlace a la persona ficticia, Amparo González (formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
