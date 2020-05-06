@@ -110,7 +110,23 @@ La puntuación total de este caso ha sido de 68, lo que da un resultado de "Just
 
 ## User Testing
 
-	Describe la experiencia 1
+### Experiencia 1: EventWORLD - Experiencia de usuario con Eduardo Benítez
+
+> Enlace a la persona ficticia, Eduardo Benítez (formato pdf): 
+https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapEduardo.pdf
+
+Eduardo compagina estudios y pequeños trabajos para conseguir algunos ahorros e independizarse del piso de sus madres. Maneja con soltura las redes sociales y le gusta pensar que para un buen ambiente de trabajo es necesario conocer a sus compañeros de empresa y tener buenas relaciones con ellos. Decide instalar esta aplicación para buscar eventos compartidos donde quedar con sus compañeros de trabajo y tener actividades en común.
+
+##### Alegrías que podría encontrarse
+
+- Registro mediante redes sociales. Tanto para sus gestiones de Community Manager como para estar en contacto con sus amigos de todo el mundo Eduardo usa muchas redes sociales. Esto implica tener un gran numero de cuentas asociadas a su cuenta de correo, por lo que necesita reducir al mínimo el número de notificaciones que le llegan a la bandeja de entrada y no se le pierdan de vista los mails de empresa. Registrarse con redes sociales evita que le llegue propaganda a la cuenta y tener que gestionar otro usuario nuevo en la aplicación.
+
+- Valoración de eventos por puntuación. Entre trabajo y estudios Eduardo no tiene demasiado tiempo para leer toda la pagina de eventos que ofrece la aplicación, así que prefiere buscar los que mejor puntuación tienen. Cree que las opiniones de los usuarios son una herramienta importante para promocionar los productos, así que aquellas con mejores puntuaciones deben ser excepcionales.
+
+##### Problemas que podría encontrarse
+
+- Falta de lista de amigos. En la vista ofrecida de los diseños no se aprecia la existencia de una lista de amigos agregados a la aplicacion o una forma de consulta de usuarios. ¿Es posible buscar un usuario en la página de busqueda, igual que los eventos? Mediante listas de amigos Eduardo podría recomendar a sus conocidos de la aplicación eventos que aparecen en su página de Sugerencias para ir juntos a una misma quedada.
+
 
 	Describe la experiencia 2
 
