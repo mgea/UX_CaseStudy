@@ -25,6 +25,7 @@ Tema: Experiencia de compartir alojamiento GRUPO DIU2 (VIERNES)
 
 
 * DIU2.CIAMaria	[Web](https://github.com/GuilleTF/DIU2.CIAMaria-)
+* DIU2.Cumbia	[Web](https://github.com/sergiostars27/Practicas_DIU)
 * DIU2.ECHO	[Web](https://github.com/DomingoLopez/DIU20)
 * DIU2.EquipoCohete	[Web](https://github.com/Leamsy/DIU20)
 * DIU2.EscuadrónMapache	[Web](https://github.com/Galactic-O/DIU20)
