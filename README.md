@@ -294,6 +294,23 @@ _Problemas que podría encontrarse_
 
  - Falta de lista de amigos.
  
+#### Experiencia de usuario en el caso 2: FLATS&GO (persona: Eduardo Benítez)
+
+Enlace a la ficha de la persona 2: Eduardo Benítez (formato pdf): 
+https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/EduardoBenitez.pdf
+
+> Esta información se encuentra más detallada en el Readme de la práctica 4 (enlace: https://github.com/NaroaAlonso/DIU20/blob/master/P4/readme.md)
+
+_Alegrías que podría encontrarse:_
+
+ - la web está estructurada de forma sólida y resulta bastante difícil perderse.
+ 
+ - Búsqueda personalizada.
+ 
+_Problemas que podría encontrarse_
+
+ - Información sobre futuras reservas.
+ 
 #### Experiencia de usuario en el caso 3: EventWORLD (persona: Amparo González)
 
 > Enlace a la persona ficticia, Amparo González (formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/Amparo%20Gonzalez.pdf
@@ -314,15 +331,11 @@ _Problemas que podría encontrarse_
 
 - Seguridad en los datos personales: ¿Cómo nos aseguramos de que nuestra información crítica como datos bancarios están protegidos?
 
-
 ### 4.c Ranking
 
-
-Concluya con un ranking de los casos evaluados
-Valoración personal
-
-
-
+ 1. FLATS&GO - Es el repositorio web más completo de los 3. Sus bocetos son limpios, las explicaciones concisas, todo se encuentra perfectamente estructurado y las descripciones no resultan enrevesadas.
+ 2. EventWORLD - También se encuentra muy completo. Sin embargo la estructura de los elementos (imágenes, títulos) del readme no resulta tan atractiva como para colocarle en el primer lugar.
+ 3. Nomadizers - Colocado en tercer lugar por su falta de contenido.
 
 ----
 
