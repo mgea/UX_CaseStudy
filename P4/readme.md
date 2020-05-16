@@ -67,8 +67,6 @@ La puntuación total de este caso ha sido 85, lo que se traduce como "Bueno". No
 
 - El journey map que se realiza sobre la segunda persona no muestra realmente problemas de usabilidad o navegabilidad en la web analizada. La persona únicamente se siente frustrada porque no encuentra lo que le gusta, pero eso no se debe al diseño del sitio web, si no al contenido del mismo; por lo que no nos revela nada que se pueda arreglar o incorporar para añadirle valor al producto que se está proyectando. 
 
-
-
 ## Caso 3: DIU3.BNET - EventWORLD
 
 > Enlace al repositorio del caso 3: https://github.com/alejandrobonet/DIU20
@@ -128,7 +126,22 @@ Eduardo compagina estudios y pequeños trabajos para conseguir algunos ahorros e
 - Falta de lista de amigos. En la vista ofrecida de los diseños no se aprecia la existencia de una lista de amigos agregados a la aplicacion o una forma de consulta de usuarios. ¿Es posible buscar un usuario en la página de busqueda, igual que los eventos? Mediante listas de amigos Eduardo podría recomendar a sus conocidos de la aplicación eventos que aparecen en su página de Sugerencias para ir juntos a una misma quedada.
 
 
-	Describe la experiencia 2
+### Experiencia 2: FLATS&GO - Experiencia de usuario con Eduardo Benítez
+
+> Enlace a la persona ficticia, Eduardo Benítez (formato pdf): 
+https://github.com/NaroaAlonso/DIU20/blob/master/P1/Entregables/JourneyMapEduardo.pdf
+
+Tras un tiempo ahorrando, Eduardo ha guardado suficiente dinero como para plantearse buscar un alojamiento compartido por un tiempo. En el proceso de abrir y usar la aplicación, se encontraría con varios problemas y puntos positivos:
+
+##### Alegrías que podría encontrarse
+
+- Orden. Toda la web está estructurada de forma sólida y resulta bastante difícil perderse. La interfaz resulta clara, lo cual como Community Manager y administrador de webs aprecia. Puede activar y desactivar las notificaciones mientras trabaja por lo que no tiene que estar preocupado de que una oferta se le escape. 
+
+- Búsqueda personalizada. Al trabajar la mayoría de los días en casa, Eduardo requiere de cosas imprescidibles como conexión estable a Internet, un espacio tranquilo donde trabajar y donde pueda tener alguna mascota... Todas esas cosas indicadas en la web le ayudan a cerrar aún más la búsqueda.
+
+##### Problemas que podría encontrarse
+
+- Reservas. En la aplicación aparecen los apartamentos que están disponibles, pero ¿es posible consultar apartamentos que se despejen en un determinado tiempo? Quizá el tipo de apartamento que desea buscar no está disponible ahora pero sí dentro de un par de días. Un sistema de clasificación entre "OCUPADOS" y "LIBRES" sería interesante, o al menos que permita ver los pisos que pronto serán desalojados.
 
 ### Experiencia 3: EventWORLD - Experiencia de usuario con Amparo González
 
@@ -145,7 +158,6 @@ Le gustaría empezar a hacer cosas nuevas y es por eso que se ha encontrado con 
 - La parte del perfil (incluída la parte de modificar los datos) es muy intuitiva y clara, por lo que, incluso para Amparo que no tiene muchas habilidades tecnológicas, sería fácil de usar. Por lo general las personas que siguen este perfil suelen agobiarse con el uso de nuevas aplicaciones porque no saben dónde se encuentran las funciones.
 
 
-
 ##### Problemas que podría encontrarse
 
 - En los bocetos, uno de ellos muestra una especie de formulario de contacto para las personas "en caso de no estar registradas". Por lo tanto, ¿Cómo sería esa secuencia de pantallas hasta llegar ahí estando registrados si tenemos alguna pregunta? La sección de ayuda parece difícil de acceder o inexistente. Asimismo, Amparo no sabe usar bien los formularios ni el correo electrónico, por lo que es muy posible que piense que, si consigue acceder a esa pantalla, piense que su duda/pregunta/sugerencia no llegará a ningún lado. Sería interesante incluir algún chat o algún teléfono de contacto, si procediera.
@@ -155,6 +167,6 @@ Le gustaría empezar a hacer cosas nuevas y es por eso que se ha encontrado con 
 - En la parte del perfil se puede observar un apartado de pago. Suponemos que esta parte está dedicada a incluir los datos de cuentas bancarias y demás de la persona que usa la aplicación. Una de las preocupaciones de Amparo es la seguridad de sus datos: ella no realiza compras por internet y no incluiría su información bancaria tan fácil. Sería útil poner un botón de ayuda o información de forma clara y breve explicando que sus datos están protegidos.
 
 
-
-
 ## Conclusiones
+
+A pesar de los inconvenientes que hemos tenido al realizar esta práctica con falta de contenido o problemas de enlace, los grupos de practicas que hemos analizado estaban bastante completos. En general se nota que, en la práctica 1, a pesar de esforzarnos en crear personas que fuesen indiferentes al analisis de la página, no hemos podido evitar dejar caer que alguno de sus intereses coincidan con la temática de la web en la que deseamos realizar el Journey Map. Ha costado bastante sacar puntos negativos puesto que todos los proyectos estaban muy concienciados en hacer diseños claros y manejables para todas las personas que pudiesen acceder independientemente de su edad o conocimiento de tecnología.
