@@ -33,7 +33,7 @@ Los documentos incompletos son el principal punto negativo. La documentacion pri
 
 (En un principio teníamos que hacer el análisis de DIU2.CIAMaria, pero el repositorio se encontraba vacío, por lo que elegimos el siguienten en la lista del mismo grupo DIU2)
 
-> La hoja de valoración de este grupo se encuentra en el siguiente enlace (en formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P4/Entregables/DIU3%7BBNET%7DCaseStudy-review_Mayko.pdf
+> La hoja de valoración de este grupo se encuentra en el siguiente enlace (en formato pdf): https://github.com/NaroaAlonso/DIU20/blob/master/P4/Entregables/DIU2_ECHO_Analisis.pdf
 
 El grupo DIU2.ECHO ha realizado la aplicación FLATS&GO, para crear una aplicación de economía colaborativa de alquiler de viviendas y habitaciones.
 
