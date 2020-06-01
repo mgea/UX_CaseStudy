@@ -1,4 +1,4 @@
-# DIU20
+# DIU20 - BETA
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
 Grupo: Mayko.  Curso: 2019/20 
