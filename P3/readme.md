@@ -1,13 +1,13 @@
 # DIU - Practica 3, entregables
 
-## Análisis de MuseMap   
+## Moodboard (diseño visual + logotipo)   
 
 
-## Propuesta de elementos de diseño o patrones a usar 
+## Landing Page
 
 
-## Historia en Video del UX Case Study
+## Mockup: LAYOUT HI-FI
 
 
-## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+## Documentación. Publicación del Case Study+ Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
