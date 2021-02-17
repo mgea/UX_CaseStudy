@@ -141,12 +141,6 @@ Término | Significado
 
 
 >>> Publicar my Case Study en Github..
-
-
-
-![Método UX](img/mockup.png)  3.d Video
-----
-
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
