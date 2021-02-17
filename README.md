@@ -60,7 +60,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
 
@@ -71,20 +71,25 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 | ------------- | -------
   Preguntas | Nuevas ideas
   
-  
-  
+    
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+
+
+![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+----
+>>> Propuesta de valor 
+
+![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-![Método UX](img/labelling.png) 2.c Labelling 
+![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
@@ -101,25 +106,43 @@ Término | Significado
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
-## Paso 3. Mi equipo UX-Case Study 
+## Paso 3. Mi UX-Case Study (diseño)
 
 
-![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
+![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
 
->>> Analizar lo aprendido de la experiencia MuseApp 
+>>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Incluir Logotipo
+>>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
-![Método UX](img/landing-page.png)  3.b Logotipo
+
+![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
+>>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+![Método UX](img/mockup.png)  3.d Mockup
+----
+
+>>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+
+
+![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+-----
+
+
+>>> Publicar my Case Study en Github..
+
+
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
@@ -130,21 +153,18 @@ Término | Significado
 ## Paso 4. Evaluación 
 
 
-![Método UX](img/ABtesting.png) 4.a Casos asignados
+![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
 
->>> Descripción del caslo asignado con  enlace a  su repositorio Github
-
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
+>>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+>>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
-
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -164,13 +184,12 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
-![Método UX](img/usability-report.png) 4.c Usability Report
+![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B 
+>> Añadir report de usabilidad para práctica B (la de los compañeros)
 
 
->>> Concluya con un ranking de los casos evaluados 
 
 >>> Valoración personal 
 
@@ -183,13 +202,12 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
 
->>> a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> b) Uso de simuladores de accesibilidad 
+>>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
+>>> 5.b) Uso de simuladores de accesibilidad 
 
 >>> (uso de tabla de datos, indicar herramientas usadas) 
 
->>> Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
+>>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
 
 
