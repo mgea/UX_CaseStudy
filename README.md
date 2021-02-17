@@ -134,7 +134,7 @@ Término | Significado
 ----
 
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+>>> Descripción del caslo asignado con  enlace a  su repositorio Github
 
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
@@ -143,10 +143,32 @@ Término | Significado
 ----
 
 >>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+ 
 
 
-![Método UX](img/Survey.png). 4.c Ranking 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+
+
+![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
+
+>>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
+Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+
+>>> Adjuntar captura de imagen con los resultados + Valoración personal 
+
+
+![Método UX](img/usability-report.png) 4.c Usability Report
+----
+
+>> Añadir report de usabilidad para práctica B 
+
 
 >>> Concluya con un ranking de los casos evaluados 
 
@@ -156,12 +178,18 @@ Término | Significado
 ## Paso 5. Evaluación de Accesibilidad  
 
 
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
+![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
 ----
 
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
+>>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
 
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
+>>> a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
+>>> b) Uso de simuladores de accesibilidad 
+
+>>> (uso de tabla de datos, indicar herramientas usadas) 
+
+>>> Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+
 
 
 
