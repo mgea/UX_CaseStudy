@@ -12,5 +12,5 @@
 ## Documentación: Publicación del Case Study
 
 
-+ Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
