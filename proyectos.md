@@ -1,7 +1,8 @@
 
 # Listado de Proyectos VIAJES - 2020/2021
 
-Tema: ​Planificación y organización de viajes GRUPO DIU1 (JUEVES)
+Tema: ​Planificación y organización de viajes GRUPO DIU1 (JUEVES)
+
 
 * DIU1-2.ElReencuentro [Web](https://github.com/JesusGonzalezA/DIU21)
 * DIU1-2.paraguas [Web](https://github.com/meryuree/DIU21)
@@ -23,25 +24,25 @@ Tema: ​Planificación y organización de viajes GRUPO DIU1 (JUEVES)
 
 ----------
 
-Tema: ​ Información turística GRUPO DIU2 (LUNES)
+Tema: ​ Información turística GRUPO DIU2 (LUNES)
 
 
 * DIU2.Alhucemas  [Web](https://github.com/amxndam/DIU21/)
 * DIU2.CajerosRurales	 [Web](https://github.com/Oscarntnz/DIU21)
 * DIU2.disfrutones  [Web](https://github.com/Angelgf22/DIU21)
 * DIU2.JTS  [Web](https://github.com/jesusts99/DIU21/tree/master/P1)
-* DIU2.JuanMM				
+* DIU2.JuanMM		https://github.com/JuamMM/DIU21		
 * DIU2.LemonTeam	 [Web](https://github.com/Javivelez8/LemonTeam-DIU2)
 * DIU2.LosCogollicos	 [Web](https://github.com/juanmanuelug/DIU21)
-* DIU2.Marmotas		
-* DIU2.mastodonte	
-* DIU2.Matarratas
+* DIU2.Marmotas		https://github.com/Mapachana/DIU21
+* DIU2.mastodonte	https://github.com/eProw/DIU21
+* DIU2.Matarratas             https://github.com/raulrguez09/DIU21
 * DIU2.RoadtoAndorra	 [Web](https://github.com/GFernando97/DIU21)
 * DIU2.TheThruster  [Web](https://github.com/AlejandroFrndz/DIU)
 
 ----------
 
-Tema: ​ Experiencias y planificación de ocio GRUPO DIU3  (MIERCOLES)
+Tema: ​ Experiencias y planificación de ocio GRUPO DIU3  (MIERCOLES)
 
 * DIU3.01xindep	
 * DDIU3.AfterWork [Web](https://github.com/VictorRubia/DIU21)
