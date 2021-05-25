@@ -1,29 +1,19 @@
 # DIU - Practica 4, entregables
 
-Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
+
+## Users 
+
+Elección y características
+
+## A/B Testing. 
 
 
-## Caso 1
-
-Descripcion y hoja de valoración.    
+## Tareas realizadas 
 
 
-## Caso 2
-
-Descripcion y hoja de valoración.  
+## Usability Report de Caso B
 
 
-## Caso 3
-
-Descripcion y hoja de valoración.   
-
-## User Testing
-
-	Describe la experiencia 1
-
-	Describe la experiencia 2
-
-	Describe la experiencia 3
-
+* template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
 ## Conclusiones
