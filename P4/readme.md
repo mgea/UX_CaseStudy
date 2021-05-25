@@ -1,19 +1,17 @@
 # DIU - Practica 4, entregables
 
 
-## Users 
+* Users 
 
 Elección y características
 
-## A/B Testing. 
+* A/B Testing. 
 
 
-## Tareas realizadas 
+* Tareas realizadas 
 
 
-## Usability Report de Caso B
+* Usability Report de Caso B
+* Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
-
-* template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
-
-## Conclusiones
+* Conclusiones
