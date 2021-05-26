@@ -185,7 +185,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Valoración personal 
 
 
-## Paso 5. Evaluación de Accesibilidad  
+## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
 
 ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
