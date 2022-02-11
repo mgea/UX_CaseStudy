@@ -1,8 +1,8 @@
-# DIU21
-Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
+# DIU22
+Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2020/21 
-Updated: 8/2/2021
+Grupo: DIU1_01AABB.  Curso: 2021/22 
+Updated: 11/2/2022
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
