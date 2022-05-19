@@ -1,61 +1,56 @@
 # Listado de Proyectos VIAJES - 2020/2021
 
-Tema: ​Planificación y organización de viajes GRUPO DIU1 (JUEVES)
+Tema: ​GRUPO DIU1 (VIERNES)
 
 
-* DIU1-2.ElReencuentro [Web](https://github.com/JesusGonzalezA/DIU21)
-* DIU1-2.paraguas [Web](https://github.com/meryuree/DIU21)
-* DIU1.Aguacate [Web](https://github.com/Olasergiolas/DIU21)
-* DIU1.CherryPink	[Web](https://github.com/Asmilex/DIU21)
-* DIU1.GTF [Web](https://github.com/GuilleTF/DIU1-GTF)
-* DIU1.tive2 https://github.com/daviyisu/DIU21)
-* DIU1.Lex [Web](https://github.com/lawvp/DIU21)
-* DIU1.LosPibes [Web](https://github.com/Agumeri/DIU21)
-* DIU1.PCMasterRace [Web](https://github.com/sabufu/DIU21)
-* DIU1.Piña [Web](https://github.com/pablojj1808/DIU21)
-* DIU1.PJ	[Web](https://github.com/corderop/DIU21)
-* DIU1.Salsoteca [Web](https://github.com/santiagocarbo89/DIU21)
-* DIU1.Singapur [Web](https://github.com/Groctel/DIU21)
-* DIU1.TeamAlpacas [Web](https://github.com/susolr/DIU21)
-* DIU1.ToxicidadFuera	[Web](https://github.com/Pedropadilla26/DIU21)
-* DIU1.Wombats [Web](https://github.com/gonzalodelatorree/DIU21)
-
+* DIU1.01 JJ-Team				https://github.com/jmnavas3/DIU_practicas
+* DIU1.02 equipo2				https://github.com/verdx/DIU1.equipo2
+* DIU1.03 MBM				https://github.com/MBM-devs
+* DIU1.03 MBM				https://github.com/MBM-devs
+* DIU1.04 Estrellas				https://github.com/amt911/DIU-Estrellas
+* DIU1.05 Sigma				https://github.com/SigmaDIU1/DIU
+* DIU1.06 PM_A1				https://github.com/PedroCapilla/DIU
+* DIU1.07 PF				https://github.com/SrOverlord/DIU1_PF
+* DIU1.08 10Fasilito				https://github.com/toniiFDEZ/DIU
+* DIU1.09 JR				https://github.com/jmegui/DIU
+* DIU1.10 2computing				https://github.com/rafaacano/DIU
 
 ----------
 
-Tema: ​ Información turística GRUPO DIU2 (LUNES)
+Tema:  DIU2 (MARTES)
 
 
-* DIU2.Alhucemas  [Web](https://github.com/amxndam/DIU21/)
-* DIU2.CajerosRurales	 [Web](https://github.com/Oscarntnz/DIU21)
-* DIU2.disfrutones  [Web](https://github.com/Angelgf22/DIU21)
-* DIU2.JTS  [Web](https://github.com/jesusts99/DIU21/tree/master/P1)
-* DIU2.JuanMM		https://github.com/JuamMM/DIU21		
-* DIU2.LemonTeam	 [Web](https://github.com/Javivelez8/LemonTeam-DIU2)
-* DIU2.LosCogollicos	 [Web](https://github.com/juanmanuelug/DIU21)
-* DIU2.Marmotas		https://github.com/Mapachana/DIU21
-* DIU2.mastodonte	https://github.com/eProw/DIU21
-* DIU2.Matarratas             https://github.com/raulrguez09/DIU21
-* DIU2.RoadtoAndorra	 [Web](https://github.com/GFernando97/DIU21)
-* DIU2.TheThruster  [Web](https://github.com/AlejandroFrndz/DIU)
+DIU2.01 AshenTwo				https://github.com/PalomoVirtual
+DIU2.02 LosMejoresDeDiu				https://github.com/joseptnl/DIU
+DIU2.03 nombreJA				https://github.com/albertollamass/DIU
+DIU2.04 tarnishedBoys				https://github.com/Pablo01bm
+DIU2.04 tarnishedBoys				https://github.com/Pablo01bm
+DIU2.05 ML				https://github.com/manuelcoor66/DIU-Practicas
+DIU2.06 teamposits				https://github.com/dacal01/DIU
+DIU2.07 HichAaron				github.com/AaronPorcel/DIU
+DIU2.08 Loading				https://github.com/lgomxz/DIU2.Loading
+DIU2.09 Unknown				https://github.com/luciasalamanca/DIU
+DIU2.10 4TheWin				https://github.com/Richi76/DIU4TheWin
+DIU2.11 Backyardigans				https://github.com/annacarlosdiu
+DIU2.12 PaquitoGaming				https://github.com/Astropollo/DIU.git
 
 ----------
 
-Tema: ​ Experiencias y planificación de ocio GRUPO DIU3  (MIERCOLES)
+Tema:  DIU3  (JUEVES)
 
-* DIU3.01xindep	
-* DDIU3.AfterWork [Web](https://github.com/VictorRubia/DIU21)
-* DDIU3.ALH	[Web](https://github.com/jmillangalvez/DIU21)
-* DDIU3.Búhos	[Web](https://github.com/daalvaro/DIU21)
-* DDIU3.FLR	[Web](https://github.com/FranJimenez88/DIU21/)
-* DDIU3.inac1	[Web](https://github.com/Nacho-beta/DIU21)
-* DDIU3.kortatu [Web](https://github.com/kartu09/DIUKortatu)
-* DDIU3.LosArtistas [Web](https://github.com/daniharo/DIU21/)
-* DDIU3.LosCompadres [Web](https://github.com/MiguelangelX72/DIU21/)
-* DDIU3.LosMaliantes [Web](https://github.com/Lisenk20/DIU21)
-* DDIU3.matematicos [Web](https://github.com/laurasanpa/DIU21)
-* DDIU3.nmsc	[Web](https://github.com/angelsc21/DIU21)
-* DDIU3.RealBetisBP [Web](https://github.com/Jesus715/DIU21)
-* DDIU3.WeRobot  [Web](https://github.com/Pravila00/DIU21/)
+DIU3.01 MetaRocket				https://github.com/vdeq79/DIU
+DIU3.02 RAYSE				https://github.com/antoniogamiz/DIU/
+DIU3.03 Mosqueteros 				https://github.com/mario-gil/DIU
+DIU3.04 Elcuatro				https://github.com/marfc/DIU22
+DIU3.05 LaBamba				https://github.com/albertomv00/DIU
+DIU3.06				
+Diu3.07 Seven Deadly				
+DIU3.08 JNMM				https://github.com/miguemedina11/DIU
+DIU3.09 Largo sobre Congo				
+DIU3.10 Snowy Team				
+DIU3.12 DoubleAI				https://github.com/adelatorresaavedra/DIU  
+DIU3.13 SS-Team				https://github.com/Gogilga/DIU 
+DIU3.14 PI				
+DIU3.15				https://github.com/laurasanchezsanchez/DIU 
 
 Actualizado 19/05/2021
