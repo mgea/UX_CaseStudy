@@ -42,14 +42,14 @@ Tema:  DIU3  (JUEVES)
 * DIU3.03 Mosqueteros 				https://github.com/mario-gil/DIU
 * DIU3.04 Elcuatro				https://github.com/marfc/DIU22
 * DIU3.05 LaBamba				https://github.com/albertomv00/DIU
-* DIU3.06				
-* Diu3.07 Seven Deadly				
+* DIU3.06				   https://github.com/Javidroid/DIU
+* Diu3.07 Seven Deadly			https://github.com/quepereza/DIU	
 * DIU3.08 JNMM				https://github.com/miguemedina11/DIU
-* DIU3.09 Largo sobre Congo				
-* DIU3.10 Snowy Team				
+* DIU3.09 Largo sobre Congo			https://github.com/wastedDavid/DIU	
+* DIU3.10 Snowy Team			https://github.com/LegalyAlexander/DIU	
 * DIU3.12 DoubleAI				https://github.com/adelatorresaavedra/DIU  
 * DIU3.13 SS-Team				https://github.com/Gogilga/DIU 
-* DIU3.14 PI				
+* DIU3.14 PI				https://github.com/alerodger/DIU
 * DIU3.15				https://github.com/laurasanchezsanchez/DIU 
 
 Actualizado 19/05/2021
