@@ -15,14 +15,12 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Miquel Vidal Cortes    :octocat:   https://github.com/VidalMiquel  
+ * :bust_in_silhouette:  Aurelio     :octocat:
 
 ----- 
 
 
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -37,7 +35,16 @@ Miembros
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+En nuestro caso hemos elaborado dos perfiles de usuarios totalmente diferentes. En primer lugar, un ciudadano Japonés llamado Kimura Yamamoto. Está de viaje por el sur de Europa con su mujer durante sus vacaciones. Amante del ciclismo de carretera, la cocina y de la fotografía. Llega a Granada para aprovechar las características de dicha província, mar, montaña y una cultura gastronómica muy variada. A todos estos alicientes se le suma el poder ver en primera persona un espectáculo de flamenco. Tiene experiencia previa debido al movimiento migratorio del flamenco hacia el país nipón. 
+
+<img width="1024" alt="Persona #1" src="https://user-images.githubusercontent.com/61268020/227580474-04ae1249-b9d2-44e4-8ad9-0f2246a99c3c.png">
+
+
+En segundo lugar, Rocío García, granadina de nacimiento. Estudió psicología en Salamanca. Volvió a Granada donde está trabajando como psicóloga. Aprovechando una visita de sus amigos que hizo en edad universitaria, van a ir a ver un espectáculo de flamenco. Rocío considera que es interesante culturalmente y, aprovechando la experiencia de su abuela, le pedirá consejo para elegir tablao.
+
+
+<img width="1024" alt="Persona #1(1)" src="https://user-images.githubusercontent.com/61268020/227580842-30070301-570e-41e6-9d0b-e28d48551dd0.png">
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -47,11 +54,11 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+>>> - Enlace al documento: https://github.com/VidalMiquel/DIU/blob/master/P1/UsabilityReview.pdf
+>>> - Valoración final (numérica): 81
+>>> - Comentario sobre la valoración:  En términos generales creemos que la web satisface las necesidades que tienen los clientes. Además está adaptada a las tecnologías utilizadas en la actualidad. En todo momento el usuario sabe en qué punto se encuentra y que es lo que debe hacer. Refleja estas valoraciones la puntuación final que ha tenido una vez realizado el Usability Review, 81 puntos. No obstante, hemos detectado puntos de mejora . Según el objetivo del usuario la navegación y experiencia utilizando la web puede variar provocando la insatisfacción de este mismo. La fluidez es un punto a tener en cuenta y a mejorar en posibles nuevas versiones de la web. A esto se le añade la ambigüedad de algunas secciones que podrían fusionarse para mejorar la eficiencia de la web. 
+
 
 
 ## Paso 2. UX Design  
