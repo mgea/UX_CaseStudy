@@ -22,7 +22,6 @@ Miembros
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -32,18 +31,17 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> En el análisis hemos comparado 3 páginas que ofrecen servicios típicos de Granada. Todas presentan una interfaz de baja calidad pero en general cumplen con el mínimo que ofrecen. Nosotros hemos elegido la página del free tour de Granada ya que nos parece la mejor de las 3 páginas.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Hemos elegido a esas 2 personas porque ambas tienen cosas en su vida que los convierten en especiales y nos dan diferentes enfoques de cómo puede usar una persona la página web.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>>Hemos escogido esas experiencias de usuario porque nos parecen que son las más realistas teniendo en cuenta el conocimiento que tienen dichas personas de las tecnologias. 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
