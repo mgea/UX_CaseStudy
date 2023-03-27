@@ -29,8 +29,17 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+Hemos comparado cuatro tablaos flamencos granainos con el objetivo de llegar a saber cual es el que ofrece mejor experiencia. A continuación, describimos brevemente las opciones analizadas y determinamos cual es la mejor.
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+La Alboreá ofrece distintas opciones de entradas, como cena + espectáculo, comenzando el precio de la entrada básica en 18 y una hora de duración. Destacan sus clases de flamenco y una página web con diversas funcionalidades, como la opción de cambiar entre cuatro idiomas y múltiples métodos de contacto con el soporte, además de contenido gráfico.
+
+La Cueva la Rocio tiene distintas entradas desde 25€ con una duración de una hora. Permite realizar eventos en la cueva, como bodas o comuniones en la cueva. Su página web también es muy buena pero carece de ciertas características como la consulta de opiniones, pago en otras monedas o más idiomas.
+La Soleá ofrece un espectáculo de 1:30 horas, el más extenso de todos, por 30€ y distintas entradas. Su página web, aunque no es mala, es limitada: Solo disponible en 2 idiomas, lo que reduce enormemente su público, y sin opción de pago en PayPal o en otras monedas.
+
+La Comino ofrece un espectáculo de una hora de duración con entradas a partir de 25€, aunque las opciones que ofrece son muy limitadas. Su página web es muy básica y tiene aspectos mejorables como la satisfacción, la eficiencia y la eficiencia. También presenta problemas con los idiomas y los métodos de pago.
+
+Entonces, según la información proporcionada, la recomendación sería optar por La Alboreá debido a su buena relación calidad-precio, una duración de espectáculo similar a las otras opciones y una página web con características destacables como la posibilidad de cambiar entre varios idiomas y diversos métodos de contacto con el soporte. Además, la opción de tomar clases de flamenco puede agregar valor a la experiencia en general.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
