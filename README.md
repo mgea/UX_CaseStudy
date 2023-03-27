@@ -57,9 +57,10 @@ En segundo lugar, Rocío García, granadina de nacimiento. Estudió psicología 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+Para cada una de las personas definidas anteriormente hemos elaborado dos Journey Maps distintos adaptándonos a la experiencia que van a vivir. En caso Kimura Yamamoto, el proceso va desde que se informa sobre el tablado al que va a ir, después de una comparativa con las opciones que le propone la agencia, pasando por la elección de la entrada que va a comprar hasta el pago y obtención de los tickets. Y en el caso de Rocío, tiene estados del Journey Map parecido al de Kimura, pero se diferencian en la toma de la decisión, ya que la granadina ha de tener en cuenta la ubicación del tablao debido a que vive en las afueras de Granada.
 
+Creemos que estos tipos de perfiles son muy comunes en este tipo de eventos. En primer lugar, el turista extranjero que con previa noción del flamenco o sin ella, quiere poder vivir una velada flamenca o, en el otro caso, el granadino que, con el objetivo de acercar su cultura a amigos de otros lugares de España, piensa que es interesante asistir.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
