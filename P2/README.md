@@ -48,17 +48,17 @@
 
 
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](../img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](../img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
@@ -69,7 +69,7 @@ Término | Significado
   Login¿?  | acceder a plataforma
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
