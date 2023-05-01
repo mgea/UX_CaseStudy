@@ -2,49 +2,31 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
-* Point of View 
-
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
-
 ### TASK ANALYSIS
 
 * User Task Matrix 
-* User/Task flow
-
 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
 * Labelling 
 
-
 ### Prototipo Lo-FI Wireframe 
-
-
-### Conclusiones  
-(incluye valoración de esta etapa)
 
 
 ![Método UX](../img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+>>> En esta malla hemos comentado los aspectos más importantes de la práctica anterior
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+
+>>> La propuesta de valor de nuestra aplicación de economía colaborativa se centra en la experiencia del usuario, ofreciendo una plataforma intuitiva, segura y transparente para conectar a proveedores y consumidores de servicios. Además, nuestra aplicación se enfoca en fomentar la confianza y el compromiso entre los usuarios, a través de un sistema de valoración y recomendaciones. Todo esto con el objetivo de crear una comunidad colaborativa basada en la confianza, la calidad y la innovación
 
 
 
@@ -55,22 +37,18 @@
 ![Método UX](../img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Hemos seleccionado los distintos grupos de usuarios que pueden usar nuestra aplicación y los distintas tareas que pueden hacer y hemos etiquetado la frecuencia en la que cada grupo podría realizar esas actividades  
 
 
 ![Método UX](../img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+>>> Hemos realizado la estructura de las diferentes páginas que tiene nuestra página web y la manera en la que están organizadas y además hemos hecho el labelling con las diferentes actividades y términos de nuestra página web  
 
 
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Por último hemos realizado el boceto de las páginas principales de nuestra aplicación y como se vería una vez implementada dicha página 
 
