@@ -2,14 +2,13 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
 Grupo: DIU2_Lospibes  Curso: 2022/23 
-Updated: 11/1/2023
+Updated: 1/05/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>> SenseGranada
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+>> Es una página web que ofrece tours de diferentes categorías como discotecas,gastronomía,relax,naturaleza,música y tradiciones. Además hay packs únicos y personalizados en función de las necesidades de cada usuario. Además, los usuarios pueden matenerse informados de las últimas noticias y eventos relacionados con las diferentes categorías de tours y contactar. La página tambíen ofrece la opción de búsqueda avanzada.  
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
