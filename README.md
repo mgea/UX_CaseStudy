@@ -44,7 +44,7 @@ Miembros
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>>Hemos escogido esas experiencias de usuario porque nos parecen que son las más realistas teniendo en cuenta el conocimiento que tienen dichas personas de las tecnologias. 
+>>> En este paso hemo realizado una representación de la experiencia de Mary y Pablo al utilizar la página web, lo hemos realizado como un recorrido diciendo paso por paso como se han sentido, las acciones que han ido realizado en cada paso y las acciones que les ha devuelto la página. 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
