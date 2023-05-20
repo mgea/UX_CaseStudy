@@ -90,11 +90,8 @@ Miembros
 ----
 
 
->>> Identificar términos para diálogo con usuario  
+>>> Hemos creado el Sitemap y el Labelling de nuestra página web siguiendo un proceso estructurado. En primer lugar, hemos identificado las diferentes secciones y páginas clave de nuestro sitio web. La paǵina de inicio que nos lleva a diferentes secciones como , los tours , los packs, la página de contacto, información, sobre nosotros, entre otros. A continuación, hemos organizado estas secciones en un Sitemap, que es una representación visual de la estructura jerárquica de nuestro sitio web. En el Sitemap, hemos establecido la relación entre las diferentes páginas, destacando las secciones principales y sus subpáginas correspondientes. Esto nos permite tener una visión general clara de la navegación y la arquitectura de nuestro sitio web. Además, hemos aplicado el Labelling, que consiste en asignar etiquetas o nombres descriptivos a cada página en nuestro Sitemap. Estas etiquetas reflejan de manera concisa el contenido y la función de cada página, lo que facilita la comprensión y navegación para los usuarios
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
