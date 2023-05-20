@@ -32,7 +32,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> En el análisis hemos comparado 3 páginas que ofrecen servicios típicos de Granada. Todas presentan una interfaz de baja calidad pero en general cumplen con el mínimo que ofrecen. Nosotros hemos elegido la página del free tour de Granada ya que nos parece la mejor de las 3 páginas.
+>>> Hemos realizado un análisis de 3 páginas que fomentan el turismo en Granada, una sobre un espectaculo en un Tablao Flamenco, otra sobre una página de free tours y otra sobre un taller de artesanía. Hemos valorado diversos aspectos de dichas páginas con 3 iconos para cada uno de estos aspectos en función del estado en el que consideramos que esta trabajado. Alguno de los aspectos que hemos valorado son el precio, si se puede hacer una cuenta o no en la página, la fluidez de la página, el diseño, la utilidad, la seguridad... Al finalizar hemos realizado la media de los puntos que hemos asignado a cada aspecto y le hemos dado una nota final a la página. En general las páginas estan bastante bien exceptuando la de artesanía, estan bastante completas aunque tienen bastante aspectos en los que tendrían que mejorar
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
