@@ -37,7 +37,9 @@ Miembros
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Hemos elegido a esas 2 personas porque ambas tienen cosas en su vida que los convierten en especiales y nos dan diferentes enfoques de cómo puede usar una persona la página web.
+>>> Hemos realizado la creación de dos personajes ficticios que representan diferentes dificultades que los usuarios pueden encontrar al utilizar la página de free tours en Granada. Las dos personas que hemos creado son : Mary, una exitosa diseñadora de moda en el Reino Unido que se enfrenta a dificultades al utilizar la página web de free tours en Granada. A pesar de su éxito en su campo, Mary confiesa que no es muy hábil con la tecnología y tiene dificultades para navegar por la web. Además, no entiende el idioma español, lo que dificulta aún más su experiencia al utilizar la página. Pablo, un joven delegado de su curso, cuya vida ha sido algo complicada debido al divorcio de sus padres cuando era muy pequeño. Pablo está emocionado por organizar un viaje de fin de curso a Granada y desea utilizar la página web de free tours para seleccionar las mejores opciones para sus compañeros. Sin embargo, debido a las responsabilidades y desafíos que ha enfrentado, se siente abrumado y busca una experiencia fácil y accesible en la página.
+
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
