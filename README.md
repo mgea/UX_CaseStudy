@@ -111,8 +111,7 @@ Miembros
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+>>> En el proceso de creación de nuestra landing page para atraer nuevos clientes a nuestra página web de tours por sentidos, hemos diseñado una estructura clara y concisa, resaltando los beneficios más importantes que ofrecemos y utilizando una llamada a la acción persuasiva. Además, hemos cuidado el diseño visual para transmitir confianza y hemos redactado un mensaje claro y convincente que destaca nuestra propuesta de valor. Con secciones distintas y visibles, un encabezado llamativo, beneficios destacados y una acción directa, nuestra landing page busca captar la atención del usuario y motivarlo a registrarse o reservar un tour, generando así nuevas oportunidades de negocio.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
