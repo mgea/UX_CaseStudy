@@ -105,11 +105,7 @@ Miembros
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+En este paso hemos realizado un moodboard de nuestra página web que ha implicado la recopilación de diversos elementos visuales que nos ayudan a establecer la estética y la identidad visual de la página. Hemos seleccionado el tipo de tipografía que utilizaremos en nuestra página web para los encabezados y subtítulos. Hemos elegido imágenes que representen visualmente el contenido y el tema de nuestra página web. Hemos definido una paleta de colores que refleje la personalidad de nuestra página web. Hemos seleccionado iconos relevantes que complementen la información y mejoren la usabilidad de nuestra página web. Hemos incluido el logotipo de nuestra página web en el moodboard. El logotipo es la identidad de nuestra marca y nos ayuda a establecer una imagen reconocible y memorable. El moodboard nos sirve como una guía visual durante el proceso de diseño, asegurando la coherencia y la armonía en todos los elementos visuales de la página web
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
