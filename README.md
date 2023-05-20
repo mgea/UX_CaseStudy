@@ -83,7 +83,7 @@ Miembros
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Hemos realizado un task analysis que se basa en una tabla donde se enumeran diferentes tipos de públicos que pueden interactuar con nuestra página, y en las filas se presentan acciones específicas, como usar filtros, contactar, reservar packs, compartir, comentar y reservar tours individuales. En cada celda de la tabla, hemos asignado una clasificación de "a", "m" o "b" (alto, medio o bajo) según el nivel de interés que creemos que cada tipo de usuario tendrá en realizar esa acción en particular. Esto nos permite evaluar y comprender las preferencias y necesidades de los distintos públicos objetivo en relación con las diferentes acciones disponibles en nuestra página web. Al asignar clasificaciones de interés, podemos identificar las acciones que son más relevantes y atractivas para cada grupo de usuarios, lo que nos ayuda a priorizar y enfocar nuestros esfuerzos en mejorar la experiencia de usuario en esas áreas específicas
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
