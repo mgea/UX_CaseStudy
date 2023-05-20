@@ -97,7 +97,7 @@ Miembros
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Durante la fase de plantear el diseño del layout de nuestra página web de tours, hemos llevado a cabo un proceso detallado para crear bocetos que nos ayuden a visualizar la estructura general y la disposición de los elementos en cada página. Para ello, hemos utilizado herramientas de diseño que nos permiten plasmar nuestras ideas de forma rápida y sencilla. Estos bocetos son representaciones visuales, donde nos hemos enfocado principalmente en la distribución y organización de los elementos clave, sin entrar en los detalles de diseño como colores, tipografías o estilos visuales. El objetivo principal de esta etapa ha sido capturar la arquitectura de la información y la disposición general de los elementos para obtener una comprensión clara de la estructura de la página
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
