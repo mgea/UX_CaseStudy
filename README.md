@@ -78,7 +78,7 @@ Miembros
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> En este paso hemos realizado un ScopeCanvas para planificar y describir de manera clara los diferentes aspectos clave del proyecto a realizar. Hemos detallado varios aspectos como  como los objetivos, las necesidades del público objetivo, las acciones que buscamos que los usuarios realicen, las métricas con las que vamos a medir nuestro éxito y los propósitos de nuestro proyecto. En general hablamos de que lo que queremos es llegar a públicos con distintos intereses y distintos gustos para fomentar el turismo en Granada capital. Mediremos el éxito dependiendo del feedback que tengamos de nuestro público. Todo esto lo haremos incorporando nuevos productos que inciten al público a usar nuestra web. Buscamos que los usuarios encuentren paz, relax y diversión mientras que conocen a Granada en todas sus facetas 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
