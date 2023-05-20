@@ -2,16 +2,18 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
 Grupo: DIU2_Lospibes  Curso: 2022/23 
-Updated: 1/05/2023
+Updated: 4/05/2023
 
 Proyecto: 
 >> SenseGranada
 
 Descripción: 
->> Es una página web que ofrece tours de diferentes categorías como discotecas,gastronomía,relax,naturaleza,música y tradiciones. Además hay packs únicos y personalizados en función de las necesidades de cada usuario. Además, los usuarios pueden matenerse informados de las últimas noticias y eventos relacionados con las diferentes categorías de tours y contactar. La página tambíen ofrece la opción de búsqueda avanzada.  
+>> Hemos diseñado una página web llamada SenseGranada donde ofrecemos tours de diferentes temáticas para conocer Granada en todos sus sentidos. En nuestra página principal podrá encontrar los tour ordenados en función de duración, por popularidad y por sentido. Además ofrecemos en la pestaña de tours los tours ordenados por temática para escoger en función de los gustos de cada persona. Ofrecemos también packs para realizar más de un tour en un día y ofertas especiales para exprimir al máximo la experencia en un solo día, ideal para viajeros que cuenten con el tiempo justo para visitar la ciudad. Contamos además con guías expertos para ayudar a entender más la historia de la ciudad. También contamos con una sección de comentarios para que puedas ver experiencias de anteriores usuarios. En resumen nuestra página proporciona todo tipo de servicios para que los usuarios puedan conocer a la perfección Granada
+
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![Imagen](img/logotipo.png)
 
 Miembros
  * :bust_in_silhouette:   Sergio Muñoz Gómez     :octocat:     
