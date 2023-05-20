@@ -73,10 +73,7 @@ Miembros
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+>>> Nuestra propuesta de valor para el nuevo diseño de la aplicación de economía colaborativa en nuestra página es dar una experiencia única y personalizada, conectando a los usuarios con guías expertos y ofreciendo tours sensoriales que estimulen todos los sentidos. Creemos que al combinar la economía colaborativa con la experiencia sensorial, podemos crear una plataforma innovadora que fomente la participación y el intercambio de conocimientos, mientras se brinda a los usuarios una experiencia turística enriquecedora y memorable
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
