@@ -115,22 +115,20 @@ Miembros
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+>>> Hemos creado un guideline para nuestra página web, estableciendo una identidad visual coherente. El logotipo "SenseGranada" evoca una experiencia sensorial en la ciudad, mientras que la paleta de colores representa la naturaleza y la calma. Para la tipografía, utilizamos CoffeCake para transmitir calidez y Belleza para ofrecer elegancia y claridad. Siguiendo los patrones de UI-Patterns, incorporamos funcionalidades como búsqueda, filtro y mapa, y garantizamos accesibilidad visual. Además, hemos integrado características como retroalimentación, edición en su lugar y vista previa. En cuanto al lenguaje, evocamos emociones y transportamos a los usuarios a escenarios llenos de magia, invitándolos a explorar y disfrutar de las maravillas de Granada con SenseGranada
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Para diseñar el layout de nuestra página web, hemos creado un mockup que nos ha permitido simular tareas con los botones interactivos seleccionados. Hemos desarrollado alrededor de 30 páginas de simulación, incluyendo tours, packs, sobre nosotros, información, contacto, registro, inicio de sesión y más. Utilizando herramientas de diseño y desarrollo web, hemos creado una representación visual de cada página, estableciendo la disposición de los elementos, la navegación y la interacción con los botones. Este proceso nos ha permitido visualizar y evaluar cómo se verá y funcionará la página en tiempo real, identificar posibles problemas de usabilidad y realizar ajustes antes de la implementación final. Con el mockup, hemos logrado obtener una visión clara y tangible de la estructura y el flujo de las 30 páginas, brindando una experiencia de usuario intuitiva y atractiva.
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+>>> Lo hemos documentado en este mismo readme, explicando paso a paso lo que hemos realizado en cada una de las partes que hemos realizado para llegar a la versión final de nuestra página web
 
 
 ## Paso 4. Evaluación 
