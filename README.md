@@ -65,8 +65,7 @@ Miembros
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
+>>> En este caso hemos realizado una malla receptora de información para recopilar y analizar distintos aspectos de la página web de free tours de Granada. En primer lugar hemos resaltado las cosas interesantes como que ofrecen tours a casi todas las horas del dia, los precios suelen ser bastante económicos, ofrecen bastante imágenes, recomiendan otro tipo de actividades e información relevante sobre Granada y ofrecen tours privados que pueden ser interesantes. Para seguir, realizamos críticas constructivas de dicha página, a grandes rasgos hemos hablado de que no ofrecen comodidades ni servicios extras, son unos tours muy convencionales en los que no incorporan nuevas tecnologías, ofrecen muy poca variedad de guías turisticos, no ofrecen mapas con el recorrido que van a realizar y además el abanico de idiomas es muy bajo, ya que la mayoría de los tours son en español o ingles. Además hemos realizado preguntas a partir de la experiencia que tanto nuestras personas ficticias de las que hablamos anteriormente , como nuevos usuarios que utilicen la paǵina se podrían plantear, dichas preguntas hablan sobre la incertidumbre de si con un tour podremos recorrer los sitios más importantes de Granada, si se puede elegir el guia del tour, si hay que tener edad minima para realizarlo o cuando se realiza el  pago de este tour 
 
  Interesante | Críticas     
 | ------------- | -------
