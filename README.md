@@ -77,14 +77,8 @@ Creemos que estos tipos de perfiles son muy comunes en este tipo de eventos. En 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+<img width="3734" alt="Malla_receptora (1)" src="https://github.com/VidalMiquel/DIU/assets/61268020/189778bd-6ce1-4307-8170-9c4d505f242b">
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
@@ -96,23 +90,31 @@ Creemos que estos tipos de perfiles son muy comunes en este tipo de eventos. En 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
+<img width="2085" alt="scope_canvas_5_print_es (1)" src="https://github.com/VidalMiquel/DIU/assets/61268020/434f259c-79aa-4f80-b511-487bb097ed2d">
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![Tareas_page-0001](https://github.com/VidalMiquel/DIU/assets/61268020/a6811206-4d10-4cdb-a071-2799481ead5d)
+![Tareas_page-0002](https://github.com/VidalMiquel/DIU/assets/61268020/56e733b2-b085-4c28-9405-ccdf122fdeaa)
+![Tareas_page-0003](https://github.com/VidalMiquel/DIU/assets/61268020/c36aff24-2eb8-43c2-aa3d-d17e58a69c86)
+![Tareas_page-0004](https://github.com/VidalMiquel/DIU/assets/61268020/5ae03723-93d4-45aa-a2df-8e3b0a13141f)
+![Tareas_page-0005](https://github.com/VidalMiquel/DIU/assets/61268020/5b03ba18-42e8-4604-ad0b-dea246d4d69d)
+![Tareas_page-0006](https://github.com/VidalMiquel/DIU/assets/61268020/dff20049-7fec-4336-b6a3-354ae6651955)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
+<img width="14537" alt="Arquitectura de información" src="https://github.com/VidalMiquel/DIU/assets/61268020/023c58bf-16b7-4f0f-86ff-ccf34bfc48b8">
 
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+![Tabla labeling_page-0001](https://github.com/VidalMiquel/DIU/assets/61268020/ea73ee17-11ae-4335-a656-d5aff2c015dc)
+![Tabla labeling_page-0002](https://github.com/VidalMiquel/DIU/assets/61268020/a71bb831-56b8-484a-a581-93b4533f8bf0)
+![Tabla labeling_page-0003](https://github.com/VidalMiquel/DIU/assets/61268020/c411f21b-c713-49ee-a491-4e98bc81824b)
+![Tabla labeling_page-0004](https://github.com/VidalMiquel/DIU/assets/61268020/e3552268-0560-4187-b47e-b9e1ffcb4e0f)
+![Tabla labeling_page-0005](https://github.com/VidalMiquel/DIU/assets/61268020/679f7bdb-c7fd-407c-a96d-3c2bd8150154)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
