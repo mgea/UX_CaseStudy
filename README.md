@@ -120,6 +120,9 @@ Creemos que estos tipos de perfiles son muy comunes en este tipo de eventos. En 
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![b1](https://github.com/VidalMiquel/DIU/assets/61268020/d180420f-f84d-4a33-a108-6344f1da7243)
+<img width="4044" alt="b2" src="https://github.com/VidalMiquel/DIU/assets/61268020/c62fd128-f284-4b5c-afe8-a7489b1600c2">
+<img width="5256" alt="b3" src="https://github.com/VidalMiquel/DIU/assets/61268020/b9b6d9cd-5afa-4ee3-8dc4-c8969211faf3">
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
