@@ -76,7 +76,15 @@ Creemos que estos tipos de perfiles son muy comunes en este tipo de eventos. En 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
-Una vez acabada la práctica uno, realizamos la malla receptora que nos permitirá tener anotado un conjunto de aspectos interesantes. En primer lugar, las cosas que nos han parecido interesantes de la web analizada anteriormente. Esto nos valdrá para no tener que empezar a trabajar des de zero. En segundo lugar, las críticas. En esta sección listamos que elementos no nos han acabado de encajar. No quiere decir que rediseñados y en un lugar correcto no sean aptos para ser insterados en la nueva web. En tercer  lugar, las nuevas ideas. Planteadas por parte de los usuarios potenciales, aquellos definidos en la primera práctica. Nos van a servir como sugerencias para la propuesta de valor que definiremos más adelante. Finalmente, las nuevas ideas. Propuestas por parte de los programadores. Nos basamos en las necesidades ocultas. Es decir, funcionalidades que los usuarios no saben que les hace falta, pero que mejorarían su experiencia dentro de la futura web.
+Una vez acabada la práctica uno, realizamos la malla receptora que nos permitirá tener anotado un conjunto de aspectos interesantes. 
+
+En primer lugar, las cosas que nos han parecido interesantes de la web analizada anteriormente. Esto nos valdrá para no tener que empezar a trabajar des de zero. 
+
+En segundo lugar, las críticas. En esta sección listamos que elementos no nos han acabado de encajar. No quiere decir que rediseñados y en un lugar correcto no sean aptos para ser insterados en la nueva web. 
+
+En tercer  lugar, las nuevas ideas. Planteadas por parte de los usuarios potenciales, aquellos definidos en la primera práctica. Nos van a servir como sugerencias para la propuesta de valor que definiremos más adelante. 
+
+Finalmente, las nuevas ideas. Propuestas por parte de los programadores. Nos basamos en las necesidades ocultas. Es decir, funcionalidades que los usuarios no saben que les hace falta, pero que mejorarían su experiencia dentro de la futura web.
 
 <img width="3734" alt="Malla_receptora (1)" src="https://github.com/VidalMiquel/DIU/assets/61268020/189778bd-6ce1-4307-8170-9c4d505f242b">
 
@@ -94,6 +102,11 @@ El objetivo es conseguir una web adaptada para todos los publicos, que incluya c
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
+El siguiente paso a realizar es analizar las tareas que van a realizar los usuarios en nuestra web. Para ello nos basamos en las listadas anteriormente en el aprtado "Acciones" de la propuesta de valor. Tenemos dividido el proceso en dos secciones. 
+
+En la primera, hemos elaborado una tabla que muestra de manera gráfica la frecuencia de uso (Alta/Media/Baja) para cada uno de lso grupos identificados. Dichos conjuntos los hemos definido en base a agrupar los usuarios potenciales en nichos. La gran diferencia ente ellos es el si son residentes o turistas. Y dentro de estos hemos segmentado según la edad. Remarcar que las destacadas con un fondo gris es porque hemos decidido que son críticas a la hora de diseñarlas. 
+
+Y en la segunda, y con el objeivo de profundizar y facilitar la tarea de desarrollo a los programadores, hemos listado las subtareas que deberán llevar acabo los usuarios por cada tarea definida en la tabla anterior. Esto nos permite, en caso de querer implementar una web totalmente funcional, poder estimar con exactitud el trabajo a realizar.
 
 ![Tareas_page-0001](https://github.com/VidalMiquel/DIU/assets/61268020/a6811206-4d10-4cdb-a071-2799481ead5d)
 ![Tareas_page-0002](https://github.com/VidalMiquel/DIU/assets/61268020/56e733b2-b085-4c28-9405-ccdf122fdeaa)
