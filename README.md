@@ -76,20 +76,19 @@ Creemos que estos tipos de perfiles son muy comunes en este tipo de eventos. En 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
+Una vez acabada la práctica uno, realizamos la malla receptora que nos permitirá tener anotado un conjunto de aspectos interesantes. En primer lugar, las cosas que nos han parecido interesantes de la web analizada anteriormente. Esto nos valdrá para no tener que empezar a trabajar des de zero. En segundo lugar, las críticas. En esta sección listamos que elementos no nos han acabado de encajar. No quiere decir que rediseñados y en un lugar correcto no sean aptos para ser insterados en la nueva web. En tercer  lugar, las nuevas ideas. Planteadas por parte de los usuarios potenciales, aquellos definidos en la primera práctica. Nos van a servir como sugerencias para la propuesta de valor que definiremos más adelante. Finalmente, las nuevas ideas. Propuestas por parte de los programadores. Nos basamos en las necesidades ocultas. Es decir, funcionalidades que los usuarios no saben que les hace falta, pero que mejorarían su experiencia dentro de la futura web.
 
 <img width="3734" alt="Malla_receptora (1)" src="https://github.com/VidalMiquel/DIU/assets/61268020/189778bd-6ce1-4307-8170-9c4d505f242b">
 
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+Una vez completada la malla receptora, se propone mejorar la web de la alborea añadiendo aquellas nuevas ideas propuestas anteriormente e intentando mejorar los puntos planteados en la crítica constructiva. Además, se mantendrán aquellos elementos considerados como interesantes. Se tratará de diseñar la web de forma que resulte intuitiva para los usuarios con el objetivo de que tenga las menores dudas posible durante el uso de la misma. 
+
+El objetivo es conseguir una web adaptada para todos los publicos, que incluya contenido de calidad e interesante. Se tratará que se fácil de navegar, que tenga una estructura clara y organizada, divida en secciones, facilitando la lectura de la información. Además, se establecerán estrategias para fidelizar a los clientes más experimentados y apasionados por el flamenco. También se implementará la posibilidad de personalizar la experiencia del usuario mediante la sección "Área de cliente".
+
 <img width="2085" alt="scope_canvas_5_print_es (1)" src="https://github.com/VidalMiquel/DIU/assets/61268020/434f259c-79aa-4f80-b511-487bb097ed2d">
 
 
