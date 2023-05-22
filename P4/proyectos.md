@@ -1,10 +1,7 @@
 # Listado de Proyectos "Turismo en Granada" DIU - 2022/2023
 
-este va a https://github.com/mgea/DIU/blob/master/P4/proyectos.md
-falta generar https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf
 
 GRUPO DIU1 (M.Gea)
-
 
 * DIU1.01 SalvameDeluxe	https://github.com/pgonzs08/DIU.git
 * DIU1.02 Amine	https://github.com/minusH001/DIU
