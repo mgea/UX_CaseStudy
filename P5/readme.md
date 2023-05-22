@@ -1,8 +1,6 @@
-## Practica 5: entregables 
+## Practica 5: Eye Tracking - entregables 
 
-### [WCAG A11Y]  pautas de accesibilidad
 
-### [A11Y SIMULATOR] simulador de discapacidad 
 
 
 ### RESUMEN 
