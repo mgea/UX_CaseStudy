@@ -194,6 +194,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
 
 5.a) Diseño del experimento 
+----
 
 >> Uso de imágenes/url/video -> duración aproximada 
 >> Estabecer áreas de interes antes del diseño 
