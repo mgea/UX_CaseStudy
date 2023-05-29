@@ -189,7 +189,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Paso 5. Evaluación mediante Eye Tracking 
 
 
-![Método UX]([img/Accesibility.png](https://mgea.github.io/UX-DIU-Checklist/img/icons128/eye-tracking.png))  5.a Eye Tracking method 
+![Método UX](img/eye-tracking.png))  5.a Eye Tracking method 
 
 >>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
 
@@ -199,7 +199,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >> Estabecer áreas de interes antes del diseño 
 
 
-![experimento]([img/experimentoET.png)  
+![experimento](img/experimentoET.png)  
 >> cambiar img por tu diseño de experimento  
 
 >> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
@@ -207,7 +207,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 5.b) Resultados y valoración 
 
 >> Cambiar por tus resultados
-![Resultado]([img/resultadoET.png)  
+![Resultado](img/resultadoET.png)  
 
 
 
