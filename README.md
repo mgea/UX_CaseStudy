@@ -185,20 +185,30 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Valoración personal 
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+
+## Paso 5. Evaluación mediante Eye Tracking 
 
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
+![Método UX]([img/Accesibility.png](https://mgea.github.io/UX-DIU-Checklist/img/icons128/eye-tracking.png))  5.a Eye Tracking method 
 
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
+>>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
 
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
+5.a) Diseño del experimento 
 
->>> (uso de tabla de datos, indicar herramientas usadas) 
+>> Uso de imágenes/url/video -> duración aproximada 
+>> Estabecer áreas de interes antes del diseño 
 
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+
+![experimento]([img/experimentoET.png)  
+>> cambiar img por tu diseño de experimento  
+
+>> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
+
+5.b) Resultados y valoración 
+
+>> Cambiar por tus resultados
+![Resultado]([img/resultadoET.png)  
+
 
 
 
