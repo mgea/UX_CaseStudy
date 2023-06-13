@@ -165,7 +165,7 @@ Término | Significado
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
@@ -206,9 +206,24 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
 
 5.b) Resultados y valoración 
+-----
+
+
 
 >> Cambiar por tus resultados
 ![Resultado](img/resultadoET.png)  
+
+
+
+5.c) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
+----
+
+
+>> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
+>> con los resultados del A/B testing, de eye tracking y del usability report:
+>>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+
+
 
 
 
@@ -216,7 +231,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
 
 
