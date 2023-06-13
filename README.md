@@ -196,8 +196,8 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 5.a) Diseño del experimento 
 ----
 
->> Uso de imágenes/url/video -> duración aproximada 
->> Estabecer áreas de interes antes del diseño 
+>> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
+>> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
 
 
 ![experimento](img/experimentoET.png)  
