@@ -147,7 +147,7 @@ Término | Significado
 >>> Documente y resuma el diseño de su producto
 
 
-## Paso 4. Exportación & evaluación con Eye Tracking 
+## Paso 5. Exportación & evaluación con Eye Tracking 
 
 Exportación a HTML/Flutter
 -----
@@ -178,17 +178,17 @@ Resultados y valoración
 
 
 
-## Paso 5. Evaluación 
+## Paso 4. Evaluación 
 
 
-![Método UX](img/ABtesting.png) 5.a Caso asignado
+![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
 
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
 
-![Método UX](img/usability-testing.png) 5.b User Testing
+![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
@@ -202,7 +202,7 @@ Resultados y valoración
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-![Método UX](img/Survey.png) 5.c Cuestionario SUS
+![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
@@ -212,7 +212,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
-![Método UX](img/usability-report.png) 5.d Usability Report
+![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
@@ -225,7 +225,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
-5.c) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
+5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
 
