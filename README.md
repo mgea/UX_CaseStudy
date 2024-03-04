@@ -1,4 +1,4 @@
-# DIU23
+# DIU24
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
 Grupo: DIU1_01AABB.  Curso: 2022/23 
