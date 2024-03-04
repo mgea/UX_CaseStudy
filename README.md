@@ -63,7 +63,7 @@ Miembros
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
 
@@ -86,7 +86,7 @@ Miembros
 ----
 >>> Propuesta de valor 
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
@@ -144,20 +144,51 @@ Término | Significado
 
 
 >>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+>>> Documente y resuma el diseño de su producto
 
 
-## Paso 4. Evaluación 
+## Paso 4. Exportación & evaluación con Eye Tracking 
+
+Exportación a HTML/Flutter
+-----
+
+![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
+
+>>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+
+Diseño del experimento 
+----
+
+>> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
+>> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
 
 
-![Método UX](img/ABtesting.png) 4.a Caso asignado
+![experimento](img/experimentoET.png)  
+>> cambiar img por tu diseño de experimento  
+
+>> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
+
+Resultados y valoración 
+-----
+
+
+
+>> Cambiar por tus resultados
+![Resultado](img/resultadoET.png)  
+
+
+
+## Paso 5. Evaluación 
+
+
+![Método UX](img/ABtesting.png) 5.a Caso asignado
 ----
 
 
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
 
-![Método UX](img/usability-testing.png) 4.b User Testing
+![Método UX](img/usability-testing.png) 5.b User Testing
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
@@ -171,7 +202,7 @@ Término | Significado
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-![Método UX](img/Survey.png) 4.c Cuestionario SUS
+![Método UX](img/Survey.png) 5.c Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
@@ -181,7 +212,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
-![Método UX](img/usability-report.png) 4.d Usability Report
+![Método UX](img/usability-report.png) 5.d Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
@@ -191,33 +222,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Valoración personal 
 
 
-
-## Paso 5. Evaluación mediante Eye Tracking 
-
-
-![Método UX](img/eye-tracking.png))  5.a Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-5.a) Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-5.b) Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
 
 
 
