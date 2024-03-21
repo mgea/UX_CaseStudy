@@ -32,3 +32,4 @@ A una persona tímida como Manuel, lo que le hace falta es que la persona a carg
 ## [Revisión de Usabilidad:](Usability-review-template.xlsx)
 La página web de Pilsaeduca.com ha obtenido 84 puntos sobre 100, por lo que podemos calificarlo con un sitio web bueno, donde los usuarios deberían poder utilizar este sitio o sistema con relativa facilidad y deberían poder completar la gran mayoría de las tareas importantes.
 
+Memoria completa [aquí](Práctica_1_ UX_User_&_Desk_Research_&_Analisis.pdf)
