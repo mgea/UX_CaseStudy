@@ -26,6 +26,7 @@ En nuestro caso, nos hemos fijado en ofertas en Granada, en las opiniones de las
 ---
 
 ## Competitive Analysis
+[VER](https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P1/Entrega/AnalisisCompetencia.pdf)
 
 En nuestro caso hemos elegido dos páginas que hemos buscado [Patata Santa](https://www.patatasanta.com/) y [Garnata Tours](https://www.garnatatours.com/)
 Ademas de la propia pagina que se propone en el guión.
@@ -39,7 +40,7 @@ Al final los puestos segun nuestra clasificacion han sido:
 ## Persona
 
 ### Persona 1 y su Experience Journey Map
-[VER]()
+[VER]([https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P1/Entrega/AnalisisCompetencia.pdf](https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P1/Entrega/Persona%201%20%26%20User%20Journey%20Map.pdf))
 
 Antonio Martín  
 Antonio es un hombre de mediana edad inglés que se dispone a visitar granada. Esta es la premisa principal sobre la que se desarrolla.  
@@ -49,7 +50,7 @@ En cuanto a su User Journey Map planteamos como seria para alguien que no domina
 
 
 ### Persona 2 y su Experience Journey Map
-
+[VER](https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P1/Entrega/Persona2.pdf)
 Carmen Maria López  
 Carmen es una mujer de naturaleza artística, es bastante directa y no suele andar con rodeos. Suele decir las cosas tal y como las piensa, cosa que a veces le da un aire cateto y brusco a pesar de su refinado gusto músical. Pasa muchas horas delante del piano pues está entregada al arte al 110% lo que le permite ofrecer un espectáculo de calidad y de muy alto nivel. No obstante, el precio a pagar por volar tan alto es la soledad pues le queda muy poco tiempo para el ocio. Tiene deseo de hacer nuevos amigos y conocer a nuevas personas. 
 
@@ -59,7 +60,7 @@ Su Journey Map refleja las etapas o más bien pasos  por los que pasa Carmen Mar
 ---
 
 ## Usability Review
-
+[VER]()
 Hemos elgido la pagina [Garnata Tours](https://www.garnatatours.com/) para realizar esta parte de la actividad aproechando que creemos que es la que tiene mayor marjen de mejora y podemos identificar mas errores en los que no caer.
 
 ---
