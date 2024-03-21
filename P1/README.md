@@ -25,7 +25,7 @@
   actividades
   Por parte de Eulalio surge la preocupación por la indecisión de como empezar a aprender a cocinar a parte del posible desequilibrio en el bienestar económico de    la familia. Se deja aconsejar por su hijos para que se apunta y finalmente encuentra uno cerca de zona.
 
-- Revisión de Usabilidad 
+- Revisión de Usabilidad
   Para la revisión de usabilidad hemos elegido GranadaCooking. Esta ha obtenido una puntuación de 79 puntos sobre 100 destacando en gran variedad de aspectos y 
   quedándose corta en muy pocos. 
 
