@@ -40,7 +40,7 @@ Al final los puestos segun nuestra clasificacion han sido:
 ## Persona
 
 ### Persona 1 y su Experience Journey Map
-[VER]([https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P1/Entrega/AnalisisCompetencia.pdf](https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P1/Entrega/Persona%201%20%26%20User%20Journey%20Map.pdf))
+[VER](https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P1/Entrega/Persona%201%20%26%20User%20Journey%20Map.pdf)
 
 Antonio Martín  
 Antonio es un hombre de mediana edad inglés que se dispone a visitar granada. Esta es la premisa principal sobre la que se desarrolla.  
