@@ -1,0 +1,12 @@
+# Tareas
+- [x] User research + Conclusion
+- [] Competitive analysis
+    - [] Análisis de las aplicaciones asignadas y justificación
+    - [] justificación 
+- [x] Personas
+    - [x] Fichas
+    - [x] Justificación
+- [x] Journey map
+    - [x] Ficha
+    - [x] Justificación
+- [] Usability review + resumen de la valoración de práctica
