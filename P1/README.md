@@ -29,7 +29,7 @@
   Para la revisión de usabilidad hemos elegido GranadaCooking. Esta ha obtenido una puntuación de 79 puntos sobre 100 destacando en gran variedad de aspectos y 
   quedándose corta en muy pocos. 
 
--Briefing:
+- Briefing:
   Es una web muy intuitiva y manejable por lo que no se debería tener problema alguno navegando por ella. La web no es responsive, cuando haces la pantalla más 
   pequeña desaparece el menú por lo que en móviles no funciona adecuadamente. El calendario tarda en cargar aunque las demás partes de la página si van rápdio, 
   además tienen una gran variedad de cursos. Enseña fotos de como son sus cursos y, para nosotros es la mejor página que de todas las que hemos comparado.
