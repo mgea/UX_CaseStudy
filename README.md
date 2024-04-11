@@ -27,12 +27,21 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+Este proyecto tiene como objetivo comprender la demografía, preferencias y comportamientos de personas interesadas en asistir a talleres gastronómicos.
+Nosotros nos centraremos en cómo de fácil es para los usuarios realizar tareas básicas la primera vez que encuentran el diseño.
+Nuestro público cbjetivo seran principalmente los aficionados a la cocina, los socializadores culinarios y los padres y madres de familias. 
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+### Pilsa Educa
+Como podemos ver en su sitio web consta de una buena variedad de cursos de alta calidad y donde actualizan con frecuencia los mismos. La página web tiene un diseño bastante intuitivo y consta de un proceso de reserva simple y muchas fotos y videos de los diferentes cursos y la empresa.
+
+### Granada Cooking
+En Granada Cooking consta de mucha variedad de cursos de diferentes cocinas, una buena calidad de contenido aunque no actualizan muy frecuentemente los cursos. Su página web tiene un diseño fácil de usar, un proceso de reserva muy simple e intuitivo y consta de muchas fotos de platos, cursos, instalaciones, etc.
+
+### Culinary Spain
+La variedad de cursos no es muy extensa en Culinary Spain y, aunque la calidad del contenido parece buena, no recibe actualizaciones de nuevos cursos ni nuevo contenido. El diseño es muy simple y para nada intuitivo, el proceso de reserva no es muy complejo pero para nada es simple y no consta apenas de fotos ni mucho menos videos.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
