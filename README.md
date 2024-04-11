@@ -31,7 +31,7 @@ Este proyecto tiene como objetivo comprender la demografía, preferencias y comp
 Nosotros nos centraremos en cómo de fácil es para los usuarios realizar tareas básicas la primera vez que encuentran el diseño.
 Nuestro público cbjetivo seran principalmente los aficionados a la cocina, los socializadores culinarios y los padres y madres de familias. 
 
-![Método UX](img/Competitive.png) 1.b Competitive Analysis
+![Método UX](P1/Competitor_Analysis_[DIU23].png) 1.b Competitive Analysis
 -----
 
 ### Pilsa Educa
@@ -43,24 +43,29 @@ En Granada Cooking consta de mucha variedad de cursos de diferentes cocinas, una
 ### Culinary Spain
 La variedad de cursos no es muy extensa en Culinary Spain y, aunque la calidad del contenido parece buena, no recibe actualizaciones de nuevos cursos ni nuevo contenido. El diseño es muy simple y para nada intuitivo, el proceso de reserva no es muy complejo pero para nada es simple y no consta apenas de fotos ni mucho menos videos.
 
-![Método UX](img/Persona.png) 1.c Persona
+![Método UX] 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+### [Ainhoa:](P1/Ainhora_persona.jpg)
+Ainhoa está abierta a nuevas experiencias, aunque demasiado ocupada, por eso cree que le puede venir bien ir a actividades donde conozca gente y pueda desconectar (como un taller de cocina).
 
-![Método UX](img/JourneyMap.png) 1.d User Journey Map
+  ### [Manuel:](P1/Manuel_persona.jpg)
+Al ser una persona tímida y apasionada por la cocina, un taller de cocina es la mejor opción para empezar a abrirse a conocer más gente y perder la timidez.
+
+![Método UX] 1.d User Journey Map
 ----
 
+  ### [Ainhoa:](P1/Ainhoa_journey.jpg)
+Lo peor que le puede pasar a alguien que vive estresado por el trabajo y con poco tiempo libre es que el trámite de reserva sea costoso y lento.
+  
+  ### [Manuel:](P1/Manuel_journey.jpg)
+A una persona tímida como Manuel, lo que le hace falta es que la persona a cargo o la dinámica del taller tenga en cuenta eso y le empuje a hablar con gente.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
-
-![Método UX](img/usabilityReview.png) 1.e Usability Review
+![Método UX](P1/Usability-review-template.xlsx) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+La página web de Pilsaeduca.com ha obtenido 84 puntos sobre 100, por lo que podemos calificarlo con un sitio web bueno, donde los usuarios deberían poder utilizar este sitio o sistema con relativa facilidad y deberían poder completar la gran mayoría de las tareas importantes.
+
+Memoria completa [aquí](Práctica_1_UX_User_&_Desk_Research_&_Analisis.pdf)
 
 
 ## Paso 2. UX Design  
