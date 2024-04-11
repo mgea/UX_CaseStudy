@@ -24,7 +24,7 @@ Miembros
 ## Paso 1. UX User & Desk Research & Analisis 
 
 
-![Método UX](../P1-2b_User_Research_Plan_Template.pdf) **1.a User Reseach Plan**
+![Método UX](P1/P1-2b_User_Research_Plan_Template.pdf) **1.a User Reseach Plan**
 -----
 
 Este proyecto tiene como objetivo comprender la demografía, preferencias y comportamientos de personas interesadas en asistir a talleres gastronómicos.
