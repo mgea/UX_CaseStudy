@@ -137,6 +137,10 @@ Esta es la sección por la que todo usuario deberá pasar para poder acceder a l
 ![](P2/BOCETOS/Inicio_Sesion-Registro.jpg)
 
 
+
+Memoria completa [aquí](P2/Práctica _2-Ideación_Y_Diseño.pdf)
+
+
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
