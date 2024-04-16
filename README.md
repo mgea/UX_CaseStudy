@@ -70,11 +70,11 @@ Memoria completa [aquí](P1/Práctica_1_UX_User_&_Desk_Research_&_Analisis.pdf)
 
 ## Paso 2. UX Design  
 
-![**2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map **](img/feedback-capture-grid.png)
+![**2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map **](P2/Malla-Receptora.jpg)
 
 El principal objetivo de la malla receptora era generar una serie de ideas que definían el rumbo que cogería nuestra empresa.
 
-![](P2/Malla-Receptora.jpg)
+
 
 
 ![**2.b ScopeCanvas**](img/ScopeCanvas.png) 
