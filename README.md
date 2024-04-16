@@ -65,7 +65,7 @@ A una persona tímida como Manuel, lo que le hace falta es que la persona a carg
 ----
 La página web de Pilsaeduca.com ha obtenido 84 puntos sobre 100, por lo que podemos calificarlo con un sitio web bueno, donde los usuarios deberían poder utilizar este sitio o sistema con relativa facilidad y deberían poder completar la gran mayoría de las tareas importantes.
 
-Memoria completa [aquí](Práctica_1_UX_User_&_Desk_Research_&_Analisis.pdf)
+Memoria completa [aquí](P1/Práctica_1_UX_User_&_Desk_Research_&_Analisis.pdf)
 
 
 ## Paso 2. UX Design  
@@ -138,7 +138,7 @@ Esta es la sección por la que todo usuario deberá pasar para poder acceder a l
 
 
 
-Memoria completa [aquí](P2/Práctica _2-Ideación_Y_Diseño.pdf)
+Memoria completa [aquí](P2/Práctica_2-Ideación_Y_Diseño.pdf)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
