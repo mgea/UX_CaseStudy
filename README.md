@@ -24,14 +24,14 @@ Miembros
 ## Paso 1. UX User & Desk Research & Analisis 
 
 
-[**1.a User Reseach Plan**](P1/P1-2b_User_Research_Plan_Template.pdf) 
+![**1.a User Reseach Plan**](P1/P1-2b_User_Research_Plan_Template.pdf) 
 -----
 
 Este proyecto tiene como objetivo comprender la demografía, preferencias y comportamientos de personas interesadas en asistir a talleres gastronómicos.
 Nosotros nos centraremos en cómo de fácil es para los usuarios realizar tareas básicas la primera vez que encuentran el diseño.
 Nuestro público cbjetivo seran principalmente los aficionados a la cocina, los socializadores culinarios y los padres y madres de familias. 
 
-[**1.b Competitive Analysis**](P1/Competitor_Analysis_[DIU23].png) 
+![**1.b Competitive Analysis**](P1/Competitor_Analysis_[DIU23].png) 
 -----
 
 ### Pilsa Educa
@@ -43,22 +43,22 @@ En Granada Cooking consta de mucha variedad de cursos de diferentes cocinas, una
 ### Culinary Spain
 La variedad de cursos no es muy extensa en Culinary Spain y, aunque la calidad del contenido parece buena, no recibe actualizaciones de nuevos cursos ni nuevo contenido. El diseño es muy simple y para nada intuitivo, el proceso de reserva no es muy complejo pero para nada es simple y no consta apenas de fotos ni mucho menos videos.
 
-![Método UX] 1.c Persona
+**1.c Persona**
 -----
 
-### [Ainhoa:](P1/Ainhora_persona.jpg)
+### ![Ainhoa:](P1/Ainhora_persona.jpg)
 Ainhoa está abierta a nuevas experiencias, aunque demasiado ocupada, por eso cree que le puede venir bien ir a actividades donde conozca gente y pueda desconectar (como un taller de cocina).
 
-  ### [Manuel:](P1/Manuel_persona.jpg)
+  ### ![Manuel:](P1/Manuel_persona.jpg)
 Al ser una persona tímida y apasionada por la cocina, un taller de cocina es la mejor opción para empezar a abrirse a conocer más gente y perder la timidez.
 
 **1.d User Journey Map**
 ----
 
-  ### [Ainhoa:](P1/Ainhoa_journey.jpg)
+  ### ![Ainhoa:](P1/Ainhoa_journey.jpg)
 Lo peor que le puede pasar a alguien que vive estresado por el trabajo y con poco tiempo libre es que el trámite de reserva sea costoso y lento.
   
-  ### [Manuel:](P1/Manuel_journey.jpg)
+  ### ![Manuel:](P1/Manuel_journey.jpg)
 A una persona tímida como Manuel, lo que le hace falta es que la persona a cargo o la dinámica del taller tenga en cuenta eso y le empuje a hablar con gente.
 
 [**1.e Usability Review**](P1/Usability-review-template.xlsx) 
@@ -71,7 +71,7 @@ Memoria completa [aquí](Práctica_1_UX_User_&_Desk_Research_&_Analisis.pdf)
 ## Paso 2. UX Design  
 
 
-[**2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map **](img/feedback-capture-grid.png) 
+![**2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map **](img/feedback-capture-grid.png) 
 ----
 
 
@@ -90,17 +90,17 @@ Memoria completa [aquí](Práctica_1_UX_User_&_Desk_Research_&_Analisis.pdf)
 
 
 
-[**2.b ScopeCanvas**](img/ScopeCanvas.png) 
+![**2.b ScopeCanvas**](img/ScopeCanvas.png) 
 ----
 >>> Propuesta de valor 
 
-[** 2.b User Flow (task) analysis **](img/Sitemap.png)
+![** 2.b User Flow (task) analysis **](img/Sitemap.png)
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-[**2.c IA: Sitemap + Labelling **](img/labelling.png) 
+![**2.c IA: Sitemap + Labelling **](img/labelling.png) 
 ----
 
 
@@ -111,7 +111,7 @@ Término | Significado
   Login¿?  | acceder a plataforma
 
 
-[**2.d Wireframes**](img/Wireframes.png) 
+![**2.d Wireframes**](img/Wireframes.png) 
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
