@@ -70,51 +70,61 @@ Memoria completa [aquí](Práctica_1_UX_User_&_Desk_Research_&_Analisis.pdf)
 
 ## Paso 2. UX Design  
 
+![**2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map **](img/feedback-capture-grid.png)
 
-![**2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map **](img/feedback-capture-grid.png) 
-----
+El principal objetivo de la malla receptora era generar una serie de ideas que definían el rumbo que cogería nuestra empresa.
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+![](P2/Malla-Receptora.jpg)
 
 
 ![**2.b ScopeCanvas**](img/ScopeCanvas.png) 
-----
->>> Propuesta de valor 
 
-![** 2.b User Flow (task) analysis **](img/Sitemap.png)
------
+En nuestro ScopeCanvas recopilamos todo lo necesario para poder seguir avanzando con nuestro proyecto. Algunas de estas directrices son: nuestro propósito general, objetivos a largo, corto y medio plazo, necesidades que preocupan y motivan a los clientes, métricas que seguiremos para evaluar si nuestra evolución es favorable o no y algunas acciones que buscamos que nuestros usuarios lleven a cabo.
 
->>> Definir "User Map" y "Task Flow" ... 
+![](P2/Scope_Canvas.jpg)
+
+
+![**2.b User Flow (task) analysis**](img/Sitemap.png)
+
+En nuestra matriz de tareas de usuario, hemos compilado todas las funciones de nuestra página web, asignándoles una prioridad según si se utilizarán antes, durante o después del tour. Este proceso nos permite organizarlas por su importancia relativa y determinar cuáles deberían ser nuestras prioridades. Aquellas que reciban una puntuación más alta serán las más utilizadas, sin importar cuándo se utilicen, por lo que debemos enfocarnos en desarrollarlas primero. Además de esto, dependiendo de la puntuación de cada tarea, se le ha asignado un color, esto es simplemente para distinguir mejor a primera vista cuáles son las más importantes y cuales menos (aunque lo sigue determinando la puntuación).
+
+* [User Task Matrix](P2/UserTaskMatrix-PDF.pdf)
 
 
 ![**2.c IA: Sitemap + Labelling **](img/labelling.png) 
-----
 
+En el sitemap se presenta la jerarquía que seguirá nuestra página web, con los menús principales y las secciones que se desglosan. Podemos observar que hay algunas secciones que tienen un color verde, esto es simplemente para distinguir que sin estar asociado al club no se podrá acceder a la reserva de cursos privados o formaciones profesionales.
 
->>> Identificar términos para diálogo con usuario  
+![](P2/(Site_Map.jpg)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+En el Labelling, explicamos qué son cada una de las secciones de nuestro Sitemap, qué propósito tienen y qué se encontrará el usuario al acceder a ellas.
+
+* [Labelling](P2/Labelling-PDF.pdf)
 
 
 ![**2.d Wireframes**](img/Wireframes.png) 
------
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Al mirar nuestro Task Matrix nos hemos dado cuenta de que tenemos cinco apartados clave, que son los que mayor puntuación han obtenido. Estos son: Página Principal, Curso, Foro, Usuario y Menú de Inicio Sesión.
+
+*Página principal*
+
+En la página principal mostramos en la parte superior nuestro logo, junto con los menús principales, seguido del nombre de nuestra empresa y una serie de fotos de los cursos destacados que irán desplazándose hacia la izquierda. Después de esto mostraremos una introducción acerca de nuestra empresa y finalmente un apartado del foro con los temas más destacados tras el cual irá el pie de página.
+
+*Curso*
+
+En esta página se situará toda la información pertinente sobre el curso deseado. El usuario dispondrá de una pequeña descripción de dicho taller, junto con las elaboraciones que se llevarán a cabo y el chef que lo impartirá. Tras esto vendrá el precio y las fechas disponibles para realizarlo. Acompañado a todo este texto tendremos una serie de fotos que ilustrarán cómo será el curso.
+
+*Foro*
+
+Esta será la página principal desde la cual se podrá acceder al foro en sí y a la galería compartida, por lo que tendrá un resumen de cada una de estas partes. Respecto al foro, al igual que en la página principal tendremos una serie de temas destacados junto a un buscador. Y en cuanto a la galería compartida dispondremos de dos apartados principales, uno de ellos será una galería con todas las fotos disponibles, y la otra contendrá el curso más reciente que se haya realizado.
+
+*Usuario*
+
+Lo primero que podemos observar en la sección de Usuario será de cuantos seguidores y cuantos seguidos disponemos en el momento, pulsando en cualquiera de ellos, este nos mostrará una lista de los usuarios a los que seguimos o los que nos siguen. Tras esto tendremos un apartado que nos muestre los cursos que hemos marcado como nuestros favoritos y otro en el que tendremos los cursos pendientes de reservar (la cesta). Después vendrá el apartado de las notificaciones, para poder configurarlo como le plazca al usuario y por último, las opciones de cerrar sesión y cambiar la contraseña.
+
+*Inicio Sesion / Registro*
+
+Esta es la sección por la que todo usuario deberá pasar para poder acceder a la reserva de un taller, por lo que en ella se pide al usuario que introduzca un nombre de usuario junto con una contraseña. Dispondremos de opciones como ver la contraseña, recordarla y poder cambiarla pulsando “¿Has olvidado tu contraseña?” que facilitarán el inicio de sesión o registro a nuestros clientes. Por último tendremos un botón de enviar, para guardar el inicio de sesión o registro que hayamos realizado.
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
