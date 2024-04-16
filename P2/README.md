@@ -53,8 +53,19 @@ En el sitemap se presenta la jerarquía que seguirá nuestra página web, con lo
 En el Labelling, explicamos qué son cada una de las secciones de nuestro Sitemap, qué propósito tienen y qué se encontrará el usuario al acceder a ellas.
 
 
-### Prototipo Lo-FI Wireframe 
+### Prototipo Lo-FI Wireframe
 
+Al mirar nuestro Task Matrix nos hemos dado cuenta de que tenemos cinco apartados clave, que son los que mayor puntuación han obtenido. Estos son: Página Principal, Curso, Foro, Usuario y Menú de Inicio Sesión.
+
+En la página principal mostramos en la parte superior nuestro logo, junto con los menús principales, seguido del nombre de nuestra empresa y una serie de fotos de los cursos destacados que irán desplazándose hacia la izquierda. Después de esto mostraremos una introducción acerca de nuestra empresa y finalmente un apartado del foro con los temas más destacados tras el cual irá el pie de página.
+
+asd
+
+asd
+
+asd
+
+asd
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
