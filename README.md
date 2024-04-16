@@ -31,7 +31,7 @@ Este proyecto tiene como objetivo comprender la demografía, preferencias y comp
 Nosotros nos centraremos en cómo de fácil es para los usuarios realizar tareas básicas la primera vez que encuentran el diseño.
 Nuestro público cbjetivo seran principalmente los aficionados a la cocina, los socializadores culinarios y los padres y madres de familias. 
 
-![Método UX](P1/Competitor_Analysis_[DIU23].png) 1.b Competitive Analysis
+[**1.b Competitive Analysis**](P1/Competitor_Analysis_[DIU23].png) 
 -----
 
 ### Pilsa Educa
@@ -52,7 +52,7 @@ Ainhoa está abierta a nuevas experiencias, aunque demasiado ocupada, por eso cr
   ### [Manuel:](P1/Manuel_persona.jpg)
 Al ser una persona tímida y apasionada por la cocina, un taller de cocina es la mejor opción para empezar a abrirse a conocer más gente y perder la timidez.
 
-![Método UX] 1.d User Journey Map
+**1.d User Journey Map**
 ----
 
   ### [Ainhoa:](P1/Ainhoa_journey.jpg)
@@ -61,7 +61,7 @@ Lo peor que le puede pasar a alguien que vive estresado por el trabajo y con poc
   ### [Manuel:](P1/Manuel_journey.jpg)
 A una persona tímida como Manuel, lo que le hace falta es que la persona a cargo o la dinámica del taller tenga en cuenta eso y le empuje a hablar con gente.
 
-![Método UX](P1/Usability-review-template.xlsx) 1.e Usability Review
+[**1.e Usability Review**](P1/Usability-review-template.xlsx) 
 ----
 La página web de Pilsaeduca.com ha obtenido 84 puntos sobre 100, por lo que podemos calificarlo con un sitio web bueno, donde los usuarios deberían poder utilizar este sitio o sistema con relativa facilidad y deberían poder completar la gran mayoría de las tareas importantes.
 
@@ -71,7 +71,7 @@ Memoria completa [aquí](Práctica_1_UX_User_&_Desk_Research_&_Analisis.pdf)
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+[**2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map **](img/feedback-capture-grid.png) 
 ----
 
 
@@ -90,17 +90,17 @@ Memoria completa [aquí](Práctica_1_UX_User_&_Desk_Research_&_Analisis.pdf)
 
 
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+[**2.b ScopeCanvas**](img/ScopeCanvas.png) 
 ----
 >>> Propuesta de valor 
 
-![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
+[** 2.b User Flow (task) analysis **](img/Sitemap.png)
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+[**2.c IA: Sitemap + Labelling **](img/labelling.png) 
 ----
 
 
@@ -111,7 +111,7 @@ Término | Significado
   Login¿?  | acceder a plataforma
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+[**2.d Wireframes**](img/Wireframes.png) 
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
