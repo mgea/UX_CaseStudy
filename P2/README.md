@@ -13,7 +13,7 @@
 
 
 ### ARQUITECTURA DE INFORMACIÓN
-* [Sitemap:](Site_Map.jpg)
+* [Sitemap](Site_Map.jpg)
 En nuestro Sitemap, presentamos la jerarquía que va a seguir nuestra página web, con sus principales menús y las secciones que se desglosan de cada uno de ellos.
 
 * Labelling
