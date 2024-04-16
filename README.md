@@ -70,28 +70,28 @@ Memoria completa [aquí](P1/Práctica_1_UX_User_&_Desk_Research_&_Analisis.pdf)
 
 ## Paso 2. UX Design  
 
-### **2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map **
+### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map
 
 El principal objetivo de la malla receptora era generar una serie de ideas que definían el rumbo que cogería nuestra empresa.
 
 ![](P2/Malla-Receptora.jpg)
 
 
-### **2.b ScopeCanvas**
+### 2.b ScopeCanvas
 
 En nuestro ScopeCanvas recopilamos todo lo necesario para poder seguir avanzando con nuestro proyecto. Algunas de estas directrices son: nuestro propósito general, objetivos a largo, corto y medio plazo, necesidades que preocupan y motivan a los clientes, métricas que seguiremos para evaluar si nuestra evolución es favorable o no y algunas acciones que buscamos que nuestros usuarios lleven a cabo.
 
 ![](P2/Scope_Canvas.jpg)
 
 
-### **2.b User Flow (task) analysis**
+### 2.b User Flow (task) analysis
 
 En nuestra matriz de tareas de usuario, hemos compilado todas las funciones de nuestra página web, asignándoles una prioridad según si se utilizarán antes, durante o después del tour. Este proceso nos permite organizarlas por su importancia relativa y determinar cuáles deberían ser nuestras prioridades. Aquellas que reciban una puntuación más alta serán las más utilizadas, sin importar cuándo se utilicen, por lo que debemos enfocarnos en desarrollarlas primero. Además de esto, dependiendo de la puntuación de cada tarea, se le ha asignado un color, esto es simplemente para distinguir mejor a primera vista cuáles son las más importantes y cuales menos (aunque lo sigue determinando la puntuación).
 
 * [User Task Matrix](P2/UserTaskMatrix-PDF.pdf)
 
 
-### **2.c IA: Sitemap + Labelling **
+### 2.c IA: Sitemap + Labelling
 
 En el sitemap se presenta la jerarquía que seguirá nuestra página web, con los menús principales y las secciones que se desglosan. Podemos observar que hay algunas secciones que tienen un color verde, esto es simplemente para distinguir que sin estar asociado al club no se podrá acceder a la reserva de cursos privados o formaciones profesionales.
 
@@ -102,7 +102,7 @@ En el Labelling, explicamos qué son cada una de las secciones de nuestro Sitema
 * [Labelling](P2/Labelling-PDF.pdf)
 
 
-### **2.d Wireframes**
+### 2.d Wireframes
 
 Al mirar nuestro Task Matrix nos hemos dado cuenta de que tenemos cinco apartados clave, que son los que mayor puntuación han obtenido. Estos son: Página Principal, Curso, Foro, Usuario y Menú de Inicio Sesión.
 
