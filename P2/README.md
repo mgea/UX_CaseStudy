@@ -23,9 +23,17 @@ Tras explorar diversas fuentes en busca de inspiración, es momento de desarroll
 
 
 ### PROPUESTA DE VALOR
+Nuestra página web de talleres de cocina se esfuerza por atraer a una amplia audiencia, con el objetivo de compartir el amor por la gastronomía y la experiencia culinaria. Además de ofrecer una amplia variedad de talleres especializados, nos diferenciamos al proporcionar un servicio de transporte conveniente para aquellos que residen en otras localidades, facilitando así el acceso a nuestras clases.
+
+Nos esforzamos por satisfacer todos los gustos y preferencias culinarias de nuestros clientes.
+Para aquellos que desean disfrutar de beneficios exclusivos, contamos con un apartado de club donde pueden convertirse en socios y acceder a promociones especiales y ventajas únicas como clases privadas o formación profesional para aquellos interesados en un estudio más profundo.
+
+Aquí, puedes compartir tus creaciones culinarias, seguir a otros usuarios y chefs, y aprender de sus experiencias.
+Nuestro objetivo es crear una comunidad vibrante y activa en torno a la cocina, donde cada participante pueda disfrutar de una experiencia enriquecedora y memorable. ¿Estás listo para unirte a nosotros y explorar el apasionante mundo de la cocina? No esperes más y únete a nuestra comunidad culinaria hoy mismo.
+
 * [ScopeCanvas](Scope_Canvas-PDF.pdf)
 
-asd
+En nuestro ScopeCanvas recopilamos todo lo necesario para poder seguir avanzando con nuestro proyecto. Algunas de estas directrices son: nuestro propósito general, objetivos a largo, corto y medio plazo, necesidades que preocupan y motivan a los clientes, métricas que seguiremos para evaluar si nuestra evolución es favorable o no y algunas acciones que buscamos que nuestros usuarios lleven a cabo.
 
 
 ### TASK ANALYSIS
