@@ -39,18 +39,18 @@ En nuestro ScopeCanvas recopilamos todo lo necesario para poder seguir avanzando
 ### TASK ANALYSIS
 * [User Task Matrix](UserTaskMatrix-PDF.pdf)
 
-asd
+En nuestra matriz de tareas de usuario, hemos compilado todas las funciones de nuestra página web, asignándoles una prioridad según si se utilizarán antes, durante o después del tour. Este proceso nos permite organizarlas por su importancia relativa y determinar cuáles deberían ser nuestras prioridades. Aquellas que reciban una puntuación más alta serán las más utilizadas, sin importar cuándo se utilicen, por lo que debemos enfocarnos en desarrollarlas primero. Además de esto, dependiendo de la puntuación de cada tarea, se le ha asignado un color, esto es simplemente para distinguir mejor a primera vista cuáles son las más importantes y cuales menos (aunque lo sigue determinando la puntuación).
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 * [Sitemap](Site_Map.jpg)
 
-En nuestro Sitemap, presentamos la jerarquía que va a seguir nuestra página web, con sus principales menús y las secciones que se desglosan de cada uno de ellos.
+En el sitemap se presenta la jerarquía que seguirá nuestra página web, con los menús principales y las secciones que se desglosan. Podemos observar que hay algunas secciones que tienen un color verde, esto es simplemente para distinguir que sin estar asociado al club no se podrá acceder a la reserva de cursos privados o formaciones profesionales.
 
 
 * [Labelling](Labelling-PDF.pdf)
 
-En el Labelling, explicamos qué son cada una de las secciones de nuestro Sitemap, qué propósito tienen y qué se encontrará el usuario al acceder a ellas
+En el Labelling, explicamos qué son cada una de las secciones de nuestro Sitemap, qué propósito tienen y qué se encontrará el usuario al acceder a ellas.
 
 
 ### Prototipo Lo-FI Wireframe 
