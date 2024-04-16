@@ -78,5 +78,6 @@ Lo primero que podemos observar en la sección de Usuario será de cuantos segui
 Esta es la sección por la que todo usuario deberá pasar para poder acceder a la reserva de un taller, por lo que en ella se pide al usuario que introduzca un nombre de usuario junto con una contraseña. Dispondremos de opciones como ver la contraseña, recordarla y poder cambiarla pulsando “¿Has olvidado tu contraseña?” que facilitarán el inicio de sesión o registro a nuestros clientes. Por último tendremos un botón de enviar, para guardar el inicio de sesión o registro que hayamos realizado.
 
 
-### Conclusiones  
-(incluye valoración de esta etapa)
+### Conclusiones 
+
+En resumen, Sabor y Saber se dedica a promover la pasión por la cocina a través de su página web, ofreciendo una amplia variedad de talleres personalizados y experiencias culinarias únicas. Nuestra plataforma permite a los usuarios explorar clases tanto populares como menos conocidas, así como participar en funciones interactivas como guardar recuerdos de las experiencias y seguir a otros usuarios y chefs. Nuestra estrategia se basa en la investigación de mercado y en la retroalimentación de los usuarios para ofrecer constantemente un servicio diferenciado y atractivo. Además, utilizamos herramientas como la Malla Receptora de Información y ScopeCanvas para establecer objetivos claros y asegurar el éxito de nuestros proyectos en el mercado culinario.
