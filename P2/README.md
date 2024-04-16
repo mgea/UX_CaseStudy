@@ -57,15 +57,26 @@ En el Labelling, explicamos qué son cada una de las secciones de nuestro Sitema
 
 Al mirar nuestro Task Matrix nos hemos dado cuenta de que tenemos cinco apartados clave, que son los que mayor puntuación han obtenido. Estos son: Página Principal, Curso, Foro, Usuario y Menú de Inicio Sesión.
 
+*Página principal*
+
 En la página principal mostramos en la parte superior nuestro logo, junto con los menús principales, seguido del nombre de nuestra empresa y una serie de fotos de los cursos destacados que irán desplazándose hacia la izquierda. Después de esto mostraremos una introducción acerca de nuestra empresa y finalmente un apartado del foro con los temas más destacados tras el cual irá el pie de página.
 
-asd
+*Curso*
 
-asd
+En esta página se situará toda la información pertinente sobre el curso deseado. El usuario dispondrá de una pequeña descripción de dicho taller, junto con las elaboraciones que se llevarán a cabo y el chef que lo impartirá. Tras esto vendrá el precio y las fechas disponibles para realizarlo. Acompañado a todo este texto tendremos una serie de fotos que ilustrarán cómo será el curso.
 
-asd
+*Foro*
 
-asd
+Esta será la página principal desde la cual se podrá acceder al foro en sí y a la galería compartida, por lo que tendrá un resumen de cada una de estas partes. Respecto al foro, al igual que en la página principal tendremos una serie de temas destacados junto a un buscador. Y en cuanto a la galería compartida dispondremos de dos apartados principales, uno de ellos será una galería con todas las fotos disponibles, y la otra contendrá el curso más reciente que se haya realizado.
+
+*Usuario*
+
+Lo primero que podemos observar en la sección de Usuario será de cuantos seguidores y cuantos seguidos disponemos en el momento, pulsando en cualquiera de ellos, este nos mostrará una lista de los usuarios a los que seguimos o los que nos siguen. Tras esto tendremos un apartado que nos muestre los cursos que hemos marcado como nuestros favoritos y otro en el que tendremos los cursos pendientes de reservar (la cesta). Después vendrá el apartado de las notificaciones, para poder configurarlo como le plazca al usuario y por último, las opciones de cerrar sesión y cambiar la contraseña.
+
+*Inicio Sesion / Registro*
+
+Esta es la sección por la que todo usuario deberá pasar para poder acceder a la reserva de un taller, por lo que en ella se pide al usuario que introduzca un nombre de usuario junto con una contraseña. Dispondremos de opciones como ver la contraseña, recordarla y poder cambiarla pulsando “¿Has olvidado tu contraseña?” que facilitarán el inicio de sesión o registro a nuestros clientes. Por último tendremos un botón de enviar, para guardar el inicio de sesión o registro que hayamos realizado.
+
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
