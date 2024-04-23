@@ -152,20 +152,35 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
 
+![Persona 1](P1/img/Persona1.png)
+
+<p><b>Lucía:</b> hemos decidido elegir un perfil parecido al nuestro, en este caso una chica joven que estudia y trabaja al mismo tiempo y desea gastar el dinero que ahorra en actividades que le gustan y le hacen sentir plena y libre.<p>
+
+![Persona 2](P1/img/Persona2.png)
+
+<p><b>Anna:</b> ha sido elegida porque cumple el perfil de persona extranjera que está visitando España. Además su familia tiene especial interés en actividades deportivas, entonces es normal asumir que buscaría ese tipo de actividades para realizarlas en sus vacaciones.</p>
+
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
-
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+
+![Journey Map 1](P1/img/JourneyMap1.png)
+
+<p><b>Lucía:</b> nos hemos puesto en su piel y finalmente ha conseguido realizar la reserva para realizar la actividad de parapente con sus amigas sin muchas complicaciones a pesar de encontrarse con problemas como el tema del precio que no está disponible en la página  o tener que llamar al teléfono de contacto para obtener más información acerca de la actividad.<p>
+
+![Journey Map 2](P1/img/JourneyMap2.png)
+
+<p><b>Anna:</b> finalmente Anna no ha sido capaz de realizar la reserva de las actividades que quería realizar en familia y ha acabado desistiendo debido a la insuficiente información, a la falta de entendimiento y a problemas técnicos por parte de la página web como puede ser el tema del idioma.</p>
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  <a href="P1/Usability Review/Usability-review.xlsx">Usability Review</a>
+>>> - Valoración final (numérica): 49
 
+<p>En general es una página accesible por la mayoría de usuarios (hispanohablantes) pero que no cumple requisitos y carece de información necesaria. La estructura y diseño de la página tiene cosas que mejorar, aunque no está del todo mal. Hay funcionalidades básicas que no implementa o las implementa mal. Cumple las funciones a un nivel muy básico y para poder terminar cualquier proceso o obtener más información tendrás que ponerte en contacto con algún trabajador.</p>
 
 ## Paso 2. UX Design  
 
