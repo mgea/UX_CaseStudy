@@ -21,10 +21,6 @@ Miembros
 ----- 
 
 
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX User & Desk Research & Analisis 
@@ -32,9 +28,6 @@ Miembros
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
-
->>> Describe el plan de User Research (cómo se planteas)
-
 
 ### 1. Background
 
@@ -137,8 +130,6 @@ Miembros
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
-
 ![Competitive Analysis](P1/img/CompetitiveAnalysis.png)
 
 <p>Las páginas escogidas para hacer el Competitive Analysis son: Spain.info y Yumping. Ambas son páginas que ofrecen actividades de turismo y deportes en España y otras partes del mundo. Al compartir tantas similitudes nos hemos decantado por estas dos páginas.</p>
@@ -149,8 +140,6 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
 
 ![Persona 1](P1/img/Persona1.png)
 
@@ -163,8 +152,6 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
-
 ![Journey Map 1](P1/img/JourneyMap1.png)
 
 <p><b>Lucía:</b> nos hemos puesto en su piel y finalmente ha conseguido realizar la reserva para realizar la actividad de parapente con sus amigas sin muchas complicaciones a pesar de encontrarse con problemas como el tema del precio que no está disponible en la página  o tener que llamar al teléfono de contacto para obtener más información acerca de la actividad.<p>
@@ -175,8 +162,6 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  <a href="P1/Usability Review/Usability-review.xlsx">Usability Review</a>
 >>> - Valoración final (numérica): 49
 
@@ -206,7 +191,6 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
 
 ![Scope Canvas](P2/img/ScopeCanvas.png)
 
@@ -214,6 +198,8 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
+
+![Task Analysis](P2/img/TaskAnalysis.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
