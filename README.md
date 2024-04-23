@@ -185,7 +185,7 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 ----
 
 
@@ -207,6 +207,8 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
+
+![Scope Canvas](P2/img/ScopeCanvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
