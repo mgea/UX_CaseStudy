@@ -126,10 +126,26 @@ Miembros
   <li><del>Persuasiveness: Are desired actions supported and motivated?</del></li>
 </ul>
 
+### 5. Participant Recruiting
+
+<ul>
+  <li><b>Entusiastas de la Naturaleza y Aventura.</b> Estos usuarios disfrutan de las actividades al aire libre, les gusta explorar nuevos lugares y desafiar sus límites físicos. Buscan experiencias emocionantes que le permitan conectar con la naturaleza.</li>
+  <li><b>Viajeros Aventureros.</b> Estos usuarios disfrutan de viajes llenos de aventuras y experiencias únicas. Les gusta hacer actividades fuera de lo común y sumergirse en diferentes entornos. Buscan salir de su zona de confort y crear recuerdos duraderos.</li>
+  <li><b>Familias Activas.</b> Estos usuarios son familias que disfrutan pasar tiempo juntas al aire libre y participar en actividades recreativas. Buscan opciones de actividades y destinos que sean seguros, divertidos y adecuados para todas las edades.</li>
+</ul>
+
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+
+![Competitive Analysis](P1/img/CompetitiveAnalysis.png)
+
+<p>Las páginas escogidas para hacer el Competitive Analysis son: Spain.info y Yumping. Ambas son páginas que ofrecen actividades de turismo y deportes en España y otras partes del mundo. Al compartir tantas similitudes nos hemos decantado por estas dos páginas.</p>
+<p>Desde que entras en las páginas, se ve una clara diferencia en el diseño. Además de que soportan compatibilidad con otros dispositivos. Implementan varias funciones de las cuales Granaventour carece, como búsqueda por filtros, mapas interactivos, existencia de reseñas, diferentes idiomas… Esta páginas proveen la información necesaria para el usuario sin necesidad de contactar con terceros.
+Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain.info implementa mapas interactivos para elegir la ciudad donde quieres realizar las actividades, lo cual nos parece una idea original, creativa y llamativa. Por otro lado, Yumping implementa búsqueda con filtros por actividades y lugares, lo cual es una funcionalidad bastante útil.</p>
+<p>Si tuviésemos que quedarnos con una, elegiríamos Spain.info pues nos ha gustado la implementación del mapa interactivo, además de que nos parece que el contenido e información mostrada por la página está muyu bien. También la estructura de la página y su diseño es intuitivo y fácil de usar.</p>
+<p>En comparación con Granaventour son páginas bastante completas y bien dirigidas al usuario, lo cual sigue afirmando el hecho de que Granaventour tendría muchas cosas que mejorar respecto a su diseño, funcionalidades e información aportada.</p>
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
