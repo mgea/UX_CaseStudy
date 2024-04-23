@@ -91,6 +91,41 @@ Miembros
   <li>Diseño y Navegación: Decidir cómo mejorar el diseño visual y la estructura de navegación del sitio web</li>
 </ul>
 
+### 3. Research Methods
+
+<h4>Primary research</h4>
+
+<ul>
+  <li><b>Ethnography  (observation).</b> Observar el contexto de los usuarios para comprender sus comportamientos, actitudes e interacciones. Su propósito es obtener una comprensión de las experiencias y comportamientos de los usuarios en entornos del mundo real</li>
+  <li><b>User interview.</b> Conversaciones estructuradas con usuarios para explorar sus necesidades, preferencias y experiencias.</li>
+  <li><b>Contextual inquiry.</b> Observar a los usuarios mientras realizan tareas o interactúan con un producto o servicio. Su propósito es comprender cómo trabajan los usuarios e identificar oportunidades de mejora</li>
+  <li><b>Usability test.</b> Observar a los usuarios para identificar problemas de usabilidad y recopilar comentarios sobre su facilidad de uso.Su propósito es evaluar la efectividad, eficiencia y satisfacción de la experiencia del usuario.</li>
+  <li><b>Post-session survey.</b> Se administran justo después de un Usability test para recopilar comentarios sobre la experiencia general e impresiones. Su propósito es capturar las percepciones de los usuarios e identificar áreas de mejora después de la sesión de prueba.</li>
+</ul>
+
+### 4. Research Scope & Focus Areas
+
+<h4>Question themes</h4>
+<p><b>User Preferences and Needs</b></p>
+
+<ul>
+  <li>¿Qué actividades son las más populares?</li>
+  <li>¿Qué tipo de cursos o rutas buscan los usuarios?</li>
+  <li>¿Qué factores influyen en las decisiones a la hora de elegir las actividades o las rutas?</li>
+</ul>
+
+<h4>Design focus components</h4>
+
+<ul>
+  <li>Utility: Is the content or functionality useful to intended users?</li>
+  <li>Learnability: How easy is it for users to accomplish basic tasks the first time they encounter the design?</li>
+  <li>Efficiency: Once users have learned the design, how quickly can they perform tasks?</li>
+  <li>Memorability: When users return to the design after a period of not using it, how easily can they reestablish proficiency?</li>
+  <li>Errors: How many errors do users make, how severe are these errors, and how easily can they recover from the errors?</li>
+  <li><del>Satisfaction: How pleasant is it to use the design?</del></li>
+  <li><del>Persuasiveness: Are desired actions supported and motivated?</del></li>
+</ul>
+
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
