@@ -217,13 +217,13 @@ Término | Significado
 -----
 
 ### Página Principal
-![Task Analysis](P2/Boceto/Pag%20principal.jpg)
+![Pagina Principal](P2/Boceto/Pag%20principal.jpg)
 
 ### Página de Actividad
-![Task Analysis](P2/Boceto/Pag%20Actividad.jpg.jpg)
+![Pagina Actividad](P2/Boceto/Pag%20Actividad.jpg)
 
 ### Página de Blog
-![Task Analysis](P2/Boceto/Pag%20Blog.jpg)
+![Pagina Blog](P2/Boceto/Pag%20Blog.jpg)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
