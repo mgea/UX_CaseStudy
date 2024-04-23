@@ -187,6 +187,11 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
+### Empathy Map
+
+![Empathy Map](P2/img/Empathy%20Customer%20Map%201.png)
+
+![Empathy Map](P2/img/Empathy%20Customer%20Map%202.jpg)
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
