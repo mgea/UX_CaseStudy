@@ -192,7 +192,7 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
-![Scope Canvas](P2/img/ScopeCanvas.png)
+![Scope Canvas](P2/img/ScopeCanvas.jpg)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
