@@ -44,15 +44,48 @@ Miembros
 <p>Este análisis se centrará en evaluar la estructura, contenido, funcionalidades y estrategias de marketing de la página web, con el objetivo de identificar áreas de mejora y oportunidades para mejorar la experiencia del usuario.</p>
 <h4>What insights will this research generate? </h4>
 <p>Algunos de los insights que generará este análisis son:</p>
-<li>Preferencia de los usuarios: Identificar qué actividades son más populares y qué tipos de rutas/viajes generan más interés.</li>
-<li>Usabilidad del Sitio Web: Descubrir cualquier problema de usabilidad que dificulte la navegación o la interacción, además de identificar zonas dónde la estructura de la web pueda ser confusa</li>
-<li>Contenido Relevante: Determinar qué tipo de contenido resulta más útil y relevante y evaluar si la información proporcionada es suficiente y clara para los usuarios</li>
+<ol>
+  <li>Preferencia de los usuarios: Identificar qué actividades son más populares y qué tipos de rutas/viajes generan más interés.</li>
+  <li>Usabilidad del Sitio Web: Descubrir cualquier problema de usabilidad que dificulte la navegación o la interacción, además de identificar zonas dónde la estructura de la web pueda ser confusa</li>
+  <li>Contenido Relevante: Determinar qué tipo de contenido resulta más útil y relevante y evaluar si la información proporcionada es suficiente y clara para los usuarios</li>
+</ol>
 
 ### 2. Objetives
 
 <h4>Business Objectives & KPIs</h4>
 
 ![Tabla](P1/img/Objectives.png)
+
+<h4>Research Success Criteria</h4>
+
+<h5>What qualitative and quantitative information about users will be collected?</h5>
+<h6>Información cualitativa:</h6>
+<ol>
+  <li>Preferencias e intereses en actividades al aire libre</li>
+  <li>Experiencias pasadas con este tipo de actividades</li>
+  <li>Factores que influyen en las decisiones de reserva y compra</li>
+  <li>Expectativas sobre la experiencia del usuario en el sitio web</li>
+  <li>Sugerencias para mejorar la navegación, el contenido y las funcionalidades del sitio</li>
+</ol>
+<h6>Información cuantitativa:</h6>
+<ol>
+  <li>Número de visitas al sitio web y páginas vistas</li>
+  <li>Tasa de conversión de visitantes a clientes</li>
+  <li>Tiempo promedio de sesión en el sitio web</li>
+  <li>Porcentaje de usuarios que abandonan el sitio en el proceso de reserva</li>
+</ol>
+
+<h5>What documents or artifacts need to be created?</h5>
+<p>Guía de Entrevistas o Cuestionario de Encuestas: Documento con preguntas específicas que se harán a los usuarios</p>
+<p>Mapa de Experiencia del Usuario: Representa el flujo de interacción del usuario con el sitio web</p>
+<p>Lista de Prioridades de Mejoras: Documento dónde se identifican las áreas a mejorar en el sitio web</p>
+<p>Informe de Seguimiento y Evaluación: Documento que proporciona una evaluación posterior a la implementación de las mejoras.</p>
+
+<h5>What decisions need to be made with the research insights?</h5>
+<p>Priorización de Mejoras: Decidir qué áreas del sitio web requiere atención prioritaria</p>
+<p>Desarrollo de Nuevas Funcionalidades</p>
+<p>Optimización del contenido</p>
+<p>Diseño y Navegación: Decidir cómo mejorar el diseño visual y la estructura de navegación del sitio web</p>
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
