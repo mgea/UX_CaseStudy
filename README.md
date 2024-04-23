@@ -35,17 +35,6 @@ Miembros
 
 >>> Describe el plan de User Research (cómo se planteas)
 
-### 1.Background
-What is this project about?
-Este proyecto consiste en el análisis de una página web especializada en actividades al aire libre, cursos, rutas y viajes de aventura. La página se centra en ofrecer una gran variedad de experiencias, que van desde deportes extremos como escalada, barranquismo y esquí hasta actividades de turismo.
-What’s the purpose of this research? 
-Este análisis se centrará en evaluar la estructura, contenido, funcionalidades y estrategias de marketing de la página web, con el objetivo de identificar áreas de mejora y oportunidades para mejorar la experiencia del usuario.
-What insights will this research generate? 
-Algunos de los insights que generará este análisis son:
-Preferencia de los usuarios: Identificar qué actividades son más populares y qué tipos de rutas/viajes generan más interés.
-Usabilidad del Sitio Web: Descubrir cualquier problema de usabilidad que dificulte la navegación o la interacción, además de identificar zonas dónde la estructura de la web pueda ser confusa
-Contenido Relevante: Determinar qué tipo de contenido resulta más útil y relevante y evaluar si la información proporcionada es suficiente y clara para los usuarios
-
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
