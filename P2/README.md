@@ -19,7 +19,7 @@
 
 
 ### [Prototipo Lo-FI Wireframe](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Bocetos)
-  Hemos realizado 4 bocetos que representan las funciones que más interactúan los usuarios que pretende explicar su visualización en la página.
+  Hemos realizado 4 bocetos que representan las funciones que más interactúan los usuarios que pretende mostrar su visualización en la página.
 
 ### Conclusiones  
-  Con esta práctica nos hemos centrado en establecer objetivos y metas para la especificación futura de una página web, además hems llevado a cabo un diseño general de como se organizarían nuestros menús y submenús de una forma gráfica y visual
+  Con esta práctica nos hemos centrado en establecer objetivos y metas para la especificación futura de una página web, además hemos llevado a cabo un diseño general de como se organizarían nuestros menús y submenús de una forma gráfica y visual
