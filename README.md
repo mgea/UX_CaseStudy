@@ -187,6 +187,8 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
+<p>En esta práctica presentamos como propuesta de valor un Club de Lectura, el objetivo del club de lectura es fomentar el amor por la lectura en personas de todas las edades a la vez que impulsar el debate y compartir ideas con otros individuos. Pensamos que un club de lectura les puede interesar a nuestras personas, pues la lectura es una actividad que se puede realizar a cualquier edad y al existir muchos géneros y tipos de libros puede alcanzar una gran variedad de público.</p>
+
 ### Empathy Map
 
 ![Empathy Map](P2/img/Empathy%20Customer%20Map%201.jpg)
@@ -206,6 +208,12 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 
 ![Task Analysis](P2/img/TaskAnalysis.png)
 
+![Registrarser](P2/img/Registrarse.jpg)
+
+![Inscripción a Evento](P2/img/InscripcionActividad.jpg)
+
+![Contacto y Soporte](P2/img/ContactoSoporte.jpg)
+
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
@@ -220,6 +228,8 @@ Término | Significado
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+> [!NOTE]
+> <a href="P2/ResponsivePage.pdf">Responsive Page</a>
 
 ### Página Principal
 ![Pagina Principal](P2/Boceto/Pag%20principal.jpg)
