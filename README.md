@@ -223,8 +223,27 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+| Iniciar Sesión |Te abre un formulario para Iniciar Sesión
+| Registrarse |Te abre un formulario para registrarte 
+| Mi Cuenta | Te lleva a la página de tu perfil
+| Cambiar Datos | Te lleva a una página donde puedes cambiar tu nombre de usuario, correo o contraseña
+| Gestionar Membresía | Te lleva a una página para gestionar la membresía, cancelarla, cambiar el plan
+| Calendario Eventos | Te lleva a una página dónde aparece un calendario mensual y en él están apuntados los eventos
+| Actividades |Te lleva a una página dónde se muestran las actividades, con su descripción, y puedes inscribirte en ellas
+| Programación |Muestra una programación de los próximos eventos
+| Noticias | Estar al tanto de lo que pasa tanto en el club como en el mundo literario
+| Artículos | Entradas en un blog de los eventos y actividades que realiza el club
+| Categorías | Filtrar la búsqueda según el género literario
+| Publicaciones | Contiene una lista o índice de las publicaciones acerca de libros en el sitio web
+| Foro | Cada página de un blog dedicada a un libro tiene su foro dónde se puede debatir online
+| Contacto | Proporciona información sobre cómo los usuarios pueden ponerse en contacto con el sitio web
+| Redes Sociales | Enlace directo a las RRSS del club de lectura
+| Privacidad | Aborda las políticas, prácticas y medidas relacionadas con la privacidad de los usuarios
+| Términos | Sección que detalla los términos y condiciones de uso del sitio web
+| Mapa del sitio | Te muestra la ubicación del club
 
+
+![SiteMap](P2/SiteMap/SiteMap.jpg)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
