@@ -189,7 +189,7 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 
 ### Empathy Map
 
-![Empathy Map](P2/img/Empathy%20Customer%20Map%201.png)
+![Empathy Map](P2/img/Empathy%20Customer%20Map%201.jpg)
 
 ![Empathy Map](P2/img/Empathy%20Customer%20Map%202.jpg)
 
