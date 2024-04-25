@@ -4,7 +4,7 @@
   Para este punto hemos creado un empathy map sobre nuestras 2 personas fictias de la práctica 1. Hay una leyenda indicando qué dice cada uno.
 
 
-### (PROPUESTA DE VALOR)[https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Propuesta%20de%20valor]
+### [PROPUESTA DE VALOR](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Propuesta%20de%20valor)
   En la propuesta de valor hemos establecido nuestros propuestas a corto y largo plazo, las acciones que vamos a llevar a cabo para conseguir nuestros objetivos y las métricas que usaremos para evaluar el éxito que hemos tenido en conseguirlos.
 
 
