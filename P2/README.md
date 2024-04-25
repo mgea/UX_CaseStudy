@@ -5,7 +5,7 @@
 
 
 ### [PROPUESTA DE VALOR](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Propuesta%20de%20valor)
-  En la propuesta de valor hemos establecido nuestros propuestas a corto y largo plazo, las acciones que vamos a llevar a cabo para conseguir nuestros objetivos y las métricas que usaremos para evaluar el éxito que hemos tenido en conseguirlos.
+  En la propuesta de valor hemos establecido nuestras propuestas a corto y largo plazo, las acciones que vamos a llevar a cabo para conseguir nuestros objetivos y las métricas que usaremos para evaluar el éxito que hemos tenido en conseguirlos.
 
 
 ### [TASK ANALYSIS](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Task%20Analysis)
