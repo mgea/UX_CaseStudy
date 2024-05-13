@@ -23,21 +23,21 @@ GRUPO LUNES DIU3 (M.Gea)
 
 Grupo MARTES DIU2 (A. Fernandez)
 
-DIU2_Fanculos	https://github.com/rubenmongon/diu
-DIU2_Alcaparra	https://github.com/alvaro23LP/DIU.Alcaparra
-DIU2_ElCumpleDeMarta	https://github.com/dfp2500/DIU
-DIU2_LosPoullas	https://github.com/jhavimg/DIU
-DIU2_LosMiG's	https://github.com/Angeel2003/DIU
-DIU2_Aceituna	https://github.com/donBravo1011/DIU.Aceituna
-DIU2_CaOs	https://github.com/carmenqr/DIU
-DIU2_Almendra	https://github.com/daanilm14/DIU
-DIU2_PizzaConPionono	https://github.com/AlvareitorHD/DIU2
-DIU2_HuevosRotos	https://github.com/Shadink/DIU-huevosrotos
-DIU2_RealBetis	https://github.com/FranRIvas-UGR/DIU
-DIU2_kebabmixto	https://github.com/heleniya/DIU.kebabmixto
-DIU2.Los_Humildes	https://github.com/benipr14/DIU.Los_Humildes
-DIU2_2Voces1Compas	https://github.com/dduckduck/DIU_DosVocesUnCompas
-DIU2.CHL	https://github.com/carloshoyo/DIU
+* DIU2_Fanculos	https://github.com/rubenmongon/diu
+* DIU2_Alcaparra	https://github.com/alvaro23LP/DIU.Alcaparra
+* DIU2_ElCumpleDeMarta	https://github.com/dfp2500/DIU
+* DIU2_LosPoullas	https://github.com/jhavimg/DIU
+* DIU2_LosMiG's	https://github.com/Angeel2003/DIU
+* DIU2_Aceituna	https://github.com/donBravo1011/DIU.Aceituna
+* DIU2_CaOs	https://github.com/carmenqr/DIU
+* DIU2_Almendra	https://github.com/daanilm14/DIU
+* DIU2_PizzaConPionono	https://github.com/AlvareitorHD/DIU2
+* DIU2_HuevosRotos	https://github.com/Shadink/DIU-huevosrotos
+* DIU2_RealBetis	https://github.com/FranRIvas-UGR/DIU
+* DIU2_kebabmixto	https://github.com/heleniya/DIU.kebabmixto
+* DIU2.Los_Humildes	https://github.com/benipr14/DIU.Los_Humildes
+* DIU2_2Voces1Compas	https://github.com/dduckduck/DIU_DosVocesUnCompas
+* DIU2.CHL	https://github.com/carloshoyo/DIU
 
 ----------
 
