@@ -2,14 +2,6 @@
 
 ## Moodboard (diseño visual + logotipo)   
 
-El moodboard está agrupado en 5 partes. Colores, tipografía, logo, iconos e imágenes inspiradoras:
-	- Color: Se ha escogido una tonalidad anaranjada como color principal de MyTourExplorer. El color naranja es un color llamativo, que llama la atención, es fácil de combinar con otros colores y que le ofrece al usuario sensaciones positivas ya que está relacionado con conceptos como la energía, la emoción, la aventura y la creatividad. 
-	- Tipografía: Se ha escogido como tipografía OpenSans. Esta es una tipografía legible, versátil y muy conocida, por lo que se encuentra disponible en multitud de idiomas. También es de código abierto, por lo que se puede usar libremente sin requerir una licencia.
-	- Logo: El logo muestra una furgoneta junto al nombre de la web. Se ha usado una camioneta en referencia a una persona que busca viajar. 
-	- Iconos: Iconos usados después en el layout. Se han obtenido del repositorio de iconos de Google
-	- Imágenes: En las imágenes inspiradoras se ha intentado reflejar un diseño limpio, sin muchas opciones, donde el usuario sepa con facilidad como usar la aplicación sin experiencia previa. También se intenta destacar la paleta de colores seleccionada en el apartado anterior.
-
-
 [Moodboard en Figma](https://www.figma.com/board/SIh3780BdQPGqi1AGTJdJa/Moodboard?t=PgSfEHM37ntM5BIR-6)
 
 ![Moodboard](Moodboard.jpg)
@@ -23,7 +15,7 @@ El moodboard está agrupado en 5 partes. Colores, tipografía, logo, iconos e im
 
 ## Guidelines
 
-La  información sobre los patrones de diseño se ha extraído de [UI Pattern](https://ui-patterns.com). La implementación de estos patrones de diseño se ha realizado con los [componentes que nos ofrece Bootstrap](https://getbootstrap.com/docs/4.2/components/alerts/)
+La  información y la implementación sobre los patrones de diseño se ha extraído de [Google Material design](https://m3.material.io/).
 
 [Guidelines en Figma](https://www.figma.com/file/zgyps4kYgSsvoG1KWyE82F/Landing-Page?type=design&node-id=0%3A1&t=46yVXCeQmyxACKnq-1)
 
@@ -56,7 +48,7 @@ La  información sobre los patrones de diseño se ha extraído de [UI Pattern](h
 
 [Layout en Figma](https://www.figma.com/design/tQjeJnUP4xy2wKPeYDdeu5/Layout-HiFi?m=auto&t=PgSfEHM37ntM5BIR-6)
 
-
+[Layout PDF](LayoutHiFi.pdf)
 ## Documentación: Publicación del Case Study
 
 [Case Study](https://mytourexplorer.ismael034.xyz/)
