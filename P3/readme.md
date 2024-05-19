@@ -17,7 +17,12 @@
 
 La  información y la implementación sobre los patrones de diseño se ha extraído de [Google Material design](https://m3.material.io/).
 
-[Guidelines en Figma](https://www.figma.com/file/zgyps4kYgSsvoG1KWyE82F/Landing-Page?type=design&node-id=0%3A1&t=46yVXCeQmyxACKnq-1)
+Deberá contener al menos los siguientes patrones de diseño:
+Onboarding, Menu (navBar adaptada a móvil), Hero image + Carousel, Search, Wizards
+(explain process), Article List 5-7 Cards items, Item details + actions, Reserva, Form Input,
+shopping cart , about
+Podría incluir: Event Calendar (disponibilidad), tags/etiquetas /categorías, etc.
+Se va a hacer una VERSIÓN DEL PROTOTIPO (WIREFRAME) ADAPTADA A MÓVIL
 
 - Menús y acciones
 	+ Acordeón: Se ha utilizado en el apartado de ayuda de la página web para ofrecerle al usuario una serie de preguntas y respuestas comúnes entre usuarios
