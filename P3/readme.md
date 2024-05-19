@@ -15,9 +15,10 @@ El moodboard está agrupado en 5 partes. Colores, tipografía, logo, iconos e im
 ![Moodboard](Moodboard.jpg)
 
 ## Landing Page
+//NO ESTA EN FIGMA
 [Landing Page en Figma](https://www.figma.com/file/zgyps4kYgSsvoG1KWyE82F/Landing-Page?type=design&node-id=0%3A1&t=46yVXCeQmyxACKnq-1)
 
-![Moodboard](Landing Page.jpg)
+![Moodboard](LandingPage.jpg)
 
 
 ## Guidelines
@@ -55,4 +56,10 @@ La  información sobre los patrones de diseño se ha extraído de [UI Pattern](h
 
 [Layout en Figma](https://www.figma.com/design/tQjeJnUP4xy2wKPeYDdeu5/Layout-HiFi?m=auto&t=PgSfEHM37ntM5BIR-6)
 
-[Layout PDF](Layout.pdf)
+
+## Documentación: Publicación del Case Study
+
+[Case Study](https://mytourexplorer.ismael034.xyz/)
+
+(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+
