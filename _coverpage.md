@@ -7,6 +7,6 @@
 <img align="center" src="./P3/Logo/Logo.png" alt="Logotipo"/>
 
 [GitHub](https://github.com/carmenxufdz/DIU24)
-[Comenzar](#introducción)
+[Comenzar](#diu24)
 
 <!-- background color -->
