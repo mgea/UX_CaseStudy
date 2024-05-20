@@ -270,8 +270,43 @@ Hemos utilizado la herramienta Canvas para realizar el Landing Page
 ### ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+La  información y la implementación sobre los patrones de diseño se ha extraído de [Google Material design](https://m3.material.io/).
+
+
+- Botones:
+	+ Situados en el header:
+		+ Home: Cuya funcionalidad es retornar a la página principal.
+		+ Actividades: Al activar el botón, genera un menú desplegable que te permite acceder a la página de Calendario, Eventos y Programación.
+		+ Blog: Usado para acceder al Blog, abre otro menú desplegable en el que puedes acceder a las Noticias, Artículos y Publicaciones de los usuarios.
+		+ Contacto: Accede a una página de contacto para que el usuario escriba todas las dudas y propuestas que considere.
+		+ Imagen Registrarse: Al hacer click, el usuario podrá iniciar sesión y/o registrarse al club de lectura. Para escribir en el blog el usuario deberá de estar registrado.
+	+ Situados en el footer:
+		+ Menú legal: Muestra información acerca de los términos y condiciones de uso, la protección de datos y la política de cookies.
+		+ Secciones: Te ofrece acceso directo a las distintas secciones de la página web (Home, Actividades, Blog).
+		+ Redes sociales: Muestra el enlace directo a las distintas redes sociales del club de lectura (Instagram, Facebook, Twitter).
+	
+- Navegación
+	+ Buscador: Para, sin cambiar de página, mostrar contenido que tenga una cierta relacción. Usado en todas las pantallas de la página web
+
+- Contenido
+	+ Página principal:
+		+ Carrousel: Para mostrar una serie de imágenes o vídeos al usuario en el mismo espacio en el que da información sobre las próximas actividades y las entradas más recientes del club acompañado de una breve descripción.
+		
+	+ Página actividad:
+		+ Carrousel: Para mostrar una serie de imágenes o vídeos al usuario sobre la actividad en cuestión, incluye información a cerca de esta.
+		+ Botón APÚNTAME: Registra a un usuario en la actividad que desee.
+	
+	+ Página calendario:
+		+ Calendario: Muestra un calendario con información sobre las próximas reuniones, los próximos eventos y las próximas firmas con autores.
+	
+	+ Página Blog:
+		+ Texto: Contiene todas las entradas al blog que han creado los usuarios registrados en el club de lectura.
+		+ Filtrado de entradas: Permite filtrar las entradas del blog.
+	
+	+ Página login:
+		+ Formulario inicio de sesión: junto a dos inputs, uno para el email y otro para contraseña.
+		+ Formulario registrarse: junto a tres inputs, uno que registra el nombre de usuario, y los otros dos para el email y la contraseña.
+
 
 ### ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -281,15 +316,13 @@ Hemos utilizado la herramienta Canvas para realizar el Landing Page
 [Layout PDF](P3/LayoutHiFi.pdf)
 
 ### ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+-----
 
 Github proporciona una herramienta llamada Github Pages. Para simplificar el proceso y conseguir un buen diseño de base, usamos Docsify. Aunque está diseñada para documentación del código, podemos adaptarlo para nuestro README principal.
 
-El resultado puede verse en carmenxufdz.github.io/DIU24
------
+El resultado puede verse en: [Case Study](carmenxufdz.github.io/DIU24)
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
 
 
 ## Paso 4. Evaluación 
