@@ -73,6 +73,7 @@ Hemos creado una versión del prototipo (WIREFRAME) adaptada a PC formato WEB
 
 ## Documentación: Publicación del Case Study
 
-[Case Study]()
+[Case Study](https://mytourexplorer.ismael034.xyz/)
 
+(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
