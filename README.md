@@ -13,7 +13,7 @@ Descripción:
 
 Logotipo: 
 
-![Logotipo](P3/Logo/Logo.png)
+<img src="P3/Logo/Logo.png" width="300" height="157" alt="Logo">
 
 Miembros
  * :bust_in_silhouette:   Carmen Chunyin Fernández Núñez     :octocat:     
