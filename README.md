@@ -13,6 +13,7 @@ Descripción:
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logotipo](P3/Logo/Logo.png)
 
 Miembros
  * :bust_in_silhouette:   Carmen Chunyin Fernández Núñez     :octocat:     
