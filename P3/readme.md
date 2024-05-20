@@ -43,9 +43,14 @@ Este sería nuestro diseño:
 
 ## Mockup: LAYOUT HI-FI
 
+Los layouts que hemos hecho son lo siguientes: 
+
+Y su funcionamiento seria asi:
+[Video funcionamiento](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Simulacion.webm)
 
 ## Documentación: Publicación del Case Study
 
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+
+ En resumen le hemos podido dar forma a nuestra web y definir la forma de navegación por nuestra página aunque nos hemos encontrado con algunos problemas al hacer los layouts principalmente ya que era lo más complejo de esta práctica.
