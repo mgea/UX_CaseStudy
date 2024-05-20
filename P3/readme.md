@@ -56,5 +56,4 @@ Se va a hacer una VERSIÓN DEL PROTOTIPO (WIREFRAME) ADAPTADA A MÓVIL
 
 [Case Study]()
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
