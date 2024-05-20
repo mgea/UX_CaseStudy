@@ -1,14 +1,24 @@
 # DIU - Practica 3, entregables
 
+
 ## Moodboard (diseño visual + logotipo)   
+
+Nuestro propósito es fomentar el amor por la lectura en todas las edades, creando un espacio seguro y acogedor para compartir ideas y discutirlas.
+
+Hemos utilizado una tipografía redondeada y suave que transmite una sensación amigable y en la paleta de colores el color naranja como representante de un lugar para todas las edades(Familia), el color amarillo representa la creatividad e innovación de algo nuevo y el color azul para la tranquilidad y el sentimiento de lugar seguro que queremos crear.
+
+Por último un eslogan que evoca la idea de que la lectura puede transportarte a diferentes lugares: "Donde las historias son destinos y la imaginación tu pasaporte", y un logo intuitivo, que identifique de manera distintiva un club de lectura:
+
+![Moodboard](./Logo/Logo.png)
 
 [Moodboard en Figma](https://www.figma.com/board/SIh3780BdQPGqi1AGTJdJa/Moodboard?t=PgSfEHM37ntM5BIR-6)
 
 ![Moodboard](Moodboard.jpg)
 
+
 ## Landing Page
-//NO ESTA EN FIGMA
-[Landing Page en Figma](https://www.figma.com/file/zgyps4kYgSsvoG1KWyE82F/Landing-Page?type=design&node-id=0%3A1&t=46yVXCeQmyxACKnq-1)
+
+Creado con Canvas
 
 ![Moodboard](LandingPage.jpg)
 
@@ -17,43 +27,50 @@
 
 La  información y la implementación sobre los patrones de diseño se ha extraído de [Google Material design](https://m3.material.io/).
 
-Deberá contener al menos los siguientes patrones de diseño:
-Onboarding, Menu (navBar adaptada a móvil), Hero image + Carousel, Search, Wizards
-(explain process), Article List 5-7 Cards items, Item details + actions, Reserva, Form Input,
-shopping cart , about
-Podría incluir: Event Calendar (disponibilidad), tags/etiquetas /categorías, etc.
-Se va a hacer una VERSIÓN DEL PROTOTIPO (WIREFRAME) ADAPTADA A MÓVIL
 
-- Menús y acciones
-	+ Acordeón: Se ha utilizado en el apartado de ayuda de la página web para ofrecerle al usuario una serie de preguntas y respuestas comúnes entre usuarios
-	+ Filtro (Diálogo): Se ha usado un diálogo para que el usuario pueda seleccionar entre los filtros previamente guardados
-	+ Alerta: Se ha usado para informar al usuario de errores
-- Entrada
-	+ Input: Para que el usuario pueda introducir texto
-	+ Selector: Para que el usuario pueda seleccionar una opción predefinida. Usado en la seleción de categorías al crear o buscar tours.
-	+ Selector fecha: Al hacer click, se abre un diálogo donde el usuario puede seleccionar una fecha. Usado en la búsqueda o en el perfil del usuario (Para la fecha de nacimiento)
-	+ Placeholder: Para introducir una gran cantidad de texto. Usado en cuestionarios, donde el usuario tiene que introducir mucho texto como comentarios o al crear un tour
-	+ Valoración: El usuario puede valorar del 0 al 5. Usado al crear una opinión de un tour o, cuando se muetra la valoración del un tour
-- Botones
-	+ Botón primario: Para realizar acciones importantes. La principal acción de la página que se esté mostrando en ese momento se realiza clickando ese botón.
-	+ Botón primario con icono: Igual, pero con un icono para facilitar la compresión del botón.
-	+ Botón secundario: Acción secundaria. Al hacer click, se realiza una acción, la cual no es la principal o la que el usuario suela hacer click
-	+ Registro: Usado para diferenciar el registro de los demás botones de la barra de navegación
-	+ Link: Usado cuando queremos redirigir al usuario a otra página pero no se necesita un botón que ocupe mucho espacio. Usado en la página de tours completados para que el usuario cree una opinión
-	+ Imagen: Al hacer click, el usuario podrá seleccionar una imágen para subirla a la plataforma. Usado a la hora de crear un nuevo tour.
+- Botones:
+	+ Situados en el header:
+		+ Home: Cuya funcionalidad es retornar a la página principal.
+		+ Actividades: Al activar el botón, genera un menú desplegable que te permite acceder a la página de Calendario, Eventos y Programación.
+		+ Blog: Usado para acceder al Blog, abre otro menú desplegable en el que puedes acceder a las Noticias, Artículos y Publicaciones de los usuarios.
+		+ Contacto: Accede a una página de contacto para que el usuario escriba todas las dudas y propuestas que considere.
+		+ Imagen Registrarse: Al hacer click, el usuario podrá iniciar sesión y/o registrarse al club de lectura. Para escribir en el blog el usuario deberá de estar registrado.
+	+ Situados en el footer:
+		+ Menú legal: Muestra información acerca de los términos y condiciones de uso, la protección de datos y la política de cookies.
+		+ Secciones: Te ofrece acceso directo a las distintas secciones de la página web (Home, Actividades, Blog).
+		+ Redes sociales: Muestra el enlace directo a las distintas redes sociales del club de lectura (Instagram, Facebook, Twitter).
+	
 - Navegación
-	+ Tabs: Para, sin cambiar de página, mostrar contenido que tenga una cierta relacción. Usado en los tours del usuario. Tours pasados, que se están realizando ahora mismo, y finalizados.
-	+ Barra de navegación: Permite al usuario navegar por las partes más importantes de la web. Incluye el logo y una serie de links. Usado en todas las pantallas de la página web.
+	+ Buscador: Para, sin cambiar de página, mostrar contenido que tenga una cierta relacción. Usado en todas las pantallas de la página web
+
 - Contenido
-	+ Carrousel: Para mostrar una serie de imágenes o vídeos al usuario en el mismo espacio de la página. Usado en la pantalla del tour, ya que este suele incluir múltiples imágenes.
-	+ Comentario: Para mostrar el comentario de un usuario. Este incluye nombre, fecha, comentario y likes/dislikes de este. Cuando el usuario termina un tour, puede crear una valoración. El comentario se mostrará al final de la pantalla del tour valorado. 	
+	+ Página principal:
+		+ Carrousel: Para mostrar una serie de imágenes o vídeos al usuario en el mismo espacio en el que da información sobre las próximas actividades y las entradas más recientes del club acompañado de una breve descripción.
+		
+	+ Página actividad:
+		+ Carrousel: Para mostrar una serie de imágenes o vídeos al usuario sobre la actividad en cuestión, incluye información a cerca de esta.
+		+ Botón APÚNTAME: Registra a un usuario en la actividad que desee.
+	
+	+ Página calendario:
+		+ Calendario: Muestra un calendario con información sobre las próximas reuniones, los próximos eventos y las próximas firmas con autores.
+	
+	+ Página Blog:
+		+ Texto: Contiene todas las entradas al blog que han creado los usuarios registrados en el club de lectura.
+		+ Filtrado de entradas: Permite filtrar las entradas del blog.
+	
+	+ Página login:
+		+ Formulario inicio de sesión: junto a dos inputs, uno para el email y otro para contraseña.
+		+ Formulario registrarse: junto a tres inputs, uno que registra el nombre de usuario, y los otros dos para el email y la contraseña.
 
 
 ## Mockup: LAYOUT HI-FI
 
+Hemos creado una versión del prototipo (WIREFRAME) adaptada a PC formato WEB
 [Layout en Figma](https://www.figma.com/design/tQjeJnUP4xy2wKPeYDdeu5/Layout-HiFi?m=auto&t=PgSfEHM37ntM5BIR-6)
 
 [Layout PDF](LayoutHiFi.pdf)
+
+
 ## Documentación: Publicación del Case Study
 
 [Case Study](https://mytourexplorer.ismael034.xyz/)
