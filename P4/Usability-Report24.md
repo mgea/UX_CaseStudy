@@ -126,4 +126,4 @@ y Resumen conciso de problemas detectados ]
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración de si )
+(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
