@@ -54,7 +54,7 @@ Se va a hacer una VERSIÓN DEL PROTOTIPO (WIREFRAME) ADAPTADA A MÓVIL
 [Layout PDF](LayoutHiFi.pdf)
 ## Documentación: Publicación del Case Study
 
-[Case Study](https://mytourexplorer.ismael034.xyz/)
+[Case Study]()
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
