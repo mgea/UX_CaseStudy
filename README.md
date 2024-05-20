@@ -265,7 +265,7 @@ Término | Significado
 
 Hemos utilizado la herramienta Canvas para realizar el Landing Page
 
-![Landing Page](P3/Landing%20Page.jpg)
+![Landing Page](P3/LandingPage.jpg)
 
 ### ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -320,7 +320,7 @@ La  información y la implementación sobre los patrones de diseño se ha extra�
 
 Github proporciona una herramienta llamada Github Pages. Para simplificar el proceso y conseguir un buen diseño de base, usamos Docsify. Aunque está diseñada para documentación del código, podemos adaptarlo para nuestro README principal.
 
-El resultado puede verse en: [Case Study](carmenxufdz.github.io/DIU24)
+El resultado puede verse en: [Case Study](https://carmenxufdz.github.io/DIU24/#/)
 
 
 
