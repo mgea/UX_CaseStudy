@@ -66,6 +66,7 @@ La  información y la implementación sobre los patrones de diseño se ha extra�
 ## Mockup: LAYOUT HI-FI
 
 Hemos creado una versión del prototipo (WIREFRAME) adaptada a PC formato WEB
+
 [Layout en Figma](https://www.figma.com/design/tQjeJnUP4xy2wKPeYDdeu5/Layout-HiFi?m=auto&t=PgSfEHM37ntM5BIR-6)
 
 [Layout PDF](LayoutHiFi.pdf)
