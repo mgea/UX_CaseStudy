@@ -1,7 +1,7 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Cursos de cocina ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
+Grupo: DIU2_Los_Humildes.  Curso: 2023/24 
 Updated: 21/5/2024
 
 Proyecto: 
