@@ -49,6 +49,30 @@ Página de beinvenida:
 
 [![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Pagina_bienvenida.jpeg)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Pagina_bienvenida.jpeg)
 
+Registrarse:
+
+[![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Registrarse.jpeg)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Registrarse.jpeg)
+
+Iniciar sesión:
+
+[![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Iniciar_sesion.jpeg)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Iniciar_sesion.jpeg)
+
+Vista curso:
+
+[![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Vista_curso.jpeg)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Vista_curso.jpeg)
+
+Darse de baja de curso:
+
+[![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Darse_de_baja_curso.jpeg)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Darse_de_baja_curso.jpeg)
+
+Vista concurso:
+
+[![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Vista_concurso.jpeg)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Vista_concurso.jpeg)
+
+Calendario:
+
+[![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Calendario.jpeg)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Calendario.jpeg)
+
 Y su funcionamiento seria asi:
 [Video funcionamiento](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Simulacion.webm)
 
