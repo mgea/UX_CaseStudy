@@ -78,18 +78,6 @@ Para este punto hemos creado un empathy map sobre nuestras 2 personas fictias de
 [![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P2/empathy%20customer/Empathy%20Customer%20Map.png)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P2/empathy%20customer/Empathy%20Customer%20Map.png)
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
-
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> En la propuesta de valor hemos establecido nuestras propuestas a corto y largo plazo, las acciones que vamos a llevar a cabo para conseguir nuestros objetivos y las métricas que usaremos para evaluar el éxito que hemos tenido en conseguirlos
