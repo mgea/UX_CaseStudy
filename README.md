@@ -31,7 +31,7 @@ Miembros
 >>> En el user research se busca recopilar informacíon mediante la observación en el campo para poder posteriormente aplicarla a nuestro proyecto. Esto lo hemos hecho mediante la observación y la experiencia que tenemos en el campo, además de la busqueda de la demografía habitual de este tipo de servicios y disntintos tipos de análisis
 
 
-[![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P1/1.UserResearch/UserResearch.docx)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P1/1.UserResearch/UserResearch.docx)
+[![User Research](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P1/1.UserResearch/UserResearch.docx)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P1/1.UserResearch/UserResearch.docx)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
@@ -48,9 +48,7 @@ quitar un peso de encima a su mujer, que ya está muy mayor para encargarse de l
 habilidades culinarias en sus ratos libres para deileitar a su familia. Ambos casos nos han ayudado a enfocar el proyecto desde el punto de vista de posibles
 usuarios.
 
-[![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P1/3.Personas/Persona1.pdf)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P1/3.Personas/Persona1.pdf)
-
-[![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P1/3.Personas/Persona2.png)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P1/3.Personas/Persona2.png)
+[![Imagen Personas](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P1/3.Personas)](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P1/3.Personas)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
