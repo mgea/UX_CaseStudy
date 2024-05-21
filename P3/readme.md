@@ -1,6 +1,6 @@
 # DIU - Practica 3, entregables
 
-## [Moodboard diseño visual + logotipo] (https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/moodboard/moodboard.png)  
+## [Moodboard diseño visual + logotipo](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/moodboard/moodboard.png)  
 
 Para el moodboard hemos creado un tablón donde se muestra la esencia e inspiración de nuestra marca. Tiene 2 colores predominantes sobre los que se basan nuestros 2 logos. También se puede apreciar los distintos iconos utilizados en nuestra página, así como los distintos tipos de letra que en total hay 3. Por último se pueden ver varias imágenes inspiradoras que muestran el buen ambiente en nuestros talleres.
 
