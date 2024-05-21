@@ -64,7 +64,7 @@ usuarios.
 ----
 >>>  Para la revisión de usabilidad hemos elegido GranadaCooking. Esta ha obtenido una puntuación de 79 puntos sobre 100 destacando en gran variedad de aspectos y quedándose corta en muy pocos.
 
-[![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P1/5.UsabilityReview/Usability-review-template.pdf)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P1/5.UsabilityReview/Usability-review-template.pdf)
+[![Usability Review](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P1/5.UsabilityReview)]()
 
 
 ## Paso 2. UX Design  
@@ -103,7 +103,7 @@ Para este punto hemos creado un empathy map sobre nuestras 2 personas fictias de
 
 [![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P2/Task%20Analysis/Tasks.png)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P2/Task%20Analysis/Tasks.png)
 
-[![Imagem MoodBoard](Ver user Flows)](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Task%20Analysis)
+[![User Flows](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Task%20Analysis)](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Task%20Analysis)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -117,17 +117,12 @@ Para este punto hemos creado un empathy map sobre nuestras 2 personas fictias de
 [![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P2/Sitemap%20y%20labelling/labelling.png)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P2/Sitemap%20y%20labelling/labelling.png)
 
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
-
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Hemos realizado 4 bocetos que representan las funciones que más interactúan los usuarios que pretende mostrar su visualización en la página
 
-[![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Bocetos)](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Bocetos)
+[![Wireframes](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Bocetos)](https://github.com/benipr14/DIU.Los_Humildes/tree/master/P2/Bocetos)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
