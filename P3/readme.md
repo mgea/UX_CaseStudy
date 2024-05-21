@@ -46,7 +46,8 @@ Este sería nuestro diseño:
 Los layouts que hemos hecho son lo siguientes: 
 
 Página de beinvenida:
-[https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Pagina_bienvenida.jpeg](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Pagina_bienvenida.jpeg)
+
+[![Imagem lauout]([![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/LandingPage/LandingPage.png)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/LandingPage/LandingPage.png))]([![Imagem MoodBoard](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/LandingPage/LandingPage.png)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/LandingPage/LandingPage.png))
 
 Y su funcionamiento seria asi:
 [Video funcionamiento](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P3/Layout%2BSimulacion/Simulacion.webm)
