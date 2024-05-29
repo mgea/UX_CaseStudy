@@ -51,7 +51,7 @@ Grupo DIU3 (R. Montes)
 * DIU1_PatosdelParque	https://github.com/jseg380/DIU
 * DIU1_YarkMadrugador	https://github.com/Yak-madrugador/DIU1.Yak-Madrugador
 * DIU1_Mae-estríaNocturna	https://github.com/Mae-stria-Nocturna
-* DIU1_PaloSeco	https://github.com/Tonips22/DIU1-PaloSeco
+* DIU1_PaloSeco	https://github.com/DIU1-PaloSeco/DIU
 * DIU1_UX!I-did-it-again	https://github.com/DIU1-UX-I-did-it-again
 * DIU1.Jorses	https://github.com/DIU1-Jorses/DIU_P
 * DIU1.loqueteapetezca	https://github.com/DIU1-loqueteapetezca/DIU
