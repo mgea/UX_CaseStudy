@@ -374,12 +374,12 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### Resultado SUS usuario 1.
 Este usuario ha valorado nuestro diseño 
 
-![](P4/imagenes/SUS1)
+![](P4/imagenes/SUS1.png)
 
 ### Resultado SUS usuario 3 
 Este usuario ha valorado la propuesta B 
 
-![](P4/imagenes/SUS3)
+![](P4/imagenes/SUS3.png)
 
 
 
