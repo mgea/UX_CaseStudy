@@ -441,8 +441,7 @@ Al analizar los mapas de calor de ambos usuarios, podemos llegar a la conclusió
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Estas prácticas han sido muy completas, donde se ha abarcado todo el proceso de diseño, desde la práctica 1 (Análisis) hasta la accesibilidad del proyecto una vez finalizado. Nos han permitido aprender a utilizar herramientas de diseño y prototipado como figma. También ha estado interesante el poder analizar proyectos de otros grupos y que analicen el mío y así tener otro punto de vista de mi proyecto. En resumen, muy entretenidas y educativas.
 
 
 
