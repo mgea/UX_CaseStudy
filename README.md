@@ -422,6 +422,9 @@ En esta tarea es del tipo de exploración de comprobar si el usuario sigue el re
 
 La mayor parte de atención de ambos usuarios está en el calendario y en la leyenda junto a este, como se esperaba.
 
+###Conclusión
+Al analizar los mapas de calor de ambos usuarios, podemos llegar a la conclusión de que el enfoque en determinados bloques de la página era el esperado, aunque el usuario ajeno a la web tiende a observar de vez en cuando otras áreas que no se preveía que se observasen. Pero al final, se acaba centrando en la parte importante de la web.
+
 
 ### 5. Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
