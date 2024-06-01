@@ -331,8 +331,9 @@ El resultado puede verse en: [Case Study](https://carmenxufdz.github.io/DIU24/#/
 ### ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+La aplicación es una app para móvil especializada en actividades al aire libre. Esta aplicación ofrece rutas de senderismo en diferentes lugares: montaña, campo, costa, bosque… Además de ofrecer tanto rutas de largo recorrido como de corto.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+https://github.com/raulitoo5/DIU2024.git
 
 
 ### ![Método UX](img/usability-testing.png) 4.b User Testing
