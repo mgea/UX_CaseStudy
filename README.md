@@ -397,7 +397,30 @@ Este usuario ha valorado la propuesta B
 >>> Valoración personal 
 
 
+### 4.e Eye Tracking
 
+Se va a utilizar la aplicación [Gaze Recorder](https://gazerecorder.com/) para analizar la usabilidad del prototipo A (Word Travel). Para ello se han seleccionados dos usuarios, uno de ellos es uno de los implicados en el diseño (izquierda) y el otro una persona ajena a la web (derechar). Cada uno de ellos va a evaluar con la aplicación la usabilidad de secciones específicas de ambos prototipos. Las tareas/páginas a supervisar son:
+
+**Tarea 1**: 
+En esta tarea es del tipo de exploración de comprobar si el usuario puede identificar de manera rápida los elementos importantes de la página principal como el botón de registro o las características principales de la web.
+
+![](P4/imagenes/LandingPage.jpg)
+
+El usuario que ha tomado parte en el diseño de la página (izquierda). Sigue el patrón esperado, fijándose en los elementos importantes de la página principal. El segundo usuario también se fija en todos estos elementos y además, mira varias veces a el menú superior.
+
+**Tarea 2**: 
+En esta tarea es del tipo de exploración de comprobar si el usuario sigue el recorrido de elementos propuesto: Título,  descripcion, imágenes, información, apuntarse.
+
+![](P4/imagenes/Taller.jpg)
+
+Ambos usuarios siguen un patrón de ojos similar. Estos empiezan desde la parte superior donde se encuentra el título, van bajando al texto e imágenes, para terminar en el botón de apuntarse. Los usuarios han prestado mayor atención a las imágenes que al texto. 
+
+**Tarea 3**: 
+En esta tarea es del tipo de exploración de comprobar si el usuario sigue el recorrido de elementos propuesto: Título,  calendario, actividades.
+
+![](P4/imagenes/Calendario.jpg)
+
+La mayor parte de atención de ambos usuarios está en el calendario y en la leyenda junto a este, como se esperaba.
 
 
 ### 5. Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
