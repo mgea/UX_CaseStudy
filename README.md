@@ -345,7 +345,7 @@ El resultado puede verse en: [Case Study](https://carmenxufdz.github.io/DIU24/#/
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
 | User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| Ignacio  | M / 21   | Estudiante     | Alta        | Introvertido    | Móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
