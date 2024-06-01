@@ -331,8 +331,9 @@ El resultado puede verse en: [Case Study](https://carmenxufdz.github.io/DIU24/#/
 ### ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+La aplicación es una app para móvil especializada en actividades al aire libre. Esta aplicación ofrece rutas de senderismo en diferentes lugares: montaña, campo, costa, bosque… Además de ofrecer tanto rutas de largo recorrido como de corto.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+https://github.com/raulitoo5/DIU2024.git
 
 
 ### ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -343,9 +344,9 @@ El resultado puede verse en: [Case Study](https://carmenxufdz.github.io/DIU24/#/
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| Maria  | F / 65  | Jubilada  | Baja       | Emocional | Web.       | A 
 | User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| Ignacio  | M / 21   | Estudiante     | Alta        | Introvertido    | Móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
@@ -356,7 +357,34 @@ El resultado puede verse en: [Case Study](https://carmenxufdz.github.io/DIU24/#/
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+### Usuario 1
+- Nombre: María
+- Sexo: Femenino
+- Ocupación: Jubilada
+- Edad: 60-70
+- Experiencia en Internet: Baja
+
+### Usuario 3
+- Nombre: Ignacio
+- Sexo: Masculino
+- Ocupación: Estudiante
+- Edad: 15-30
+- Experiencia en Internet: Alta
+
+### Resultado SUS usuario 1.
+Este usuario ha valorado nuestro diseño 
+
+![](P4/imagenes/SUS1)
+
+### Resultado SUS usuario 3 
+Este usuario ha valorado la propuesta B 
+
+![](P4/imagenes/SUS3)
+
+
+
+### Conclusión
+
 
 
 ### ![Método UX](img/usability-report.png) 4.d Usability Report
