@@ -385,7 +385,7 @@ Este usuario ha valorado la propuesta B
 
 ### Conclusión
 
-
+En base a los resultados obtenidos podemos decir que la aplicación Naturwalk es sencilla y fácil de usar. Los usuarios se sienten cómodos utilizando la aplicación y la notan intuitiva como para saber utilizarla sin necesidad de experiencia previa. En general, es una aplicación bien hecha y que cumple su función.
 
 ### ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
@@ -433,8 +433,6 @@ Al analizar los mapas de calor de ambos usuarios, podemos llegar a la conclusió
 >> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
 >> con los resultados del A/B testing, de eye tracking y del usability report:
 >>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
 
 
 
