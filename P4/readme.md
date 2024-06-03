@@ -1,7 +1,7 @@
 # DIU - Practica 4, entregables
 
 
- # Usuarios ficticios
+ ## Usuarios ficticios
  
 
 Para los usuarios hemos elegido un abanico amplio de persoanlidades y experiencia con la tecnología, con lo que pretendemos conseguir una evaluación lo más objetiva posible.
@@ -15,7 +15,7 @@ Para los usuarios hemos elegido un abanico amplio de persoanlidades y experienci
  
  Las dos primeras personas evaluan el caso A, mientras las dos últimas evaluan el caso B.
  
-# A/B Testing.
+# Cuestionario SUS.
 
 Para conseguir una valoración objetiva de la sxperiencia de los usuarios hemos usado el cuestionario SUS, estos han sido los resultados:
 
