@@ -24,8 +24,6 @@
 
 ### Realizado por:
 
-[Informe realizado por Equipo Los_Humildes explicar brevemente vuestra experiencia ]
-
 Informe realizado por Equipo Los_Humildes.
 
 La experiencia ha sido satisfactoria pues hemos podido acceder a todos los archivos del otro equipo sin problema.
@@ -35,8 +33,6 @@ La experiencia ha sido satisfactoria pues hemos podido acceder a todos los archi
 
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
-
-[Incluir un breve resumen el propósito de la App]
 
  Esta es una app que pertenece a un club de cocina donde puedes resgistrate y apuntarte a sus cursos para aprender a cocinar y así conocer gente.
 
@@ -67,33 +63,24 @@ Hemos seguido la metodología del uso del A/B testing que nos permite evaluar el
 #### Test de usuarios: Participantes
 
 
-[![Imagem A/B Testing](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/roleplay.png)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/roleplay.png)
+[![Imagem Usuarios](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/roleplay.png)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/roleplay.png)
+
+También hemos hecho uso del cuestionario SUS:
+[![Cuestionario SUS](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/CuestionariosSUS.png)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/CuestionariosSUS.png)
 
 
-También hemos hecho uso de los HeatMaps:
+Y por último hemos hecho uso del Eye Tracking:
 
-[HeatMap](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/Eye%20Tracking.pdf)
-
-La conclusión que se saca de ellos es que el botón de reservar una actividad debería ser más llamativo y no llamar la atención con una foto tan exhuberante.
-
-
+[EyeTracking](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/Eye%20Tracking.pdf)
 
 
 #### Resultados obtenidos
 
+Los resultados del cuestionario SUS han sido de grado B, B, C, B respectivamente por lo que los usuarios deberían poder usar la aplicación sin mucho complicación aunque sí que pueden llegar a surgir algunos problemas.
 
+Los resultados obtenidos del eye tracking son que ninguno de los 2 usuarios ha tenido problema en encontrar las actividades. Sin enmbargo dentro de la página de la actividad ninguno se ha llegado a fijar del todo en el botón de apuntarse.
 
-(resultado de SUS)
-
-Los resultados han sido de grado B, B, C, B respectivamente por lo que los usuarios deberían poder usar la aplicación sin mucho complicación aunque sí que pueden llegar a surgir algunos problemas.
-
-
-
-(resultado de eyetracking)
-
-La conclusión que se saca de ellos es que el botón de reservar una actividad debería ser más llamativo y no llamar la atención con una foto tan exhuberante.
-
-
+La conclusión que se saca del eye tracking es que el botón de reservar una actividad debería ser más llamativo y no llamar la atención con una foto tan exhuberante.
 
 
 
