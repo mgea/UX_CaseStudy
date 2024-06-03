@@ -37,7 +37,7 @@ Para el usability report hemos usado la plantilla proporcinada en el guion de la
 
 En este informe detallamos el análisis completo de la usabilidad de la aplicación B, GastroBuddies. En este archivo se encuentra las metodología utilizada en la app y las conclusiones que sacamos así como problemas encontrados.
 
-[Archivo](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/Usability%20Report.md)
+[Archivo usability report](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/Usability%20Report.md)
 
 ## Conclusiones
 
