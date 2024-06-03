@@ -37,6 +37,8 @@ Para el usability report hemos usado la plantilla proporcinada en el guion de la
 
 En este informe detallamos el análisis completo de la usabilidad de la aplicación B, GastroBuddies. En este archivo se encuentra las metodología utilizada en la app y las conclusiones que sacamos así como problemas encontrados.
 
+[Archivo](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/Usability%20Report.md)
+
 ## Conclusiones
 
 En conclusión la página no es del todo mala (sobre todo teniendo en cuenta otras páginas que hemos visto) aunque si es cierto que no es completa del todo pues faltan algunas funcionalidades pero en general las puntuaciones del SUS score no han sido malas y los resultados del EyeTracking han sido más o menos los esperados también.
