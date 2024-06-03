@@ -396,34 +396,34 @@ En base a los resultados obtenidos podemos decir que la aplicación Naturwalk es
 
 ### ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
-# DESCRIPCIÓN DEL WEBSITE
+### DESCRIPCIÓN DEL WEBSITE
 La aplicación es una app para móvil especializada en actividades al aire libre. Esta aplicación ofrece rutas de senderismo en diferentes lugares: montaña, campo, costa, bosque… Además de ofrecer tanto rutas de largo recorrido como de corto.
 El usuario puede realizar las siguientes actividades desde la página web:
-	- Iniciar sesión y registrarse
-	- Editar los datos personales o cerrar la cuenta, al igual que observar las reservas realizadas.
-	- Consultar información acerca de las diferentes rutas
-	- Reservas una ruta
+	- **Iniciar sesión y registrarse**
+	- **Editar los datos personales o cerrar la cuenta, al igual que observar las reservas realizadas**.
+	- **Consultar información acerca de las diferentes rutas**
+	- **Reservas una ruta**
 	
-# RESUMEN EJECUTIVO
+### RESUMEN EJECUTIVO
 El objetivo principal del test de usabilidad es la identificación y corrección de posibles problemas antes de presentar el producto al público. Además, permite visualizar de manera efectiva cómo los visitantes del sitio interactuarían con él. Asimismo, señala cuáles podrían ser los errores más comunes que podrían ocurrir.
 En este caso se procede a analizar la aplicación NaturWalk desarrollada por DIU3_UIXPRO. Para ello se ha contado con la experiencia de usabilidad de dos usuarios:
-	- Ignacio: Es un estudiante en su tercer año de carrera, le gusta pasear por la naturaleza y descubrir nuevos lugares. 
-	- Julia: Esta trabajando como enfermera, le preocupa el bienestar de sus familiares y amigos cercanos y le encanta aprender cosas nuevas.
+	- **Ignacio**: Es un estudiante en su tercer año de carrera, le gusta pasear por la naturaleza y descubrir nuevos lugares. 
+	- **Julia**: Esta trabajando como enfermera, le preocupa el bienestar de sus familiares y amigos cercanos y le encanta aprender cosas nuevas. 
 
 A partir de las experiencias de ambos usuarios se ha realizado un System Usability Scale Test (SUS) donde se les ha preguntado a los usuarios que valoren las diferentes características de la aplicación.
 
-# METODOLOGIA
+### METODOLOGIA
 Para realizar el informe de usabilidad hemos usado la técnica del A/B Testing, que se usa para comparar dos prototipos de un producto similar y la técnica del cuestionario SUS que usaremos para medir la percepción subjetiva de usabilidad con un enfoque basado en aspectos emocionales
 
-# PUNTOS POSITIVOS
+### PUNTOS POSITIVOS
 Puntos positivos:
-	- Interfaz intuitiva: La aplicación cuenta con una interfaz predecible y fácil de usar a cualquier edad.
-	- Buena navegación: La estructura del menú es clara y fácil de usar.
-	- Contenido de Calidad: proporcionan información valiosa y actualizada, la información está organizada en secciones claras, facilitando la lectura y comprensión.
+	- **Interfaz intuitiva**: La aplicación cuenta con una interfaz predecible y fácil de usar a cualquier edad.
+	- **Buena navegación**: La estructura del menú es clara y fácil de usar.
+	- **Contenido de Calidad**: proporcionan información valiosa y actualizada, la información está organizada en secciones claras, facilitando la lectura y comprensión.
 
-# RECOMENDACIONES
-	- Agregar un formulario de contacto
-	- Agregar apartado de accesibilidad
+### RECOMENDACIONES
+	- **Agregar un formulario de contacto**
+	- **Agregar apartado de accesibilidad**
 	
 >>> Valoración personal 
 
@@ -453,7 +453,7 @@ En esta tarea es del tipo de exploración de comprobar si el usuario sigue el re
 
 La mayor parte de atención de ambos usuarios está en el calendario y en la leyenda junto a este, como se esperaba.
 
-###Conclusión
+### Conclusión
 
 Al analizar los mapas de calor de ambos usuarios, podemos llegar a la conclusión de que el enfoque en determinados bloques de la página era el esperado, aunque el usuario ajeno a la web tiende a observar de vez en cuando otras áreas que no se preveía que se observasen. Pero al final, se acaba centrando en la parte importante de la web.
 
