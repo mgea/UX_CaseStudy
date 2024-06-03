@@ -6,17 +6,17 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### (GastroBuddies )
 
-### (Fecha)
-
-
+### (3/06/2024)
 
 
 
-[img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+
+[https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P3/mediaP3/logo.png]
+
+[https://github.com/dduckduck/DIU_DosVocesUnCompas]
 
 
 
