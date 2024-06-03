@@ -264,7 +264,8 @@ EL archivo se puede acceder mediante este [enlace](https://github.com/benipr14/D
 
 En este archivo se pueden encontrar la metodología utilizada en la app y los resultados obtenidos, así como conclusiones nuestras.
 
->>> Valoración personal 
+Valoración personal:
+
 En general la página está bastante bien, los únicos que defectos que tiene son que faltan algunas partes de la app por implementar la posibilidad de desamputarte de un concurso y que a veces se superponen unos elementos con otros en determinadas situaciones.
 
 
