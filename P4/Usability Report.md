@@ -44,7 +44,7 @@ Evaluación detallada de la usabilidad del sitio web "GastroBuddies" realizada p
 Los usuarios participantes han sido 4:
 - Olivia, una mujer de 54 años sin muchos conocimientos de navegación
 - Miguel, un hombre informático con amplia experiencia con ordenadores.
-- Manuel, un hombre mayor de 74 años que le cuesta adaptarse a la nuevas tecnolgías.
+- Manuel, un hombre mayor de 74 años que le cuesta adaptarse a la nuevas tecnologías.
 - Eva, una mujer de 33 años desempelada y sin muchas aspiraciones en la vida
 
 Las 2 primeras personas han evaluado el caso A y las otras 2 el caso B.
@@ -57,7 +57,9 @@ Estas personas han encontrado dificultad para encontrar ciertas funcionalidades.
 
 #### Metodología de usabililidad
 
-Hemos seguido la metodología del uso del A/B testing que nos permite evaluar el rendimiento, la usabilidad y experiencia de los usuarios. También hemos usado Eye Tracking para ver donde centra su atención principalmente el usuario en las distintas partes de la página.
+Hemos seguido la metodología del uso del A/B testing que nos permite evaluar el rendimiento, la usabilidad y experiencia de los usuarios. 
+
+También hemos usado Eye Tracking para ver donde centra su atención principalmente el usuario en las distintas partes de la página.
 
 
 #### Test de usuarios: Participantes
