@@ -1,23 +1,15 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+**Prácticas Diseño Interfaces de Usuario 2023-24**. Tema: Club de Lectura 
 
-Grupo: DIU3_FETON'T.  Curso: 2023/24 
-Updated: 11/2/2024
+>**Grupo**: DIU3_FETON'T.  Curso: 2023/24 
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>**Proyecto**: Word Travel
 
-Descripción: 
+>**Descripción**: Pagina web de un club de Lectura
 
->>> Describa la idea de su producto en la práctica 2 
-
-Logotipo: 
-
-<img src="P3/Logo/Logo.png" width="300" height="157" alt="Logo">
-
-Miembros
- * :bust_in_silhouette:   Carmen Chunyin Fernández Núñez     :octocat:     
- * :bust_in_silhouette:  Jesús Navarrete Caparrós     :octocat:
+>**Miembros**:
+> - :bust_in_silhouette:   Carmen Chunyin Fernández Núñez     :octocat:   www.github.com/carmenxufdz  
+> - :bust_in_silhouette:  Jesús Navarrete Caparrós     :octocat: www.github.com/jesus12345678901
 
 ----- 
 
@@ -27,10 +19,7 @@ Miembros
 ## Paso 1. UX User & Desk Research & Analisis 
 
 
-![Método UX](img/Competitive.png) **1.a User Reseach Plan**
------
-
-### 1. Background
+### ![Método UX](img/Competitive.png) 1.a User Reseach Plan
 
 <h4>What is this project about?</h4>
 <p>Este proyecto consiste en el análisis de una página web especializada en actividades al aire libre, cursos, rutas y viajes de aventura. La página se centra en ofrecer una gran variedad de experiencias, que van desde deportes extremos como escalada, barranquismo y esquí hasta actividades de turismo.</p>
@@ -44,7 +33,7 @@ Miembros
   <li>Contenido Relevante: Determinar qué tipo de contenido resulta más útil y relevante y evaluar si la información proporcionada es suficiente y clara para los usuarios</li>
 </ul>
 
-### 2. Objetives
+-----
 
 <h4>Business Objectives & KPIs</h4>
 
@@ -85,7 +74,7 @@ Miembros
   <li>Diseño y Navegación: Decidir cómo mejorar el diseño visual y la estructura de navegación del sitio web</li>
 </ul>
 
-### 3. Research Methods
+-----
 
 <h4>Primary research</h4>
 
@@ -97,7 +86,7 @@ Miembros
   <li><b>Post-session survey.</b> Se administran justo después de un Usability test para recopilar comentarios sobre la experiencia general e impresiones. Su propósito es capturar las percepciones de los usuarios e identificar áreas de mejora después de la sesión de prueba.</li>
 </ul>
 
-### 4. Research Scope & Focus Areas
+-----
 
 <h4>Question themes</h4>
 <p><b>User Preferences and Needs</b></p>
@@ -120,7 +109,7 @@ Miembros
   <li><del>Persuasiveness: Are desired actions supported and motivated?</del></li>
 </ul>
 
-### 5. Participant Recruiting
+-----
 
 <ul>
   <li><b>Entusiastas de la Naturaleza y Aventura.</b> Estos usuarios disfrutan de las actividades al aire libre, les gusta explorar nuevos lugares y desafiar sus límites físicos. Buscan experiencias emocionantes que le permitan conectar con la naturaleza.</li>
@@ -128,8 +117,7 @@ Miembros
   <li><b>Familias Activas.</b> Estos usuarios son familias que disfrutan pasar tiempo juntas al aire libre y participar en actividades recreativas. Buscan opciones de actividades y destinos que sean seguros, divertidos y adecuados para todas las edades.</li>
 </ul>
 
-![Método UX](img/Competitive.png) 1.b Competitive Analysis
------
+### ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 
 ![Competitive Analysis](P1/img/CompetitiveAnalysis.png)
 
@@ -139,7 +127,7 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 <p>Si tuviésemos que quedarnos con una, elegiríamos Spain.info pues nos ha gustado la implementación del mapa interactivo, además de que nos parece que el contenido e información mostrada por la página está muyu bien. También la estructura de la página y su diseño es intuitivo y fácil de usar.</p>
 <p>En comparación con Granaventour son páginas bastante completas y bien dirigidas al usuario, lo cual sigue afirmando el hecho de que Granaventour tendría muchas cosas que mejorar respecto a su diseño, funcionalidades e información aportada.</p>
 
-![Método UX](img/Persona.png) 1.c Persona
+### ![Método UX](img/Persona.png) 1.c Persona
 -----
 
 ![Persona 1](P1/img/Persona1.png)
@@ -150,7 +138,7 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 
 <p><b>Anna:</b> ha sido elegida porque cumple el perfil de persona extranjera que está visitando España. Además su familia tiene especial interés en actividades deportivas, entonces es normal asumir que buscaría ese tipo de actividades para realizarlas en sus vacaciones.</p>
 
-![Método UX](img/JourneyMap.png) 1.d User Journey Map
+#### ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 ![Journey Map 1](P1/img/JourneyMap1.png)
@@ -161,7 +149,7 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 
 <p><b>Anna:</b> finalmente Anna no ha sido capaz de realizar la reserva de las actividades que quería realizar en familia y ha acabado desistiendo debido a la insuficiente información, a la falta de entendimiento y a problemas técnicos por parte de la página web como puede ser el tema del idioma.</p>
 
-![Método UX](img/usabilityReview.png) 1.e Usability Review
+### ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 >>> - Enlace al documento:  <a href="P1/Usability Review/Usability-review.xlsx">Usability Review</a>
 >>> - Valoración final (numérica): 49
@@ -171,7 +159,7 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
+### ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 ----
 
 
@@ -190,19 +178,19 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 
 <p>En esta práctica presentamos como propuesta de valor un Club de Lectura, el objetivo del club de lectura es fomentar el amor por la lectura en personas de todas las edades a la vez que impulsar el debate y compartir ideas con otros individuos. Pensamos que un club de lectura les puede interesar a nuestras personas, pues la lectura es una actividad que se puede realizar a cualquier edad y al existir muchos géneros y tipos de libros puede alcanzar una gran variedad de público.</p>
 
-### Empathy Map
+<h4>Empathy Map</h4>
 
 ![Empathy Map](P2/img/Empathy%20Customer%20Map%201.jpg)
 
 ![Empathy Map](P2/img/Empathy%20Customer%20Map%202.jpg)
 
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+### ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
 ![Scope Canvas](P2/img/ScopeCanvas.jpg)
 
-![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
+### ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
@@ -216,7 +204,7 @@ Las dos páginas elegidas nos han gustado bastante por diferentes motivos, Spain
 ![Contacto y Soporte](P2/img/ContactoSoporte.jpg)
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+### ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
@@ -246,101 +234,109 @@ Término | Significado
 
 ![SiteMap](P2/SiteMap/SiteMap.jpg)
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+### ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 > [!NOTE]
 > <a href="P2/ResponsivePage.pdf">Responsive Page</a>
 
-### Página Principal
+<h4>Página Principal</h4>
 ![Pagina Principal](P2/Boceto/Pag%20principal.jpg)
 
-### Página de Actividad
+<h4>Página de Actividad</h4>
 ![Pagina Actividad](P2/Boceto/Pag%20Actividad.jpg)
 
-### Página de Blog
+<h4>Página de Blog</h4>
 ![Pagina Blog](P2/Boceto/Pag%20Blog.jpg)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+### ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+[Moodboard en Figma](https://www.figma.com/board/SIh3780BdQPGqi1AGTJdJa/Moodboard?t=PgSfEHM37ntM5BIR-6)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Moodboard](P3/Moodboard.jpg)
 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+### ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Hemos utilizado la herramienta Canvas para realizar el Landing Page
 
->>> Plantear Landing Page 
+![Landing Page](P3/LandingPage.jpg)
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+### ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+La  información y la implementación sobre los patrones de diseño se ha extraído de [Google Material design](https://m3.material.io/).
 
-![Método UX](img/mockup.png)  3.d Mockup
+
+- Botones:
+	+ Situados en el header:
+		+ Home: Cuya funcionalidad es retornar a la página principal.
+		+ Actividades: Al activar el botón, genera un menú desplegable que te permite acceder a la página de Calendario, Eventos y Programación.
+		+ Blog: Usado para acceder al Blog, abre otro menú desplegable en el que puedes acceder a las Noticias, Artículos y Publicaciones de los usuarios.
+		+ Contacto: Accede a una página de contacto para que el usuario escriba todas las dudas y propuestas que considere.
+		+ Imagen Registrarse: Al hacer click, el usuario podrá iniciar sesión y/o registrarse al club de lectura. Para escribir en el blog el usuario deberá de estar registrado.
+	+ Situados en el footer:
+		+ Menú legal: Muestra información acerca de los términos y condiciones de uso, la protección de datos y la política de cookies.
+		+ Secciones: Te ofrece acceso directo a las distintas secciones de la página web (Home, Actividades, Blog).
+		+ Redes sociales: Muestra el enlace directo a las distintas redes sociales del club de lectura (Instagram, Facebook, Twitter).
+	
+- Navegación
+	+ Buscador: Para, sin cambiar de página, mostrar contenido que tenga una cierta relacción. Usado en todas las pantallas de la página web
+
+- Contenido
+	+ Página principal:
+		+ Carrousel: Para mostrar una serie de imágenes o vídeos al usuario en el mismo espacio en el que da información sobre las próximas actividades y las entradas más recientes del club acompañado de una breve descripción.
+		
+	+ Página actividad:
+		+ Carrousel: Para mostrar una serie de imágenes o vídeos al usuario sobre la actividad en cuestión, incluye información a cerca de esta.
+		+ Botón APÚNTAME: Registra a un usuario en la actividad que desee.
+	
+	+ Página calendario:
+		+ Calendario: Muestra un calendario con información sobre las próximas reuniones, los próximos eventos y las próximas firmas con autores.
+	
+	+ Página Blog:
+		+ Texto: Contiene todas las entradas al blog que han creado los usuarios registrados en el club de lectura.
+		+ Filtrado de entradas: Permite filtrar las entradas del blog.
+	
+	+ Página login:
+		+ Formulario inicio de sesión: junto a dos inputs, uno para el email y otro para contraseña.
+		+ Formulario registrarse: junto a tres inputs, uno que registra el nombre de usuario, y los otros dos para el email y la contraseña.
+
+
+### ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+[Layout en Figma](https://www.figma.com/design/tQjeJnUP4xy2wKPeYDdeu5/Layout-HiFi?m=auto&t=PgSfEHM37ntM5BIR-6)
 
+[Layout PDF](P3/LayoutHiFi.pdf)
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+### ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+Github proporciona una herramienta llamada Github Pages. Para simplificar el proceso y conseguir un buen diseño de base, usamos Docsify. Aunque está diseñada para documentación del código, podemos adaptarlo para nuestro README principal.
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+El resultado puede verse en: [Case Study](https://carmenxufdz.github.io/DIU24/#/)
 
-
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
 
 
 
 ## Paso 4. Evaluación 
 
 
-![Método UX](img/ABtesting.png) 4.a Caso asignado
+### ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+La aplicación es una app para móvil especializada en actividades al aire libre. Esta aplicación ofrece rutas de senderismo en diferentes lugares: montaña, campo, costa, bosque… Además de ofrecer tanto rutas de largo recorrido como de corto.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+https://github.com/raulitoo5/DIU2024.git
 
 
-![Método UX](img/usability-testing.png) 4.b User Testing
+### ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
@@ -348,23 +344,50 @@ Resultados y valoración
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| Maria  | F / 65  | Jubilada  | Baja       | Emocional | Web.       | A 
 | User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| Ignacio  | M / 21   | Estudiante     | Alta        | Introvertido    | Móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-![Método UX](img/Survey.png) 4.c Cuestionario SUS
+### ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+### Usuario 1
+- Nombre: María
+- Sexo: Femenino
+- Ocupación: Jubilada
+- Edad: 60-70
+- Experiencia en Internet: Baja
+
+### Usuario 3
+- Nombre: Ignacio
+- Sexo: Masculino
+- Ocupación: Estudiante
+- Edad: 15-30
+- Experiencia en Internet: Alta
+
+### Resultado SUS usuario 1.
+Este usuario ha valorado nuestro diseño 
+
+![](P4/imagenes/SUS1.png)
+
+### Resultado SUS usuario 3 
+Este usuario ha valorado la propuesta B 
+
+![](P4/imagenes/SUS3.png)
 
 
-![Método UX](img/usability-report.png) 4.d Usability Report
+
+### Conclusión
+
+En base a los resultados obtenidos podemos decir que la aplicación Naturwalk es sencilla y fácil de usar. Los usuarios se sienten cómodos utilizando la aplicación y la notan intuitiva como para saber utilizarla sin necesidad de experiencia previa. En general, es una aplicación bien hecha y que cumple su función.
+
+### ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
@@ -374,10 +397,36 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Valoración personal 
 
 
+### 4.e Eye Tracking
+
+Se va a utilizar la aplicación [Gaze Recorder](https://gazerecorder.com/) para analizar la usabilidad del prototipo A (Word Travel). Para ello se han seleccionados dos usuarios, uno de ellos es uno de los implicados en el diseño (izquierda) y el otro una persona ajena a la web (derechar). Cada uno de ellos va a evaluar con la aplicación la usabilidad de secciones específicas de ambos prototipos. Las tareas/páginas a supervisar son:
+
+**Tarea 1**: 
+En esta tarea es del tipo de exploración de comprobar si el usuario puede identificar de manera rápida los elementos importantes de la página principal como el botón de registro o las características principales de la web.
+
+![](P4/imagenes/LandingPage.jpg)
+
+El usuario que ha tomado parte en el diseño de la página (izquierda). Sigue el patrón esperado, fijándose en los elementos importantes de la página principal. El segundo usuario también se fija en todos estos elementos y además, mira varias veces a el menú superior.
+
+**Tarea 2**: 
+En esta tarea es del tipo de exploración de comprobar si el usuario sigue el recorrido de elementos propuesto: Título,  descripcion, imágenes, información, apuntarse.
+
+![](P4/imagenes/Taller.jpg)
+
+Ambos usuarios siguen un patrón de ojos similar. Estos empiezan desde la parte superior donde se encuentra el título, van bajando al texto e imágenes, para terminar en el botón de apuntarse. Los usuarios han prestado mayor atención a las imágenes que al texto. 
+
+**Tarea 3**: 
+En esta tarea es del tipo de exploración de comprobar si el usuario sigue el recorrido de elementos propuesto: Título,  calendario, actividades.
+
+![](P4/imagenes/Calendario.jpg)
+
+La mayor parte de atención de ambos usuarios está en el calendario y en la leyenda junto a este, como se esperaba.
+
+###Conclusión
+Al analizar los mapas de calor de ambos usuarios, podemos llegar a la conclusión de que el enfoque en determinados bloques de la página era el esperado, aunque el usuario ajeno a la web tiende a observar de vez en cuando otras áreas que no se preveía que se observasen. Pero al final, se acaba centrando en la parte importante de la web.
 
 
-
-5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
+### 5. Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
 
@@ -388,12 +437,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
-
-
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Estas prácticas han sido muy completas, donde se ha abarcado todo el proceso de diseño, desde la práctica 1 (Análisis) hasta la accesibilidad del proyecto una vez finalizado. Nos han permitido aprender a utilizar herramientas de diseño y prototipado como figma. También ha estado interesante el poder analizar proyectos de otros grupos y que analicen el mío y así tener otro punto de vista de mi proyecto. En resumen, muy entretenidas y educativas.
 
 
 
