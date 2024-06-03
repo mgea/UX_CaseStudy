@@ -345,9 +345,9 @@ https://github.com/raulitoo5/DIU2024.git
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Maria  | F / 65  | Jubilada  | Baja       | Emocional | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| David  | M / 22   | Arquitecto  | Media       | Trabajador       | Web        | A 
 | Ignacio  | M / 21   | Estudiante     | Alta        | Introvertido    | Móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Julia  | H / 45   | Enfermera  | Media       | Energética     | Web        | B 
 
 
 ### ![Método UX](img/Survey.png) 4.c Cuestionario SUS
@@ -364,6 +364,13 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 - Edad: 60-70
 - Experiencia en Internet: Baja
 
+### Usuario 2
+- Nombre: David
+- Sexo: Masculino
+- Ocupación: Arquitecto
+- Edad: 20-30
+- Experiencia en Internet: Media
+
 ### Usuario 3
 - Nombre: Ignacio
 - Sexo: Masculino
@@ -371,17 +378,17 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 - Edad: 15-30
 - Experiencia en Internet: Alta
 
-### Resultado SUS usuario 1.
-Este usuario ha valorado nuestro diseño 
+### Usuario 4
+- Nombre: Julia
+- Sexo: Femenino
+- Ocupación: Enfermera
+- Edad: 50-60
+- Experiencia en Internet: Media
 
-![](P4/imagenes/SUS1.png)
+### Resultado SUS
+Los usuarios María y David han valorado nuestro diseño y Julia e Ignacio la propuesta B
 
-### Resultado SUS usuario 3 
-Este usuario ha valorado la propuesta B 
-
-![](P4/imagenes/SUS3.png)
-
-
+![](P4/imagenes/SUS.png)
 
 ### Conclusión
 
@@ -423,6 +430,7 @@ En esta tarea es del tipo de exploración de comprobar si el usuario sigue el re
 La mayor parte de atención de ambos usuarios está en el calendario y en la leyenda junto a este, como se esperaba.
 
 ###Conclusión
+
 Al analizar los mapas de calor de ambos usuarios, podemos llegar a la conclusión de que el enfoque en determinados bloques de la página era el esperado, aunque el usuario ajeno a la web tiende a observar de vez en cuando otras áreas que no se preveía que se observasen. Pero al final, se acaba centrando en la parte importante de la web.
 
 
