@@ -16,7 +16,7 @@
 
 [![Imagem Logotipo](https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P3/mediaP3/logo.png)](https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P3/mediaP3/logo.png)
 
-[![Enlace a github]](https://github.com/dduckduck/DIU_DosVocesUnCompas)
+[[Enlace a github]](https://github.com/dduckduck/DIU_DosVocesUnCompas)
 
 
 
@@ -24,7 +24,7 @@
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+[Informe realizado por Equipo Los_Humildes explicar brevemente vuestra experiencia ]
 
 
 
@@ -40,22 +40,16 @@
 
 [Incluir un breve resumen el propósito de la App]
 
- 
+ Esta es una app que pertenece a un club de cocina donde puedes resgistrate y apuntarte a sus cursos para aprender a cocinar y así conocer gente.
 
 
 
 ## 2 RESUMEN EJECUTIVO
+Estos son los errores que hemos encontrado:
 
-
-
-[ Breve descripción de lo que contiene el documento 
-
-y Resumen conciso de problemas detectados ]
-
-
-
-
-
+En la página principal tanto el botón de eventos como notificaciones muestran una actividad aleatoria que no tiene mucho sentido.
+El botón para ver las actividades reservadas por el usuario está algo escondido teniendo que clicar en el boton de la barra de arriba GastroBuddies y en Tus Buddies.
+Tampoco hay ningún sitio para borrarte de una actividad.
 
 
 
@@ -64,14 +58,20 @@ y Resumen conciso de problemas detectados ]
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+Hemos seguido la metodología del uso del A/B testing que nos permite evaluar el rendimiento, la usabilidad y experiencia de los usuarios. También hemos usado los heatMap para ver donde centra su atención principalmente el usuario.
 
- 
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
 
+[![Imagem A/B Testing](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/roleplay.png)](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/roleplay.png)
+
+
+También hemos hecho uso de los HeatMaps:
+
+[HeatMap](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/Eye%20Tracking.pdf)
+
+La conclusión que se saca de ellos es que el botón de reservar una actividad debería ser más llamativo y no llamar la atención con una foto tan exhuberante.
 
 
 
@@ -82,12 +82,13 @@ y Resumen conciso de problemas detectados ]
 
 (resultado de SUS)
 
+Los resultados han sido de grado B, B, C, B respectivamente por lo que los usuarios deberían poder usar la aplicación sin mucho complicación aunque sí que pueden llegar a surgir algunos problemas.
+
 
 
 (resultado de eyetracking)
 
-
-
+La conclusión que se saca de ellos es que el botón de reservar una actividad debería ser más llamativo y no llamar la atención con una foto tan exhuberante.
 
 
 
@@ -96,29 +97,27 @@ y Resumen conciso de problemas detectados ]
 
 ## 4 CONCLUSIONES 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
+Aunque la idea y las funciones ofrecidas han sido buenas, se han identificado varias áreas que requieren mejoras.
 
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+Tenían tanto el repositorio de github accesible así como su app subida a figma en su sitio correspondiente.
 
+Sin embargo los usuarios pueden llegar a tener problemas en llegar a algunos botones algo escondidos como tus cursos reservados llamado 'Tus Buddies' y no poder desamputarse de ninguna actividad.
 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
+- El aspecto visual esta bien logrado y es agradable a la vista.
+- Los usuarios valoraron positivamente la idea de la web y las funciones ofrecidas, especialmente la posibilidad de conocer gente y participar en actividades.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
+- Añadir más pantallas que amplíen la funcionalidad de la web y ayuden a distribuir mejor la información.
+- Rediseñar la estructura de algunas paginas para hacerlas más completas.
 
 
 
@@ -126,4 +125,4 @@ y Resumen conciso de problemas detectados ]
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+Las técnicas aplicadas fueron útiles para detectar errores ocultos y fallos de usabilidad. Las pruebas con usuarios reales nos diern información valiosa, y los resultados de SUS y eyetracking ofrecieron una visión clara de las áreas que necesitan mejoras.
