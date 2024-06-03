@@ -14,9 +14,9 @@
 
 
 
-[https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P3/mediaP3/logo.png]
+[![Imagem Logotipo](https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P3/mediaP3/logo.png)](https://github.com/dduckduck/DIU_DosVocesUnCompas/blob/master/P3/mediaP3/logo.png)
 
-[https://github.com/dduckduck/DIU_DosVocesUnCompas]
+[![Enlace a github]](https://github.com/dduckduck/DIU_DosVocesUnCompas)
 
 
 
