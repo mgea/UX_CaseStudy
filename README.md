@@ -461,10 +461,7 @@ Al analizar los mapas de calor de ambos usuarios, podemos llegar a la conclusió
 ### 5. Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
-
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+Gracias a estas prácticas hemos conseguido realizar una propuesta bien estructurada y coherente. Obviamente, hay cosas que se pueden mejorar, pero para ser la primera vez, hemos obtenido unos resultados mejores a los esperados. Los cuales se pueden  observar en este repositorio y en el usability report realiado por nuestros compañeros
 
 
 
