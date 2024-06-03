@@ -233,27 +233,21 @@ Su diseño HI-FI está subido a figma y se puede encontrar en este [enlace](http
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+Hemos creado estas 4 personas ficticias con personalidades variadas así como distintos motivos para usar el servicio, el objetivo es poder evaluar de una forma más objetiva ambos casos. Las dos primeras personas serán asignadas el cso A y las dos últimas serán asignadas el caso B. Las principales diferencias entre los usuarios serán los conocimientos tecnológicos que tengan además de los objetivos que tienen para usar la página.
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+![roleplay](https://github.com/benipr14/DIU.Los_Humildes/assets/127837014/ab3157d0-e45c-4358-9c66-301414ed67dd)
+
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Para conseguir evaluar la experiencia del usuario de forma objetiva hemos usado el cuestionario SUS. Este cuestionario proporciona una cifra concreta que será la forma de ver si nuestros usuarios recomendarina cada caso.
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+![CuestionariosSUS](https://github.com/benipr14/DIU.Los_Humildes/assets/127837014/d8e5a88e-0f95-4743-a3da-f877375ad124)
 
+Los resultados muestran que tanto el caso A como el B tiene puntuaciones similares. Ambas páginas serían generalmente recomendadas por los usuarios, aunque presentan ligeros fallos en su diseño.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
