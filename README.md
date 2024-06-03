@@ -280,10 +280,11 @@ El eye tracking mostró exactamente dónde los usuarios fijaban su atención, ay
 
 ## Conclusión final / Valoración de las prácticas
 
+En resumen, las prácticas realizadas en la asignatura nos han hecho replantearnos la relevancia de la experiencia de usuario, la accesibilidad y el diseño de interfaces. Ahora valoramos mucho más estos aspectos y hemos aprendido a mejorar nuestros diseños para que sean más accesibles para todos los usuarios. Gracias a estas prácticas, hemos adquirido conocimientos y técnicas que nos serán de utilidad en un futuro.
 
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Además, hemos desarrollado una comprensión más profunda de cómo interactúan los usuarios con nuestras aplicaciones, lo cual es esencial para crear productos intuitivos y efectivos. Este aprendizaje nos prepara mejor para enfrentar desafíos reales en el desarrollo de software y garantiza que nuestras futuras páginas y aplicaciones sean más eficientes y centradas en el usuario.
 
-
+En general las prácticas nos han gustado y nos han sido entretenidas.
 
 
 
