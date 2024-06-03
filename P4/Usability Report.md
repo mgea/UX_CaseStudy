@@ -25,10 +25,10 @@
 ### Realizado por:
 
 Informe realizado por Equipo Los_Humildes.
+- Benigno Joaquín Parra Campos
+- Alejandra Gómez Soriano
 
 La experiencia ha sido satisfactoria pues hemos podido acceder a todos los archivos del otro equipo sin problema.
-
-
 
 
 
