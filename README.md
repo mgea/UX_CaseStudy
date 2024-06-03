@@ -206,25 +206,16 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
-Hemos hecho uso de gazrecorder para el EyeTracking. Se han cogido a 2 personas diferentes de nuestro círculo cercano para realizar esta prueba.
+Hemos hecho uso de gazerecorder para el EyeTracking. Se han cogido a 2 personas diferentes de nuestro círculo cercano para realizar esta prueba.
 
 Diseño del experimento 
 ----
+En una primera instancia se le ha pedido a ambas personas que intentasen acceder al curso partiendo desde la página principal. Después se le ha dado la libertad a estos mismo usuarios para que visualicen lo que más les llamo la atencion de la página principal.
 
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
 
 Resultados y valoración 
 -----
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
+Los resultados obtenidos de la página principal son positivos ya que ambos han podido acceder a alguna actividad, sin embargo dentro de la actividad no son tan buenos pues estos se han dispersado un poco con fotos extravagantes o con los comentarios ya que el color de estos y el del botón de reservar son muy parecidos. Una posible opción hacer más llamativo este botón. Todo esto viene explicado ocn más detalle en nuestro [documento de EyeTracking](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/Eye%20Tracking.pdf)
 
 
 ## Paso 4. Evaluación 
