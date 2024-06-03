@@ -396,6 +396,8 @@ En base a los resultados obtenidos podemos decir que la aplicación Naturwalk es
 
 ### ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
+>>> Enlace al documento: [Usability Report](P4/P4_UsabReport_NaturWalk_doneby_DIU3_Fetont.pdf)
+
 ### DESCRIPCIÓN DEL WEBSITE
 La aplicación es una app para móvil especializada en actividades al aire libre. Esta aplicación ofrece rutas de senderismo en diferentes lugares: montaña, campo, costa, bosque… Además de ofrecer tanto rutas de largo recorrido como de corto.
 El usuario puede realizar las siguientes actividades desde la página web:
@@ -424,9 +426,6 @@ Puntos positivos:
 ### RECOMENDACIONES
 - **Agregar un formulario de contacto**
 - **Agregar apartado de accesibilidad**
-
- 
-[Usability Report](P4/P4_UsabReport_NaturWalk_doneby_DIU3_Fetont.pdf)
 
 
 ### 4.e Eye Tracking
