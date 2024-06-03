@@ -206,13 +206,10 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+Hemos hecho uso de gazrecorder para el EyeTracking. Se han cogido a 2 personas diferentes de nuestro círculo cercano para realizar esta prueba.
 
 Diseño del experimento 
 ----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
 
 
 ![experimento](img/experimentoET.png)  
