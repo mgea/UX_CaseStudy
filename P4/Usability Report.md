@@ -26,11 +26,9 @@
 
 [Informe realizado por Equipo Los_Humildes explicar brevemente vuestra experiencia ]
 
+Informe realizado por Equipo Los_Humildes.
 
-
-
-
-
+La experiencia ha sido satisfactoria pues hemos podido acceder a todos los archivos del otro equipo sin problema.
 
 
 
