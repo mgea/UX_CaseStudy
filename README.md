@@ -424,7 +424,8 @@ Puntos positivos:
 ### RECOMENDACIONES
 - **Agregar un formulario de contacto**
 - **Agregar apartado de accesibilidad**
-	
+
+ 
 [Usability Report](P4/P4_UsabReport_NaturWalk_doneby_DIU3_Fetont.pdf)
 
 
