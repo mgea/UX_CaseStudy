@@ -15,7 +15,7 @@ Para los usuarios hemos elegido un abanico amplio de persoanlidades y experienci
  
  Las dos primeras personas evaluan el caso A, mientras las dos últimas evaluan el caso B.
  
-# Cuestionario SUS.
+## Cuestionario SUS.
 
 Para conseguir una valoración objetiva de la sxperiencia de los usuarios hemos usado el cuestionario SUS, estos han sido los resultados:
 
@@ -24,10 +24,18 @@ Para conseguir una valoración objetiva de la sxperiencia de los usuarios hemos 
 
 
 Tanto el caso A como el caso B presentan puntuaciones similares. La experiencia de los usuarios en ambos casos resulta satisfactoria, aunque hay problemas menores que deben ser arreglados, por lo general los usuarios recomendaran ambas páginas.
-* Tareas realizadas 
 
+##EyeTracking
 
-* Usability Report de Caso B
-* Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
+Se han cogido a 2 usuarios y se les ha pedido que intenten registrarse en una actividad desde la página de inicio y, después, a esos mismos usuarios se les ha dado libertad para que observen lo que quieran de la página principal.
 
-* Conclusiones
+Los resultados se pueden consultar en este [pdf](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/Eye%20Tracking.pdf)
+
+##Usability report
+Para el usability report hemos usado la plantilla proporcinada en el guion de la práctica que se encuentra en el github:  https://github.com/mgea/DIU/blob/master/P4/Usability-Report24.md
+
+En este informe detallamos el análisis completo de la usabilidad de la aplicación B, GastroBuddies. En este archivo se encuentra las metodología utilizada en la app y las conclusiones que sacamos así como problemas encontrados.
+
+##Conclusiones
+
+En conclusión la página no es del todo mala (sobre todo teniendo en cuenta otras páginas que hemos visto) aunque si es cierto que no es completa del todo pues faltan algunas funcionalidades pero en general las puntuaciones del SUS score no han sido malas y los resultados del EyeTracking han sido más o menos los esperados también.
