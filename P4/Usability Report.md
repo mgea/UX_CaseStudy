@@ -43,12 +43,17 @@ La experiencia ha sido satisfactoria pues hemos podido acceder a todos los archi
 
 
 ## 2 RESUMEN EJECUTIVO
-Estos son los errores que hemos encontrado:
+Evaluación detallada de la usabilidad del sitio web "GastroBuddies" realizada por el equipo Los_Humildes.
 
-En la página principal tanto el botón de eventos como notificaciones muestran una actividad aleatoria que no tiene mucho sentido.
-El botón para ver las actividades reservadas por el usuario está algo escondido teniendo que clicar en el boton de la barra de arriba GastroBuddies y en Tus Buddies.
-Tampoco hay ningún sitio para borrarte de una actividad.
+Los usuarios participantes han sido 4:
+- Olivia, una mujer de 54 años sin muchos conocimientos de navegación
+- Miguel, un hombre informático con amplia experiencia con ordenadores.
+- Manuel, un hombre mayor de 74 años que le cuesta adaptarse a la nuevas tecnolgías.
+- Eva, una mujer de 33 años desempelada y sin muchas aspiraciones en la vida
 
+Las 2 primeras personas han evaluado el caso A y las otras 2 el caso B.
+
+Estas personas han encontrado dificultad para encontrar ciertas funcionalidades. Confusión en la navegación. Problemas de diseño ya que en la web esta a veces se superponen cosas.
 
 
 
@@ -56,7 +61,7 @@ Tampoco hay ningún sitio para borrarte de una actividad.
 
 #### Metodología de usabililidad
 
-Hemos seguido la metodología del uso del A/B testing que nos permite evaluar el rendimiento, la usabilidad y experiencia de los usuarios. También hemos usado los heatMap para ver donde centra su atención principalmente el usuario.
+Hemos seguido la metodología del uso del A/B testing que nos permite evaluar el rendimiento, la usabilidad y experiencia de los usuarios. También hemos usado Eye Tracking para ver donde centra su atención principalmente el usuario en las distintas partes de la página.
 
 
 #### Test de usuarios: Participantes
