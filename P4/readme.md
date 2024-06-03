@@ -24,7 +24,8 @@ Para conseguir una valoración objetiva de la sxperiencia de los usuarios hemos 
 [![CuestionariosSUS](https://github.com/benipr14/DIU.Los_Humildes/assets/127837014/0a1cf940-7fb6-485f-aa55-272d2ece548b)](https://github.com/benipr14/DIU.Los_Humildes/assets/127837014/0a1cf940-7fb6-485f-aa55-272d2ece548b)
 
 
-Tanto el caso A como el caso B presentan puntuaciones similares. La experiencia de los usuarios en ambos casos resulta satisfactoria, aunque hay problemas menores que deben ser arreglados, por lo general los usuarios recomendaran ambas páginas.
+Tanto el caso A como el caso B presentan puntuaciones similares, los resultados del cuestionario SUS han sido de grado B, B, C, B respectivamente. La experiencia de los usuarios en ambos casos resulta satisfactoria, aunque hay problemas menores que deben ser arreglados, por lo general los usuarios recomendaran ambas páginas.
+
 
 ## EyeTracking
 
