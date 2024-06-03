@@ -94,9 +94,7 @@ Aunque la idea y las funciones ofrecidas han sido buenas, se han identificado va
 
 #### Incidencias
 
-Tenían tanto el repositorio de github accesible así como su app subida a figma en su sitio correspondiente.
-
-Sin embargo los usuarios pueden llegar a tener problemas en llegar a algunos botones algo escondidos como tus cursos reservados llamado 'Tus Buddies' y no poder desamputarse de ninguna actividad.
+Los usuarios pueden llegar a tener problemas en llegar a algunos botones algo escondidos como tus cursos reservados llamado 'Tus Buddies' y no poder desamputarse de ninguna actividad.
 
 
 #### Valoración 
