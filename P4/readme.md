@@ -9,7 +9,8 @@ Para los usuarios hemos elegido un abanico amplio de persoanlidades y experienci
 - Olivia, una mujer de 54 años sin muchos conocimientos de navegación
 - Miguel, un hombre informático con amplia experiencia con ordenadores.
 - Manuel, un hombre mayor de 74 años que le cuesta adaptarse a la nuevas tecnologías.
-- Eva, una mujer de 33 años desempelada y sin muchas aspiraciones en la vida
+- Eva, una mujer de 33 años desempelada y sin muchas aspiraciones en la vida.
+  
 
 [![roleplay](https://github.com/benipr14/DIU.Los_Humildes/assets/127837014/b9ad2518-e31a-4674-aa1e-de0717b830e1)](https://github.com/benipr14/DIU.Los_Humildes/assets/127837014/b9ad2518-e31a-4674-aa1e-de0717b830e1)
  
@@ -31,7 +32,7 @@ Se han cogido a 2 usuarios y se les ha pedido que intenten registrarse en una ac
 
 Los resultados se pueden consultar en este [pdf](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/Eye%20Tracking.pdf)
 
-##Usability report
+## Usability report
 Para el usability report hemos usado la plantilla proporcinada en el guion de la práctica que se encuentra en el github:  https://github.com/mgea/DIU/blob/master/P4/Usability-Report24.md
 
 En este informe detallamos el análisis completo de la usabilidad de la aplicación B, GastroBuddies. En este archivo se encuentra las metodología utilizada en la app y las conclusiones que sacamos así como problemas encontrados.
