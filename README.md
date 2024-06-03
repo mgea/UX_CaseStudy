@@ -204,7 +204,7 @@ En resumen le hemos podido dar forma a nuestra web y definir la forma de navegac
 Exportación a HTML/Flutter
 -----
 
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
+5.b Eye Tracking method 
 
 Hemos hecho uso de gazerecorder para el EyeTracking. Se han cogido a 2 personas diferentes de nuestro círculo cercano para realizar esta prueba.
 
@@ -224,8 +224,11 @@ Los resultados obtenidos de la página principal son positivos ya que ambos han 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+Se nos ha asignado el proyecto del equipo DIU2.DosVocesUnCompas cuyo enlace a github es [este](https://github.com/dduckduck/DIU_DosVocesUnCompas) 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Su proyecto se llama 'GastroBuddies' y consiste en una aplicación de un club de cocina donde puedes registrarte en su app y reservar distintos cursos de cocina según lo que quieras aprender.
+
+Su diseño HI-FI está subido a figma y se puede encontrar en este [enlace](https://www.figma.com/design/NjBneDsaPI1mtTUAXnyj0P/%5BDosVocesUnCompas%5D-GastroBuddies?m=auto&t=bavxOPLfCrAQ51W7-6)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -255,12 +258,14 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Para el usability report hemos usado la plantilla proporcionada en el guion de la práctica que está subida a github.
 
+EL archivo se puede acceder mediante este [enlace](https://github.com/benipr14/DIU.Los_Humildes/blob/master/P4/Usability%20Report.md)
 
+En este archivo se pueden encontrar la metodología utilizada en la app y los resultados obtenidos, así como conclusiones nuestras.
 
 >>> Valoración personal 
-
+En general la página está bastante bien, los únicos que defectos que tiene son que faltan algunas partes de la app por implementar la posibilidad de desamputarte de un concurso y que a veces se superponen unos elementos con otros en determinadas situaciones.
 
 
 
@@ -268,14 +273,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
+La práctica utilizando A/B testing, informes de usabilidad y eye tracking nos permitió entender mejor cómo interactúan los usuarios con el producto. El A/B testing nos dio datos claros sobre qué versiones del producto funcionaban mejor. Los informes de usabilidad nos ayudaron a identificar problemas específicos que enfrentan los usuarios.
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
-
-
+El eye tracking mostró exactamente dónde los usuarios fijaban su atención, ayudándonos a mejorar el diseño visual. En resumen, aprendimos que usar estas tres técnicas juntas nos da una visión completa y detallada para mejorar la experiencia del usuario.
 
 
 ## Conclusión final / Valoración de las prácticas
