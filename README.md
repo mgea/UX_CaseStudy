@@ -1,11 +1,10 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Cursos de Cocina ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU1_01MiG's.  Curso: 2023/24 
+Updated: 11/4/2024
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: Sabor y Saber
 
 Descripción: 
 
@@ -15,98 +14,131 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Ángel Muñoz Cortés     :octocat:     
+ * :bust_in_silhouette:  Ane Anta Iriondo     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
 
-![Método UX](img/Competitive.png) **1.a User Reseach Plan**
+![**1.a User Reseach Plan**](P1/P1-2b_User_Research_Plan_Template.pdf) 
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+Este proyecto tiene como objetivo comprender la demografía, preferencias y comportamientos de personas interesadas en asistir a talleres gastronómicos.
+Nosotros nos centraremos en cómo de fácil es para los usuarios realizar tareas básicas la primera vez que encuentran el diseño.
+Nuestro público cbjetivo seran principalmente los aficionados a la cocina, los socializadores culinarios y los padres y madres de familias. 
 
-![Método UX](img/Competitive.png) 1.b Competitive Analysis
+![**1.b Competitive Analysis**](P1/Competitor_Analysis_[DIU23].png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+### Pilsa Educa
+Como podemos ver en su sitio web consta de una buena variedad de cursos de alta calidad y donde actualizan con frecuencia los mismos. La página web tiene un diseño bastante intuitivo y consta de un proceso de reserva simple y muchas fotos y videos de los diferentes cursos y la empresa.
 
-![Método UX](img/Persona.png) 1.c Persona
+### Granada Cooking
+En Granada Cooking consta de mucha variedad de cursos de diferentes cocinas, una buena calidad de contenido aunque no actualizan muy frecuentemente los cursos. Su página web tiene un diseño fácil de usar, un proceso de reserva muy simple e intuitivo y consta de muchas fotos de platos, cursos, instalaciones, etc.
+
+### Culinary Spain
+La variedad de cursos no es muy extensa en Culinary Spain y, aunque la calidad del contenido parece buena, no recibe actualizaciones de nuevos cursos ni nuevo contenido. El diseño es muy simple y para nada intuitivo, el proceso de reserva no es muy complejo pero para nada es simple y no consta apenas de fotos ni mucho menos videos.
+
+**1.c Persona**
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+### ![Ainhoa:](P1/Ainhora_persona.jpg)
+Ainhoa está abierta a nuevas experiencias, aunque demasiado ocupada, por eso cree que le puede venir bien ir a actividades donde conozca gente y pueda desconectar (como un taller de cocina).
 
-![Método UX](img/JourneyMap.png) 1.d User Journey Map
+  ### ![Manuel:](P1/Manuel_persona.jpg)
+Al ser una persona tímida y apasionada por la cocina, un taller de cocina es la mejor opción para empezar a abrirse a conocer más gente y perder la timidez.
+
+**1.d User Journey Map**
 ----
 
+  ### ![Ainhoa:](P1/Ainhoa_journey.jpg)
+Lo peor que le puede pasar a alguien que vive estresado por el trabajo y con poco tiempo libre es que el trámite de reserva sea costoso y lento.
+  
+  ### ![Manuel:](P1/Manuel_journey.jpg)
+A una persona tímida como Manuel, lo que le hace falta es que la persona a cargo o la dinámica del taller tenga en cuenta eso y le empuje a hablar con gente.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
-
-![Método UX](img/usabilityReview.png) 1.e Usability Review
+[**1.e Usability Review**](P1/Usability-review-template.xlsx) 
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+La página web de Pilsaeduca.com ha obtenido 84 puntos sobre 100, por lo que podemos calificarlo con un sitio web bueno, donde los usuarios deberían poder utilizar este sitio o sistema con relativa facilidad y deberían poder completar la gran mayoría de las tareas importantes.
+
+Memoria completa [aquí](P1/Práctica_1_UX_User_&_Desk_Research_&_Analisis.pdf)
 
 
 ## Paso 2. UX Design  
 
+### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map
 
-![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-----
+El principal objetivo de la malla receptora era generar una serie de ideas que definían el rumbo que cogería nuestra empresa.
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+![](P2/Malla-Receptora.jpg)
 
 
+### 2.b ScopeCanvas
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
-----
->>> Propuesta de valor 
+En nuestro ScopeCanvas recopilamos todo lo necesario para poder seguir avanzando con nuestro proyecto. Algunas de estas directrices son: nuestro propósito general, objetivos a largo, corto y medio plazo, necesidades que preocupan y motivan a los clientes, métricas que seguiremos para evaluar si nuestra evolución es favorable o no y algunas acciones que buscamos que nuestros usuarios lleven a cabo.
 
-![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
------
-
->>> Definir "User Map" y "Task Flow" ... 
+![](P2/Scope_Canvas.jpg)
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
-----
+### 2.b User Flow (task) analysis
+
+En nuestra matriz de tareas de usuario, hemos compilado todas las funciones de nuestra página web, asignándoles una prioridad según si se utilizarán antes, durante o después del tour. Este proceso nos permite organizarlas por su importancia relativa y determinar cuáles deberían ser nuestras prioridades. Aquellas que reciban una puntuación más alta serán las más utilizadas, sin importar cuándo se utilicen, por lo que debemos enfocarnos en desarrollarlas primero. Además de esto, dependiendo de la puntuación de cada tarea, se le ha asignado un color, esto es simplemente para distinguir mejor a primera vista cuáles son las más importantes y cuales menos (aunque lo sigue determinando la puntuación).
+
+* [User Task Matrix](P2/UserTaskMatrix-PDF.pdf)
 
 
->>> Identificar términos para diálogo con usuario  
+### 2.c IA: Sitemap + Labelling
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+En el sitemap se presenta la jerarquía que seguirá nuestra página web, con los menús principales y las secciones que se desglosan. Podemos observar que hay algunas secciones que tienen un color verde, esto es simplemente para distinguir que sin estar asociado al club no se podrá acceder a la reserva de cursos privados o formaciones profesionales.
+
+![](P2/Site_Map.jpg)
+
+En el Labelling, explicamos qué son cada una de las secciones de nuestro Sitemap, qué propósito tienen y qué se encontrará el usuario al acceder a ellas.
+
+* [Labelling](P2/Labelling-PDF.pdf)
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
------
+### 2.d Wireframes
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Al mirar nuestro Task Matrix nos hemos dado cuenta de que tenemos cinco apartados clave, que son los que mayor puntuación han obtenido. Estos son: Página Principal, Curso, Foro, Usuario y Menú de Inicio Sesión.
+
+*Página principal*
+
+En la página principal mostramos en la parte superior nuestro logo, junto con los menús principales, seguido del nombre de nuestra empresa y una serie de fotos de los cursos destacados que irán desplazándose hacia la izquierda. Después de esto mostraremos una introducción acerca de nuestra empresa y finalmente un apartado del foro con los temas más destacados tras el cual irá el pie de página.
+
+![](P2/BOCETOS/Pagina_Principal.jpg)
+
+*Curso*
+
+En esta página se situará toda la información pertinente sobre el curso deseado. El usuario dispondrá de una pequeña descripción de dicho taller, junto con las elaboraciones que se llevarán a cabo y el chef que lo impartirá. Tras esto vendrá el precio y las fechas disponibles para realizarlo. Acompañado a todo este texto tendremos una serie de fotos que ilustrarán cómo será el curso.
+
+![](P2/BOCETOS/Curso.jpg)
+
+*Foro*
+
+Esta será la página principal desde la cual se podrá acceder al foro en sí y a la galería compartida, por lo que tendrá un resumen de cada una de estas partes. Respecto al foro, al igual que en la página principal tendremos una serie de temas destacados junto a un buscador. Y en cuanto a la galería compartida dispondremos de dos apartados principales, uno de ellos será una galería con todas las fotos disponibles, y la otra contendrá el curso más reciente que se haya realizado.
+
+![](P2/BOCETOS/Foro.jpg)
+
+*Usuario*
+
+Lo primero que podemos observar en la sección de Usuario será de cuantos seguidores y cuantos seguidos disponemos en el momento, pulsando en cualquiera de ellos, este nos mostrará una lista de los usuarios a los que seguimos o los que nos siguen. Tras esto tendremos un apartado que nos muestre los cursos que hemos marcado como nuestros favoritos y otro en el que tendremos los cursos pendientes de reservar (la cesta). Después vendrá el apartado de las notificaciones, para poder configurarlo como le plazca al usuario y por último, las opciones de cerrar sesión y cambiar la contraseña.
+
+![](P2/BOCETOS/Cuenta.jpg)
+
+*Inicio Sesion / Registro*
+
+Esta es la sección por la que todo usuario deberá pasar para poder acceder a la reserva de un taller, por lo que en ella se pide al usuario que introduzca un nombre de usuario junto con una contraseña. Dispondremos de opciones como ver la contraseña, recordarla y poder cambiarla pulsando “¿Has olvidado tu contraseña?” que facilitarán el inicio de sesión o registro a nuestros clientes. Por último tendremos un botón de enviar, para guardar el inicio de sesión o registro que hayamos realizado.
+
+![](P2/BOCETOS/Inicio_Sesion-Registro.jpg)
+
+
+
+Memoria completa [aquí](P2/Práctica_2-Ideación_Y_Diseño.pdf)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
