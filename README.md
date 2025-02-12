@@ -1,10 +1,12 @@
-# DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+# DIU25
+Prácticas Diseño Interfaces de Usuario  (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU1_01AABB.  Curso: 2024/25 
+
+Updated: xx/xx/202x
 
 Proyecto: 
+
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
 Descripción: 
@@ -12,6 +14,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
+
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
