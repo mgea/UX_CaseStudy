@@ -11,9 +11,11 @@
 
 
 
-## DIU - Prácticas de la asignatura Diseño de interfaces de Usuario
+
+## DIU - Prácticas de la asignatura Diseño de interfaces de Usuario
 
 ## ETSI Informática y Telecomunicación. Universidad de Granada, 2025
+
 
 
 [GitHub](https://github.com/mgea/DIU)
