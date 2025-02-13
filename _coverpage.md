@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
 
-# **Word Travel**
+# **Comercio Sostenible**
 ## UX Case Study
 
-<img align="center" src="./P3/Logo/Logo.png" width="2000" height=auto alt="Logotipo"/>
+<img align="center" src="./img/logo_diu25_mini.png" width="600" height=auto alt="Logotipo"/>
 
 [GitHub](https://github.com/carmenxufdz/DIU24)
 [Comenzar](#diu24)
