@@ -12,9 +12,9 @@
 
 
 
-### DIU - Prácticas de la asignatura Diseño de interfaces de Usuario
+### Prácticas de la asignatura Diseño de interfaces de Usuario
 
-### ETSI Informática y Telecomunicación. Universidad de Granada, 2025
+#### ETSI Informática y Telecomunicación. Universidad de Granada, 2025
 
 
 
