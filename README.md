@@ -33,8 +33,9 @@ Miembros
 ## Paso 1. UX User & Desk Research & Analisis 
 
 
-![Método UX](img/Competitive.png) **1.a User Reseach Plan**
------
+### 1.a User Reseach Plan
+
+![Método UX](img/Competitive.png) **
 
 >>> Describe el plan de User Research (cómo se planteas)  
 
@@ -43,8 +44,9 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
 
-![Método UX](img/Persona.png) 1.c Persona
+### 1.c Persona
 -----
+![Método UX](img/Persona.png) 
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
 
