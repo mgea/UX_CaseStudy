@@ -14,19 +14,30 @@ Este estudio lo planteamos sobre una situación real: el impacto de la pandemia 
 El alcalde de Granada  pide al Gobierno y Junta planes para el comercio y la hostelería de Granada, «bloqueados» por la covid.  Urgen planes específicos de ayuda para «salvar» el sector del comercio y la hostelería, que ha quedado «bloqueado» por la pandemia de covid-19 y por las medidas implementadas por las autoridades sanitarias para frenar su expansión. 11/02/21 Ideal https://www.ideal.es/granada/salvadr-pide-gobierno-20210211114657-nt.html
 
 Informe del Observatorio de Turismo de Granada: https://profesionales.turgranada.es/wp-content/files_mf/1622540562InformeAnual_Observatoriotur%C3%ADsticoGranada_2020_DEF_2.pdf 
-En este contexto, nos vamos a centrar en iniciativas turísticas relacionadas con el ocio que pueden  favorecer las expectativas (experiencia de usuario) de viajeros que visitan la ciudad. Hay una revista que siempre ha ayudado a difundir esta agenda de ocio: Yuzin (https://yuzin.com/) y en las que nos podremos encontrar alguna de estas iniciativas para programar en un fin de semana. Vamos a analizar tres alternativas diferentes en GRX y las evaluaremos tanto en entorno Web o APP. La asignación por grupos es la siguiente: 
-DIU1 Espacio escénico teatral: 
-Espacio la estupenda - https://espaciolaestupenda.com/
-	Teatro Doblaje Remiendo - https://escueladeteatroengranada.es/ 
-DIU2 Experiencias gastronómicas
-Pilsa Educa  https://pilsaeduca.com/ 
-Granada Cooking https://granadacooking.com/  
-DIU3 Rutas temáticas 
-	Vinos de Granada https://rutadelosvinosdegranada.com/  
-	Granada aventura https://www.granaventour.com/
-RECUERDA: Para la realización de las prácticas vamos a utilizar preferentemente Figma y las fichas template para los entregables. Se recomienda que te des de alta en el programa Figma for Education, https://www.figma.com/education/ 
 
-Descripción de la práctica:
+En este curso nos vamos a centrar en un tema: **El Comercio Sostenible**
+
+La temática de cada grupo de prácticas será la siguiente: 
+
+**DIU1 - Mercados ecológicos**
+
+  * Tiendas y mercados ecológicos: 
+    EcoMercado de Granada https://www.facebook.com/Ecomercadodegranada/
+    https://ecomercadogranada.org/
+	
+**DIU2 - Gastronomía de degustación**
+
+  * Bares y locales de degustación, p.e. Bar la Goma https://www.granadahoy.com/vivir/Bar-Goma-concurrida-taberna-realizar_0_1771025137.html
+  * Cata de vinos - La taberna de Kafka  https://www.instagram.com/latabernadekafka/
+  * Talleres de comida - https://granadacooking.com/
+
+**DIU3 - Reciclaje y artesanía (handcraft)**
+
+  * Taller de moda de reciclaje - https://casakuna.org/re-made-in-granada-2/
+  * Moda segunda mano : https://modare.org/
+
+
+## Descripción de la práctica:
 
 
 Evaluar los principios de usabilidad y la experiencia de usuario. Para ello, habrá que realizar lo siguiente: 
