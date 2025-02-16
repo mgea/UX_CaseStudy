@@ -1,6 +1,8 @@
 # DIU25
 Prácticas Diseño Interfaces de Usuario  (Tema: .... ) 
 
+[Guiones de prácticas](./GuionesPracticas)
+
 Grupo: DIU1_01AABB.  Curso: 2024/25 
 
 Updated: xx/xx/202x
