@@ -43,49 +43,41 @@ La temática de cada grupo de prácticas será la siguiente:
 Evaluar los principios de usabilidad y la experiencia de usuario. Para ello, habrá que realizar lo siguiente: 
 
 1. Leer el artículo “UX for the Masses: A guide to carrying out usability reviews” para comprender la técnica de análisis de la usabilidad (siguiendo unas pautas o principios de verificación) 
-
-
-fuente: http://www.uxforthemasses.com/usability-reviews/
+	fuente: http://www.uxforthemasses.com/usability-reviews/
 
 
 
 2. [USER RESEARCH] Hacer un briefing del proyecto recopilando información sobre cómo los usurios organizan estas iniciativas turísticas: basadas en tu experiencia y observación de  campo (viendo a otras personas).
-UX Research: https://www.interaction-design.org/literature/topics/ux-research 
-UX research Plan template https://uxdesign.cc/user-research-plan-template-d7e263ebee79 
+* UX Research: https://www.interaction-design.org/literature/topics/ux-research 
+* UX research Plan template https://www.uxtweak.com/ux-research/plan/ 
+
 
 3. [DESK RESEARCH: COMPETITOR ANALYSIS]  Seleccionar uno de los casos propuestos (según grupo, si no se tiene claro, el profesor de prácticas podría asignar el caso de estudio, o escoger otra web/app alternativa que tenga una temática similar).  Al escoger una opción, se debe hacer un breve análisis mediante una tabla resumen con 2 proyectos de la competencia (puede ser fuera de Granada)
-How to use desk research to kick- start your design process
-https://uxdesign.cc/how-to-use-desk-research-to-kick-start-your-design-process-aab6e67fd7a4 
- What is a Competitive Analysis: https://blog.hubspot.com/marketing/competitive-analysis-kit 
+* How to use desk research to kick- start your design process https://uxdesign.cc/how-to-use-desk-research-to-kick-start-your-design-process-aab6e67fd7a4 
+* What is a Competitive Analysis: https://blog.hubspot.com/marketing/competitive-analysis-kit 
 
 4. [INSPIRACIÓN] Lectura-Visionado de la Experiencia del Usuario en el sector de los viajes (informe de optymizet.com) que consta de dos documentos: 
-las etapas del viaje y los micro-momentos (de Mónica Zapata). https://www.slideshare.net/Optimyzet/uxtravel-los-micromomentos-y-el-customer-journey-del-viajero 
-Un ejemplo de la experiencia de usuarios en viaje (de optymizer.com)
-(https://www.slideshare.net/Optimyzet/uxtravel-presentacin-del-informe-de-tendencias) 
+* las etapas del viaje y los micro-momentos (de Mónica Zapata). https://www.slideshare.net/Optimyzet/uxtravel-los-micromomentos-y-el-customer-journey-del-viajero 
+* Un ejemplo de la experiencia de usuarios en viaje (de optymizer.com) (https://www.slideshare.net/Optimyzet/uxtravel-presentacin-del-informe-de-tendencias) 
 
 
 5. [PERSONA] Proponer dos personas ficticias que puedan ser los usuarios interesados en las actividades turísticas (http://www.uxforthemasses.com/personas/). Información acerca de cómo construir Personas Ficticias: http://www.ux-lady.com/diy-user-personas/ Se puede usar https://randomuser.me para obtener imágenes/features de personas aleatorias.
 
 
 6. [JOURNEY MAP] Realizar dos mapas de experiencia del usuario (User Journey Experience Map) donde se describa la interacción del usuario realizando las diferentes tareas. Cada mapa plantea un objetivo diferente y debe ser realizado por un usuario-ficticio diferente. 
-Más información sobre cómo abordar una mapa de experiencia de usuario:
-https://marvelapp.com/blog/beginners-guide-user-journey-mapping/  Otros recursos:
-
-
-
-
+* Más información sobre cómo abordar una mapa de experiencia de usuario: https://marvelapp.com/blog/beginners-guide-user-journey-mapping/  
 
 
 7. [USABILITY REVIEW] Con esta información, teniendo en cuenta la experiencia de usuario de las dos personas ficticias y actuando como experto de usabilidad, se debe rellenar una hoja de Excel con la Revisión de Usabilidad  (es importante tanto la calificación de cada apartado como los comentarios razonando los motivos)
 
-Excel: http://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.xls
-PDF: https://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.pdf
+* Excel: http://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.xls
+* PDF: https://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.pdf
 
 
-8. [BRIEFING]  Resumen de la práctica. Se trata de un resumen ejecutivo de unos 120 palabras que se redacta como si quisiéramos aportar la revisión de un experto en UX/usabilidad sobre el sitio web seleccionado. 
+8. [BRIEFING]  Resumen de la práctica. Se trata de un resumen ejecutivo de unos 150 palabras que se redacta como si quisiéramos aportar la revisión de un experto en UX/usabilidad sobre el sitio web seleccionado. 
 
 
-Recursos para crear entregables: 
+## Recursos para crear entregables: 
 
 
 https://www.figma.com/files/project/80570185/UX-Toolkits 
@@ -97,10 +89,10 @@ La documentación de la práctica será una memoria que se aloja en un repositor
 
 Leer detenidamente la información que aparece en README.md y completar, para adaptar a la información del equipo:
 
-Datos identificativos  del equipo: 
-Nombre del grupo
-Nombre de autores
-Enlace a github
+* Datos identificativos  del equipo: 
+* Nombre del grupo
+* Nombre de autores
+* Enlace a github
 
 Entregables de la práctica: Fichero FIGMA y documentos en PDF que contiene:
 User Research con una breve descripción de lo que se extrae como conclusión (10%)
@@ -116,6 +108,7 @@ Ejemplo:
 El Grupo llamado ‘DIU 1.GREENBIZ’ del grupo de prácticas DIU1 creara fichero DIU1.GRANADABIZ_P1.ZIP  
 
 
-updated: 4/03/2024
+updated: 4/02/2025
+
 
 
