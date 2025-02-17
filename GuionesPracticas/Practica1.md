@@ -15,6 +15,8 @@ El alcalde de Granada  pide al Gobierno y Junta planes para el comercio y la hos
 
 Informe del Observatorio de Turismo de Granada: https://profesionales.turgranada.es/wp-content/files_mf/1622540562InformeAnual_Observatoriotur%C3%ADsticoGranada_2020_DEF_2.pdf 
 
+## Tema: El comercio sostenible
+
 En este curso nos vamos a centrar en un tema: **El Comercio Sostenible**
 
 La temática de cada grupo de prácticas será la siguiente: 
@@ -76,13 +78,13 @@ Evaluar los principios de usabilidad y la experiencia de usuario. Para ello, hab
 
 8. [BRIEFING]  Resumen de la práctica. Se trata de un resumen ejecutivo de unos 150 palabras que se redacta como si quisiéramos aportar la revisión de un experto en UX/usabilidad sobre el sitio web seleccionado. 
 
+## Recursos 
 
-## Recursos para crear entregables: 
-
+Recursos para los entregables
 
 https://www.figma.com/files/project/80570185/UX-Toolkits 
 
-Documentación a entregar
+## Documentación a entregar
 
 
 La documentación de la práctica será una memoria que se aloja en un repositorio GitHub DIU (de cada grupo). Para ello, se deberá hacer un  fork  de https://github.com/mgea/DIU
