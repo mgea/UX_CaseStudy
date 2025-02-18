@@ -1,5 +1,5 @@
 
-## ## PRÁCTICA 3: PROTOTIPADO / Mockup App
+## PRÁCTICA 3: PROTOTIPADO / Mockup App
 
 Diseño Interfaces de Usuario 
 
@@ -24,7 +24,7 @@ En esta vamos a analizar el uso de herramientas para el diseño del IU en modo M
 
 ## Descripción de la práctica:
 
-1. **[MOODBOARD] Diseño visual** . Definiremos una guía de estilos visual 
+**1. [MOODBOARD] Diseño visual** . Definiremos una guía de estilos visual 
 
 
 	Referencia lectura: Design Mood. 7 Motives to Create Mood Boards [https://uxplanet.org/design-mood-7-motives-to-create-mood-boards-b81ae36e399f](https://uxplanet.org/design-mood-7-motives-to-create-mood-boards-b81ae36e399f)
@@ -47,9 +47,10 @@ El moodboard debe incluir al menos: 
 - al menos 3 imágenes inspiradoras (con apariencia visual deseada) 
 
   
-  
+<br>
+ 
 
-2. **[LANDING PAGE] Diseñar página web de Onboarding** del proyecto (ya con el estilo de  diseño visual seleccionado. 
+**2. [LANDING PAGE] Diseñar página web de Onboarding** del proyecto (ya con el estilo de  diseño visual seleccionado. 
 
 Recursos: 
 * [https://uxdesign.cc/how-to-craft-an-effective-landing-page-a-brief-case-study-7c592ba4b967](https://uxdesign.cc/how-to-craft-an-effective-landing-page-a-brief-case-study-7c592ba4b967)
@@ -63,9 +64,10 @@ La “página de aterrizaje” es un tipo de página promocional (de un solo boc
 - Detalle de características beneficios de esta propuesta (1-3) y algún refuerzo emocional para hacer la propuesta deseable 
 - una única acción (CTA) que redirige a la app (el enlace por ahora es irrelevante)
 
-  
+  <br>
 
-3. **[GUIDELINES]** Organizar elementos de diseño: Patrones IU y Guidelines  a aplicar para el diseño. Referencia de patrones: Google Material design [https://m3.material.io/](https://m3.material.io/) 
+
+**3. [GUIDELINES]** Organizar elementos de diseño: Patrones IU y Guidelines  a aplicar para el diseño. Referencia de patrones: Google Material design [https://m3.material.io/](https://m3.material.io/) 
 
 Plugin para FIGMA: 
 * [https://www.figma.com/community/file/1035203688168086460/material-3-design-kit](https://www.figma.com/community/file/1035203688168086460/material-3-design-kit
@@ -77,8 +79,9 @@ Plugin para FIGMA: 
 
 Podría incluir: Event Calendar (disponibilidad),  tags/etiquetas /categorías, etc. Se va a hacer una VERSIÓN DEL PROTOTIPO (WIREFRAME) ADAPTADA A MÓVIL
 
+<br>
 
-[4. LAYOUT HI-FI] Realizar el layout adaptado a dispositivo móvil: 
+**4. [LAYOUT HI-FI]** Realizar el layout adaptado a dispositivo móvil: 
 
 Se deberían usar los componentes de figma para simular los comportamientos de animación y transiciones (en barra de menú, estados de botones…) Consejos:  [https://uxdesign.cc/10-figma-best-practices-to-10x-your-workflow-76d6336daf2a](https://uxdesign.cc/10-figma-best-practices-to-10x-your-workflow-76d6336daf2a) 
 
@@ -89,8 +92,9 @@ Utilizar patrones de diseño y guidelines de Material UIDesign (Figma)  [https:
 Lista de componentes en Material 3: [https://m3.material.io/components](https://m3.material.io/components)
 
 
+<br>
 
-5. **[PUBLISH] Publicar tu case Study**. Publica los resultados de práctica en una página Web. Se recomienda usar para ello el repositorio Github https://github.com/mgea/UX_CaseStudy. Adapta el fichero readme.md de la página principal de tu repositorio DIU en GitHub para que tenga una estructura e información como has descubierto en MuseMap (con los distintos apartados recolectados en tu práctica).  Sube también a espacio común de FIGMA 
+**5. [PUBLISH] Publicar tu case Study**. Publica los resultados de práctica en una página Web. Se recomienda usar para ello el repositorio Github https://github.com/mgea/UX_CaseStudy. Adapta el fichero readme.md de la página principal de tu repositorio DIU en GitHub para que tenga una estructura e información como has descubierto en MuseMap (con los distintos apartados recolectados en tu práctica).  Sube también a espacio común de FIGMA 
 
   
 ## DOCUMENTACIÓN A ENTREGAR
