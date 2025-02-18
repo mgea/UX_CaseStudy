@@ -121,4 +121,4 @@ Se debe entregar el proyecto en un fichero comprimido ZIP. 
 El fichero se llamará {nombre_equipo}_P3, se debe además publicar en GITHUB los resultados.
 
   
-En [https://github.com/mgea/UX_CaseStudy](https://github.com/mgea/UX_CaseStudy) se pueden analizar la publicación algunos Case Study de otros años.**
+En [https://github.com/mgea/UX_CaseStudy](https://github.com/mgea/UX_CaseStudy) se pueden analizar la publicación algunos Case Study de otros años.
