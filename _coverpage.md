@@ -18,7 +18,7 @@
 
 
 
-[GitHub](https://github.com/mgea/DIU)
+[GitHub](https://github.com/mgea/UX_CaseStudy)
 [Comenzar](#DIU)
 
 <!-- background color -->
