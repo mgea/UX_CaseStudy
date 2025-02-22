@@ -49,31 +49,38 @@ La temática de cada grupo de prácticas será la siguiente:
 
 Evaluar los principios de usabilidad y la experiencia de usuario. Para ello, habrá que realizar lo siguiente: 
 
-1. Leer el artículo “UX for the Masses: A guide to carrying out usability reviews” para comprender la técnica de análisis de la usabilidad (siguiendo unas pautas o principios de verificación) 
-	fuente: http://www.uxforthemasses.com/usability-reviews/
+1. Leer el artículo “**UX for the Masses: A guide to carrying out usability reviews**” para comprender la técnica de análisis de la usabilidad (siguiendo unas pautas o principios de verificación)
+   * fuente: http://www.uxforthemasses.com/usability-reviews/
 
+<br>
 
+2. **[USER RESEARCH PLAN]** Hacer un briefing (150-200palabras) recopilando información sobre lo que conoces de ese contexto y cómo enfocarías tu estrategia para tener una mejor comprensión y análisis.   
+ * UX Research plan: https://www.interaction-design.org/literature/topics/ux-research
+ * Research Plan: https://www.nngroup.com/articles/pm-research-plan/
 
-2. **[USER RESEARCH]** Hacer un briefing del proyecto recopilando información sobre cómo los usurios organizan estas iniciativas turísticas: basadas en tu experiencia y observación de  campo (viendo a otras personas).
-* UX Research: https://www.interaction-design.org/literature/topics/ux-research 
-* UX research Plan template https://www.uxtweak.com/ux-research/plan/ 
-
+<br> 
 
 3. **[DESK RESEARCH: COMPETITOR ANALYSIS]**  Seleccionar uno de los casos propuestos (según grupo, si no se tiene claro, el profesor de prácticas podría asignar el caso de estudio, o escoger otra web/app alternativa que tenga una temática similar).  Al escoger una opción, se debe hacer un breve análisis mediante una tabla resumen con 2 proyectos de la competencia (puede ser fuera de Granada)
 * How to use desk research to kick- start your design process https://uxdesign.cc/how-to-use-desk-research-to-kick-start-your-design-process-aab6e67fd7a4 
 * What is a Competitive Analysis: https://blog.hubspot.com/marketing/competitive-analysis-kit 
 
+<br>
+
+
 4. **[INSPIRACIÓN]** Lectura-Visionado de la Experiencia del Usuario en el sector de los viajes (informe de optymizet.com) que consta de dos documentos: 
 * las etapas del viaje y los micro-momentos (de Mónica Zapata). https://www.slideshare.net/Optimyzet/uxtravel-los-micromomentos-y-el-customer-journey-del-viajero 
 * Un ejemplo de la experiencia de usuarios en viaje (de optymizer.com) (https://www.slideshare.net/Optimyzet/uxtravel-presentacin-del-informe-de-tendencias) 
 
+<br> 
 
 5. **[PERSONA]** Proponer dos personas ficticias que puedan ser los usuarios interesados en las actividades turísticas (http://www.uxforthemasses.com/personas/). Información acerca de cómo construir Personas Ficticias: http://www.ux-lady.com/diy-user-personas/ Se puede usar https://randomuser.me para obtener imágenes/features de personas aleatorias.
 
+<br>
 
 6. **[JOURNEY MAP]** Realizar dos mapas de experiencia del usuario (User Journey Experience Map) donde se describa la interacción del usuario realizando las diferentes tareas. Cada mapa plantea un objetivo diferente y debe ser realizado por un usuario-ficticio diferente. 
 * Más información sobre cómo abordar una mapa de experiencia de usuario: https://marvelapp.com/blog/beginners-guide-user-journey-mapping/  
 
+<br>
 
 7. **[USABILITY REVIEW]** Con esta información, teniendo en cuenta la experiencia de usuario de las dos personas ficticias y actuando como experto de usabilidad, se debe rellenar una hoja de Excel con la Revisión de Usabilidad  (es importante tanto la calificación de cada apartado como los comentarios razonando los motivos)
 
@@ -92,7 +99,7 @@ https://www.figma.com/files/project/80570185/UX-Toolkits
 ## Documentación a entregar
 
 
-La documentación de la práctica será una memoria que se aloja en un repositorio GitHub DIU (de cada grupo). Para ello, se deberá hacer un  fork  de https://github.com/mgea/DIU
+La documentación de la práctica será una memoria que se aloja en un repositorio GitHub DIU (de cada grupo). Para ello, se deberá hacer un  fork  de https://github.com/mgea/UX_CaseStudy
 
 Leer detenidamente la información que aparece en README.md y completar, para adaptar a la información del equipo:
 
@@ -102,11 +109,11 @@ Leer detenidamente la información que aparece en README.md y completar, para ad
 * Enlace a github
 
 Entregables de la práctica: Fichero FIGMA y documentos en PDF que contiene:
-User Research con una breve descripción de lo que se extrae como conclusión (10%)
-Competitive analysis: Breve análisis de las aplicaciones asignadas y justificación de la elegida (150-300 palabras)   (15%)
-Persona: Fichas de 2 personas y justificación (50-100 caracteres)   (25%)
-Experience Journey Map: Fichas de 2 personas y justificación (50-100 caracteres) (25%) 
-Usability Review  + resumen de la valoración práctica (25%) 
+* User Research plan briefing  (10%)
+* Competitive analysis: Breve análisis de las aplicaciones asignadas y justificación de la elegida (150-300 palabras)   (15%)
+* Persona: Fichas de 2 personas y justificación (50-100 caracteres)   (25%)
+* Experience Journey Map: Fichas de 2 personas y justificación (50-100 caracteres) (25%) 
+* Usability Review  + resumen de la valoración práctica (25%) 
 
 Además, estos entregables se deberán enviar a PRADO  un zip comprimido con toda la documentación asociada a esta práctica.
 
