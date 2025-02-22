@@ -27,6 +27,13 @@ Partiendo de la experiencia adquirida con las aplicaciones de la Práctica 1, va
 
 Para ello, aplicaremos las conclusiones de la práctica anterior (personas ficticias previas, experiencias negativas de uso, elementos de usabilidad débiles) a la nueva propuesta de servicio que deberá quedar debidamente documentada en esta práctica.
 
+### IMPORTANTE: 
+       A continuación se proponen diferentes herramientas a modo de toolkit
+       Se deben escoger al menos 5 de ellas que se adapten mejor para el caso seleccionado + Prototipo 
+      
+> 
+
+
   
 **1. [INSPIRACIÓN:CASE STUDY]** Lectura de la siguiente experiencia (MuseMap Street Art)
 
