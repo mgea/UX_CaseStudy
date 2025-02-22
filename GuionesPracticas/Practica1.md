@@ -11,11 +11,12 @@ Nº Sesiones: 2:
 
 La Interfaz de Usuario facilita la comunicación de personas con sistemas interactivos, una transmisión clara de las acciones del usuario así como las peticiones y respuestas por parte del sistema. Esa comunicación implica que se debe representar el diálogo de forma intuitiva y con eficiencia. Para ello la forma en la que esté diseñada la interfaz de usuario puede influir de forma notable en la calidad del propio producto y por tanto en la experiencia de uso. Para conocer cómo aplicar técnicas para  un buen diseño, utilizaremos técnicas de revisión de la usabilidad (checklist) basada en la inspección de los principios generales de diseño sobre aplicaciones Web. 
 
-Este estudio lo planteamos sobre una situación real: el impacto de la pandemia en el sector turístico. El Turismo supone el 12% del PIB de Granada, y ahora se empieza a recuperar tras la Pandemia, sobre todo impulsando nuevas iniciativas.
- 
-El alcalde de Granada  pide al Gobierno y Junta planes para el comercio y la hostelería de Granada, «bloqueados» por la covid.  Urgen planes específicos de ayuda para «salvar» el sector del comercio y la hostelería, que ha quedado «bloqueado» por la pandemia de covid-19 y por las medidas implementadas por las autoridades sanitarias para frenar su expansión. 11/02/21 Ideal https://www.ideal.es/granada/salvadr-pide-gobierno-20210211114657-nt.html
+Este estudio lo planteamos sobre una situación real: **La cultura y el ocio generan un impacto en Granada de un 31% del PIB de la provincia**,  lo que avala la aspiración de ser capital cultural en 2031 [Noticia Febrero del 2025](https://www.granadahoy.com/granada/impacto-economico-cultura-granada-capitalidad-cultural-candidatura_0_2003171587.html). Esta iniciativa se está gestando en la web  https://2031granada.org/ 
 
-Informe del Observatorio de Turismo de Granada: https://profesionales.turgranada.es/wp-content/files_mf/1622540562InformeAnual_Observatoriotur%C3%ADsticoGranada_2020_DEF_2.pdf 
+Otros datos relacionados con el peso del sector turístico:  
+* Informe del Observatorio de Turismo de Granada:https://profesionales.turgranada.es/es/recursos#estudios-turisticos 
+* Desde la portal oficial de Gestión de Turismo de Andalucía se promociona el **comercio justo en Granada** (https://www.andalucia.org/es/comercio-justo-compras-justas-si-visitas-granada)
+
 
 ## Tema: El comercio sostenible
 
@@ -34,11 +35,13 @@ La temática de cada grupo de prácticas será la siguiente:
   * Bares y locales de degustación, p.e. Bar la Goma https://www.granadahoy.com/vivir/Bar-Goma-concurrida-taberna-realizar_0_1771025137.html
   * Cata de vinos - La taberna de Kafka  https://www.instagram.com/latabernadekafka/
   * Talleres de comida - https://granadacooking.com/
+  * La tertulia (cervezas culturales) - https://www.instagram.com/tertuliagranada/
 
 **DIU3 - Reciclaje y artesanía (handcraft)**
 
   * Taller de moda de reciclaje - https://casakuna.org/re-made-in-granada-2/
-  * Moda segunda mano : https://modare.org/
+  * Moda segunda mano: https://modare.org/
+  * Kerarqueo artesanía: https://www.kerarqueo.com/
 
 
 ## Descripción de la práctica:
