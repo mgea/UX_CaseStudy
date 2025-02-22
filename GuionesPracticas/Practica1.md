@@ -54,34 +54,34 @@ Evaluar los principios de usabilidad y la experiencia de usuario. Para ello, hab
 
 
 
-2. [USER RESEARCH] Hacer un briefing del proyecto recopilando información sobre cómo los usurios organizan estas iniciativas turísticas: basadas en tu experiencia y observación de  campo (viendo a otras personas).
+2. **[USER RESEARCH]** Hacer un briefing del proyecto recopilando información sobre cómo los usurios organizan estas iniciativas turísticas: basadas en tu experiencia y observación de  campo (viendo a otras personas).
 * UX Research: https://www.interaction-design.org/literature/topics/ux-research 
 * UX research Plan template https://www.uxtweak.com/ux-research/plan/ 
 
 
-3. [DESK RESEARCH: COMPETITOR ANALYSIS]  Seleccionar uno de los casos propuestos (según grupo, si no se tiene claro, el profesor de prácticas podría asignar el caso de estudio, o escoger otra web/app alternativa que tenga una temática similar).  Al escoger una opción, se debe hacer un breve análisis mediante una tabla resumen con 2 proyectos de la competencia (puede ser fuera de Granada)
+3. **[DESK RESEARCH: COMPETITOR ANALYSIS]**  Seleccionar uno de los casos propuestos (según grupo, si no se tiene claro, el profesor de prácticas podría asignar el caso de estudio, o escoger otra web/app alternativa que tenga una temática similar).  Al escoger una opción, se debe hacer un breve análisis mediante una tabla resumen con 2 proyectos de la competencia (puede ser fuera de Granada)
 * How to use desk research to kick- start your design process https://uxdesign.cc/how-to-use-desk-research-to-kick-start-your-design-process-aab6e67fd7a4 
 * What is a Competitive Analysis: https://blog.hubspot.com/marketing/competitive-analysis-kit 
 
-4. [INSPIRACIÓN] Lectura-Visionado de la Experiencia del Usuario en el sector de los viajes (informe de optymizet.com) que consta de dos documentos: 
+4. **[INSPIRACIÓN]** Lectura-Visionado de la Experiencia del Usuario en el sector de los viajes (informe de optymizet.com) que consta de dos documentos: 
 * las etapas del viaje y los micro-momentos (de Mónica Zapata). https://www.slideshare.net/Optimyzet/uxtravel-los-micromomentos-y-el-customer-journey-del-viajero 
 * Un ejemplo de la experiencia de usuarios en viaje (de optymizer.com) (https://www.slideshare.net/Optimyzet/uxtravel-presentacin-del-informe-de-tendencias) 
 
 
-5. [PERSONA] Proponer dos personas ficticias que puedan ser los usuarios interesados en las actividades turísticas (http://www.uxforthemasses.com/personas/). Información acerca de cómo construir Personas Ficticias: http://www.ux-lady.com/diy-user-personas/ Se puede usar https://randomuser.me para obtener imágenes/features de personas aleatorias.
+5. **[PERSONA]** Proponer dos personas ficticias que puedan ser los usuarios interesados en las actividades turísticas (http://www.uxforthemasses.com/personas/). Información acerca de cómo construir Personas Ficticias: http://www.ux-lady.com/diy-user-personas/ Se puede usar https://randomuser.me para obtener imágenes/features de personas aleatorias.
 
 
-6. [JOURNEY MAP] Realizar dos mapas de experiencia del usuario (User Journey Experience Map) donde se describa la interacción del usuario realizando las diferentes tareas. Cada mapa plantea un objetivo diferente y debe ser realizado por un usuario-ficticio diferente. 
+6. **[JOURNEY MAP]** Realizar dos mapas de experiencia del usuario (User Journey Experience Map) donde se describa la interacción del usuario realizando las diferentes tareas. Cada mapa plantea un objetivo diferente y debe ser realizado por un usuario-ficticio diferente. 
 * Más información sobre cómo abordar una mapa de experiencia de usuario: https://marvelapp.com/blog/beginners-guide-user-journey-mapping/  
 
 
-7. [USABILITY REVIEW] Con esta información, teniendo en cuenta la experiencia de usuario de las dos personas ficticias y actuando como experto de usabilidad, se debe rellenar una hoja de Excel con la Revisión de Usabilidad  (es importante tanto la calificación de cada apartado como los comentarios razonando los motivos)
+7. **[USABILITY REVIEW]** Con esta información, teniendo en cuenta la experiencia de usuario de las dos personas ficticias y actuando como experto de usabilidad, se debe rellenar una hoja de Excel con la Revisión de Usabilidad  (es importante tanto la calificación de cada apartado como los comentarios razonando los motivos)
 
 * Excel: http://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.xls
 * PDF: https://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.pdf
 
 
-8. [BRIEFING]  Resumen de la práctica. Se trata de un resumen ejecutivo de unos 150 palabras que se redacta como si quisiéramos aportar la revisión de un experto en UX/usabilidad sobre el sitio web seleccionado. 
+8. **[BRIEFING]**  Resumen de la práctica. Se trata de un resumen ejecutivo de unos 150 palabras que se redacta como si quisiéramos aportar la revisión de un experto en UX/usabilidad sobre el sitio web seleccionado. 
 
 ## Recursos 
 
