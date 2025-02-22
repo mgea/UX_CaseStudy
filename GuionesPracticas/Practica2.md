@@ -17,7 +17,7 @@ El  **Diseño Centrado en el Usuario** sitúa a la persona (el usuario) como ej
 
 ## Planteamiento:
 
-Partiendo de la experiencia adquirida con las aplicaciones de la Práctica 1, vamos realizar una NUEVA PROPUESTA DE VALOR basado en la idea de **COMERCIO & SOSTENIBILIDAD**. Sobre esa premisa podría tener diferentes estrategias para captar y fidelizar socios/clientes. Buscar ejemplos que sirvan de inspiración. 
+Partiendo de la experiencia adquirida con las aplicaciones de la Práctica 1, vamos realizar una **NUEVA PROPUESTA DE VALOR** (o de rediseño) basado en la idea de **COMERCIO & SOSTENIBILIDAD**. Sobre esa premisa podría tener diferentes estrategias para captar y fidelizar socios/clientes. Buscar ejemplos que sirvan de inspiración. 
 
 
   
@@ -35,9 +35,9 @@ Para ello, aplicaremos las conclusiones de la práctica anterior (personas ficti
 
 
   
-**1. [INSPIRACIÓN:CASE STUDY]** Lectura de la siguiente experiencia (MuseMap Street Art)
+### 1. [INSPIRACIÓN:CASE STUDY]
 
-[https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b). 
+Lectura de la siguiente experiencia [MuseMap Street Art](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b)
 
 La historia tiene una estructura tipo “caso de estudio”: 
 1. Pregunta seminal/idea de investigación: ¿y si pudiéramos saber el nombre de los artistas callejeros?
@@ -48,19 +48,24 @@ La historia tiene una estructura tipo “caso de estudio”: 
 6. Diseño Centrado en el Usuario para recabar información (como en la P1)
 7. Problemas que debemos evitar, cosas que debemos incluir (hecho en la revisión de la usabilidad de P1)
 
+<br>
+
+### 2. [REFRAMING/IDEACIÓN]
+
+Vamos a replantear nuestra propuesta a partir de la experiencia adquirida, y para ello,  vamos a sintetizar los hallazgos (insights) y propuesta de diseño usando alguna de estas herramientas, donde hay varias herramientas útiles: 
 
 
-**2. [REFRAMING/IDEACIÓN]** Vamos a replantear nuestra propuesta a partir de la experiencia adquirida, y para ello,  vamos a sintetizar los hallazgos (insights) y propuesta de diseño usando alguna de estas herramientas: ESCOGE UNA DE ESTAS OPCIONES que consideres más adecuada:  
+#### 2.1. Feedback Capture Grid 
 
-  
-a)  Recabamos en la malla receptora de información (**feedback capture grid**) la información obtenida de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. La técnica consiste en elaborar un cuadrante con 4 apartados: aspectos positivos actualmente existentes, críticas constructivas, preguntas de los usuarios (a partir de las personas ficticias), e ideas de mejora (a partir de la experiencia del equipo de desarrollo). La diferencia entre las preguntas de los usuarios y las ideas de mejora, es que un usuario no se plantea si se puede implementar o no la solución que propone.
+Recabamos en la malla receptora de información (**feedback capture grid**) la información obtenida de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. La técnica consiste en elaborar un cuadrante con 4 apartados: aspectos positivos actualmente existentes, críticas constructivas, preguntas de los usuarios (a partir de las personas ficticias), e ideas de mejora (a partir de la experiencia del equipo de desarrollo). La diferencia entre las preguntas de los usuarios y las ideas de mejora, es que un usuario no se plantea si se puede implementar o no la solución que propone.
 
 ![Feedback Capture Grid|250](https://www.ibm.com/design/thinking/static/feedback-grid-1-c9a38163d98099de43fa470af54ad03e.jpg)
 
 
-b). Recabamos en un mapa de empatía (**empathy mapping**) el comportamiento de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. Es importante conocer la diferencia entre lo que dice y hace / piensa y siente, así como detectar los puntos claves (pains & gain) para superar los obstáculos. 
-    
+#### 2.2. Empathy Mapping  
 
+Recabamos en un mapa de empatía (**empathy mapping**) el comportamiento de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. Es importante conocer la diferencia entre lo que dice y hace / piensa y siente, así como detectar los puntos claves (pains & gain) para superar los obstáculos. 
+    
 ![Empathy mapping|250](https://www.digital.nsw.gov.au/sites/default/files/styles/wysiwyg_image/public/2022-09/empathy-mapping.png?itok=A0pnvTtm)
   
 
@@ -75,11 +80,16 @@ Referencias y guías: 
 
 
 
-**3.[PROPUESTA DE VALOR]** Incluye una breve descripción para explicar en qué consiste vuestro proyecto y complementa con un LeanUX Canvas ([http://scopecanvas.com](http://scopecanvas.com))  
+### 3.[PROPUESTA DE VALOR] SCOPE CANVAS
 
+Incluye una breve descripción para explicar en qué consiste vuestro proyecto y complementa con un LeanUX Canvas ([http://scopecanvas.com](http://scopecanvas.com))  
 ![ScopeCanvas](https://www.bbvaapimarket.com/wp-content/uploads/2020/02/bbva-open4u-scope.jpg)
 
-**4. [TASK ANALYSIS]** A continuación, vamos a identificar las tareas principales y su relevancia para los usuarios. Hay diferentes técnicas para realizar este análisis. Escoged la más adecuada para vuestro caso: 
+<br>
+
+### 4. [TASK ANALYSIS]
+
+A continuación, vamos a identificar las tareas principales y su relevancia para los usuarios. Hay diferentes técnicas para realizar este análisis. Escoged la más adecuada para vuestro caso: 
 
 ![user flow design](https://asperbrothers.com/wp-content/uploads/2022/07/user_flow_design.png "user_flow_design")
   
@@ -93,9 +103,11 @@ Referencias y guías: 
 - The ultimate guide to User Flow Diagram   [https://bootcamp.uxdesign.cc/the-ultimate-guide-to-user-flow-diagram-b108d7de10d](https://bootcamp.uxdesign.cc/the-ultimate-guide-to-user-flow-diagram-b108d7de10d) 
 - 8 Tips for Creating Super Smooth User Flows for UX [https://blog.hubspot.com/service/user-flow](https://blog.hubspot.com/service/user-flow) 
     
+<br>
 
+### 5. [ARQUITECTURA DE INFORMACIÓN]
 
-**5. [ARQUITECTURA DE INFORMACIÓN]** Proponer una organización lógica de la navegación y elementos de diseño.En este paso, se genera el mapa (sitemap) junto con el etiquetado (labelling) del sitio (incluyendo iconos), que se puede usar posteriormente para internacionalización. 
+Proponer una organización lógica de la navegación y elementos de diseño.En este paso, se genera el mapa (sitemap) junto con el etiquetado (labelling) del sitio (incluyendo iconos), que se puede usar posteriormente para internacionalización. 
  ![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXfZnIuAA9QHCSqhqcAA56KJW0wxI-tzzCabXIEpjcuagW6nBKZ79IBmoCpXxLPHtkbCDO0BXf2Zirvhn9S5Pax34qMdkkxdcTSGQAljyOk6K19_fY1339_T-MWomk8lY6xItyM357BN0DtOZJKcmC5yGzRS?key=yHsxm-WHRmltKiyTZtLHHg) | ![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXee1ndmuqFmG4EP4qCIJTgoHHYtj98Xjsi5QnEWHmRTWZCBeU_28zG39WmWuP3HRPSY87InU65Tg-yKRThSf9g8nr1fDp7NOGCb8xw_FEuKsenL9noyzTtpaQeLisMnTccoUNj3Ypl0LgADxQl95nw3lDI?key=yHsxm-WHRmltKiyTZtLHHg) |
 
 Se puede usar: FlowMapp  [https://www.flowmapp.com/](https://www.flowmapp.com/) (gratis para 20 items)
@@ -109,7 +121,9 @@ Referencias y guías: 
   
   
 
-**6.[PROTOTIPO]** Se harán bocetos Lo-Fi PARA WEB de las distintas pantallas del interfaz (las más relevantes). Se propone un proceso incremental: 
+### 6.[PROTOTIPO]
+
+Se harán bocetos Lo-Fi PARA WEB de las distintas pantallas del interfaz (las más relevantes). Se propone un proceso incremental: 
 
 a)  un primer esbozo en PAPEL que será evaluado  por profesor/a). Una vez clara la idea se procederá a hacer diseño en FIGMA en dos pasos. 
 
