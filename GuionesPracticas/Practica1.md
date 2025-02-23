@@ -17,8 +17,9 @@ Otros datos relacionados con el peso del sector turístico:
 * Informe del Observatorio de Turismo de Granada:https://profesionales.turgranada.es/es/recursos#estudios-turisticos 
 * Desde la portal oficial de Gestión de Turismo de Andalucía se promociona el **comercio justo en Granada** (https://www.andalucia.org/es/comercio-justo-compras-justas-si-visitas-granada)
 
+<br> 
 
-## Tema: El comercio sostenible
+## Tema: El ocio y comercio sostenible
 
 En este curso nos vamos a centrar en un tema: **El Ocio y Comercio Sostenible**
 
