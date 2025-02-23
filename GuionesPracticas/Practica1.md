@@ -23,7 +23,7 @@ Otros datos relacionados con el peso del sector turístico:
 
 En este curso nos vamos a centrar en un tema: **El Ocio y Comercio Sostenible**
 
-La temática de cada grupo de prácticas será la siguiente: 
+La temática de cada grupo de prácticas será la siguiente (con algunos ejemplos ilustrativos): 
 
 ### DIU1 - Mercados ecológicos
 
