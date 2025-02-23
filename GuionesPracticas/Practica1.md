@@ -33,7 +33,7 @@ La temática de cada grupo de prácticas será la siguiente (con algunos ejemplo
   * Valle y Vega, asociación parar producción y comercialización Km 0 de alimentación ecológica en provincia de Granada. https://valleyvega.org/ 
 
  
-### DIU2 - Gastronomía de degustación
+### DIU2 - Gastronomía/ocio de degustación
 
   * Bares y locales de degustación, p.e. Bar la Goma https://www.granadahoy.com/vivir/Bar-Goma-concurrida-taberna-realizar_0_1771025137.html
   * Cata de vinos - La taberna de Kafka  https://www.instagram.com/latabernadekafka/
