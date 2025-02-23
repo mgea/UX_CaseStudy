@@ -20,24 +20,25 @@ Otros datos relacionados con el peso del sector turístico:
 
 ## Tema: El comercio sostenible
 
-En este curso nos vamos a centrar en un tema: **El Comercio Sostenible**
+En este curso nos vamos a centrar en un tema: **El Ocio y Comercio Sostenible**
 
 La temática de cada grupo de prácticas será la siguiente: 
 
-**DIU1 - Mercados ecológicos**
+### DIU1 - Mercados ecológicos
 
   * Tiendas y mercados ecológicos: 
     EcoMercado de Granada https://www.facebook.com/Ecomercadodegranada/
     https://ecomercadogranada.org/
-	
-**DIU2 - Gastronomía de degustación**
+
+ 
+### DIU2 - Gastronomía de degustación
 
   * Bares y locales de degustación, p.e. Bar la Goma https://www.granadahoy.com/vivir/Bar-Goma-concurrida-taberna-realizar_0_1771025137.html
   * Cata de vinos - La taberna de Kafka  https://www.instagram.com/latabernadekafka/
   * Talleres de comida - https://granadacooking.com/
   * La tertulia (cervezas culturales) - https://www.instagram.com/tertuliagranada/
 
-**DIU3 - Reciclaje y artesanía (handcraft)**
+### DIU3 - Reciclaje y artesanía (handcraft)
 
   * Taller de moda de reciclaje - https://casakuna.org/re-made-in-granada-2/
   * Moda segunda mano: https://modare.org/
