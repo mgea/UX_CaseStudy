@@ -30,6 +30,7 @@ La temática de cada grupo de prácticas será la siguiente (con algunos ejemplo
   * Tiendas y mercados ecológicos: 
     EcoMercado de Granada https://www.facebook.com/Ecomercadodegranada/
     https://ecomercadogranada.org/
+  * Valle y Vega, asociación parar producción y comercialización Km 0 de alimentación ecológica en provincia de Granada. https://valleyvega.org/ 
 
  
 ### DIU2 - Gastronomía de degustación
