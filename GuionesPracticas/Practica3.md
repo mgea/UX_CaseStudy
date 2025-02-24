@@ -26,14 +26,13 @@ En esta vamos a analizar el uso de herramientas para el diseño del IU en modo M
 
 ## Descripción de la práctica:
 
-**1. [MOODBOARD] Diseño visual** . Definiremos una guía de estilos visual 
+### 1. [MOODBOARD] Diseño visual . Definiremos una guía de estilos visual 
 
 
-	Referencia lectura: Design Mood. 7 Motives to Create Mood Boards [https://uxplanet.org/design-mood-7-motives-to-create-mood-boards-b81ae36e399f](https://uxplanet.org/design-mood-7-motives-to-create-mood-boards-b81ae36e399f)
+Referencia lectura: [Design Mood. 7 Motives to Create Mood Boards](https://uxplanet.org/design-mood-7-motives-to-create-mood-boards-b81ae36e399f)
 	
-	[https://uxplanet.org/creating-better-moodboards-for-ux-projects-381d4d6daf70](https://uxplanet.org/creating-better-moodboards-for-ux-projects-381d4d6daf70) 
 
-Se pueden usar herramientas como Milanote ([http://www.milanote.com/](http://www.milanote.com/)) o Paddlet ([https://padlet.com](https://padlet.com)) para crear un lienzo que contiene: imágenes / colores / fuentes ( iconos / logotipos y estilos a aplicar a tu diseño. Usar herramienta como Paletton se podrá escoger la paleta de colores ([http://www.paletton.com/](http://www.paletton.com/))         
+Se pueden usar herramientas como [Milanote](http://www.milanote.com/), [Miro](https://miro.com/) o [Excalidraw](https://excalidraw.com/) para crear un lienzo que contiene: imágenes / colores / fuentes ( iconos / logotipos y estilos a aplicar a tu diseño. Usar herramienta como Paletton se podrá escoger la paleta de colores ([http://www.paletton.com/](http://www.paletton.com/))         
 
 Fonts (iconos). [http://fontawesome.io/](http://fontawesome.io/) 
 
