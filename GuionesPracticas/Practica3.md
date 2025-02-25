@@ -125,4 +125,4 @@ La documentación se AÑADE al repositorio y se sube una copia de respaldo a PRA
 El fichero se llamará {nombre_equipo}_P3, se debe además publicar en GITHUB los resultados.
 
   
-En [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame)) se pueden comprobar la publicación algunos Case Study de otros años.
+En [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) se pueden comprobar la publicación algunos Case Study de otros años.
