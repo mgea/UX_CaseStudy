@@ -75,7 +75,7 @@ Debemos organizar las dos versiones con documentación para el usuario de lo que
 
 <br>
 
-### 2.1. [Método: Eye tracking]
+### 2.2. [Método: Eye tracking]
 
 Técnicas de benchmarking para evaluar si están bien diseñadas las páginas. Para ello, usaremos [Gaze Recorder](https://gazerecorder.com/) (o similar) para crear el experimento que consistirá en introducir las imágenes (del prototipo) a evaluar, reclutar los usuarios y realizar la prueba de in situ o remota (se puede enviar link para hacerla sin supervisión). Se deben dar unas mínimas instrucciones al usuario de lo que debe hacer en cada página/imagen. Pueden ser tareas supervisadas de atención (por ejemplo: imagen 1 identifica cómo hacer una reserva, dónde está ubicado el local, etc.) o bien de exploración (p.e. mira la imagen/web y concéntrate en lo que más te llama la atención). Identificar al menos UN áreas de interés (AOI) por boceto que deben reconocerse por el usuario. Se aconseja dar un tiempo entre 4-6” por cada imagen
 
@@ -90,7 +90,7 @@ Gaze Recorder está **limitado a 4 usuarios**. Podemos hacer 2 test si aplicamos
   
 <br>
 
-### 2.2. [Método SUS QUESTIONNAIRE]
+### 2.3. [Método SUS QUESTIONNAIRE]
 
 **System Usability Scale Test** (SUS). Cada usuario completará el cuestionario SUS para la aplicación asignada. Es un test de percepción que no funciona como cualquier otro cuestionario. Siga las instrucciones para el cálculo del SUS score y comente en el informe la  preferencia de A sobre B o viceversa.
 
