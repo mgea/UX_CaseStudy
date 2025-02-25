@@ -54,8 +54,8 @@ El moodboard debe incluir al menos: 
 Diseñar página web de Onboarding** del proyecto (ya con el estilo de  diseño visual seleccionado. 
 
 Recursos: 
-* [https://uxdesign.cc/how-to-craft-an-effective-landing-page-a-brief-case-study-7c592ba4b967](https://uxdesign.cc/how-to-craft-an-effective-landing-page-a-brief-case-study-7c592ba4b967)
-* [https://uxplanet.org/the-ux-behind-designing-landing-pages-that-convert-b302ef745c74](https://uxplanet.org/the-ux-behind-designing-landing-pages-that-convert-b302ef745c74)
+* [UX Case Study: Crafting an Impactful Landing Page](https://medium.com/design-bootcamp/ux-case-study-crafting-an-impactful-landing-page-71459b082b65)
+* [The UX behind designing landing pages that convert](https://uxplanet.org/the-ux-behind-designing-landing-pages-that-convert-b302ef745c74)
 
 
 La “página de aterrizaje” es un tipo de página promocional (de un solo boceto) que incluye: 
@@ -68,13 +68,13 @@ La “página de aterrizaje” es un tipo de página promocional (de un solo boc
   <br>
 
 
-**3. [GUIDELINES]** Organizar elementos de diseño: Patrones IU y Guidelines  a aplicar para el diseño. Referencia de patrones: Google Material design [https://m3.material.io/](https://m3.material.io/) 
+### 3. [GUIDELINES]
+
+Organizar elementos de diseño: Patrones IU y Guidelines  a aplicar para el diseño. Referencia de patrones: Google Material design [https://m3.material.io/](https://m3.material.io/) 
 
 Plugin para FIGMA: 
 * [https://www.figma.com/community/file/1035203688168086460/material-3-design-kit](https://www.figma.com/community/file/1035203688168086460/material-3-design-kit
 * [https://www.uxpin.com/studio/ebooks/web-ui-design-patterns-2016-volume-1/](https://www.uxpin.com/studio/ebooks/web-ui-design-patterns-2016-volume-1/). 
-
-  
 
 - Deberá contener al menos los siguientes patrones de diseño: Onboarding, Menu (navBar adaptada a móvil), Hero image + Carousel, Search, Wizards (explain process), Article List 5-7 Cards items, Item details + actions, Reserva, Form Input, shopping cart , about 
 
@@ -82,12 +82,14 @@ Podría incluir: Event Calendar (disponibilidad),  tags/etiquetas /categorías,
 
 <br>
 
-**4. [LAYOUT HI-FI]** Realizar el layout adaptado a dispositivo móvil: 
+## 4. [LAYOUT HI-FI]
 
-Se deberían usar los componentes de figma para simular los comportamientos de animación y transiciones (en barra de menú, estados de botones…) Consejos:  [https://uxdesign.cc/10-figma-best-practices-to-10x-your-workflow-76d6336daf2a](https://uxdesign.cc/10-figma-best-practices-to-10x-your-workflow-76d6336daf2a) 
+Realizar el layout adaptado a dispositivo móvil: 
+
+Se deberían usar los componentes de figma para simular los comportamientos de animación y transiciones (en barra de menú, estados de botones…) 
+Consejos:  [https://uxdesign.cc/10-figma-best-practices-to-10x-your-workflow-76d6336daf2a](https://uxdesign.cc/10-figma-best-practices-to-10x-your-workflow-76d6336daf2a) 
 
   
-
 Utilizar patrones de diseño y guidelines de Material UIDesign (Figma)  [https://www.figma.com/community/file/880534892514982400](https://www.figma.com/community/file/880534892514982400)
 
 Lista de componentes en Material 3: [https://m3.material.io/components](https://m3.material.io/components)
@@ -95,31 +97,31 @@ Lista de componentes en Material 3: [https://m3.material.io/components](https://
 
 <br>
 
-**5. [PUBLISH] Publicar tu case Study**. Publica los resultados de práctica en una página Web. Se recomienda usar para ello el repositorio Github https://github.com/mgea/UX_CaseStudy. Adapta el fichero readme.md de la página principal de tu repositorio DIU en GitHub para que tenga una estructura e información como has descubierto en MuseMap (con los distintos apartados recolectados en tu práctica).  Sube también a espacio común de FIGMA 
+### 5. [PUBLISH] Publicar tu case Study
+
+Publica los resultados de práctica en una página Web. Se recomienda usar para ello el repositorio Github https://github.com/mgea/UX_CaseStudy. 
+
+Adapta el fichero readme.md de la página principal de tu repositorio DIU en GitHub para que tenga una estructura e información como has descubierto en MuseMap (con los distintos apartados recolectados en tu práctica). 
+
+Sube también a espacio común de FIGMA 
 
   
 ## DOCUMENTACIÓN A ENTREGAR
 
   
-
-Se debe entregar el proyecto en un fichero comprimido ZIP. 
+La documentación se AÑADE al repositorio y se sube una copia de respaldo a PRADO los siguientes documentos:
 
 - Datos identificativos  del equipo
 - Entregables de la práctica: 
 
-1. Diseño Visual (15%) 
+* Diseño Visual (15%) 
+* Landing Page (15%) 
+* Patrones y guidelines utilizados (10%)
+* Layout+Simulación (50%).
+* Case Study (Publishing) (10%)
     
-2. Landing Page (15%) 
-    
-3. Patrones y guidelines utilizados (10%)
-    
-4. Layout+Simulación (50%).
-    
-5. Case Study (Publishing) (10%)
-    
-
 
 El fichero se llamará {nombre_equipo}_P3, se debe además publicar en GITHUB los resultados.
 
   
-En [https://github.com/mgea/UX_CaseStudy](https://github.com/mgea/UX_CaseStudy) se pueden analizar la publicación algunos Case Study de otros años.
+En [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame)) se pueden comprobar la publicación algunos Case Study de otros años.
