@@ -13,27 +13,26 @@ Nº Sesiones: 3
 
 El  **Diseño Centrado en el Usuario** sitúa a la persona (el usuario) como eje principal del proceso de diseño en lugar del producto (el objeto: el sistema informático). El objetivo es que el producto se adapte a las necesidades reales de la persona. Es por tanto muy importante conocer cuál será el usuario, sus intenciones y las tareas que va a realizar. Para ello nos centraremos en las primeras fases del análisis, observación del contexto, y diseño preliminar (organización y estructuración) en un boceto (Lo-Fi). 
 
-  
+<br>  
 
 ## Planteamiento:
 
 Partiendo de la experiencia adquirida con las aplicaciones de la Práctica 1, vamos realizar una **NUEVA PROPUESTA DE VALOR** (o de rediseño) basado en la idea de **COMERCIO & SOSTENIBILIDAD**. Sobre esa premisa podría tener diferentes estrategias para captar y fidelizar socios/clientes. Buscar ejemplos que sirvan de inspiración. 
 
 
-  
+<br>
 
 ## Descripción de la práctica:
 
 
 Para ello, aplicaremos las conclusiones de la práctica anterior (personas ficticias previas, experiencias negativas de uso, elementos de usabilidad débiles) a la nueva propuesta de servicio que deberá quedar debidamente documentada en esta práctica.
 
-### IMPORTANTE: 
-       A continuación se proponen diferentes herramientas a modo de toolkit
-       Se deben escoger al menos 5 de ellas que se adapten mejor para el caso seleccionado + Prototipo 
-      
-> 
+### IMPORTANTE: Elección de toolkit 
+* A continuación se proponen diferentes herramientas a modo de toolkit
+* Se deben **escoger al menos 5 herramientas**  que se adapten mejor para el caso seleccionado incluyendo el Prototipo 
 
 
+<br>
   
 ### 1. [INSPIRACIÓN:CASE STUDY]
 
