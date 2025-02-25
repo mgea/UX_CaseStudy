@@ -32,34 +32,39 @@ Miembros
 
 # Proceso de Diseño 
 
+<br>
+
 ## Paso 1. UX User & Desk Research & Analisis 
 
 
 ### 1.a User Reseach Plan
+![Método UX](img/Competitive.png) 
 
-![Método UX](img/Competitive.png) **
 
 >>> Describe el plan de User Research (cómo se planteas)  
+<br>
 
-![Método UX](img/Competitive.png) 1.b Competitive Analysis
------
+
+### 1.b Competitive Analysis
+![Método UX](img/Competitive.png) 
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
 
 ### 1.c Persona
------
 ![Método UX](img/Persona.png) 
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
 
-![Método UX](img/JourneyMap.png) 1.d User Journey Map
-----
 
+### 1.d User Journey Map
+![Método UX](img/JourneyMap.png) 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
 
-![Método UX](img/usabilityReview.png) 1.e Usability Review
-----
+### 1.e Usability Review
+![Método UX](img/usabilityReview.png) 
+
+
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
@@ -67,12 +72,14 @@ Miembros
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 
+
+<br>
+
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-----
-
+### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+![Método UX](img/feedback-capture-grid.png) 
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
@@ -88,20 +95,19 @@ Miembros
 >>> (150-200 caracteres)
 
 
+### 2.b ScopeCanvas
+![Método UX](img/ScopeCanvas.png) 
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
-----
 >>> Propuesta de valor 
 
-![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
------
+### 2.b User Flow (task) analysis 
+![Método UX](img/Sitemap.png) 
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
-----
-
+### 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 
 
 >>> Identificar términos para diálogo con usuario  
 
@@ -110,95 +116,63 @@ Término | Significado
   Login¿?  | acceder a plataforma
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
------
+### 2.d Wireframes
+![Método UX](img/Wireframes.png) 
+
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
+<br> 
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
+>> Breve descripción del Caso de estudio y pasos
 
-![Método UX](img/moodboard.png) 3.a Moodboard
------
 
+### 3.a Moodboard
+![Método UX](img/moodboard.png) 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
-----
-
+### 3.b Landing Page
+![Método UX](img/landing-page.png)  
 
 >>> Plantear Landing Page 
 
-![Método UX](img/guidelines.png) 3.c Guidelines
-----
+### 3.c Guidelines
+![Método UX](img/guidelines.png) 
+
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
-![Método UX](img/mockup.png)  3.d Mockup
-----
+### 3.d Mockup
+![Método UX](img/mockup.png)  
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
+### 3.e ¿My UX-Case Study?
+![Método UX](img/caseStudy.png) 
 
 
->>> Publicar my Case Study en Github..
+>>> Publicar my Case Study en Github.. SE PUEDE AÑADIR UN PEQUEÑO VIDEO/GIF para impresión de cómo quedaría. 
 >>> Documente y resuma el diseño de su producto
 
-
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
+<br> 
 
 
 
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
+## Paso 4. Pruebas de Evaluación 
 
 
-
-## Paso 4. Evaluación 
-
-
-![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
-
+### 4.a Reclutamineto usuarios 
 
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+>>> Tabla y asignación de personas a pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
@@ -207,6 +181,19 @@ Resultados y valoración
 | User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
 | User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+
+
+### 4.b Diseño pruebas usabilidad
+
+Planificación de pruebas a desarrollar 
+
+
+
+
+### 4.b User Testing
+![Método UX](img/usability-testing.png) 
+
+
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
@@ -240,6 +227,39 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >> con los resultados del A/B testing, de eye tracking y del usability report:
 >>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
 
+
+
+
+
+
+## Paso 5. Exportación y Documentación
+
+Exportación a HTML/Flutter
+-----
+
+![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
+
+>>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+
+Diseño del experimento 
+----
+
+>> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
+>> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+
+
+![experimento](img/experimentoET.png)  
+>> cambiar img por tu diseño de experimento  
+
+>> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
+
+Resultados y valoración 
+-----
+
+
+
+>> Cambiar por tus resultados
+![Resultado](img/resultadoET.png)  
 
 
 
