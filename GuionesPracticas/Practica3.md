@@ -82,7 +82,7 @@ Podría incluir: Event Calendar (disponibilidad),  tags/etiquetas /categorías,
 
 <br>
 
-## 4. [LAYOUT HI-FI]
+### 4. [LAYOUT HI-FI]
 
 Realizar el layout adaptado a dispositivo móvil: 
 
