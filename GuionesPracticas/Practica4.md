@@ -1,5 +1,5 @@
 
-## PRÁCTICA 4: EVALUACIÓN A/B Testing
+## PRÁCTICA 4: EVALUACION. Prubebas de Usabilidad y Testing
 
 Diseño Interfaces de Usuario 
 
@@ -9,9 +9,14 @@ Nº Sesiones: 2   
 
 ## Objetivo:
 
-  
-El objetivo de esta práctica es evaluar la usabilidad del prototipo mediante combinación de dos técnicas: A/B test y el cuestionario SUS (System Usability Scale). Esto permitirá evaluar el rendimiento comparado, usando dos alternativas de diseño que además se utilizará como método de co-evaluación de las prácticas de clase. Es decir, la técnica A/B testing se puede emplear para medir dos versiones de un mismo prototipo, o dos prototipos para un producto muy similar. El cuestionario SUS es el método más utilizado para medir la percepción subjetiva de usabilidad con un enfoque basado en aspectos emocionales (sensaciones). Usaremos el resultado de SUS (una etiqueta y un número entre 0 y 100) como base del A/B testing, si bien podría usarse cualquier otra métrica para realizar la comparativa.
 
+El objetivo es evaluar el prototipo con **usuarios reales** apicando técnicas que nos permitan indagar sobre la experiencia sobre el producto diseñado y posible mejoras. 
+
+Para ello, **usaremos  herramientas que se usan habitualmente en el UX Research** que son imprescindibles para investigación y obtener la información adecuada sobre los usuarios, su contexto y su comportamiento para poder diseñar productos que se ajusten a sus necesidades reales. Se trata de una herramienta imprescindible para conocer mejor al usuario, como la técnica **A/B testing** se puede emplear para medir dos versiones de un mismo prototipo, o dos prototipos para un producto muy similar. Combinaremos con otras técnicas como cuestionario **SUS (System Usability Scale)** o **Eye Tracking**. 
+
+Usaremo esta estrategia de **reclutación de usuarios** donde incluiremos a otros grupos de clase como **método de co-evaluación de las prácticas**. 
+
+También aprenderemos a realizar un **informe de usabildad (usability report)** con las conclusiones más relevantes obtenidas en esta evaluación. Para ello, usaremos herramientas profesionales de investigación y desarrollo de informes de usabilidad combinando diferentes técnicas, como es Maze (https://maze.co/) 
 
 
 ## Planteamiento:
@@ -32,35 +37,48 @@ Es muy importante que se suba el fichero al repositorio de DIU (CARPETA P4)  de
 ## Descripción de la práctica:
 
   
-
 Se realizará un estudio PRÁCTICO del interfaz de usuario en base a un grupo de usuarios. Para ello, esta práctica se divide en los siguientes puntos:
 
-**1. [ASSIGNMENT]** Asignación de caso B. En clase de prácticas se asignará la práctica para co-evaluar. Esta práctica estará accesible desde un enlace Web (fork realizado a [https://github.com/mgea/D](https://github.com/mgea/DIU19)IU), Los repositorios están en [https://github.com/mgea/DIU/blob/master/P4/proyectos.md](https://github.com/mgea/DIU/blob/master/P4/proyectos.md) y las asignaciones en[https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)   de modo que se podrá evaluar de forma online.
+### 1. [Reclutamiento participantes estudio]
 
-  
-**2. [ROLE PLAY]** Usando personas ficticias.  Se escogen 4 personas de forma aleatoria aplicando role playing como evaluadores del prototipo A (2 valoraciones) y del prototipo asignado B (2 usuarios).  Posteriormente encuentre un usuario que se ajuste a dicho rol (un familiar, un compañero, o usted mismo simulando las necesidades o expectativas de dicha persona).
-
-  
-
-|   |   |   |
-|---|---|---|
-|![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXc1R9hZrERSGFFRsQpCZ5szEUmQAMZrtSrajJybDr6yoOxOcJW67miMrEez3rMd8TxIFoXMzQ-cX9MYojd4JEVwS0CrpjaEQ5HgZPaM4NZQYYGz-AOt28hrqVC3tRxI4fwSqWmxqcTdnXhdjMbD-YzPanN6?key=wYRmjAVkiVNxrzJY5Mv_Vg)|![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXfCxjQLvwREM0uqLN0YOzUN236bn9gOiqLl_JYGec3LlvIa1lIHY-lQ_vPGfn1idVxPcXUUB_OSo1LfqOeGSsW-bK1URfFzv4QO8L8iEPvtMFTLWwZs6GAbx8MfVheDC6Xkxkxqufae2yu1KEAISJd0cGI?key=wYRmjAVkiVNxrzJY5Mv_Vg)|![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXduU7NkX9cK3jaIXmuGdfdUa_sADmp5KB7xjIndrONVL0x-ArpNReayatWm7woMc0fizUKe9r7BPzaC0mem-9wMry9_l57vhTNG2QdcS9oH4ZjKO1SwNyZSWfGf-oyxxxK4l36Lqq6q118HAM2faSIZsNqY?key=wYRmjAVkiVNxrzJY5Mv_Vg)|
-
-  
-Tras la tirada de dados, determine las necesidades que el usuario #id debe tener y que simule el rol marcado por los dados. Describa dichas necesidades con respecto a esa APP (caso A/B). Finalmente, resume dichos datos en una tabla: 
-
-  
+* Lo primero que debemos hacer es **reclutar los usuarios** con los que vamos a evaluar el proyecto. Para ello **usaremos al menos un grupo de clase ** para evaluación mediante A/B testing. 
+* En clase de prácticas se organizará la asignación de caso B para co-evaluación, y se publicará en la carpeta de los guiones de prácticas. 
+* Además deberemos completar con al menos 3-5 usuarios más (reales) que pueden ser familiares, amigos, personas aleatorias, y a las que se le aplicará las pruebas que realizaremos en siguiente punto.
+* Se deberá tener identificado los usarios con una tabla descriptiva demográfica de los mismos y sus características, como por ejemplo: 
 
 |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
 |#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
-||||[Bajo, <br><br>Intermedio,<br><br>Avanzado]|Windows/<br><br>Mac/<br><br>Linux/<br><br>Phone/App|Resultado de la tirada de datos: Tipo, Actividad, Emoción|[A \| B]||
+||||[Bajo, <br>Intermedio<br>Avanzado]|Plataforma<br> Tipo, Actividad, Emoción|[A \| B]||
 
-  **3. [eye tracking]** Técnicas de benchmarking para evaluar si están bien diseñadas las páginas. Para ello, usaremos Gaze Recorder (o similar) para crear el experimento que consistirá en introducir las imágenes (del prototipo) a evaluar, reclutar los usuarios y realizar la prueba de in situ o remota (se puede enviar link para hacerla sin supervisión). Se deben dar unas mínimas instrucciones al usuario de lo que debe hacer en cada página/imagen. Pueden ser tareas supervisadas de atención (por ejemplo: imagen 1 identifica cómo hacer una reserva, dónde está ubicado el local, etc.) o bien de exploración (p.e. mira la imagen/web y concéntrate en lo que más te llama la atención). Identificar al menos UN áreas de interés (AOI) por boceto que deben reconocerse por el usuario. Se aconseja dar un tiempo entre 4-6” por cada imagen
+<br>
 
-  
+### 2. [DISEÑAR PRUEBAS] 
 
-Haremos 2 test por cada caso y analizaremos los heat map en busca de diferencias significativas entre cómo se había diseñado la tarea y los mapas de calor de los sujetos. También se debe analizar los puntos de interés (AOI) que no han sido observados. Una forma sencilla de realizar este análisis es añadir un usuario experto (del equipo de diseño) y 2 usuarios objetivo, de modo que podamos comprobar diferencias entre ellos.  
+Vamos a usar herramienta de apoyo MAZE (https://maze.co/) (gratuita con limitaciones de pruebas para un máximo de 3 proyectos) para diseñar el experimento con usuarios mediante difernetes pruebas, en las que se pueden incluir cuestionarios, test, enlaces a diseños, etc. Se dispone de una multitud de posibilidades de las que se debe **elegir un máximo de 7 tipos de pruebas**. 
+
+* [Primeros pasos usando Maze como herramienta de testeo remoto](https://medium.com/@isi.escobar/primeros-pasos-usando-maze-como-herramienta-de-testeo-remoto-efd8d2daf31a)
+* Plantillas disponibles en Maze: https://maze.co/templates/ 
+
+* entre las pruebas que se incluyan se recomienda A/B testing, SUS, eye tracking, ... 
+
+<br>
+
+
+### 2.1. [Método: A/B testing]
+
+Debemos organizar las dos versiones con documentación para el usuario de lo que debe realizar. Puede ser supervisada (se le da apoyo para hacer tareas) o no supervisada. En ambos casos, habría que darle algunas instrucciones de qué queremos que haga (recorrido libre/dirigido, tareas abiertas/forzadas). Se recomienda que la mitad de los usarios evalúen el caso A y la otra mitad el caso B. Una vez finalizada la evaluación, deberán responder a algú cuestionario que se proponga en el punto anterior (recomendable al menos SUS). 
+
+* [A/B Testing 101](https://www.nngroup.com/articles/ab-testing/)
+* [Las claves para realizar un test A/B](https://blog.bismart.com/kale/test-ab-8-pasos)
+
+<br>
+
+### 2.1. [Método: Eye tracking]
+
+Técnicas de benchmarking para evaluar si están bien diseñadas las páginas. Para ello, usaremos [Gaze Recorder](https://gazerecorder.com/) (o similar) para crear el experimento que consistirá en introducir las imágenes (del prototipo) a evaluar, reclutar los usuarios y realizar la prueba de in situ o remota (se puede enviar link para hacerla sin supervisión). Se deben dar unas mínimas instrucciones al usuario de lo que debe hacer en cada página/imagen. Pueden ser tareas supervisadas de atención (por ejemplo: imagen 1 identifica cómo hacer una reserva, dónde está ubicado el local, etc.) o bien de exploración (p.e. mira la imagen/web y concéntrate en lo que más te llama la atención). Identificar al menos UN áreas de interés (AOI) por boceto que deben reconocerse por el usuario. Se aconseja dar un tiempo entre 4-6” por cada imagen
+
+Gaze Recorder está **limitado a 4 usuarios**. Podemos hacer 2 test si aplicamos A/B testing y analizaremos los heat map en busca de diferencias significativas entre cómo se había diseñado la tarea y los mapas de calor de los sujetos. También se debe analizar los puntos de interés (AOI) que no han sido observados. Una forma sencilla de realizar este análisis es añadir un usuario experto (del equipo de diseño) y 2 usuarios objetivo, de modo que podamos comprobar diferencias entre ellos.  
 
   
   
@@ -68,26 +86,18 @@ Haremos 2 test por cada caso y analizaremos los heat map en busca de diferencias
 |   |   |
 |---|---|
 |![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXe38xXenEIMF9vqrU_BR8udArONhKqRUVDs0erKeNbJfrV6XQLZ5d-0xtMU0c5AGnqy786rtuZGNA__LhkbtAPj6ZCdyw-wRkiHANBakSvAWIidjm4sfeiQYISVv6oZROPI0dYD7lSGs41r39OmIQ6wrQHe?key=wYRmjAVkiVNxrzJY5Mv_Vg)<br><br>heatmap|![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXcTQiIKu7qtNrhNzEUy9Sr4EwigImKGxumgXz-svYeMsQ1rDILkpe9lkxIR_JDxwXK0tvUfrmAAjme76VCGPdUcpLbD6fdu5bUG4fpYIVtbmWpHLewIXDebO0byizjHkxRn0eET03esRS1ti1RFxZ3mBfn_?key=wYRmjAVkiVNxrzJY5Mv_Vg)<br><br>  <br><br>Áreas de Interés (AoI)|
-
   
-  
-  
+<br>
 
-**4. [SUS QUESTIONNAIRE]** System Usability Scale Test (SUS). Cada usuario completará el cuestionario SUS para la aplicación asignada. Es un test de percepción que no funciona como cualquier otro cuestionario. Siga las instrucciones para el cálculo del SUS score y comente en el informe la  preferencia de A sobre B o viceversa.
+### 2.2. [Método SUS QUESTIONNAIRE]
 
-  
+**System Usability Scale Test** (SUS). Cada usuario completará el cuestionario SUS para la aplicación asignada. Es un test de percepción que no funciona como cualquier otro cuestionario. Siga las instrucciones para el cálculo del SUS score y comente en el informe la  preferencia de A sobre B o viceversa.
 
-Cómo usar la escala SUS e interpretar los resultados (pasar a escala linguística):
-
-[http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/](http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-
-  
+  Cómo usar la escala SUS e interpretar los resultados (pasar a escala linguística): [http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/](http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 
 En el material complementario de la asignatura se encuentra el Excel que calcula SUS score a partir de las siguientes preguntas:
 
   
-  
-
 |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
 ||PREGUNTAS|1|2|3|4|5|
@@ -111,52 +121,41 @@ Tambien disponible en PDF: [http://www.measuringux.com/sus/SUS.pdf](http://www.m
 En PRADO se encuentra además un EXCEL para los cálculos de 4 usuarios.  [Cuestionario SUS DIU](https://pradogrado.ugr.es/moodle/mod/resource/view.php?id=165778) 
 
   
+<br>  
   
+### 3. [USABILITY REPORT]
+
+Utilizando Maze (o de forma manual) realizaremos un pequeño informe de usabilidad de nuestra aplicación. 
+
+También se creará un informe con los datos obtenidos para la aplicación B del A/B testing y así como recomendaciones de mejoras. 
+Este año vamos a SIMPLIFICAR y se puede hacer el informe con la plantilla en MarkDown que podeis encontrar en: [Usability-report-template](https://github.com/mgea/UX_CaseStudy/blob/master/P4/Usability-Report-template.md)
   
-**5. [USABILITY REPORT]** Evaluación de usabilidad de la aplicación B. Se creará un mini-informe con los datos obtenidos para la aplicación B del A/B testing y así como recomendaciones de mejoras. Detecta, cataloga y recomienda solución a cada problema de usabilidad que detectes, siguiendo por el ejemplo la siguiente estructura:
-
- ![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXcFjC-zFxUibLv6UIptOr0RMHt3QaPoGvnsFvSUEjSd8cfC0tdsnjx9hG96OUPaeEozpxfzJFBm2qGmFK1U7B3eGGz97p95bz7vwQa9dJvL9s_14lixE0HGbtoNlAhdp9BSiH9SX2kg1gg-s5m6CnixCvUZ?key=wYRmjAVkiVNxrzJY5Mv_Vg)
-
-  
-
-Este año vamos a SIMPLIFICAR y se puede hacer el informe con la plantilla en MarkDown que podeis encontrar en: [https://github.com/mgea/DIU/blob/master/P4/Usability-Report24.md](https://github.com/mgea/DIU/blob/master/P4/Usability-Report24.md) 
-
-  
-
-     Más información: 
+Más información: 
 
 - 25 puntos clave de la usabilidad [https://boluda.com/tutorial/25-puntos-clave-de-la-usabilidad/](https://boluda.com/tutorial/25-puntos-clave-de-la-usabilidad/) 
     
 
   
 
-
+<br>
 
 ## DOCUMENTACIÓN A ENTREGAR
 
-  
-Se debe entregar el proyecto en un fichero comprimido ZIP. 
-
+La documentación se AÑADE al repositorio y se sube una copia de respaldo a PRADO los siguientes documentos:
   
 
 - Datos identificativos  del equipo
 - Entregables de la práctica: 
-1. Usuarios ficticios + propuesta del proyecto de experimento  
-2. Resultados del Eye Tracking 
-3. Cuestionario SUS  + Conclusiones A/B test 
-4. Usability Report (caso B) 
-    
-Práctica Obligatoria: 1 punto (máximo) sobre la nota de prácticas. Valoración: Aplicación de role playing para 4 usuarios de A/B testing (25%), cálculo de SUS (25%), informe de eye tracking (25%) e informe de usabilidad de práctica B (25%).
 
-  
+1. Reclutamiento de Usuarios + propuesta del proyecto de experimento A/B  (25%)
+2. Propuesta de estudio de usabilidad (25%)
+3. Resultados del Eye Tracking (25%)
+6. Usability Report + conclusiones SUS (25%) 
+    
 
 El fichero se llamará {nombre_equipo}_P4, donde grupo: {DIU1, DIU2, DIU3}  se debe además publicar en GITHUB los resultados. 
 
-  
-
 El informe de usabilidad de la práctica B: se requiere que este archivo esté público en vuestro Github. Este archivo utilizará el siguiente estilo de nombrado: 
-
-  
 
 P4_UsabReport_{practB}_doneby_{grupo}_{nombre_equipo}
 
