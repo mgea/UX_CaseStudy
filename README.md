@@ -206,15 +206,7 @@ Término | Significado
 
 
 
-### 4.c A/B Testing
-![Método UX](img/ABtesting.png) 
------
-
->>> Los resultados de un A/B testing con 3 pruebas para 2 casos daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique qué se dispone a realizar.
-
-
-
-### 4.d Cuestionario SUS
+### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
@@ -224,11 +216,17 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
 
+### 4.d A/B Testing
+![Método UX](img/ABtesting.png) 
+-----
+
+>>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)) 
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra  similar
+>>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
 
 ![experimento](img/experimentoET.png)  
