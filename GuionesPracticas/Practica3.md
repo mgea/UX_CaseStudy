@@ -104,8 +104,9 @@ Publica los resultados de práctica en una página Web. Se recomienda usar para 
 Adapta el fichero readme.md de la página principal de tu repositorio DIU en GitHub para que tenga una estructura e información como has descubierto en MuseMap (con los distintos apartados recolectados en tu práctica). 
 
 Sube también a espacio común de FIGMA 
+ 
+<br> 
 
-  
 ## DOCUMENTACIÓN A ENTREGAR
 
   
