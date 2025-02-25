@@ -149,7 +149,7 @@ Término | Significado
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
-### 3.d Mockup
+### 3.d Mockup
 ![Método UX](img/mockup.png)  
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
@@ -184,20 +184,22 @@ Término | Significado
 
 
 ### 4.b Diseño pruebas usabilidad
-
+![Método UX](img/usability-testing.png) 
 Planificación de pruebas a desarrollar 
 
 
 
 
-### 4.b User Testing
-![Método UX](img/usability-testing.png) 
+### 4.b.1 A/B Testing
+![Método UX](img/ABtesting.png) 
 
 
 
 
-![Método UX](img/Survey.png) 4.c Cuestionario SUS
-----
+
+### 4.b2 Cuestionario SUS
+![Método UX](img/Survey.png) 
+
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
@@ -206,8 +208,16 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
-![Método UX](img/usability-report.png) 4.d Usability Report
-----
+### 4.b.3. Eye Tracking 
+![Método UX](img/eye-tracking.png))
+
+
+![experimento](img/experimentoET.png)  
+>> cambiar img por tu diseño de experimento  
+
+### 4.c Usability Report
+![Método UX](img/usability-report.png) 
+
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
 
@@ -218,48 +228,13 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
-
-5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
-----
+## Paso 5. Exportación y Documentación 
 
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+### 5.a Exportación a HTML/React
 
 
-
-
-
-
-## Paso 5. Exportación y Documentación
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
+### 5.b Documentación con Storybook
 
 
 
