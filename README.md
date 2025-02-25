@@ -223,16 +223,16 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)) 
+![Método UX](img/eye-tracking.png)
 ----
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
 
 ![experimento](img/experimentoET.png)  
->>> cambiar esta img por tu diseño de experimento, recurso deberá estar subido a la carpeta P4/ 
+>>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor ( crédito > 0 para que funcione) 
+>>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
 
 ### 4.f Usability Report de B
