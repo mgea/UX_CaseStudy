@@ -160,26 +160,20 @@ No olvides incluir la información del repositorio asociado al proyecto con la i
 
 ## Documentación a entregar
 
-  
-En un único ZIP, se debe incluir los siguientes documentos:
+
+La **documentación se AÑADE al repositorio** y se sube una copia de respaldo a PRADO  los siguientes documentos:
 
 - Conjunto de Imágenes o pdf con el boceto de la propuesta. Teniendo en cuenta en el nombre de los archivos la codificación empleada
 - Documentación de la propuesta (PDF).
 - Datos identificativos  del equipo (nombre equipo, autores, github) 
-    
-- Entregables de la práctica: 
-    
-1. Ideación: Malla Receptora/mapa empatía/POV e Insights   (15%)
-    
-2. Propuesta de valor (ScopeCanvas) 15%
-    
-3. Análisis de Tareas (10%)
-    
-4. Mapa de sitio y etiquetado (10%) 
-    
-5. Bocetos (50%)
-    
 
+
+Valoración de  la práctica: 
+* Ideación: Malla Receptora/mapa empatía/POV e Insights   (15%)
+* Propuesta de valor (ScopeCanvas) 15%
+* Análisis de Tareas (10%)
+* Mapa de sitio y etiquetado (10%) 
+* Bocetos (50%)
 El fichero se llamará {nombre_equipo}_P2. Ejemplo:
 
 El Grupo llamado ‘DIU1.GRANBIZ’ del grupo de prácticas DIU1 creara fichero DIU1_GRANADABIZ_P2.ZIP
