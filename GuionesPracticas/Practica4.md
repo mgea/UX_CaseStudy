@@ -58,7 +58,8 @@ Se realizará un estudio PRÁCTICO del interfaz de usuario en base a un grupo de
 Vamos a usar herramienta de apoyo MAZE (https://maze.co/) (gratuita con limitaciones de pruebas para un máximo de 3 proyectos) para diseñar el experimento con usuarios mediante difernetes pruebas, en las que se pueden incluir cuestionarios, test, enlaces a diseños, etc. Se dispone de una multitud de posibilidades de las que se debe **elegir un máximo de 7 tipos de pruebas**. 
 
 * [Primeros pasos usando Maze como herramienta de testeo remoto](https://medium.com/@isi.escobar/primeros-pasos-usando-maze-como-herramienta-de-testeo-remoto-efd8d2daf31a)
-* Plantillas disponibles en Maze: https://maze.co/templates/ 
+* Plantillas disponibles en Maze: https://maze.co/templates/
+* Alternativa: **UXtweak** https://www.uxtweak.com/ 
 
 * entre las pruebas que se incluyan se recomienda A/B testing, SUS, eye tracking, ... 
 
