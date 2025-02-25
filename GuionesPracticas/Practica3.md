@@ -3,14 +3,14 @@
 
 Diseño Interfaces de Usuario 
 
-Nº Sesiones: 4
+Nº Sesiones: 3
 
 [<Volver Guiones Prácticas](./README.md) [alt](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/)
 
   
 ## Objetivo:
 
-Creación de un prototipo para prueba del interfaz. En esta fase, se analizarán los elementos de diseño y su organización de la información respecto a la plataforma de implantación (desktop). Aplicación de guías de estilo y patrones de diseño. Uso de librerías de desarrollo de IU (material UI) y simulación de la interacción para la evaluación de la funcionalidad. Verificar su adaptación a dispositivos móviles.
+Creación de un prototipo para prueba del interfaz. En esta fase, se analizarán los elementos de diseño y su organización de la información respecto a la plataforma de implantación (desktop). Aplicación de guías de estilo y patrones de diseño. Uso de librerías de desarrollo de IU (material UI) y **simulación de la interacción** para la evaluación de la funcionalidad. Verificar su adaptación a dispositivos móviles.
 
 
 ## Planteamiento:
@@ -26,18 +26,16 @@ En esta vamos a analizar el uso de herramientas para el diseño del IU en modo M
 
 ## Descripción de la práctica:
 
-### 1. [MOODBOARD] Diseño visual . Definiremos una guía de estilos visual 
+### 1. [MOODBOARD] Diseño visual 
 
+Definiremos una guía de estilos visual de nuestra propuesta.
 
 Referencia lectura: [Design Mood. 7 Motives to Create Mood Boards](https://uxplanet.org/design-mood-7-motives-to-create-mood-boards-b81ae36e399f)
 	
-
-Se pueden usar herramientas como [Milanote](http://www.milanote.com/), [Miro](https://miro.com/) o [Excalidraw](https://excalidraw.com/) para crear un lienzo que contiene: imágenes / colores / fuentes ( iconos / logotipos y estilos a aplicar a tu diseño. Usar herramienta como Paletton se podrá escoger la paleta de colores ([http://www.paletton.com/](http://www.paletton.com/))         
-
-Fonts (iconos). [http://fontawesome.io/](http://fontawesome.io/) 
-
-             Fonts (google) [https://fonts.google.com](https://fonts.google.com) 
-
+Se pueden usar herramientas como [Milanote](http://www.milanote.com/), [Miro](https://miro.com/) o [Excalidraw](https://excalidraw.com/) para crear un lienzo que contiene: imágenes / colores / fuentes ( iconos / logotipos y estilos a aplicar a tu diseño. Usar herramienta y plugins de Figma: 
+* Paletton se podrá escoger la paleta de colores ([http://www.paletton.com/](http://www.paletton.com/))         
+* Fonts (iconos). [http://fontawesome.io/](http://fontawesome.io/) 
+* Fonts (google) [https://fonts.google.com](https://fonts.google.com) 
 
 El moodboard debe incluir al menos: 
 
@@ -51,7 +49,9 @@ El moodboard debe incluir al menos: 
 <br>
  
 
-**2. [LANDING PAGE] Diseñar página web de Onboarding** del proyecto (ya con el estilo de  diseño visual seleccionado. 
+### 2. [LANDING PAGE] 
+
+Diseñar página web de Onboarding** del proyecto (ya con el estilo de  diseño visual seleccionado. 
 
 Recursos: 
 * [https://uxdesign.cc/how-to-craft-an-effective-landing-page-a-brief-case-study-7c592ba4b967](https://uxdesign.cc/how-to-craft-an-effective-landing-page-a-brief-case-study-7c592ba4b967)
