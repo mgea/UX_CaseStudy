@@ -226,7 +226,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Valoración personal 
 
 
-
+<br>
 
 ## Paso 5. Exportación y Documentación 
 
@@ -239,6 +239,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
+<br>
 
 ## Conclusión final / Valoración de las prácticas
 
