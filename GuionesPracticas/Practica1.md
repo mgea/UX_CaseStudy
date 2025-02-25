@@ -81,7 +81,7 @@ Evaluar los principios de usabilidad y la experiencia de usuario. Para ello, hab
 
 <br> 
 
-### 5. **[PERSONA]**
+### 5. [PERSONA]
 * Proponer dos personas ficticias que puedan ser los usuarios interesados en las actividades turísticas (http://www.uxforthemasses.com/personas/).
 * Información acerca de cómo construir Personas Ficticias: [medium-user persona](https://medium.com/service-design-bogot%C3%A1/qu%C3%A9-son-las-user-personas-y-como-aplicarlas-en-dise%C3%B1o-de-servicios-44d44584a0ef) o [diy-user-persona retrieved](https://web.archive.org/web/20160323215317/http://www.ux-lady.com/diy-user-personas/) Se puede usar https://randomuser.me para obtener imágenes/features de personas aleatorias.
 
@@ -133,7 +133,7 @@ Entregables de la práctica: Fichero FIGMA y documentos en PDF que contiene:
 * Experience Journey Map: Fichas de 2 personas y justificación (50-100 caracteres) (25%) 
 * Usability Review  + resumen de la valoración práctica (25%) 
 
-Además, estos entregables se deberán enviar a PRADO  un zip comprimido con toda la documentación asociada a esta práctica.
+Además, estos entregables se deberán enviar a PRADO  un zip comprimido con toda la documentación asociada a esta práctica (a modo de respaldo)
 
 El fichero se llamará {nombre_equipo}_P1
 Ejemplo:
