@@ -202,7 +202,7 @@ Término | Significado
 ![Método UX](img/usability-testing.png) 
 -----
 
-Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+>>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
 
 
@@ -221,7 +221,6 @@ Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará us
 >>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
 
@@ -229,11 +228,11 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/eye-tracking.png)) 
 ----
 
->>> Indica cómo diseñas experimento y reclutas usuarios. Explica la herramienta / uso de gazerecorder.com u otra herramienta similar  
+>>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra  similar
 
 
 ![experimento](img/experimentoET.png)  
->>> cambiar esta img por tu diseño de experimento, también subido a carpeta P4/ 
+>>> cambiar esta img por tu diseño de experimento, recurso deberá estar subido a la carpeta P4/ 
 
 >>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor ( crédito > 0 para que funcione) 
 
