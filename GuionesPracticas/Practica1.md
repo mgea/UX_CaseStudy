@@ -1,6 +1,6 @@
-## PRÁCTICA 1 Diseño Interfaces de Usuario 
+## PRÁCTICA 1 ANÁLISIS DEL INTERFAZ DE USUARIO. REVISIÓN DE USABILIDAD
 
-## ANÁLISIS DEL INTERFAZ DE USUARIO. REVISIÓN DE USABILIDAD
+Diseño Interfaces de Usuario 
 
 Nº Sesiones: 2:   		
 
