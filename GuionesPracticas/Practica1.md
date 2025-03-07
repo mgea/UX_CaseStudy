@@ -39,6 +39,7 @@ La temática de cada grupo de prácticas será la siguiente (con algunos ejemplo
   * Cata de vinos - La taberna de Kafka  https://www.instagram.com/latabernadekafka/
   * Talleres de comida - https://granadacooking.com/
   * La tertulia (cervezas culturales) - https://www.instagram.com/tertuliagranada/
+  * Jardín Alhambra (música, catas y talleres) - https://www.cervezasalhambra.com/es/momentos-alhambra/jardin/granada
 
 ### DIU3 - Reciclaje y artesanía (handcraft)
 
