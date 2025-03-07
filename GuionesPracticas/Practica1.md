@@ -129,7 +129,7 @@ Leer detenidamente la información que aparece en README.md y completar, para ad
 
 Entregables de la práctica: Fichero FIGMA y documentos en PDF que contiene:
 * User Research plan briefing  (10%)
-* Competitive analysis: Breve análisis de las aplicaciones asignadas y justificación de la elegida (150-300 palabras)   (15%)
+* Competitive analysis: Elección y tabla de competencia con una valoración justificada de tu caso (150-300 palabras)   (15%)
 * Persona: Fichas de 2 personas y justificación (50-100 caracteres)   (25%)
 * Experience Journey Map: Fichas de 2 personas y justificación (50-100 caracteres) (25%) 
 * Usability Review  + resumen de la valoración práctica (25%) 
