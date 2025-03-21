@@ -59,6 +59,8 @@ Vamos a replantear nuestra propuesta a partir de la experiencia adquirida, y par
 Recabamos en la malla receptora de información (**feedback capture grid**) la información obtenida de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. La técnica consiste en elaborar un cuadrante con 4 apartados: aspectos positivos actualmente existentes, críticas constructivas, preguntas de los usuarios (a partir de las personas ficticias), e ideas de mejora (a partir de la experiencia del equipo de desarrollo). La diferencia entre las preguntas de los usuarios y las ideas de mejora, es que un usuario no se plantea si se puede implementar o no la solución que propone.
 
 ![Feedback Capture Grid|250](https://www.ibm.com/design/thinking/static/feedback-grid-1-c9a38163d98099de43fa470af54ad03e.jpg)
+https://www.figma.com/templates/feedback-grid/
+
 
 
 #### 2.2. Empathy Mapping  
@@ -94,7 +96,8 @@ A continuación, vamos a identificar las tareas principales y su relevancia para
   
 Recursos: 
 - FIGMA [https://www.figma.com/community/file/830510773896272856](https://www.figma.com/community/file/830510773896272856) 
-- FlowMapp [https://www.flowmapp.com/](https://www.flowmapp.com/) (gratis para 20 elementos)
+- FIGMA Flowmap https://www.figma.com/community/file/902730840015992414 
+- FlowMapp WebApp [https://www.flowmapp.com/](https://www.flowmapp.com/) (gratis para 20 elementos)
  
 Referencias y guías: 
 
