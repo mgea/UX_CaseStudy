@@ -66,6 +66,8 @@ Evaluar los principios de usabilidad y la experiencia de usuario. Para ello, hab
 * UX Research plan: https://www.interaction-design.org/literature/topics/ux-research
 * Research Plan: https://www.nngroup.com/articles/pm-research-plan/
 
+Como tiene poca experiencia (probablemente) en esta actividad se **recomienda usar** la siguiente utilidad: **uxRecipe** disponible en https://github.com/uxrecipe/uxrecipe.github.io y que se puede hacer online en https://uxrecipe.github.io/. Nos permitirá calcular los costes y tiempo dedicado al cada entregable. Esta estimación junto a las actividades se adjuntará al final del proyecto.
+
 <br> 
 
 ### 3. [DESK RESEARCH: COMPETITOR ANALYSIS]
