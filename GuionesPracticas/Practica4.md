@@ -125,7 +125,7 @@ Tambien disponible en PDF: [http://www.measuringux.com/sus/SUS.pdf](http://www.m
 
 En PRADO se encuentra además un EXCEL para los cálculos de 4 usuarios.  [Cuestionario SUS DIU](https://pradogrado.ugr.es/moodle/mod/resource/view.php?id=165778) 
 
-También se puede usar ** SUS Calculator** - https://stuart-cunningham.github.io/sus/
+También se puede usar **SUS Calculator** - https://stuart-cunningham.github.io/sus/
   
 <br>  
   
