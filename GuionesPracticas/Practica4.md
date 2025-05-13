@@ -131,7 +131,7 @@ También se puede usar ** SUS Calculator** - https://stuart-cunningham.github.io
   
 ### 3. [USABILITY REPORT]
 
-Utilizando Maze (o de forma manual) realizaremos un pequeño informe de usabilidad de nuestra aplicación. 
+Utilizando **Maze** (o de forma manual) realizaremos un pequeño informe de usabilidad de nuestra aplicación. 
 
 También se creará un informe con los datos obtenidos para la aplicación B del A/B testing y así como recomendaciones de mejoras. 
 Este año vamos a SIMPLIFICAR y se puede hacer el informe con la plantilla en MarkDown que podeis encontrar en: [Usability-report-template](https://github.com/mgea/UX_CaseStudy/blob/master/P4/Usability-Report-template.md)
