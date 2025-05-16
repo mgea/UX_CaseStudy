@@ -52,7 +52,6 @@ Ultima Actualización: 16/Mayo/2025
 | DIU3.PalmeraFosforita               | DIU1.DEM                    |       |       |          |                       |
 | DIU3.Pizza-con-Curry                | DIU2.Ni-idea                |       |       |          |                       |
 | DIU3.TheLastDance                   | DIU2.PGal2                  |       |       |          |                       |
-| DIU2.DavidEstestev                  | DIU3.Pizza-con-Curry        |       |       |          |                       |
 |                                     |                             |       |       |          |                       |
 |                                     |                             |       |       |          |                       |
 | SUPLENTES                           | DIU2.string                 |       |       |          |                       |
@@ -82,7 +81,6 @@ Ultima Actualización: 16/Mayo/2025
 | [DIU2.AG](http://diu2.gp/)D (ex-AP) | https://github.com/pabloferugr/UX_CaseStudy                  |
 | DIU2.AP                             | https://github.com/agd03/DIU_Practicas                       |
 | [DIU2.com](http://diu2.com/)        | https://github.com/lunaanelia/DIU_UX_CaseStudy               |
-| DIU2.DavidEstestev                  | https://github.com/DavidEstevezzz/DIU1.DEM/                  |
 | DIU2.GP                             |                                                              |
 | DIU2.JCJ                            | https://github.com/vikho22/UX_CaseStudy                      |
 | DIU2.loscolegas                     | https://github.com/cgardia1409/UX_CaseStudy                  |
