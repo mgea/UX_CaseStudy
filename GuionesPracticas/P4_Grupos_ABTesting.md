@@ -24,9 +24,9 @@ Ultima Actualización: 16/Mayo/2025
 | DIU1.LasTres                        | DIU3.PalmeraFosforita       |       |       |          |                       |
 | DIU1.SMJV                           | DIU1.VNDV                   |       |       |          |                       |
 | DIU1.VNDV                           | DIU1.CaJe                   |       |       |          |                       |
-| [DIU2.AG](http://diu2.gp/)D (ex-AP) | [DIU2.com](http://DIU2.com) |       |       |          |                       |
-| DIU2.AP                             | [DIU2.GP](http://DIU2.GP)   |       |       |          |                       |
-| [DIU2.com](http://diu2.com/)        | DIU2.AP                     |       |       |          |                       |
+| DIU2.AGD                            | DIU2.com                    |       |       |          |                       |
+| DIU2.AP                             | DIU2.GP                     |       |       |          |                       |
+| DIU2.com                            | DIU2.AP                     |       |       |          |                       |
 | DIU2.GP                             | DIU1.AmbosMarcan            |       |       |          |                       |
 | DIU2.JCJ                            | DIU3.Pizza-con-Curry        |       |       |          |                       |
 | DIU2.loscolegas                     | DIU2.JCJ                    |       |       |          |                       |
@@ -47,11 +47,10 @@ Ultima Actualización: 16/Mayo/2025
 | DIU3.Maguitos                       | DIU1.SMJV                   |       |       |          |                       |
 | DIU3.Mamallema                      | DIU3.LobosHuargos           |       |       |          |                       |
 | DIU3.McQueen&Sally                  | DIU3.CLAVE                  |       |       |          |                       |
-| DIU3.Natpa                          | DIU2.AGD (ex-AP)            |       |       |          |                       |
+| DIU3.Natpa                          | DIU2.AGD                    |       |       |          |                       |
 | DIU3.Oscuros                        | DIU2.UXers                  |       |       |          |                       |
 | DIU3.PalmeraFosforita               | DIU1.DEM                    |       |       |          |                       |
 | DIU3.Pizza-con-Curry                | DIU2.Ni-idea                |       |       |          |                       |
-| DIU3.TheLastDance                   | DIU2.PGal2                  |       |       |          |                       |
 | DIU3.TheLastDance                   | DIU2.PGal2                  |       |       |          |                       |
 | DIU2.DavidEstestev                  | DIU3.Pizza-con-Curry        |       |       |          |                       |
 |                                     |                             |       |       |          |                       |
@@ -61,6 +60,8 @@ Ultima Actualización: 16/Mayo/2025
 |                                     | DIU1.JaviManuel             |       |       |          |                       |
 |                                     | DIU3.TheLastDance           |       |       |          |                       |
 |                                     | DIU1.LasTres                |       |       |          |                       |
+|                                     | DIU1.LasTres                |       |       |          |                       |
+|                                     | DIU2.AGP                    |       |       |          |                       |
 
 
 ### Enlaces grupos
