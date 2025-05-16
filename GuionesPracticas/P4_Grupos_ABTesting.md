@@ -78,9 +78,9 @@ Ultima Actualización: 16/Mayo/2025
 | DIU1.LasTres                        | https://github.com/angelamgr/UX_CaseStudy                    |
 | DIU1.SMJV                           | https://github.com/DIU1-SMJV/UX_CaseStudy                    |
 | DIU1.VNDV                           | https://github.com/VictorNievas/UX_CaseStudy                 |
-| [DIU2.AG](http://diu2.gp/)D (ex-AP) | https://github.com/pabloferugr/UX_CaseStudy                  |
+| DIU2.AG                             | https://github.com/pabloferugr/UX_CaseStudy                  |
 | DIU2.AP                             | https://github.com/agd03/DIU_Practicas                       |
-| [DIU2.com](http://diu2.com/)        | https://github.com/lunaanelia/DIU_UX_CaseStudy               |
+| DIU2.com                            | https://github.com/lunaanelia/DIU_UX_CaseStudy               |
 | DIU2.GP                             |                                                              |
 | DIU2.JCJ                            | https://github.com/vikho22/UX_CaseStudy                      |
 | DIU2.loscolegas                     | https://github.com/cgardia1409/UX_CaseStudy                  |
