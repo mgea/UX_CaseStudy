@@ -87,7 +87,7 @@ Ultima Actualización: 16/Mayo/2025
 | DIU2.Ni-idea                        | https://github.com/DIU2-Ni-idea/UX_CaseStudy.git             |
 | DIU2.Padulink                       | https://github.com/VeraJose05/UX_CaseStudy                   |
 | DIU2.PardeDos                       | https://github.com/IsaacTorres97/UX_CaseStudy.git            |
-| DIU2.PGal2                          |                                                              |
+| DIU2.PGal2                          | https://github.com/pablovegood/UX_CaseStudy                  |
 | DIU2.string                         | https://github.com/sofiiaglez11/DIU2-string                  |
 | DIU2.tertulianos                    | https://github.com/DIU2tertulianos                           |
 | DIU2.UXers                          | [https://github.com/DIU2-UXers/UX_CaseStudy ](https://github.com/DIU2-UXers/UX_CaseStudy) |
