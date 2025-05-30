@@ -26,17 +26,17 @@ Ultima Actualización: 16/Mayo/2025
 | DIU1.VNDV                           | DIU1.CaJe                   |       |       |          |                       |
 | DIU2.AGD                            | DIU2.com                    |       |       |          |                       |
 | DIU2.AP                             | DIU2.GP                     |       |       |          |                       |
-| DIU2.com                            | DIU2.AP                     |       |       |          |                       |
-| DIU2.GP                             | DIU1.AmbosMarcan            |       |       |          |                       |
-| DIU2.JCJ                            | DIU3.Pizza-con-Curry        |       |       |          |                       |
-| DIU2.loscolegas                     | DIU2.JCJ                    |       |       |          |                       |
+| DIU2.com                            | DIU2.AP                     | 77,5  | 80    |          |                       |
+| DIU2.GP                             | DIU1.AmbosMarcan            | 82,5  | 50    |          |                       |
+| DIU2.JCJ                            | DIU3.Pizza-con-Curry        | 77,5  | 68    |          |                       |
+| DIU2.loscolegas                     | DIU2.JCJ                    | 80,0  |  87,5 |          |                       |
 | DIU2.Ni-idea                        | DIU3.CarlosTech             |       |       |          |                       |
 | DIU2.Padulink                       | DIU3.McQueen&Sally          |       |       |          |                       |
 | DIU2.PardeDos                       | DIU3.TheLastDance           |       |       |          |                       |
 | DIU2.PGal2                          | DIU1.JaviManuel             |       |       |          |                       |
-| DIU2.string                         | DIU2.PardeDos               |       |       |          |                       |
-| DIU2.tertulianos                    | DIU3.Natpa                  |       |       |          |                       |
-| DIU2.UXers                          | DIU1.LasTres                |       |       |          |                       |
+| DIU2.string                         | DIU2.PardeDos               | 88    |  75   |          |                       |
+| DIU2.tertulianos                    | DIU3.Natpa                  | 85    |  52   |          |                       |
+| DIU2.UXers                          | DIU1.LasTres                | 86    |  77   |          |                       |
 | DIU3.CarlosTech                     | DIU3.Oscuros                |       |       |          |                       |
 | DIU3.Chapuzas                       | DIU1.JoseAngel              |       |       |          |                       |
 | DIU3.CLAVE                          | DIU3.ExtremosYDuros         |       |       |          |                       |
