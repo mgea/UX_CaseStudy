@@ -47,7 +47,7 @@ Ultima Actualización: 16/Mayo/2025
 | DIU3.Maguitos                       | DIU1.SMJV                   |       |       |          |                       |
 | DIU3.Mamallema                      | DIU3.LobosHuargos           |       |       |          |                       |
 | DIU3.McQueen&Sally                  | DIU3.CLAVE                  |       |       |          |                       |
-| DIU3.Natpa                          | DIU2.AGD                    |       |       |          |                       |
+| DIU3.Natpa                          | DIU2.AGD                    | 72,5  | 75    |          |                       |
 | DIU3.Oscuros                        | DIU2.UXers                  |       |       |          |                       |
 | DIU3.PalmeraFosforita               | DIU1.DEM                    |       |       |          |                       |
 | DIU3.Pizza-con-Curry                | DIU2.Ni-idea                |       |       |          |                       |
