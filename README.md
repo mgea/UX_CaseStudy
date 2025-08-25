@@ -114,6 +114,7 @@ Miembros:
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
+A1 https://github.com/diujygdisenadores/diujygdisenadores.github.io -> https://diujygdisenadores.github.io
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
