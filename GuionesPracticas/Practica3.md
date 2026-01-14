@@ -97,14 +97,10 @@ Lista de componentes en Material 3: [https://m3.material.io/components](https://
 
 <br>
 
-### 5. [PUBLISH] Publicar tu case Study
+### 4. [BRIEFING]
 
-Publica los resultados de práctica en una página Web. Se recomienda usar para ello el repositorio Github https://github.com/mgea/UX_CaseStudy. 
+Describe brevemente el proceso llevado a cabo con los puntos fuertes del diseño y principales conclusiones. 
 
-Adapta el fichero readme.md de la página principal de tu repositorio DIU en GitHub para que tenga una estructura e información como has descubierto en MuseMap (con los distintos apartados recolectados en tu práctica). 
-
-Sube también a espacio común de FIGMA 
- 
 <br> 
 
 ## DOCUMENTACIÓN A ENTREGAR
