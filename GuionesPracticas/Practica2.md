@@ -31,7 +31,6 @@ Para ello, aplicaremos las conclusiones de la práctica anterior (personas ficti
 * A continuación se proponen diferentes herramientas a modo de toolkit
 * Se deben **escoger al menos 5 herramientas**  que se adapten mejor para el caso seleccionado incluyendo el Prototipo 
 
-
 <br>
   
 ### 1. [INSPIRACIÓN:CASE STUDY]
