@@ -11,7 +11,10 @@ Nº Sesiones: 2:
 
 La Interfaz de Usuario facilita la comunicación de personas con sistemas interactivos, una transmisión clara de las acciones del usuario así como las peticiones y respuestas por parte del sistema. Esa comunicación implica que se debe representar el diálogo de forma intuitiva y con eficiencia. Para ello la forma en la que esté diseñada la interfaz de usuario puede influir de forma notable en la calidad del propio producto y por tanto en la experiencia de uso. Para conocer cómo aplicar técnicas para  un buen diseño, utilizaremos técnicas de revisión de la usabilidad (checklist) basada en la inspección de los principios generales de diseño sobre aplicaciones Web. 
 
-Este estudio lo planteamos sobre una situación real: **La cultura y el ocio generan un impacto en Granada de un 31% del PIB de la provincia**,  lo que avala la aspiración de ser capital cultural en 2031 [Noticia Febrero del 2025](https://www.granadahoy.com/granada/impacto-economico-cultura-granada-capitalidad-cultural-candidatura_0_2003171587.html). Esta iniciativa se está gestando en la web  https://2031granada.org/ 
+Este estudio lo planteamos sobre una situación real: **El turismo, la cultura, el ocio y el deporte en la provincia de Granada suponen un 31% del Producto Interior Bruto** (PIB), lo que indica la buena salud de la provincia y la ciudad en este sector y su 'peso' a la hora de defender la candidatura a Capitalidad Cultural 2031 [Noticia Febrero del 2025](https://www.granadahoy.com/granada/impacto-economico-cultura-granada-capitalidad-cultural-candidatura_0_2003171587.html). Esta iniciativa se está gestando en la web  https://2031granada.org/ 
+
+https://hosteleriadegranada.es/informacion-economica/
+
 
 Otros datos relacionados con el peso del sector turístico:  
 * Informe del Observatorio de Turismo de Granada:https://profesionales.turgranada.es/es/recursos#estudios-turisticos 
