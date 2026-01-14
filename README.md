@@ -1,7 +1,8 @@
 # DIU26
 Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
 
-[Guiones de prácticas](GuionesPracticas/)
+* [Guiones de prácticas](GuionesPracticas/)
+* [Guía para crea tu Case Study](Guia_CaseStudy.md)
 
 Grupo: DIUx_AABB.  Curso: 2025/26 
 
