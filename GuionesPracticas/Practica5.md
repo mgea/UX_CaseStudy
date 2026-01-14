@@ -1,9 +1,9 @@
 
-## PRÁCTICA 4: EVALUACION. Prubebas de Usabilidad y Testing
+## PRÁCTICA 5: EVALUACION. Prubebas de Usabilidad y Testing
 
 Diseño Interfaces de Usuario 
 
-Nº Sesiones: 2    
+Nº Sesiones: 3    
 
 [<Volver Guiones Prácticas](./README.md) [alt](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/)
 
