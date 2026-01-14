@@ -17,7 +17,7 @@ El  **Diseño Centrado en el Usuario** sitúa a la persona (el usuario) como ej
 
 ## Planteamiento:
 
-Partiendo de la experiencia adquirida con las aplicaciones de la Práctica 1, vamos realizar una **NUEVA PROPUESTA DE VALOR** (o de rediseño) basado en la idea de **COMERCIO & SOSTENIBILIDAD**. Sobre esa premisa podría tener diferentes estrategias para captar y fidelizar socios/clientes. Buscar ejemplos que sirvan de inspiración. 
+Partiendo de la experiencia adquirida con las aplicaciones de la Práctica 1, vamos realizar una **NUEVA PROPUESTA DE VALOR** (o de rediseño) basado en la idea de **SABORES CON ENCANTO**. Sobre esa premisa podría tener diferentes estrategias para captar y fidelizar socios/clientes. Buscar ejemplos que sirvan de inspiración. 
 
 
 <br>
@@ -54,16 +54,8 @@ La historia tiene una estructura tipo “caso de estudio”: 
 Vamos a replantear nuestra propuesta a partir de la experiencia adquirida, y para ello,  vamos a sintetizar los hallazgos (insights) y propuesta de diseño usando alguna de estas herramientas, donde hay varias herramientas útiles: 
 
 
-#### 2.1. Feedback Capture Grid 
 
-Recabamos en la malla receptora de información (**feedback capture grid**) la información obtenida de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. La técnica consiste en elaborar un cuadrante con 4 apartados: aspectos positivos actualmente existentes, críticas constructivas, preguntas de los usuarios (a partir de las personas ficticias), e ideas de mejora (a partir de la experiencia del equipo de desarrollo). La diferencia entre las preguntas de los usuarios y las ideas de mejora, es que un usuario no se plantea si se puede implementar o no la solución que propone.
-
-![Feedback Capture Grid|250](https://www.ibm.com/design/thinking/static/feedback-grid-1-c9a38163d98099de43fa470af54ad03e.jpg)
-https://www.figma.com/templates/feedback-grid/
-
-
-
-#### 2.2. Empathy Mapping  
+#### 2.1. Empathy Mapping  
 
 Recabamos en un mapa de empatía (**empathy mapping**) el comportamiento de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. Es importante conocer la diferencia entre lo que dice y hace / piensa y siente, así como detectar los puntos claves (pains & gain) para superar los obstáculos. 
     
@@ -80,10 +72,20 @@ Referencias y guías: 
     
 
 
+#### 2.2. Feedback Capture Grid 
+
+Recabamos en la malla receptora de información (**feedback capture grid**) la información obtenida de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. La técnica consiste en elaborar un cuadrante con 4 apartados: aspectos positivos actualmente existentes, críticas constructivas, preguntas de los usuarios (a partir de las personas ficticias), e ideas de mejora (a partir de la experiencia del equipo de desarrollo). La diferencia entre las preguntas de los usuarios y las ideas de mejora, es que un usuario no se plantea si se puede implementar o no la solución que propone.
+
+![Feedback Capture Grid|250](https://miro.medium.com/v2/resize:fit:1200/format:webp/0*ETuvlUembmAIwwij)
+
+
+
 
 ### 3.[PROPUESTA DE VALOR] SCOPE CANVAS
 
-Incluye una breve descripción para explicar en qué consiste vuestro proyecto y complementa con un LeanUX Canvas ([http://scopecanvas.com](http://scopecanvas.com))  
+Incluye una breve descripción para explicar en qué consiste vuestro proyecto y complementa con un [LeanUX Canvas](https://www.andrescabreraux.com/scope-canvas/)
+
+
 ![ScopeCanvas](https://www.bbvaapimarket.com/wp-content/uploads/2020/02/bbva-open4u-scope.jpg)
 
 <br>
