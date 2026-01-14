@@ -27,7 +27,7 @@ En este curso nos vamos a centrar en un tema: **Sabores con encanto** para encon
 
 La temática de cada grupo de prácticas será la siguientes (a modo de inspiración con algunos ejemplos ilustrativos): 
 
-### DIU1 - Anime Ramen 
+### DIU1 - Anime Ramen (food & culture experience)
 
   * Ramen Dojo (anime y comida japonesa) https://ramendojo.org/ 
   * Anime Ramen https://animeramen.com/
@@ -39,9 +39,9 @@ La temática de cada grupo de prácticas será la siguientes (a modo de inspirac
   * Despiertoo, Barista y cafe de autor. https://www.despiertoo.com/
   * La Qarmita, libros y café https://laqarmita.blogspot.com/ 
 
-### DIU3 - Burguer Gourmet 
+### DIU3 - Fast Food experience  
 
-  * Burguer experience - https://www.goiko.com/es/carta/hamburguesas/
+  * Burguer Gourmet experience - https://www.goiko.com/es/carta/hamburguesas/
   * Burguer competition - https://thechampionsburger.es/smash/granada/
 
 <br>
@@ -101,7 +101,7 @@ Como tiene poca experiencia (probablemente) en esta actividad se **recomienda us
 <br>
 
 ### 8. [BRIEFING] 
-* Resumen de la práctica. Se trata de un resumen ejecutivo de unos 150 palabras que se redacta como si quisiéramos aportar la revisión de un experto en UX/usabilidad sobre el sitio web seleccionado. 
+* Resumen de la práctica. Se trata de un resumen ejecutivo de unos 150-300 palabras que se redacta como si quisiéramos aportar la revisión de un experto en UX/usabilidad sobre el sitio web seleccionado. 
 
 <br>
 
@@ -119,7 +119,7 @@ https://www.figma.com/files/project/80570185/UX-Toolkits  (en versión beta)
 
 La documentación de la práctica será una memoria que se aloja en un repositorio GitHub DIU (de cada grupo). Para ello, se deberá hacer un  fork  de https://github.com/mgea/UX_CaseStudy
 
-Leer detenidamente la información que aparece en README.md y completar, para adaptar a la información del equipo:
+Leer detenidamente la información que aparece en README.md y [Guia para completar el UX Case Study](Guia_CaseStudy.md), y adaptar a la información del equipo:
 
 * Datos identificativos  del equipo: 
 * Nombre del grupo
@@ -140,7 +140,7 @@ Ejemplo:
 El Grupo llamado ‘DIU 1.GREENBIZ’ del grupo de prácticas DIU1 creara fichero DIU1.GRANADABIZ_P1.ZIP  
 
 
-updated: 4/02/2025
+updated: 14/01/2026
 
 
 
