@@ -127,11 +127,11 @@ Referencias y guías: 
 
 ### 6.[PROTOTIPO]
 
-Se harán bocetos Lo-Fi PARA WEB de las distintas pantallas del interfaz (las más relevantes). Se propone un proceso incremental: 
+Se harán bocetos **Lo-Fi PARA WEB** de las distintas pantallas del interfaz (las más relevantes). Se propone un proceso incremental: 
 
-a)  un primer esbozo en PAPEL que será evaluado  por profesor/a). Una vez clara la idea se procederá a hacer diseño en FIGMA en dos pasos. 
+a)  un p**rimer esbozo en PAPEL** que será evaluado  por profesor/a). Una vez clara la idea se procederá a hacer diseño en FIGMA en dos pasos. 
 
-b)  Wireframe preliminar en FIGMA (posiciones fijas absolutas, y elementos en jerarquía de frames)
+b)  Wireframe preliminar en FIGMA (posiciones fijas absolutas, y **elementos en jerarquía de frames**)
 
   
 
@@ -139,8 +139,7 @@ b)  Wireframe preliminar en FIGMA (posiciones fijas absolutas, y elementos en je
 |---|---|
 |![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXdnqHVppCx7CPOGKuZqeT-BV32l45EUheFEhszsdyuRI8lcGepWLmnHACeAgOPnf9Vxn6vpWhHjXUZkKKk67ckOmqUMcbtQEDtufldWPx4Fc7TBfW23oV46761rgZk_xG8Rfv6F9ERRfW3mhIIIa0nScjtu?key=yHsxm-WHRmltKiyTZtLHHg)|![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXdAxRdex0RT15epXKRVbtC4CjmOIG1NBt3aCOkUwKjkGCTAxlgefdZgg1N5E_Xj7BhlDhVET4zmvJHd1a4iu7lbZHAYoh3oFQcMSkqOnNVdLJAfOnv4L1rylamHFgxko9tPT8yX5eDKoCfwJEL5SctM4wA?key=yHsxm-WHRmltKiyTZtLHHg)|
 
-c)  Una vez VALIDADO en clase, se hará una segunda versión con un GRID LAYOUT y comprobar su composición y ajustes para diseño RESPONSIVE (para ver su comportamiento en distintos dispositivos) usando plugin [Breakpoint](https://www.figma.com/community/plugin/824289601590456356/Breakpoints)
-    
+c)  Una vez VALIDADO en clase, se hará una segunda versión con un **GRID LAYOUT con ajustes de diseño RESPONSIVE**(para ver su comportamiento en distintos dispositivos) 
 
   
 
