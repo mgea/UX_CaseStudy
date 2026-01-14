@@ -32,7 +32,8 @@ Para ello, aplicaremos las conclusiones de la práctica anterior (personas ficti
 * Se deben **escoger al menos 5 herramientas**  que se adapten mejor para el caso seleccionado incluyendo el Prototipo 
 
 <br>
-  
+
+
 ### 1. [INSPIRACIÓN:CASE STUDY]
 
 Lectura de la siguiente experiencia [MuseMap Street Art](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b)
