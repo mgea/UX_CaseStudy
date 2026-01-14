@@ -13,8 +13,7 @@ La Interfaz de Usuario facilita la comunicación de personas con sistemas intera
 
 Este estudio lo planteamos sobre una situación real: **El turismo, la cultura, el ocio y el deporte en la provincia de Granada suponen un 31% del Producto Interior Bruto** (PIB), lo que indica la buena salud de la provincia y la ciudad en este sector y su 'peso' a la hora de defender la candidatura a Capitalidad Cultural 2031 [Noticia Febrero del 2025](https://www.granadahoy.com/granada/impacto-economico-cultura-granada-capitalidad-cultural-candidatura_0_2003171587.html). Esta iniciativa se está gestando en la web  https://2031granada.org/ 
 
-https://hosteleriadegranada.es/informacion-economica/
-
+La innovavión en esas áreas supone una ventaja muy importante y adaptada a las neceesidades cada vez más exigentes de turistas y clientes, como se demuestra en los proyectos seleccionados de  [Madrid Food Innovation Hub](https://www.gourmets.net/revista-club-de-gourmets/universo-gourmet/12-startups-finalistas-en-madrid-food-innovation-hub) 
 
 Otros datos relacionados con el peso del sector turístico:  
 * Informe del Observatorio de Turismo de Granada:https://profesionales.turgranada.es/es/recursos#estudios-turisticos 
