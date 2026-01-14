@@ -13,41 +13,36 @@ La Interfaz de Usuario facilita la comunicación de personas con sistemas intera
 
 Este estudio lo planteamos sobre una situación real: **El turismo, la cultura, el ocio y el deporte en la provincia de Granada suponen un 31% del Producto Interior Bruto** (PIB), lo que indica la buena salud de la provincia y la ciudad en este sector y su 'peso' a la hora de defender la candidatura a Capitalidad Cultural 2031 [Noticia Febrero del 2025](https://www.granadahoy.com/granada/impacto-economico-cultura-granada-capitalidad-cultural-candidatura_0_2003171587.html). Esta iniciativa se está gestando en la web  https://2031granada.org/ 
 
-La innovavión en esas áreas supone una ventaja muy importante y adaptada a las neceesidades cada vez más exigentes de turistas y clientes, como se demuestra en los proyectos seleccionados de  [Madrid Food Innovation Hub](https://www.gourmets.net/revista-club-de-gourmets/universo-gourmet/12-startups-finalistas-en-madrid-food-innovation-hub) 
 
-Otros datos relacionados con el peso del sector turístico:  
+Otros datos relacionados con el peso del sector turístico y la innovación en hostelería :  
+* La innovación en el ámbito de la ciencia y la tecnología aplicada a toda la cadena de valor agro-alimentaria supone una ventaja muy importante  adaptada a las neceesidades cada vez más exigentes de turistas y clientes, como se demuestra en los proyectos seleccionados de  [Madrid Food Innovation Hub](https://www.gourmets.net/revista-club-de-gourmets/universo-gourmet/12-startups-finalistas-en-madrid-food-innovation-hub) 
 * Informe del Observatorio de Turismo de Granada:https://profesionales.turgranada.es/es/recursos#estudios-turisticos 
 * Desde la portal oficial de Gestión de Turismo de Andalucía se promociona el **comercio justo en Granada** (https://www.andalucia.org/es/comercio-justo-compras-justas-si-visitas-granada)
 
 <br> 
 
-## Tema: El ocio y comercio sostenible
+## Tema: SABORES CON ENCANTO
 
-En este curso nos vamos a centrar en un tema: **El Ocio y Comercio Sostenible**
+En este curso nos vamos a centrar en un tema: **Sabores con encanto** para encontrar y proponer proyectos de hostelería basados en ideas innovadoras y alineadas con Experiencias de Usuario memorables y que aporten un valor añadido. 
 
-La temática de cada grupo de prácticas será la siguiente (con algunos ejemplos ilustrativos): 
+La temática de cada grupo de prácticas será la siguientes (a modo de inspiración con algunos ejemplos ilustrativos): 
 
-### DIU1 - Mercados ecológicos
+### DIU1 - Anime Ramen 
 
-  * Tiendas y mercados ecológicos: 
-    EcoMercado de Granada https://www.facebook.com/Ecomercadodegranada/
-    https://ecomercadogranada.org/
-  * Valle y Vega, asociación parar producción y comercialización Km 0 de alimentación ecológica en provincia de Granada. https://valleyvega.org/ 
+  * Ramen Dojo (anime y comida japonesa) https://ramendojo.org/ 
+  * Anime Ramen https://animeramen.com/
+  * 
 
  
-### DIU2 - Gastronomía/ocio de degustación
+### DIU2 - Cafetería y experiencia Barista
 
-  * Bares y locales de degustación, p.e. Bar la Goma https://www.granadahoy.com/vivir/Bar-Goma-concurrida-taberna-realizar_0_1771025137.html
-  * Cata de vinos - La taberna de Kafka  https://www.instagram.com/latabernadekafka/
-  * Talleres de comida - https://granadacooking.com/
-  * La tertulia (cervezas culturales) - https://www.instagram.com/tertuliagranada/
-  * Jardín Alhambra (música, catas y talleres) - https://www.cervezasalhambra.com/es/momentos-alhambra/jardin/granada
+  * Despiertoo, Barista y cafe de autor. https://www.despiertoo.com/
+  * La Qarmita, libros y café https://laqarmita.blogspot.com/ 
 
-### DIU3 - Reciclaje y artesanía (handcraft)
+### DIU3 - Burguer Gourmet 
 
-  * Taller de moda de reciclaje - https://casakuna.org/re-made-in-granada-2/
-  * Moda segunda mano: https://modare.org/
-  * Kerarqueo artesanía: https://www.kerarqueo.com/
+  * Burguer experience - https://www.goiko.com/es/carta/hamburguesas/
+  * Burguer competition - https://thechampionsburger.es/smash/granada/
 
 <br>
 <br>
