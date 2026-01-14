@@ -1,5 +1,5 @@
 
-## PRÁCTICA 5: EVALUACION. Prubebas de Usabilidad y Testing
+## PRÁCTICA 5: EVALUACION. Accesibilidad y Prubebas de Usabilidad A/B testing
 
 Diseño Interfaces de Usuario 
 
@@ -39,7 +39,19 @@ Es muy importante que se suba el fichero al repositorio de DIU (CARPETA P4)  de
   
 Se realizará un estudio PRÁCTICO del interfaz de usuario en base a un grupo de usuarios. Para ello, esta práctica se divide en los siguientes puntos:
 
-### 1. [Reclutamiento participantes estudio]
+
+## 1. ACCESIBILIDAD 
+
+Aplicar criterior ARIA de acceibilidad. https://web.dev/learn/accessibility 
+* Focus y navegación por teclado 
+* etiquetado ALT
+* Contrastes
+
+
+
+## 2. USABILIDAD EN A/B TESTING
+
+### 2.1 [Reclutamiento participantes estudio]
 
 * Lo primero que debemos hacer es **reclutar los usuarios** con los que vamos a evaluar el proyecto. Para ello **usaremos al menos un grupo de clase** para evaluación mediante A/B testing. 
 * En clase de prácticas se organizará la asignación de caso B para co-evaluación, y se publicará en la carpeta de los guiones de prácticas. 
@@ -53,7 +65,7 @@ Se realizará un estudio PRÁCTICO del interfaz de usuario en base a un grupo de
 
 <br>
 
-### 2. [DISEÑAR PRUEBAS] 
+### 2.2. [DISEÑAR PRUEBAS] 
 
 Vamos a usar herramienta de apoyo MAZE (https://maze.co/) (gratuita con limitaciones de pruebas para un máximo de 3 proyectos) para diseñar el experimento con usuarios mediante difernetes pruebas, en las que se pueden incluir cuestionarios, test, enlaces a diseños, etc. Se dispone de una multitud de posibilidades de las que se debe **elegir un máximo de 7 tipos de pruebas**. 
 
@@ -66,7 +78,7 @@ Vamos a usar herramienta de apoyo MAZE (https://maze.co/) (gratuita con limitaci
 <br>
 
 
-### 2.1. [Método: A/B testing]
+### 2.3. [Método: A/B testing]
 
 Debemos organizar las dos versiones con documentación para el usuario de lo que debe realizar. Puede ser supervisada (se le da apoyo para hacer tareas) o no supervisada. En ambos casos, habría que darle algunas instrucciones de qué queremos que haga (recorrido libre/dirigido, tareas abiertas/forzadas). Se recomienda que la mitad de los usarios evalúen el caso A y la otra mitad el caso B. Una vez finalizada la evaluación, deberán responder a algú cuestionario que se proponga en el punto anterior (recomendable al menos SUS). 
 
@@ -75,7 +87,7 @@ Debemos organizar las dos versiones con documentación para el usuario de lo que
 
 <br>
 
-### 2.2. [Método: Eye tracking]
+### 2.4. [Método: Eye tracking]
 
 Técnicas de benchmarking para evaluar si están bien diseñadas las páginas. Para ello, usaremos [Gaze Recorder](https://gazerecorder.com/) (o similar) para crear el experimento que consistirá en introducir las imágenes (del prototipo) a evaluar, reclutar los usuarios y realizar la prueba de in situ o remota (se puede enviar link para hacerla sin supervisión). Se deben dar unas mínimas instrucciones al usuario de lo que debe hacer en cada página/imagen. Pueden ser tareas supervisadas de atención (por ejemplo: imagen 1 identifica cómo hacer una reserva, dónde está ubicado el local, etc.) o bien de exploración (p.e. mira la imagen/web y concéntrate en lo que más te llama la atención). Identificar al menos UN áreas de interés (AOI) por boceto que deben reconocerse por el usuario. Se aconseja dar un tiempo entre 4-6” por cada imagen
 
@@ -94,7 +106,7 @@ Como alternativa, podemos usar **Real Eye** (https://www.realeye.io/) que permit
   
 <br>
 
-### 2.3. [Método SUS QUESTIONNAIRE]
+### 2.5. [Método SUS QUESTIONNAIRE]
 
 **System Usability Scale Test** (SUS). Cada usuario completará el cuestionario SUS para la aplicación asignada. Es un test de percepción que no funciona como cualquier otro cuestionario. Siga las instrucciones para el cálculo del SUS score y comente en el informe la  preferencia de A sobre B o viceversa.
 
@@ -129,7 +141,7 @@ También se puede usar **SUS Calculator** - https://stuart-cunningham.github.io/
   
 <br>  
   
-### 3. [USABILITY REPORT]
+### 2.6. [USABILITY REPORT]
 
 Utilizando **Maze** (o de forma manual) realizaremos un pequeño informe de usabilidad de nuestra aplicación. 
 
