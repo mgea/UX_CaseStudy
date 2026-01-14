@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 
-# Comercio Sostenible 2024/25
+# Sabores con encanto 2025/26
 ## UX Case Study
 
 
@@ -14,7 +14,7 @@
 
 ### Prácticas de la asignatura Diseño de interfaces de Usuario
 
-#### ETSI Informática y Telecomunicación. Universidad de Granada, 2025
+#### ETSI Informática y Telecomunicación. Universidad de Granada, 2026
 
 
 
