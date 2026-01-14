@@ -97,7 +97,7 @@ Lista de componentes en Material 3: [https://m3.material.io/components](https://
 
 <br>
 
-### 4. [BRIEFING]
+### 5. [BRIEFING]
 
 Describe brevemente el proceso llevado a cabo con los puntos fuertes del diseño y principales conclusiones. 
 
