@@ -8,7 +8,22 @@ Grupo: DIUx_AABB.  Curso: 2025/26
 
 Actualizado: 14/01/2026
 
-Proyecto: 
+
+
+
+## Paso 0 My UX-Case Study
+![Método UX](img/caseStudy.png) 
+-----
+
+>>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
+
+
+
+>>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
+>>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+
+
+Nombre del Proyecto: 
 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
@@ -20,7 +35,7 @@ Logotipo:
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
-Miembros:
+Miembros y nombre del equipo:
  * :bust_in_silhouette:  AA     :octocat:     
  * :bust_in_silhouette:  BB     :octocat:
 
@@ -28,11 +43,13 @@ Miembros:
 
 ----- 
 
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
+<br>
 
 # Proceso de Diseño 
+
+
+
+
 
 <br>
 
@@ -170,13 +187,6 @@ Término | Significado
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
-
-### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
------
-
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
 <br>
 
