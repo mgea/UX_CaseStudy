@@ -18,7 +18,7 @@ Creación de un prototipo para prueba del interfaz. En esta fase, se analizarán
 En esta vamos a analizar el uso de herramientas para el diseño del IU en modo MÓVIL/Hi-Fi. Para ello usaremos los bocetos de la práctica anterior. Vamos a considerar los siguientes aspectos: 
 
 
-- Diseño y organización del layout siguiendo estilos basados en un 
+- Diseño y organización del layout siguiendo estilos  
 - Utilización de guía de estilos  (colores, iconos, tipografía) adecuada para el proyecto. 
 - Uso de patrones de diseño para componentes. 
 - Utilizar herramientas de diseño para mockups. Utilizaremos FIGMA para crear prototipo 
