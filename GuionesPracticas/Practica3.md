@@ -102,7 +102,7 @@ Lista de componentes en Material 3: [https://m3.material.io/components](https://
 
 ### 5. [BRIEFING]
 
-Describe brevemente el proceso llevado a cabo con los puntos fuertes del diseño y principales conclusiones. 
+Describe brevemente el proceso llevado a cabo con los puntos fuertes del diseño y principales conclusiones. De debe incidir en las heramientas usadas (IA/tools) y su efectividad para lograr objetivo
 
 <br> 
 
