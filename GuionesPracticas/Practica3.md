@@ -28,11 +28,12 @@ En esta vamos a analizar el uso de herramientas para el diseño del IU en modo M
 
 ### 1. [MOODBOARD] Diseño visual 
 
-Definiremos una guía de estilos visual de nuestra propuesta.
+Definiremos una guía de estilos visual de nuestra propuesta. 
 
 Referencia lectura: [Design Mood. 7 Motives to Create Mood Boards](https://uxplanet.org/design-mood-7-motives-to-create-mood-boards-b81ae36e399f)
 	
-Se pueden usar herramientas como [Milanote](http://www.milanote.com/), [Miro](https://miro.com/) o [Excalidraw](https://excalidraw.com/) para crear un lienzo que contiene: imágenes / colores / fuentes ( iconos / logotipos y estilos a aplicar a tu diseño. Usar herramienta y plugins de Figma: 
+Se pueden usar herramientas como Figma, [Milanote](http://www.milanote.com/), [Miro](https://miro.com/) o [Excalidraw](https://excalidraw.com/) para crear un lienzo que contiene: imágenes / colores / fuentes ( iconos / logotipos y estilos a aplicar a tu diseño. POdemos hacerlo de modo tradicional o bien con el apoyo de IA usando **Google Mixboard** (https://mixboard.google.com/projects)
+Usar herramienta y plugins de Figma: 
 * Paletton se podrá escoger la paleta de colores ([http://www.paletton.com/](http://www.paletton.com/))         
 * Fonts (iconos). [http://fontawesome.io/](http://fontawesome.io/) 
 * Fonts (google) [https://fonts.google.com](https://fonts.google.com) 
@@ -42,21 +43,21 @@ El moodboard debe incluir al menos: 
 - LOGOTIPO
 - Fuentes posibles a usar (una o dos) 
 - Paleta de colores (justificando la elección de los mismos)
-- Iconos/símbolos a utilizar  y su estilo
+- Iconos/símbolos a utilizar y su estilo
 - al menos 3 imágenes inspiradoras (con apariencia visual deseada) 
 
   
 <br>
  
 
-### 2. [LANDING PAGE] 
+### 2. [LANDING PAGE] mediante ==Vibe Coding/Design==
 
-Diseñar página web de Onboarding** del proyecto (ya con el estilo de  diseño visual seleccionado. 
+Diseñar página web de **Onboarding** del proyecto (ya con el estilo de  diseño visual seleccionado). 
 
 Recursos: 
 * [UX Case Study: Crafting an Impactful Landing Page](https://medium.com/design-bootcamp/ux-case-study-crafting-an-impactful-landing-page-71459b082b65)
 * [The UX behind designing landing pages that convert](https://uxplanet.org/the-ux-behind-designing-landing-pages-that-convert-b302ef745c74)
-
+* [Figma Make](https://www.figma.com/es-es/make/)
 
 La “página de aterrizaje” es un tipo de página promocional (de un solo boceto) que incluye: 
 
@@ -64,6 +65,8 @@ La “página de aterrizaje” es un tipo de página promocional (de un solo boc
 - Algún elemento gráfico de refuerzo (imagen/vídeo) que de fuerza a la idea. Para esta práctica bastaría indicar dónde estaría situado y más o menos qué tipo de contenido aparecería.   
 - Detalle de características beneficios de esta propuesta (1-3) y algún refuerzo emocional para hacer la propuesta deseable 
 - una única acción (CTA) que redirige a la app (el enlace por ahora es irrelevante)
+
+
 
   <br>
 
