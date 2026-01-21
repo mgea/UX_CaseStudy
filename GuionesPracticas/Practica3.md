@@ -50,7 +50,7 @@ El moodboard debe incluir al menos: 
 <br>
  
 
-### 2. [LANDING PAGE] mediante ==Vibe Coding/Design==
+### 2. [LANDING PAGE] mediante Vibe Coding/Design
 
 Diseñar página web de **Onboarding** del proyecto (ya con el estilo de  diseño visual seleccionado). 
 
@@ -66,7 +66,7 @@ La “página de aterrizaje” es un tipo de página promocional (de un solo boc
 - Detalle de características beneficios de esta propuesta (1-3) y algún refuerzo emocional para hacer la propuesta deseable 
 - una única acción (CTA) que redirige a la app (el enlace por ahora es irrelevante)
 
-
+- como está realizada con una herramienta IA (Figma MAke / Google Stitch), se deberá incluir comentarios acerca del proceso de generación de prompts para obtener resultado 
 
   <br>
 
@@ -116,12 +116,10 @@ La documentación se AÑADE al repositorio y se sube una copia de respaldo a PRA
 
 * Diseño Visual (15%) 
 * Landing Page (15%) 
-* Patrones y guidelines utilizados (10%)
-* Layout+Simulación (50%).
-* Case Study (Publishing) (10%)
-    
+* Patrones y guidelines utilizados (15%)
+* Layout+Simulación (50%)
+* Briefing explicando proceso de diseño (5%)
+
 
 El fichero se llamará {nombre_equipo}_P3, se debe además publicar en GITHUB los resultados.
 
-  
-En [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) se pueden comprobar la publicación algunos Case Study de otros años.
