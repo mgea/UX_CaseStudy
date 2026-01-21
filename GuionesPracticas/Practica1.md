@@ -69,6 +69,8 @@ Evaluar los principios de usabilidad y la experiencia de usuario. Para ello, hab
 
 Como tiene poca experiencia (probablemente) en esta actividad se **recomienda usar** la siguiente utilidad: **uxRecipe** disponible en https://github.com/uxrecipe/uxrecipe.github.io y que se puede hacer online en https://uxrecipe.github.io/. Nos permitirá calcular los costes y tiempo dedicado al cada entregable. Esta estimación junto a las actividades se adjuntará al final del proyecto.
 
+Usar la plantilla disponibre el [P1](../P1/UserResearchPlan.md) 
+
 <br> 
 
 ### 3. [DESK RESEARCH: COMPETITOR ANALYSIS]
