@@ -1,6 +1,6 @@
 ## PRÁCTICA 1 ANÁLISIS DEL INTERFAZ DE USUARIO. Revisión de Usabilidad
 
-Diseño Interfaces de Usuario 
+Diseño Interfaces de Usuario, 2026 
 
 Nº Sesiones: 2:   		
 
@@ -33,7 +33,7 @@ La temática de cada grupo de prácticas será la siguientes (a modo de inspirac
   * Anime Ramen https://animeramen.com/
   * 
 
- 
+
 ### DIU2 - Cafetería y experiencia Barista
 
   * Despiertoo, Barista y cafe de autor. https://www.despiertoo.com/

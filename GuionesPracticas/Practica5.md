@@ -1,7 +1,7 @@
 
 ## PRÁCTICA 5: EVALUACION. Accesibilidad y Prubebas de Usabilidad A/B testing
 
-Diseño Interfaces de Usuario 
+Diseño Interfaces de Usuario, 2026 
 
 Nº Sesiones: 3    
 
@@ -81,13 +81,13 @@ Esta actividad, aunque está la primera en la lista, se podrá realizar en paral
 
 ### 2. [Diseño de la prueba mediante: Eye Tracking]
 
-En esta fase utilizaremos [**GazeMapping**](https://github.com/mgea/gazemapping, una herramienta de desarrollo propio que permite realizar evaluaciones de seguimiento ocular sobre elementos visuales estáticos. Este análisis es fundamental para validar la jerarquía visual y la ubicación de elementos críticos mediante el estudio de **Zonas de Interés (AOI/POI)**.
+En esta fase utilizaremos [**GazeMapping**](https://github.com/mgea/gazemapping), una herramienta de desarrollo propio que permite realizar evaluaciones de seguimiento ocular sobre elementos visuales estáticos. Este análisis es fundamental para validar la jerarquía visual y la ubicación de elementos críticos mediante el estudio de **Zonas de Interés (AOI/POI)**.
 
 EL proceso consistirá en: 
 
 * **Instalación local de GazeMapping** , para poder organizar contenido a muestrear
 
-* **Rasterizar Diseño**:  convertir a imágenes las páginas principales de nuestro diseño (2-3 páginas). Para ello se puede usar la **extensionde Chrome** [**FireShot**](https://chromewebstore.google.com/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=es))
+* **Rasterizar Diseño**:  convertir a imágenes las páginas principales de nuestro diseño (2-3 páginas). Para ello se puede usar la **extension de Chrome** [**FireShot**](https://chromewebstore.google.com/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=es))
 * Añadir los Puntos de Interes (**POI**) para dirigir experimento (p.e. CTA, logos, menus, etc.)
 * Redactar un ejercicio para **acciones que debe realizar el usuario** (navegación libre, buscar CTA, logo...)
 * Finalizar sesión y obtener **mapa de calor** (heatmap) del cual se puedan obtener conclusiones acerca del diseño.
@@ -146,7 +146,7 @@ Para realizar el análisis usaremos **Herramientas Automáticas** (debermos indi
 - **Lighthouse (Google):** Para una puntuación rápida de accesibilidad.
 - **WAVE (Web Accessibility Evaluation Tool):** Excelente para errores visuales y de contraste.    
 
-El informe deberrá organizar los resultados en esta 4 categorias: 
+El informe deberá organizar los resultados en esta 4 categorias: 
 
 | **Categoría**    | **Qué analizar (Ejemplos)**                                  |
 | ---------------- | ------------------------------------------------------------ |
