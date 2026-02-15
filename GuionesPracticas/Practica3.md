@@ -79,6 +79,7 @@ Recursos:
 * [UX Case Study: Crafting an Impactful Landing Page](https://medium.com/design-bootcamp/ux-case-study-crafting-an-impactful-landing-page-71459b082b65)
 * [The UX behind designing landing pages that convert](https://uxplanet.org/the-ux-behind-designing-landing-pages-that-convert-b302ef745c74)
 * [Figma Make](https://www.figma.com/es-es/make/)
+* [Figma Make - Pasos](https://help.figma.com/hc/es-es/articles/31304485164695-Crear-y-editar-un-prototipo-funcional-o-una-aplicaci%C3%B3n-web)
 
 La “página de aterrizaje” es un tipo de página promocional (de un solo boceto) que incluye: 
 

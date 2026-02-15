@@ -9,20 +9,29 @@ Nº Sesiones: 3
 
 ## Objetivo:
 
-Exportar el diseño a código. 
-
-En esta práctica vamos a exportar el diseño (realizado en Figma) a código para documentar la librería decomponentes del UI. Se recomienda exportar a algun framework como React y usar la extensión Storybook para documentarlos. 
+En esta práctica vamos a exportar el diseño (realizado en Figma) a una **aplicacion web** y usaremos estándares de documentación de la librería de componentes del UI. Para ello usaremos como framework **React** y usaremos la extensión **Storybook** para la documentarlos. 
 
 
 ## Planteamiento:
 
 
 
-###  [1 Configurar ENTORNO DE PRODUCCION]
+###  [1 ENTORNO DE PRODUCCIÓN]
 
-Usaremos un entorno de producción para desarrollar proyectos React. Para ello, instalaremos Nodejs con **Vite** y **ReactJS**. Se recomienda usar tambien las siguientes bibliotecas:
+Usaremos un entorno de producción para desarrollar proyectos React. Para ello, instalaremos **Node** con **Vite** y **ReactJS**. Se recomienda usar tambien las siguientes bibliotecas:
 
-* **Configurar Tailwind CSS:** Instala Tailwind, que será el motor de estilos para tu sistema ligero.
+* **Tailwind CSS:** que es un framework CSS *utility-first* que permite diseñar sitios web personalizados directamente en el HTML mediante clases pequeñas y predefinidas. Tailwind será el motor de estilos para tu sistema de diseño ligero, https://tailwindcss.com/
+* **shadcn/ui**  es una **colección de componentes reutilizables** diseñados para que los copies y pegues directamente en tu código fuente. https://ui.shadcn.com/
+* **Lucide**  es una biblioteca de Iconos que se pueden personalizar, extender Open Source. https://lucide.dev/
+
+
+
+
+
+
+
+
+
 * **Instalar Shadcn UI:** Ejecuta `npx shadcn-ui@latest init`. Esto creará una estructura de carpetas y un archivo `components.json`.
 * **Añadir Lucide:** Instala la librería de iconos: `npm install lucide-react`.
 
@@ -37,7 +46,7 @@ El siguiente paso es migrar el contenido de Figma a React. Hay varias maneras de
 
 Se deja en este paso libertad para elegir una u otra forma 
 
-
+Info: https://developers.figma.com/docs/code/
 
 
 
