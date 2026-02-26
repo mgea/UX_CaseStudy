@@ -8,7 +8,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 
 
-Actualizado: 14/01/2026
+Actualizado: 26/02/2026
 
 
 
@@ -23,7 +23,7 @@ Actualizado: 14/01/2026
 >>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
-Grupo: DIUx_AABB.  Curso: 2025/26 
+Grupo: DIU1_SushiMakiTeriyaki.  Curso: 2025/26 
 
 Nombre del Proyecto: 
 
@@ -38,8 +38,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Germán Delgado Fernández     :octocat:  
+ * :bust_in_silhouette:  Javier Miñan Molina     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
