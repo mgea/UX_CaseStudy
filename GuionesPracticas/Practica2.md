@@ -100,7 +100,7 @@ A continuación, vamos a identificar las tareas principales y su relevancia para
 
 Como es un diseño de contenido sencillo, **identificar claramente funciones principales:** 
 
-- CTA principal y funciones secundarias (configuración) 
+- CTA principal y funciones secundarias (configuración, acerca de, otros... ) 
 
 Recursos: 
 
