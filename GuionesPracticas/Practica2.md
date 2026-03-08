@@ -132,7 +132,7 @@ Referencias y guías: 
 
 ### 5. [PROTOTIPO]
 
-Se harán bocetos **Lo-Fi PARA WEB** de las distintas pantallas del interfaz (las más relevantes). Se propone un proceso incremental: 
+Se harán bocetos **Lo-Fi PARA WEB** (tamaño 1440px, grid de 12 columnas) de las distintas pantallas del interfaz (las más relevantes). Se propone un proceso incremental: 
 
 a)  un **primer esbozo en PAPEL** que será evaluado  por profesor/a). Una vez clara la idea se procederá a hacer diseño en FIGMA en dos pasos. 
 
@@ -184,9 +184,8 @@ La **documentación se AÑADE al repositorio** y se sube una copia de respaldo a
 Valoración de  la práctica: 
 * Ideación: Malla Receptora/mapa empatía/POV e Insights   (15%)
 * Propuesta de valor (ScopeCanvas) 15%
-* Análisis de Tareas (10%)
-* Mapa de sitio y etiquetado (10%) 
-* Bocetos (50%)
+* Análisis de Tareas y Arquitectura Información (15%)
+* Bocetos (55%)
 El fichero se llamará {nombre_equipo}_P2. Ejemplo:
 
 El Grupo llamado ‘DIU1.GRANBIZ’ del grupo de prácticas DIU1 creara fichero DIU1_GRANADABIZ_P2.ZIP
