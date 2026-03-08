@@ -24,14 +24,6 @@ Usaremos un entorno de producción para desarrollar proyectos React. Para ello, 
 * **shadcn/ui**  es una **colección de componentes reutilizables** diseñados para que los copies y pegues directamente en tu código fuente. https://ui.shadcn.com/
 * **Lucide**  es una biblioteca de Iconos que se pueden personalizar, extender Open Source. https://lucide.dev/
 
-
-
-
-
-
-
-
-
 * **Instalar Shadcn UI:** Ejecuta `npx shadcn-ui@latest init`. Esto creará una estructura de carpetas y un archivo `components.json`.
 * **Añadir Lucide:** Instala la librería de iconos: `npm install lucide-react`.
 
@@ -52,7 +44,7 @@ Info: https://developers.figma.com/docs/code/
 
 ####  [3 DOCUMENTAR LIBRERIA DE COMPONENTES]
 
-Se debe instalar Storybook para tener una documentación abierta de los componentes. 
+Se debe instalar **Storybook** para tener una documentación abierta de los componentes. 
 
 
 
@@ -62,9 +54,9 @@ Se recomienta usar  **[Surge.sh](https://surge.sh/)** para publicar contenido y 
 
 
 
-### # [5 BRIEFING ]
+#### [5 BRIEFING ]
 
-Documentacion (2 3 párrafos)  de los pasos y aspectos destacables de este proceso 
+Documentacion (2 - 3 párrafos)  de los pasos y aspectos destacables de este proceso 
 
 
 
@@ -81,11 +73,9 @@ Se debe entregar el proyecto en un fichero comprimido ZIP. 
 
 Entregables de la práctica: 
 
-* Entorno de producción (40%) 
-* Documentacion de componentes (40%) 
-* Briefing explicando proceso de diseño (10%)
-
-  
+* Configuración, componentes UI y diseño molecular (30%) 
+* App React (publicada)  (50%)
+* Documentacion de componentes y briefing (20%)
 
 El fichero se llamará {nombre_equipo}_P4, donde grupo: {DIU1, DIU2, DIU3}  se debe además publicar en GITHUB los resultados. 
 
