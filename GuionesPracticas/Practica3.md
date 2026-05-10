@@ -102,7 +102,7 @@ Creación de un Design System Ligero. En lugar de utilizar frameworks preestable
 - **Recurso recomendado:** (plugin de Figma Ron Nielsen) [Design System Foundation (Community)](https://www.figma.com/es-es/comunidad/file/1007839545438281461/design-system-foundation).
 - Recurso alternativo (plugin Figma para Apps): [Foundation Studio | Design System Generator](https://www.figma.com/community/plugin/1576397531447817254/foundation-studio-design-system-generator)
 - Recurso alternativo (Plugin de Figma)  **Deliverrr** https://www.figma.com/community/plugin/1498225713392045680/deliverrr
-- **Generación Técnica:** Se utilizará el plugin **Foundation ** para automatizar la creación de variables de color (escalas 50-900), escalas tipográficas modulares y sistemas de espaciado basados en una rejilla de 8px.
+- **Generación Técnica:** Se utilizará el plugin **Foundation** para automatizar la creación de variables de color (escalas 50-900), escalas tipográficas modulares y sistemas de espaciado basados en una rejilla de 8px.
 - **Design Tokens:** Los estilos se documentarán como tokens (ej: `color-primary-600` o `space-card-padding`) para permitir una integración directa con configuraciones de Tailwind CSS en React.
 
 Los pasos a seguir son: 
@@ -136,7 +136,8 @@ Recursos:
 
 * IxDF (2021). **_What are Design Systems?_**. IxDF - Interaction Design Foundation. https://www.interaction-design.org/literature/topics/design-systems
 * UX Planet (2023) **Design System — Fundamental principles for designing and developing a robust Design System** https://uxplanet.org/design-system-fundamental-principles-for-designing-and-developing-a-robust-design-system-2265f2c93627
-
+* **Explore component properties** – Figma Learn - https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties
+  
 <br>
 
 ### 4. [LAYOUT HI-FI]
