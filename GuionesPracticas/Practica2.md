@@ -59,7 +59,7 @@ Vamos a replantear nuestra propuesta a partir de la experiencia adquirida, y par
 
 Recabamos en un mapa de empatía (**empathy mapping**) el comportamiento de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. Es importante conocer la diferencia entre lo que dice y hace / piensa y siente, así como detectar los puntos claves (pains & gain) para superar los obstáculos. 
     
-![Empathy mapping|250](https://www.digital.nsw.gov.au/sites/default/files/styles/wysiwyg_image/public/2022-09/empathy-mapping.png?itok=A0pnvTtm)
+<img src="https://www.digital.nsw.gov.au/sites/default/files/styles/wysiwyg_image/public/2022-09/empathy-mapping.png?itok=A0pnvTtm" alt="Empathy mapping|250" style="zoom: 33%;" />
 
 
 Referencias y guías: 
@@ -76,7 +76,7 @@ Referencias y guías: 
 
 Recabamos en la malla receptora de información (**feedback capture grid**) la información obtenida de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. La técnica consiste en elaborar un cuadrante con 4 apartados: aspectos positivos actualmente existentes, críticas constructivas, preguntas de los usuarios (a partir de las personas ficticias), e ideas de mejora (a partir de la experiencia del equipo de desarrollo). La diferencia entre las preguntas de los usuarios y las ideas de mejora, es que un usuario no se plantea si se puede implementar o no la solución que propone.
 
-![Feedback Capture Grid|250](https://miro.medium.com/v2/resize:fit:1200/format:webp/0*ETuvlUembmAIwwij)
+<img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/0*ETuvlUembmAIwwij" alt="Feedback Capture Grid|250" style="zoom:33%;" />
 
 
 
@@ -86,7 +86,7 @@ Recabamos en la malla receptora de información (**feedback capture grid**) la i
 Incluye una breve descripción para explicar en qué consiste vuestro proyecto y complementa con un [LeanUX Canvas](https://www.andrescabreraux.com/scope-canvas/)
 
 
-![ScopeCanvas](https://www.bbvaapimarket.com/wp-content/uploads/2020/02/bbva-open4u-scope.jpg)
+<img src="https://www.bbvaapimarket.com/wp-content/uploads/2020/02/bbva-open4u-scope.jpg" alt="ScopeCanvas" style="zoom:33%;" />
 
 <br>
 

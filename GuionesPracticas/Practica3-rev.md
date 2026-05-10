@@ -73,23 +73,7 @@ El moodboard debe incluir al menos: 
 
 ### 2. [LANDING PAGE] mediante Vibe Coding/Design
 
-​	Diseñar página web de **Onboarding** del proyecto (ya con el estilo de diseño visual seleccionado). 
-
-Recursos:
-
-- [UX Case Study: Crafting an Impactful Landing Page](https://medium.com/design-bootcamp/ux-case-study-crafting-an-impactful-landing-page-71459b082b65)
-- [The UX behind designing landing pages that convert](https://uxplanet.org/the-ux-behind-designing-landing-pages-that-convert-b302ef745c74)
-- [Figma Make](https://www.figma.com/es-es/make/)
-- [Figma Make - Pasos](https://help.figma.com/hc/es-es/articles/31304485164695-Crear-y-editar-un-prototipo-funcional-o-una-aplicación-web)
-
-La “página de aterrizaje” es un tipo de página promocional (de un solo boceto) que incluye: 
-
-- un título (y subtítulo) que sugerentes/motivadores sobre la propuesta de diseño (aplicando UX writing)
-- Algún elemento gráfico de refuerzo (imagen/vídeo) que de fuerza a la idea. Para esta práctica bastaría indicar dónde estaría situado y más o menos qué tipo de contenido aparecería.  
-- Detalle de características beneficios de esta propuesta (1-3) y algún refuerzo emocional para hacer la propuesta deseable 
-- una acción preferente (CTA) que redirige a la app (el enlace por ahora es irrelevante)
-
-Como está realizada con una herramienta IA (**Figma Make / Google Stitch**), se incluirá algun comentarios acerca del proceso de generación de prompts para obtener resultado
+​	(se pasa a ejercicio de clase)
 
 <br>
 
@@ -172,10 +156,9 @@ La documentación se AÑADE al repositorio y se sube una copia de respaldo a PRA
 - Datos identificativos  del equipo
 - Entregables de la práctica: 
 
-* Diseño Visual (15%) 
-* Landing Page (20%) 
+* Diseño Visual (25%) 
 * Design System (20%)
-* Layout+Simulación (40%)
+* Layout+Simulación (25%)
 * Briefing explicando proceso de diseño (5%)
 
 

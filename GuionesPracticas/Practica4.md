@@ -3,7 +3,7 @@
 
 Diseño Interfaces de Usuario, 2026 
 
-Nº Sesiones: 3    
+Nº Sesiones: 2    
 
 [<Volver Guiones Prácticas](./README.md) [alt](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/)
 
@@ -29,7 +29,11 @@ Usaremos un entorno de producción para desarrollar proyectos React. Para ello, 
 
 
 
-####  [2 Crear APP REACT]
+
+
+ALTERNATIVAS ----> 
+
+###  [2A Crear APP REACT]
 
 El siguiente paso es migrar el contenido de Figma a React. Hay varias maneras de realizarlo. 
 
@@ -42,19 +46,37 @@ Info: https://developers.figma.com/docs/code/
 
 
 
-####  [3 DOCUMENTAR LIBRERIA DE COMPONENTES]
-
-Se debe instalar **Storybook** para tener una documentación abierta de los componentes. 
 
 
+###  [2B Desarrollar partiendo de FIGMA MAKE]
 
-####  [4 Versión Web en PRODUCCIÓN ]
+El siguiente paso es migrar el contenido de Figma a React. Hay varias maneras de realizarlo. 
+
+* Inspeccionando en DEV MODE  y pasando a contenido React usando componentes de ShadCN UI 
+
+* Conectando Figma con MCP y enlazar con algún editor de código con soporte de agentes IA
+
+  Se deja en este paso libertad para elegir una u otra forma 
+
+  Info: https://developers.figma.com/docs/code/
+
+-----
+
+
+
+
+
+
+
+
+
+####  [3 Versión Web en PRODUCCIÓN ]
 
 Se recomienta usar  **[Surge.sh](https://surge.sh/)** para publicar contenido y tener un enlace para su evaluación. Asimismo, se puede subir el contenido al repositorio
 
 
 
-#### [5 BRIEFING ]
+#### [4 BRIEFING ]
 
 Documentacion (2 - 3 párrafos)  de los pasos y aspectos destacables de este proceso 
 
