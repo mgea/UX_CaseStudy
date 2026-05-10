@@ -1,7 +1,7 @@
 
-## PRÁCTICA 4:  COMPONENTES UI (rev 2026)
+## PRÁCTICA 4:  COMPONENTES UI 
 
-Diseño Interfaces de Usuario, 2026 
+Diseño Interfaces de Usuario, 2026  (==**actualizado mayo 2026**==) 
 
 Nº Sesiones: 2    
 

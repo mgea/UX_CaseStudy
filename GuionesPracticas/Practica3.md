@@ -1,7 +1,7 @@
 
 ## PRÁCTICA 3: PROTOTIPADO / Mockup
 
-Diseño Interfaces de Usuario, (==**actualizado abril 2026**==) 
+Diseño Interfaces de Usuario, 2026
 
 Nº Sesiones: 
 
@@ -138,6 +138,7 @@ Recursos:
 * UX Planet (2023) **Design System — Fundamental principles for designing and developing a robust Design System** https://uxplanet.org/design-system-fundamental-principles-for-designing-and-developing-a-robust-design-system-2265f2c93627
 * **Explore component properties** – Figma Learn - https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties
   
+
 <br>
 
 ### 4. [LAYOUT HI-FI]
